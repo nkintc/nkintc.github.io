@@ -1,4 +1,4 @@
 # Table of contents
 
-* [nkintc.github.io](README.md)
+* [What is this?](README.md)
 
