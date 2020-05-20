@@ -16,16 +16,30 @@
 ## Ideas
 
 * [Literature](ideas/literature.md)
-* [Projects](ideas/projects.md)
 * [Research](ideas/research/README.md)
   * [Topic: Origamizer](ideas/research/topic-origamizer.md)
+* [Projects](ideas/projects/README.md)
+  * [3D Printing](ideas/projects/3d-printing.md)
+  * [Drone](ideas/projects/drone.md)
 
 ## Math
 
+* [Calculus](math/untitled.md)
 * [Kinematics](math/kinematics.md)
 
 ## Entertainment
 
 * [Games and Movies](entertainment/games-and-movies.md)
 * [Sekiro](entertainment/sekiro.md)
+
+## Homelife
+
+* [Laundry](homelife/laundry.md)
+* [Calculus](homelife/calculus.md)
+
+## Computer stuff
+
+* [macOS](computer-stuff/macos.md)
+* [Windows](computer-stuff/windows.md)
+* [Linux Distros](computer-stuff/linux-distros.md)
 
