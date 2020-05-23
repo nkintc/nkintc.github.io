@@ -30,4 +30,5 @@
       vmd
 
       Wine
-
+* making an arch [bootable disk](https://www.youtube.com/watch?v=PJBZq7gsa8w)
+* * 

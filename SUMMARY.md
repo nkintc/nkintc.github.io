@@ -24,11 +24,13 @@
 
 ## Math
 
-* [Calculus](math/untitled.md)
+* [Latex](math/latex.md)
+* [Calc](math/untitled.md)
 * [Kinematics](math/kinematics.md)
 
 ## Entertainment
 
+* [Cowboy Bebop](entertainment/cowboy-bebop.md)
 * [Games and Movies](entertainment/games-and-movies.md)
 * [Sekiro](entertainment/sekiro.md)
 
