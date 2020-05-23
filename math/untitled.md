@@ -2,7 +2,7 @@
 
 > this is bound to have errors, not sure how to check other than go over this again.
 
-Multivariate calculus is the extension of of univariate calculus, which studies mappings $$f: \mathcal{R} \rightarrow \mathcal{R}$$ to more general $\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$; relating a vector, $\boldsymbol{x}$ of some length $n$ to some other vector $\boldsymbol{y}$ of length $m$, by some rectanguar matrix of size $\(n,m\)$. This is analogus to the study of Solid Mechanics such that  $$n = m = 3$$ ;
+Multivariate calculus is the extension of of univariate calculus, which studies mappings $$f: \mathcal{R} \rightarrow \mathcal{R}$$ to more generic $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; relating a vector, $$\boldsymbol{x}$$ of some length$$n$$ to some other vector $$\boldsymbol{y}$$of length $$m$$by multiplication with some some rectanguar matrix. This is analogous to the study in Solid Mechanics where$$n = m = 3$$ ;
 
 * $$\boldsymbol{x}$$... intial configuration
 * $\boldsymbol{y}$... deformed configuration
@@ -15,6 +15,12 @@ $$
 $$
 
 ## $$\overbrace{\begin{bmatrix} y_1\\ y_2\\ y_3 \end{bmatrix} = \begin{bmatrix} 1+ \frac{u_1}{x_1}&0&0\\ 0& 1+ \frac{u_2}{x_2}&0\\ 0&0& 1+ \frac{u_3}{x_3} \end{bmatrix}  \begin{bmatrix} x_1\\ x_2\\ x_3 \end{bmatrix} =  \begin{bmatrix} x_1+ u_1\\ x_2+u_2\\ x_3 +u_3\end{bmatrix}}^{\text{solid mechanics example}}$$ 
+
+* trivial but necessary
+* 
+## 
+
+## 
 
 ## Algebraic Operations
 
