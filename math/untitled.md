@@ -4,8 +4,8 @@
 
 Multivariate calculus is the extension of of univariate calculus, which studies mappings $$f: \mathcal{R} \rightarrow \mathcal{R}$$ to more generic $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; relating a vector, $$\boldsymbol{x}$$ of some length$$n$$ to some other vector $$\boldsymbol{y}$$of length $$m$$by multiplication with some some rectanguar matrix. This is analogous to the study in Solid Mechanics where$$n = m = 3$$ ;
 
-* $$\boldsymbol{x}$$... intial configuration
-* $\boldsymbol{y}$... deformed configuration
+* $$\boldsymbol{x}$$ ... initial configuration
+* $$\boldsymbol{y}$$ ... deformed configuration
 * $\boldsymbol{u} = \boldsymbol{y} - \boldsymbol{x}$... motion
 
 The initial configuration is some smooth closed volume in $\mathcal{R}^{3}$ represented as a collection of position vectors, $\boldsymbol{r}=$. Equivalent representation is by summation of unit vectors in each of the cartesian directions:
