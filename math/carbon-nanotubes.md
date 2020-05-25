@@ -10,7 +10,5 @@ $$
 d_{t}=\frac{C_{h}}{\pi}=\frac{\sqrt{3} a_{c-c}}{\pi} \sqrt{n^{2}+n m+m^{2}}
 $$
 
-
-
-Would go back to [this site](http://www.photon.t.u-tokyo.ac.jp/~maruyama/kataura/chirality.html) as reference
+Would go back to [this site](http://www.photon.t.u-tokyo.ac.jp/~maruyama/kataura/chirality.html) as reference. `a_{c-c}` is the length of the Carbon-Carbon bond, 1.421 Å.
 
