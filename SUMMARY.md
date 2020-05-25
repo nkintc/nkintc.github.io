@@ -27,6 +27,7 @@
 * [Latex](math/latex.md)
 * [Calc](math/untitled.md)
 * [Kinematics](math/kinematics.md)
+* [Carbon Nanotubes](math/carbon-nanotubes.md)
 
 ## Entertainment
 
