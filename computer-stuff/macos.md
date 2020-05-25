@@ -52,7 +52,9 @@ Just as powerful as Ovito IMO. Turned onto it through research, has a built in p
 
 `fuck` ... is the alias, `brew install thefuck` is the command to run on install. Helps take care of fat-fingering a command
 
+`taskwarrior` ... the CLI to do list manager. 
 
+`timewarrior`... sister program to taskwarrior
 
 
 
