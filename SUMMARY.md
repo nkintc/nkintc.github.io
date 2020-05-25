@@ -32,8 +32,8 @@
 ## Entertainment
 
 * [Cowboy Bebop](entertainment/cowboy-bebop.md)
-* [Games and Movies](entertainment/games-and-movies.md)
-* [Sekiro](entertainment/sekiro.md)
+* [Games and Movies](entertainment/games-and-movies/README.md)
+  * [Sekiro](entertainment/games-and-movies/sekiro.md)
 
 ## Homelife
 
