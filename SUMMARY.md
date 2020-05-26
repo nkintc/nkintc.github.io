@@ -24,10 +24,13 @@
 
 ## Math
 
+* [Classes](math/classes/README.md)
+  * [Solid Mechanics](math/classes/solid-mechanics.md)
+  * [Materials Modeling](math/classes/materials-modeling/README.md)
+    * [Carbon Nanotubes](math/classes/materials-modeling/carbon-nanotubes.md)
 * [Latex](math/latex.md)
 * [Calc](math/untitled.md)
 * [Kinematics](math/kinematics.md)
-* [Carbon Nanotubes](math/carbon-nanotubes.md)
 
 ## Entertainment
 

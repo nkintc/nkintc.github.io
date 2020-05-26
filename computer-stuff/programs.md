@@ -16,3 +16,9 @@ Keep documents up to date without having to worry about. Doesn't have version co
 
 Preferable over texting but hey, everything has a place. 
 
+### cmake
+
+Play with `.cpp` gotta have `cmake` . 
+
+
+
