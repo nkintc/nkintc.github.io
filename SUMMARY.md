@@ -25,6 +25,8 @@
 ## Math
 
 * [Classes](math/classes/README.md)
+  * [Finite Element Methods](math/classes/finite-element-methods.md)
+  * [Fluid Mechanics](math/classes/fluid-mechanics.md)
   * [Solid Mechanics](math/classes/solid-mechanics.md)
   * [Materials Modeling](math/classes/materials-modeling/README.md)
     * [Carbon Nanotubes](math/classes/materials-modeling/carbon-nanotubes.md)
