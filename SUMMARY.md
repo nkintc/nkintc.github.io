@@ -50,6 +50,6 @@
 * [Programs](computer-stuff/programs.md)
 * [macOS](computer-stuff/macos.md)
 * [Windows](computer-stuff/windows.md)
-* [Linux Distros](computer-stuff/linux-distros.md)
+* [Linux](computer-stuff/linux-distros.md)
 * [Android](android.md)
 
