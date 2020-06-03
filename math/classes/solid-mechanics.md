@@ -161,7 +161,9 @@ Thermoelasticity
 
 Isotropic Thermoelasticity
 
+ 
 
+ 
 
 
 
