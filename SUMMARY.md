@@ -43,7 +43,7 @@
 ## Homelife
 
 * [Laundry](homelife/laundry.md)
-* [Calculus](homelife/calculus.md)
+* [Geography](homelife/calculus.md)
 
 ## Computer stuff
 
