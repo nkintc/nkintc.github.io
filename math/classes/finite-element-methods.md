@@ -1,5 +1,29 @@
 # Finite Element Methods
 
+### Chapter 1
+
+Intro to 1 Degree of Freedom Second Order PDE
+
+Appendix 4.I.1
+
+Equivalence of Strong and Weak Forms
+
+Global and Local Coordinates
+
+Method of Weighted Residuals 
+
+Chapter 2
+
+Heat Transfer 
+
+Elastostatics
+
+FE Pseudocode
+
+
+
+
+
 ### Linear Space 
 
 Additive and Multiplicative Properties 
