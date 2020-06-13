@@ -4,13 +4,15 @@ description: Notes on Solid Mechanics
 
 # Solid Mechanics
 
-### Scalar Field 
+### Lecture 1: Scalars
 
-### Vector Field
+Scalar Field 
 
-### Index Notation
+Vector Field
 
-### Algebraic Vector Operations 
+Index Notation
+
+Algebraic Vector Operations 
 
 #### Addition
 
@@ -24,15 +26,59 @@ Vector Cross
 
 Outer Product
 
-### Kronecker Delta 
+Kronecker Delta 
 
-### Permutation Symbol
+Permutation Symbol
 
 ----
 
 Epsilon Delta Identity
 
 Scalar Triple Product
+
+### Lecture 2: Vectors
+
+### Lecture 3: Tensors
+
+### Lecture 4: Eigenvalues
+
+### Lecture 5: Tensor Calc
+
+### Lecture 6: Curvilinear Coordinates
+
+### Lecture 7: Kinematics 
+
+### Lecture 8: Polar Spherical Coordinates
+
+### Lecture 9: Stretch and Right Cauchy Green Deformation
+
+### Lecture 10: Motion, Deformation, and Strain 
+
+### Lecture 11: Strain Measures
+
+### Lecture 12: Force and Momentum Balance
+
+### Lecture 13: Conservation of Mass
+
+### Lecture 14: Proof of Cauchy's Theorem from BLM
+
+### Lecture 15: Traction and Stress from Undeformed Configuration
+
+### Lecture 16: Elastic Material Behavior
+
+### Lecture 17: Material Symmetry
+
+### Lecture 18: Elastic Constants
+
+### Lecture 19: Strain Energy and Thermo Elasticity
+
+### Lecture 20: Linear Thermo-Elastic Boundary Value Problems
+
+### Lecture 21: Thermo-Elastic BVP in Cylindrical Coordinates
+
+### Lecture 22: 
+
+
 
 ### Force 
 
@@ -41,11 +87,11 @@ Mechanical interaction \(push or pull\) between
 * parts of a body
 * body and environment 
 
-### Contact Force 
+Contact Force 
 
 Act on a surface due to contact  with environment or other parts of the body
 
-### Body Force 
+Body Force 
 
 Exerted through the interior of a body, due to environment or itself 
 
@@ -53,7 +99,7 @@ Exerted through the interior of a body, due to environment or itself
 * electromagnetism
 * self gravitation 
 
-### Traction 
+Traction 
 
 Stress vector. the second definition is due to newton's second law 
 
@@ -85,13 +131,13 @@ Rate of Volume Change
 
 Acceleration 
 
-## Conservation of Mass
+Conservation of Mass
 
 Global Version of Newton Euler Equations 
 
 Cauchy's Theorem or the Existence of Stress
 
-## Proof of Cauchy's Theorem
+Proof of Cauchy's Theorem
 
  Physical Interpretation of Cauchy Stress
 
@@ -103,7 +149,7 @@ Deviatoric Stress
 
 Von Mises Effective Stress
 
-## Traction and Stress wrt. Undeformed Configuration
+Traction and Stress wrt. Undeformed Configuration
 
 Rarely do we have the outcome, but the initial configuration and what happens to it. 
 
@@ -115,7 +161,7 @@ Localization on V0
 
 Other Stress measures 
 
-## Elastic Material Behavior
+Elastic Material Behavior
 
 * Kinematics, Small Strain 
 * Momentum Balance 
@@ -128,7 +174,7 @@ Material Linearity
 
 Voight/Nye Representation
 
-## Material Symmetry
+Material Symmetry
 
 Special Cases
 
