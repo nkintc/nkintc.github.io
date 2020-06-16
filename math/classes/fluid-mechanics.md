@@ -6,17 +6,9 @@ description: Notes taken from Prof. Z. Rusak's MANE 6520 Fall 2019
 
 ### Lecture 1: A Topic in Classical Physics
 
-Fluid Definition 
+**Fluid Definition:** A structure \(gas or liquid\) where intermolecular forces are moderate to weak. This contrasts with solids where intermolecular forces are strong. Additionally, there is significant molecular thermal motion and disorder in arrangement. The counter example are crystals, where there is periodicity. 
 
-A structure \(gas or liquid\) where intermolecular forces are moderate to weak. This contrasts with solids where intermolecular forces are strong. Additionally, there is significant molecular thermal motion and disorder in arrangement. The counter example are crystals, where there is periodicity. 
-
-Continuum Hypothesis
-
-A fluid exhibits no structure, no matter how small it is divided. 
-
-$\lambda$  is thte mean free path between molecules 
-
-Let L be the characteristic length of interest where 
+**Continuum Hypothesis:** A fluid exhibits no structure, no matter how small it is divided. Where $\lambda$  is the mean free path between molecules. Let $L$ be the characteristic length of interest where 
 
 Time-Space Scale Diagram 
 

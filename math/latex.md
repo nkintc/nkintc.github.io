@@ -31,13 +31,31 @@ $$
 
 
 
-Logistic Distribution
-
-
+[Logistic Distribution](https://en.wikipedia.org/wiki/Logistic_distribution)
 
 $$
 \frac{e^{-(x-\mu) / s}}{s\left(1+e^{-(x-\mu) / s}\right)^{2}}
 $$
+
+[Logistic Function ](https://en.wikipedia.org/wiki/Logistic_function)
+
+$$
+\frac{1}{1+e^{-(x-\mu) / s}}
+$$
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 {% embed url="http://www.texample.net/tikz/examples/tag/diagrams/" caption="Great resource for diagrams." %}
 

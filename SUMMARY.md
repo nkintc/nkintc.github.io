@@ -36,9 +36,10 @@
 
 ## Entertainment
 
-* [Cowboy Bebop](entertainment/cowboy-bebop.md)
 * [Games and Movies](entertainment/games-and-movies/README.md)
-  * [Sekiro](entertainment/games-and-movies/sekiro.md)
+  * [My Hero Academia](entertainment/games-and-movies/my-hero-academia.md)
+  * [Cowboy Bebop](entertainment/games-and-movies/cowboy-bebop.md)
+  * [Sekiro: Shadows Die Twice](entertainment/games-and-movies/sekiro.md)
 
 ## Homelife
 
