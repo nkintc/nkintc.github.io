@@ -1,6 +1,6 @@
 # Finite Element Methods
 
-### Chapter 1
+## Chapter 1
 
 Intro to 1 Degree of Freedom Second Order PDE
 
@@ -36,6 +36,12 @@ $$
 $$
 
 ### Inner Product
+
+
+
+[Wikiversity](https://en.wikiversity.org/wiki/Introduction_to_finite_elements) uses the same textbook as Dr. Sheppard's class
+
+[Periodic Table of FEM](http://femtable.org/)
 
 
 

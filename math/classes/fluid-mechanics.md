@@ -223,6 +223,8 @@ Balance of Specific Internal Energy in Eulerian Form
 
 ### Lecture 22: Axisymmetric Poiselle Flow
 
+Reynolds Averaged Navier Stokes Equations
+
 
 
 
