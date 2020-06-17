@@ -16,7 +16,7 @@ Sekiro is set in the [Sengoku ](https://en.wikipedia.org/wiki/Sengoku_period)era
 
 * **First Death:** "One! The parent is absolute. Their will must be obeyed. ...Yet I'm sensing some insubordination" 
 * **Second Death:**"Two! The master is absolute. You give your life to keep him safe. You bring him back at any cost. ...At this rate, you'll lose him again" 
-* **Third Death:**  \(only possible by Jizo Statue during\) "Three! Fear is absolute. There is no shame in losing one battle. But you must take revenge by any means necessary! ...I wonder if you've got it in you - to bring me down."
+* **Third Death:**  \(only possible by Jizo Statue\) "Three! Fear is absolute. There is no shame in losing one battle. But you must take revenge by any means necessary! ...I wonder if you've got it in you - to bring me down."
 
 But how is Sekiro able to _die twice_. Because his young master, to whom his father has pledged Sekiro's allegiance is the Divine Heir Kuro: the last of a clan whose bloodline confers immortality. We see later that this is part of the crooked Owl's plot to obtain Kuro's immortality for himself. The desire for immortality is a common one, particularly as as a motivation for the antagonists of the story. 
 
