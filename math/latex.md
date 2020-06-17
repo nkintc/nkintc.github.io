@@ -45,7 +45,19 @@ $$
 
 
 
+sample figures from [pgfplots](http://pgfplots.net/tikz/examples/)
 
+## Bibliographies
+
+Ottobib bibliography [generator](https://www.ottobib.com/) from isbn
+
+[doi](https://citation.crosscite.org/) formatter to bib
+
+[tree generator](https://lautgesetz.com/latreex/)
+
+Geogebra can [make diagrams in tikz](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_%28Part_2%29%E2%80%94Generating_TikZ_Code_from_GeoGebra) but cant do it through its website, unfortunately 
+
+latex prettifier kinda like lint
 
 
 
