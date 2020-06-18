@@ -48,8 +48,12 @@
 
 ## Computer stuff
 
-* [Programs](computer-stuff/programs.md)
-* [macOS](computer-stuff/macos.md)
+* [Programs](computer-stuff/programs/README.md)
+  * [VLC Media Player](computer-stuff/programs/vlc-media-player.md)
+  * [Vimium Link](computer-stuff/programs/vimium-link.md)
+  * [Chrome Shortcut](computer-stuff/programs/chrome-shortcut.md)
+* [macOS](computer-stuff/macos/README.md)
+  * [mermaid.js](computer-stuff/macos/mermaid.js.md)
 * [Windows](computer-stuff/windows.md)
 * [Linux](computer-stuff/linux-distros.md)
 * [Android](android.md)

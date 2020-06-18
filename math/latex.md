@@ -59,9 +59,25 @@ Geogebra can [make diagrams in tikz](https://www.overleaf.com/learn/latex/LaTeX_
 
 latex prettifier kinda like lint
 
+Side By Side figures 
 
+```text
+\section{Introduction}
+\begin{frame}{Introduction}
+\begin{figure}[H]
+\centering
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=.5\linewidth, height=100px]{example-image-a}
+\end{minipage}%
+\begin{minipage}{.5\textwidth}
+  \centering
+  \includegraphics[width=.5\linewidth, height=100px]{example-image-b}
+\end{minipage}
+\end{figure}
 
-
+\end{frame}
+```
 
 
 
