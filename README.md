@@ -11,7 +11,7 @@ description: >-
 
 A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian.  
 
-## 0.0.1 - 2020-05-18
+## Change Log: 0.0.1 - 2020-05-18
 
 ### Added
 
