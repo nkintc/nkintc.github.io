@@ -46,6 +46,7 @@
 ## Homelife
 
 * [Laundry](homelife/laundry.md)
+* [Foster](homelife/foster.md)
 * [Geography](homelife/calculus.md)
 
 ## Computer stuff
