@@ -34,15 +34,45 @@ Where $x$ and $y$ correspond to time and length scales; the constant $k$ is unit
 * From Newton's Law for a fluid at rest. 
 * Pressure   
 
-Temperature
+**Temperature:** a measure of the molecular average of the kinetic energy of the particles in a fluid \(typically gas\). Related by Boltzmann's Constant. 
 
-Specific Internal Energy
+_**Specific**_ **Version of an Extensive Quantity**: is the density normalized version of some measure which otherwise would scale with volume of a fluid. 
 
-Specific Enthalpy
+Specific Internal Energy: \(how do I even explain this\)
+
+
+
+$$
+du = c_VdT - \left[T\left.\left(\frac{\partial P}{\partial T}\right)\right|_{\rho_{const}}-p\right]\frac{d\rho}{\rho^2}
+$$
+
+Specific Enthalpy:
+
+Energy of creation is one way to think of it 
+
+
+
+$$
+h = u + \frac{P}{\rho} \quad dh = du+ d\left(\frac{P}{\rho}\right)
+$$
 
 Specific Entropy
 
+Measure of disorder. Or measure of deviation from _"perfect"_ order. Second definition comes from Gibbs Eqn. 
+
+
+
+$$
+TdS = c_VdT - \left.\left(\frac{\partial P}{\partial T}\right)\right|_{\rho_{const}}\frac{d \rho}{\rho^2} = dh - \frac{d\rho}{\rho}
+$$
+
+
+
 Simple Compressible Fluid 
+
+Where 2 variables define the rest, so that a surface is described in R^3 \(P,\rho,T\). 
+
+
 
 Phase Diagram Solid Liquid Vapor 
 
