@@ -20,3 +20,13 @@ description: >-
 * `^` the start of the line
 * `$` the end of the line
 
+
+
+### Taskwarrior 
+
+[List recurring task templates ](https://groups.google.com/forum/#!msg/taskwarrior-user/4NevH843nWs/gyaz4I_TDQAJ)using the command `task $(task +PARENT ids) all`
+
+
+
+
+

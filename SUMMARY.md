@@ -60,5 +60,8 @@
 * [Windows](computer-stuff/windows.md)
 * [Linux](computer-stuff/linux-distros/README.md)
   * [Vim](computer-stuff/linux-distros/vim.md)
+
+---
+
 * [Android](android.md)
 

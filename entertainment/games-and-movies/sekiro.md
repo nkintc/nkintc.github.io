@@ -12,7 +12,7 @@ Something about this game speaks to me. Even as it tears my computer to shreds b
 
 That really does come across. But there are plenty of difficult games. What sets Sekiro apart is the story that it tells and how the mechanics of the game are represented in the story. 
 
-Sekiro is set in the [Seng oku ](https://en.wikipedia.org/wiki/Sengoku_period)era of Japan, roughly between 1467 to 1615, following a nameless shinobi plucked from a lost battlefield as a child. His father, the Great Shinobi Owl trains him to obey the Iron Code. In his boss fight for the good endings, we see how Sekiro was raised: 
+Sekiro is set in the [Sengoku ](https://en.wikipedia.org/wiki/Sengoku_period)era of Japan, roughly between 1467 to 1615, following a nameless shinobi plucked from a lost battlefield as a child. His father, the Great Shinobi Owl trains him to obey the Iron Code. In his boss fight for the good endings, we see how Sekiro was raised: 
 
 * **First Death:** "One! The parent is absolute. Their will must be obeyed. ...Yet I'm sensing some insubordination" 
 * **Second Death:**"Two! The master is absolute. You give your life to keep him safe. You bring him back at any cost. ...At this rate, you'll lose him again" 
