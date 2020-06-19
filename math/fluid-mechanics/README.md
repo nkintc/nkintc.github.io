@@ -15,10 +15,10 @@ description: Notes taken from Prof. Z. Rusak's MANE 6520 Fall 2019
 **Time-Space Scale Diagram:** On a power log graph of a bivariate equation 
 
 $$
-\log y=k \log x+\log a
+\log t = \cancel{k}^{1} \log  x + \cancel{\log a}^0
 $$
 
-Where $x$ and $y$ correspond to time and length scales; the constant $k$ is unity, there distinct regions of length scales separating global, fluids, molecular, and atomic interactions. which line up to 3 orders of magnitude. 
+Where $x$ and $t$ correspond to SI length and time scales; the constant $k$ is unity, there distinct regions of length scales separating global, fluids, molecular, and atomic interactions. Which line every 3 orders of magnitude. 
 
 
 
@@ -241,7 +241,7 @@ Euler Number
 
 Mach Number
 
-Prandtl Number
+Prandtl Number 
 
 
 

@@ -1,8 +1,8 @@
 ---
 description: >-
   Brainless is a personal description of the following collection of pages;
-  without a purpose, it feels `brainless`. Meant to be a self reference source,
-  open to the public.
+  without a purpose, it feels `brainless`. Meant to be a source for self
+  reference, open to the public. TYIWYG.
 ---
 
 # What is this?
@@ -20,7 +20,7 @@ A web based interfaced that can works off on top of a network of plain text `.ma
 
 ### Changed
 
-* Begin adhering to [https://keepachangelog.com/en/1.0.0/](https://keepachangelog.com/en/1.0.0/) rules  section `How do I make a good changelog?`
+* Begin adhering to rules  for [`How do I make a good changelog?`](https://keepachangelog.com/en/1.0.0/%20)
 * Types of changes
   * `Added` for new features.
   * `Changed` for changes in existing functionality.

@@ -62,7 +62,6 @@ latex prettifier kinda like lint
 Side By Side figures 
 
 ```text
-\section{Introduction}
 \begin{frame}{Introduction}
 \begin{figure}[H]
 \centering
