@@ -58,8 +58,7 @@
 * [macOS](computer-stuff/macos/README.md)
   * [mermaid.js](computer-stuff/macos/mermaid.js.md)
 * [Windows](computer-stuff/windows.md)
-* [Linux](computer-stuff/linux-distros/README.md)
-  * [Vim](computer-stuff/linux-distros/vim.md)
+* [Linux](computer-stuff/linux-distros.md)
 
 ---
 
