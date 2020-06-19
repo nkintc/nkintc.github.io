@@ -24,12 +24,12 @@
 
 ## Math
 
-* [Classes](math/classes/README.md)
-  * [Finite Element Methods](math/classes/finite-element-methods.md)
-  * [Fluid Mechanics](math/classes/fluid-mechanics.md)
-  * [Solid Mechanics](math/classes/solid-mechanics.md)
-  * [Materials Modeling](math/classes/materials-modeling/README.md)
-    * [Carbon Nanotubes](math/classes/materials-modeling/carbon-nanotubes.md)
+* [Materials Modeling](math/materials-modeling/README.md)
+  * [Carbon Nanotubes](math/materials-modeling/carbon-nanotubes.md)
+* [Solid Mechanics](math/solid-mechanics.md)
+* [Finite Element Methods](math/finite-element-methods.md)
+* [Fluid Mechanics](math/fluid-mechanics.md)
+* [Classes](math/classes.md)
 * [Latex](math/latex.md)
 * [Calc](math/untitled.md)
 * [Kinematics](math/kinematics.md)
@@ -55,6 +55,7 @@
 * [macOS](computer-stuff/macos/README.md)
   * [mermaid.js](computer-stuff/macos/mermaid.js.md)
 * [Windows](computer-stuff/windows.md)
-* [Linux](computer-stuff/linux-distros.md)
+* [Linux](computer-stuff/linux-distros/README.md)
+  * [Vim](computer-stuff/linux-distros/vim.md)
 * [Android](android.md)
 
