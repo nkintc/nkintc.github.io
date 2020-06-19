@@ -106,17 +106,35 @@ $$
 P = \rho RT
 $$
 
- 
-
-### 
-
 ### Lecture 3: Vector and Tensor Math
 
 * 9 pages
 
+Scalar is a property with no preferred direction. These include density, average pressure, temperature, viscosity, enthalpy, and entropy: 
+
+$$
+(\rho, P, T, \mu,h,s).
+$$
+
+Vector properties have preferred directions. List them in order, typically \(x,y,z\). 
+
+Tensor properties have preferences in 2 directions simultaneously. Weird notation used in class but the point comes across. 
+
 Convective Term
 
+Gradient of the velocity vector field produces a tensor field, typically referred to as the velocity gradient which can act on the velocity vector. This is seen in the convective term of Navier Stokes, or Reynolds Transport theorem applied to Conservation of Linear Momentum. 
+
+$$
+\frac{D}{Dt} = \frac{\partial}{\partial t} + {\bf v}\cdot \nabla
+$$
+
 Trace of Velocity Gradient or Divergence of Velocity
+
+This is a measure of the compressibility of the fluid and typically zero. 
+
+Vorticity Vector, or application of the differential cross product
+
+Also known as the rotor of a generic vector quantity. 
 
 
 
@@ -124,13 +142,13 @@ Trace of Velocity Gradient or Divergence of Velocity
 
 * 12 pages
 
-Velocity Vector 
+Velocity Vector of a fluid element is the rate of change in time of the element's center of gravity. 
 
-Path Line
+Path Line: the trajectory of a single fluid element 
 
-Lagrangian Description
+Lagrangian Description: follow individual fluid elements as a local collection of molecules should not change or just as many 
 
-Eulerian Approach
+Eulerian Approach: or field variables of scalar or vector properties. or a mapping of a property as a time dependent field. A more analytic approach to get a mapping of a function of space and time. 
 
 Streakline
 
