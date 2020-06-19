@@ -18,7 +18,7 @@ $$
 \log y=k \log x+\log a
 $$
 
-Where $x$ and $a$ correspond to time and length scales, there distinct regions where fluids and  
+Where $x$ and $y$ correspond to time and length scales; the constant $k$ is unity, there distinct regions of length scales separating global, fluids, molecular, and atomic interactions. which line up to 3 orders of magnitude. 
 
 
 
@@ -26,9 +26,13 @@ Where $x$ and $a$ correspond to time and length scales, there distinct regions w
 
 * 10 pages
 
-Density
+**Density:** Total mass per unit volume is calculated by summation on mass of every molecule. When the increment in volume goes below the cube of the mean free path, increment in mass also loses its identity. 
 
-Pressure
+**Pressure:** Measured in Pascals \[Pa\],  measure of the force per unit area. Derived by conservation of linear momentum along each direction along the 3 identical right triangular faces on the unit tetrahedron. 
+
+* From geometry, the ratio of areas of the cosine of the angles between vectors describing each face to the large equiliateral triangular face. 
+* From Newton's Law for a fluid at rest. 
+* Pressure   
 
 Temperature
 
