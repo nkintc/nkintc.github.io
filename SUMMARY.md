@@ -19,6 +19,7 @@
 * [Research](ideas/research/README.md)
   * [Topic: Origamizer](ideas/research/topic-origamizer.md)
 * [Projects](ideas/projects/README.md)
+  * [Photogrammetry](ideas/projects/photogrammetry.md)
   * [3D Printing](ideas/projects/3d-printing.md)
   * [Drone](ideas/projects/drone.md)
 

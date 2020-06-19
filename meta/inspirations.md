@@ -17,9 +17,11 @@ $$
 a+b+\rlap{\overbrace{\phantom{c+d+e+f+g}}^x}c+d   +\underbrace{e+f+g+h+i}_y +k+l=e
 $$
 
-[http://www.photon.t.u-tokyo.ac.jp/~maruyama/kataura/chirality.html](http://www.photon.t.u-tokyo.ac.jp/~maruyama/kataura/chirality.html)
 
-## [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/)
+
+[Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) This is where I found out about this idea. 
+
+It is our responsibility as [custodians.online](http://custodians.online/) to share what we know. 
 
 
 

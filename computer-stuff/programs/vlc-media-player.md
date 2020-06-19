@@ -4,8 +4,6 @@ description: 'The ubiquitous orange traffic cone, it''s utilitarian and ever pre
 
 # VLC Media Player
 
-
-
 ## Abilities
 
 [Converting .mkv to .mp4](https://asawicki.info/news_1615_how_to_quickly_convert_mkv_to_mp4_file_using_vlc.html)

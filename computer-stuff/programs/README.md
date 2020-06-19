@@ -38,5 +38,9 @@ simple finite elements in python [sfepy](https://sfepy.org/doc-devel/introductio
 
 [Matlab Codes](https://people.sc.fsu.edu/~jburkardt/m_src/m_src.html)
 
+[Superhero API](https://superheroapi.com/): a collection of a variety of super heros from all different universes. James Bond to Luke Skywalker and all those inbetween.
+
+
+
 
 
