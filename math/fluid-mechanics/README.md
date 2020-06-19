@@ -74,15 +74,41 @@ Where 2 variables define the rest, so that a surface is described in R^3 \(P,\rh
 
 
 
-Phase Diagram Solid Liquid Vapor 
+Phase Diagram 
 
-Reducible Values 
+Three regions of Solid, Liquid, and Vapor meet at one location: the critical point. This is the inflection point with respect to the fluid system energy.  At critical point:
+
+$$
+\left.\left(\frac{\partial P}{\partial \rho}\right)\right|_{T} = \left.\left(\frac{\partial^2 P}{\partial \rho^2}\right)\right|_{T} = 0.
+$$
+
+These state first, that the energy surface is continuous, and then that it is smooth; this is only true when both are identically zero, or homogenous.  
+
+Reducible Values
+
+Akin to the specific versions of extensive properties, normalize one of energy surface's quantities by its critical value. Can be done on pressure, density \(or its' inverse, specific volume\), or temperature. It's also how we have dimensionless versions of working quantities. 
 
 Vander Waals Equation of State
 
+$$
+P = \frac{\rho R T}{1-b\rho}-a\rho^2
+$$
+
 Redlich Kwong Equation of State
 
+$$
+P=\frac{R T}{V_{m}-b}-\frac{a}{\sqrt{T} V_{m}\left(V_{m}+b\right)}
+$$
 
+In the limit as the reduced pressure approaches 0, then we see equation of state of a thermodynamically perfect equation of an ideal gas. 
+
+$$
+P = \rho RT
+$$
+
+ 
+
+### 
 
 ### Lecture 3: Vector and Tensor Math
 
