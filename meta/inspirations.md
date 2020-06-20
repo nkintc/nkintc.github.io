@@ -25,5 +25,11 @@ $$
 
 It is our responsibility as [custodians.online](http://custodians.online/) to share what we know. 
 
+Exobrains 
+
+[Dercuano](https://gitlab.com/kragen/dercuano/-/tree/master) is a really interesting one, which isn't online 
+
+Another living exobrain from [stefanjudis](https://www.stefanjudis.com/today-i-learned/) of what they find out. 
+
 
 
