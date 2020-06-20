@@ -15,7 +15,7 @@ A web based interfaced that can works off on top of a network of plain text `.ma
 
 ### Added
 
-* Added intro paragrapheditidu
+* Added intro paragraph editidu
 * Published blank online with github pages.
 
 ### Changed
