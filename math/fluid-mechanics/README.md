@@ -8,6 +8,8 @@ description: Notes taken from Prof. Z. Rusak's MANE 6520 Fall 2019
 
 [Internet fluids book](http://brennen.caltech.edu/fluidbook/)
 
+[RPI study on teaching ](https://peer.asee.org/effect-of-learning-style-on-academic-performance-in-an-introductory-thermal-fluids-course)
+
 
 
 ### Lecture 1: A Topic in Classical Physics 

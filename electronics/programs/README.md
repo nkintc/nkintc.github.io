@@ -24,6 +24,8 @@ Make a gif of [words in candy](https://www.candyjapan.com/anim)
 
 These [prompts](https://www.ineedaprompt.com/) stick in your mind
 
+[webeditor](https://edtr.io/) online 
+
 ### Chrome 
 
 Ubiquitous, this and vimium makes traversing the internet a breeze. That might be a little too far, but at least less of a chore. 

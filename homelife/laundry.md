@@ -14,3 +14,7 @@ Process seems to be bisect or lay pair one atop the other, so the fabric is a lo
 
 Making food out of what I have using [Munch Labs](https://munchlab.de/)
 
+[legal case](https://www.lexisnexis.com/en-us/home.page#case) reference \(danger!\) and [cases](https://www.oyez.org/)
+
+
+
