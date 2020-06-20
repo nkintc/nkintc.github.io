@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is this?](README.md)
+* [Changelog](changelog.md)
 * [\[unreleased\]](unreleased.md)
 
 ## meta
@@ -38,10 +39,10 @@
 
 ## Entertainment
 
-* [Games and Movies](entertainment/games-and-movies/README.md)
-  * [My Hero Academia](entertainment/games-and-movies/my-hero-academia.md)
-  * [Cowboy Bebop](entertainment/games-and-movies/cowboy-bebop.md)
-  * [Sekiro: Shadows Die Twice](entertainment/games-and-movies/sekiro.md)
+* [Sekiro: Shadows Die Twice](entertainment/sekiro.md)
+* [Cowboy Bebop](entertainment/cowboy-bebop.md)
+* [My Hero Academia](entertainment/my-hero-academia.md)
+* [Games and Movies](entertainment/games-and-movies.md)
 
 ## Homelife
 
@@ -49,18 +50,15 @@
 * [Foster](homelife/foster.md)
 * [Geography](homelife/calculus.md)
 
-## Computer stuff
+## Electronics
 
-* [Programs](computer-stuff/programs/README.md)
-  * [VLC Media Player](computer-stuff/programs/vlc-media-player.md)
-  * [Vimium Link](computer-stuff/programs/vimium-link.md)
-  * [Chrome Shortcut](computer-stuff/programs/chrome-shortcut.md)
-* [macOS](computer-stuff/macos/README.md)
-  * [mermaid.js](computer-stuff/macos/mermaid.js.md)
-* [Windows](computer-stuff/windows.md)
-* [Linux](computer-stuff/linux-distros.md)
-
----
-
-* [Android](android.md)
+* [Android](electronics/android.md)
+* [Programs](electronics/programs/README.md)
+  * [VLC Media Player](electronics/programs/vlc-media-player.md)
+  * [Vimium Link](electronics/programs/vimium-link.md)
+  * [Chrome Shortcut](electronics/programs/chrome-shortcut.md)
+* [macOS](electronics/macos/README.md)
+  * [mermaid.js](electronics/macos/mermaid.js.md)
+* [Windows](electronics/windows.md)
+* [Linux](electronics/linux-distros.md)
 

@@ -4,6 +4,12 @@ description: Notes taken from Prof. Z. Rusak's MANE 6520 Fall 2019
 
 # Fluid Mechanics
 
+### External Links
+
+[Internet fluids book](http://brennen.caltech.edu/fluidbook/)
+
+
+
 ### Lecture 1: A Topic in Classical Physics 
 
 * 7 pages

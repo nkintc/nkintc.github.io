@@ -6,6 +6,8 @@ description: Common use latex formats.
 
 ### Overlapping Braces from [Stack Exchange](https://tex.stackexchange.com/questions/12963/how-to-have-overlapping-under-braces-and-over-braces/12969)
 
+### What's the [Tex](http://detexify.kirelabs.org/classify.html) for that
+
 $$
 a+b+
 \rlap{

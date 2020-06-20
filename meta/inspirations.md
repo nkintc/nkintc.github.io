@@ -21,6 +21,8 @@ $$
 
 [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) This is where I found out about this idea. 
 
+[Nikander](https://nikander.github.io/compflow/Archives/CourseDetails.html#Assignments) compressible flow helps shows the flexibility of the plaintext file hosting, vs a [more traditional](http://web.cecs.pdx.edu/~gerry/class/ME449/) method of course hostng. 
+
 It is our responsibility as [custodians.online](http://custodians.online/) to share what we know. 
 
 
