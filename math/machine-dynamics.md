@@ -1,3 +1,7 @@
+---
+description: Notation for classical Newtonian Mechanics
+---
+
 # Machine Dynamics
 
 Lecture 1: Introduction
