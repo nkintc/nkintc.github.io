@@ -30,6 +30,8 @@ The price which is paid when Sekiro returns to life, when he _dies twice:_ death
 
 A less serious take on this game is [Sekirot](https://www.youtube.com/watch?v=31V6ifW3tNk), which accepted that we're gonna die... a lot...
 
+Additionally, my computer can't even run Sekiro anymore so at some point soon, I'm going to have to make an entertainment server. 
+
 
 
 
