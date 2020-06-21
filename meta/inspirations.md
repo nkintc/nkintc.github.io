@@ -13,12 +13,6 @@ Okay, [mathpages is so cool](https://www.mathpages.com/home/). My first read and
 
  $$\mathrm{R}_{\mathrm{m}, \mathrm{m}}=\frac{2}{\pi}\left(1+\frac{1}{3}+\frac{1}{5}+\frac{1}{7}+\ldots+\frac{1}{2 \mathrm{m}-1}\right)$$ 
 
-$$
-a+b+\rlap{\overbrace{\phantom{c+d+e+f+g}}^x}c+d   +\underbrace{e+f+g+h+i}_y +k+l=e
-$$
-
-
-
 [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) This is where I found out about this idea. 
 
 [Nikander](https://nikander.github.io/compflow/Archives/CourseDetails.html#Assignments) compressible flow helps shows the flexibility of the plaintext file hosting, vs a [more traditional](http://web.cecs.pdx.edu/~gerry/class/ME449/) method of course hostng. 
@@ -30,6 +24,16 @@ Exobrains
 [Dercuano](https://gitlab.com/kragen/dercuano/-/tree/master) is a really interesting one, which isn't online 
 
 Another living exobrain from [stefanjudis](https://www.stefanjudis.com/today-i-learned/) of what they find out. 
+
+
+
+[Life logging ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose ](https://beepb00p.xyz/my-data.html#dashboard)
+
+[Matthaeus Krenn ](https://matthaeuskrenn.com/)
+
+[100 Rabbits](https://100r.co/site/about_us.html)
+
+[XXIIVV](https://wiki.xxiivv.com/site/home.html)
 
 
 

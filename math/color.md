@@ -2,7 +2,7 @@
 description: Notes on how it works and made.
 ---
 
-# Color
+# Color Theory
 
 On the color [brown](https://www.youtube.com/watch?v=wh4aWZRtTwU), which is dark orange with context.
 

@@ -4,6 +4,10 @@ description: 'Common use everywhere programs, present across all machines.'
 
 # Programs
 
+### Chrome 
+
+Ubiquitous way of roaming the web. Moving away from it since the security leak, even if I'm deep into it. Facebook gets the same message. However that aside, this program and the vimium extension makes traversing the internet a breeze. That might be a bit of hyperbole, but it is at least less of a chore. 
+
 [Burn.link](https://burn.link/) secure one time messaging. 
 
 Make [real, fake code](http://knutsynstad.com/fauxcode/) from Gist to `.svg` images
@@ -18,17 +22,13 @@ Make a gif of [words in candy](https://www.candyjapan.com/anim)
 
 [MATLAB](https://people.sc.fsu.edu/~jburkardt/m_src/m_src.html) source codes
 
-[Stop that right now](https://stopthatrightnow.github.io/) spongebob meme
+[StoP that RIgHT NOW](https://stopthatrightnow.github.io/)
 
 [Let me google that for you](https://lmgtfy.com/) if feeling extra smartass-y
 
 These [prompts](https://www.ineedaprompt.com/) stick in your mind
 
 [webeditor](https://edtr.io/) online 
-
-### Chrome 
-
-Ubiquitous, this and vimium makes traversing the internet a breeze. That might be a little too far, but at least less of a chore. 
 
 ### Backup-and-Sync
 

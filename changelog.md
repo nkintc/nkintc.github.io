@@ -11,8 +11,8 @@ description: >-
 ### Added
 
 * Notes for Fluid Mechanics starting with fundamentals 
-* Framework for incompressible flow notes
-* Warnings for rough edges in 
+* Framework for Incompressible flow notes
+* Warnings for rough edges in some places, but still fluid \(_haha...shoot me...._\)
 
 ### Changed
 

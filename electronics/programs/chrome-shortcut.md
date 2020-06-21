@@ -1,8 +1,8 @@
 ---
-description: 'This is the standard list, Vimium is layered ontop'
+description: Errthang associated and the tools/website used
 ---
 
-# Chrome Shortcut
+# Google Chrome
 
 [Tweet longer ](https://www.twitlonger.com/)
 
@@ -12,27 +12,70 @@ description: 'This is the standard list, Vimium is layered ontop'
 
 [calendar](http://www.webcal.fi/en/calendars.php) event website
 
-## Shortcut Reference List
+Enter this in a browser:
 
-### Google Chrome
+```text
+data:text/html, <html contenteditable>
+```
 
-#### tab and window shortcuts
+to create a scratchpad to work on.
 
-| **Action** | **Shortcut** |
+#### Vimium
+
+Vimium
+
+| Keys | Action |
 | :--- | :--- |
-| Open a new window | **⌘ + n** |
-| Open a new window in Incognito mode | **⌘ + Shift + n** |
-| Open a new tab, and jump to it | **⌘ + t** |
-| Reopen the last closed tab, and jump to it | **⌘ + Shift + t** |
-| Jump to the next open tab | **⌘ + Option + Right arrow** |
-| Jump to the previous open tab | **⌘ + Option + Left arrow** |
-| Jump to a specific tab | **⌘ + 1** through **⌘ + 8** |
-| Jump to the last tab | **⌘ + 9** |
-| Open the previous page in your browsing history for the current tab | **⌘ + \[** or **⌘ + Left arrow** |
-| Open the next page in your browsing history for the current tab | **⌘ + \]** or **⌘ + Right arrow** |
-| Closes the current tab or pop-up | **⌘ + w** |
-| Closes the current window | **⌘ + Shift + w** |
-| Minimize the window | **⌘ + m** |
-| Hide Google Chrome | **⌘ + h** |
-| Quit Google Chrome | **⌘ + q** |
+| j, &lt;c-e&gt; | Scroll Down |
+| k, &lt;c-y&gt; | Scroll up |
+| gg | Scroll to the top of the page |
+| G | Scroll to the bottom of the page |
+| d | Scroll a half page down |
+| u | Scroll a half page up |
+| h | Scroll left |
+| l | Scroll right |
+| r | Reload the page |
+| yy | Copy the current URL to the clipboard |
+| p | Open the clipboard's URL in the current tab |
+| P | Open the clipboard's URL in a new tab |
+| i | Enter insert mode |
+| v | Enter visual mode |
+| gi | Focus the first text input on the page |
+| f | Open a link in the current tab |
+| F | Open a link in a new tab |
+| gf | Select the next frame on the page |
+| gF | Select the page's main/top frame |
+
+|  | Using the vomnibar |
+| :--- | :--- |
+| o | Open URL, bookmark or history entry |
+| O | Open URL, bookmark or history entry in a new tab |
+| b | Open a bookmark |
+| B | Open a bookmark in a new tab |
+| T | Search through your open tabs |
+|  | Using find |
+| / | Enter find mode |
+| n | Cycle forward to the next find match |
+| N | Cycle backward to the previous find match |
+|  | Navigating history |
+| H | Go back in history |
+| L | Go forward in history |
+|  | Manipulating tabs |
+| t | Create new tab |
+| J, gT | Go one tab left |
+| K, gt | Go one tab right |
+| ^ | Go to previously-visited tab |
+| g0 | Go to the first tab |
+| g$ | Go to the last tab |
+| yt | Duplicate current tab |
+| &lt;a-p&gt; | Pin or unpin current tab |
+| &lt;a-m&gt; | Mute or unmute current tab |
+| x | Close current tab |
+| X | Restore closed tab |
+|  | Miscellaneous |
+| ? | Show help |
+
+
+
+
 

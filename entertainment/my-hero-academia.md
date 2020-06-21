@@ -20,10 +20,10 @@ Once you're strong enough, save the world:
 
 {% code title="all-might-transfer" %}
 ```bash
-# Eat this!
-echo 'Whaaaaa?'
+# Eat this! - All Might
+echo 'Whaaaaa? - Izuku Midoriya'
 ```
 {% endcode %}
 
-
+You know if you're going to like this anime by the time the school story arc starts. It happens when [self-sacrifice](https://www.youtube.com/watch?v=jGbrcdJk7NM) is invoked.
 

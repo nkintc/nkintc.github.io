@@ -2,7 +2,7 @@
 description: The harder version
 ---
 
-# Fundamentals of Finite Elements
+# Fundamentals of FEM
 
 ## Chapter 1
 

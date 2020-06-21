@@ -46,15 +46,5 @@ Just as powerful as Ovito IMO. Turned onto it through research, has a built in p
 
 
 
-## Command Line Programs 
-
-`nnn`... A go-to file tree navigator. Lightweight, low-config, `hjkl` navigation style
-
-`fuck` ... is the alias, `brew install thefuck` is the command to run on install. Helps take care of fat-fingering a command
-
-`taskwarrior` ... the CLI to do list manager. 
-
-`timewarrior`... sister program to taskwarrior
-
-`inthe.am`... utility to sync across machines and android 
+## 
 

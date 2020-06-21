@@ -8,13 +8,7 @@ description: >-
 
 [`explainshell`](https://explainshell.com/)...match command-line arguments to their help text
 
-Enter this in a browser:
-
-```text
-data:text/html, <html contenteditable>
-```
-
-to create a scratchpad to work on. 
+ 
 
 `http` File Server or [HFS](https://www.rejetto.com/hfs/) is a program to share files using internet protocol
 
@@ -44,7 +38,17 @@ Making [XKCD style plots](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-p
 
 [List recurring task templates ](https://groups.google.com/forum/#!msg/taskwarrior-user/4NevH843nWs/gyaz4I_TDQAJ)using the command `task $(task +PARENT ids) all`
 
+## Command Line Programs 
 
+`nnn`... A go-to file tree navigator. Lightweight, low-config, `hjkl` navigation style
+
+`fuck` ... is the alias, `brew install thefuck` is the command to run on install. Helps take care of fat-fingering a command
+
+`taskwarrior` ... the CLI to do list manager. 
+
+`timewarrior`... sister program to taskwarrior
+
+`inthe.am`... utility to sync across machines and android 
 
 
 
