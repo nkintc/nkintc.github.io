@@ -28,7 +28,11 @@ learn [music theory](https://www.musictheory.net/lessons)
 
 [Form Finding Lab with Tomohiro Tachi](https://formfindinglab.wordpress.com/2018/10/09/what-i-am-thinking-origami-artist-and-mathematician-tomohiro-tachi/)
 
-[https://e360.yale.edu/features/unequal-impact-the-deep-links-between-inequality-and-climate-change](https://e360.yale.edu/features/unequal-impact-the-deep-links-between-inequality-and-climate-change)
+{% embed url="https://e360.yale.edu/features/unequal-impact-the-deep-links-between-inequality-and-climate-change" caption="Reading on racism" %}
+
+replicate [breaking locks](https://www.youtube.com/watch?v=dBSSA5ot0tA) using orientation of wrenches in blender 
+
+
 
 
 
