@@ -1,8 +1,8 @@
 ---
-description: Artists
+description: Artists and comedy
 ---
 
-# Comics
+# Comics and Art
 
 XKCD comics 
 

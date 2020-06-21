@@ -40,7 +40,7 @@
 
 ## Entertainment
 
-* [Comics](entertainment/comics.md)
+* [Comics and Art](entertainment/comics.md)
 * [Sekiro: Shadows Die Twice](entertainment/sekiro.md)
 * [Cowboy Bebop](entertainment/cowboy-bebop.md)
 * [My Hero Academia](entertainment/my-hero-academia.md)
