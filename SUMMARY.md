@@ -59,6 +59,7 @@
 * [Android](electronics/android.md)
 * [Linux](electronics/linux-distros.md)
 * [Programs](electronics/programs/README.md)
+  * [Blender](electronics/programs/blender.md)
   * [VLC Media Player](electronics/programs/vlc-media-player.md)
   * [Google Chrome](electronics/programs/chrome-shortcut.md)
 * [macOS](electronics/macos/README.md)
