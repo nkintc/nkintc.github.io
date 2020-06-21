@@ -130,7 +130,7 @@ Tensor properties have preferences in 2 directions simultaneously. Weird notatio
 
 Convective Term
 
-Gradient of the velocity vector field produces a tensor field, typically referred to as the velocity gradient which can act on the velocity vector. This is seen in the convective term of Navier Stokes, or Reynolds Transport theorem applied to Conservation of Linear Momentum. 
+Gradient of the velocity vector field produces a tensor field, typically referred to as the velocity gradient which can act on the velocity vector. This is seen in the convective term of Navier-Stokes, or Reynold's Transport Theorem applied to Conservation of Linear Momentum. 
 
 $$
 \frac{D}{Dt} = \frac{\partial}{\partial t} + {\bf v}\cdot \nabla
@@ -158,9 +158,9 @@ Lagrangian Description: follow individual fluid elements as a local collection o
 
 Eulerian Approach: or field variables of scalar or vector properties. or a mapping of a property as a time dependent field. A more analytic approach to get a mapping of a function of space and time. 
 
-Streakline
+Streakline: the collection of all fluid elements which pass through a particular point. Blowing smoke out of a moving car, the contiguous streak of smoke is the line
 
-Streamline
+Streamline: because the velocity field is continuous, a stream line is a line which is tangent to the velocity field at every point. Only possible if there was a weightless totally permeable ribbon
 
 
 
@@ -168,9 +168,44 @@ Streamline
 
 * 10 pages 
 
-Deformation Tensor
+For some vector quantity, in this case the fluid element's acceleration
 
-Spin Tensor
+$$
+{\bf a}_e = \frac{D {\bf V}_e }{Dt}
+=  \frac{d{\bf V}_e }{dt}
+= \left(\frac{\partial {\bf V}}{\partial t}\right)_e+{\bf V}_e (t) \cdot (\nabla{\bf V})_e
+$$
+
+Here the velocity gradient can be composed of two parts, leveraged because the matrix representation is symmetric:
+
+$$
+\nabla{\bf V} = 
+\overbrace{\frac{1}{2}\left(\nabla{\bf V}+\nabla{\bf V}^T\right)}^{\bf D}
++ 
+\overbrace{\frac{1}{2}\left(\nabla{\bf V}-\nabla{\bf V}^T\right)}^{\boldsymbol \Omega}
+$$
+
+so that the velocity gradient is the sum of the deformation and spin tensors. A key property of the spin tensor is that it is traceless or identically zero along its main diagonal. 
+
+For a time dependent velocity field, then for fixed t:
+
+$$
+{\bf V}(x_0+dx, y_0+dy,z_0+dz,t)
+= {\bf V}(x_0, y_0,z_0,t)
++\frac{\partial V_i}{\partial x_j}\left(x_0, y_0,z_0,t\right)dx_j{\bf e}_i
+$$
+
+using Taylor Series decomposotion decomposition and Einstein summation notation. 
+
+In the limit as 
+
+$$
+d{\boldsymbol\ell}={\bf 0} \text{ or } {dx = dy = dz} \rightarrow 0
+$$
+
+
+
+
 
 Rotation vs. Spin 
 
@@ -183,6 +218,10 @@ Fluid Properties in Time
 * 11 pages 
 
 Reynolds Transport Theorem
+
+
+
+
 
 Integral Equations of Balance
 

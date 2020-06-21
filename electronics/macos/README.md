@@ -14,7 +14,7 @@ Nice, lightweight, reliable. Full of plugins to make it into a more IDE like wor
 
 ### Typora
 
-If there was any program that I had to say I liked most, would be this one. The simple markdown editor has so much utility. Making use of the `mermaid` integration allows for inline diagram rendering, a quality that I wish gitbook also had. The `mermaidjs` is a gitbook as well, and their work around is just a hard link. 
+If there was any program that I had to say I liked most, would be this one. The simple markdown editor has so much utility. Making use of the `mermaid` integration allows for inline diagram rendering, a quality that I wish gitbook also had. The `mermaid.js` documentation is a gitbook as well, and their work around is just an embedded image. 
 
 ### VLC
 

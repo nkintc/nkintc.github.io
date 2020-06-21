@@ -6,11 +6,9 @@ description: 'The ubiquitous orange traffic cone, it''s utilitarian and ever pre
 
 ## Abilities
 
-[Converting .mkv to .mp4](https://asawicki.info/news_1615_how_to_quickly_convert_mkv_to_mp4_file_using_vlc.html)
-
 Used [**VLC media player**](http://www.videolan.org/vlc/).
 
-To convert an MKV file to MP4:
+To [convert .mkv to .mp4](https://asawicki.info/news_1615_how_to_quickly_convert_mkv_to_mp4_file_using_vlc.html):
 
 1. Run "VLC media player".
 2. From main menu select "Media" &gt; "Convert / Save...".

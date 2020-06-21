@@ -1,9 +1,14 @@
-# Vimium Link
+---
+description: 'Chrome Extension, keyboard shortcuts and their actions on the webpage'
+---
+
+# Vimium
 
 
 
-| j, &lt;c-e&gt; | Scroll down |
+| Keys | Action |
 | :--- | :--- |
+| j, &lt;c-e&gt; | Scroll Down |
 | k, &lt;c-y&gt; | Scroll up |
 | gg | Scroll to the top of the page |
 | G | Scroll to the bottom of the page |
@@ -23,32 +28,32 @@
 | gf | Select the next frame on the page |
 | gF | Select the page's main/top frame |
 
-|  |  | Using the vomnibar |
-| :--- | :--- | :--- |
-| o |  | Open URL, bookmark or history entry |
-| O |  | Open URL, bookmark or history entry in a new tab |
-| b |  | Open a bookmark |
-| B |  | Open a bookmark in a new tab |
-| T |  | Search through your open tabs |
-|  |  | Using find |
-| / |  | Enter find mode |
-| n |  | Cycle forward to the next find match |
-| N |  | Cycle backward to the previous find match |
-|  |  | Navigating history |
-| H |  | Go back in history |
-| L |  | Go forward in history |
-|  |  | Manipulating tabs |
-| t |  | Create new tab |
-| J, gT |  | Go one tab left |
-| K, gt |  | Go one tab right |
-| ^ |  | Go to previously-visited tab |
-| g0 |  | Go to the first tab |
-| g$ |  | Go to the last tab |
-| yt |  | Duplicate current tab |
-| &lt;a-p&gt; |  | Pin or unpin current tab |
-| &lt;a-m&gt; |  | Mute or unmute current tab |
-| x |  | Close current tab |
-| X |  | Restore closed tab |
-|  |  | Miscellaneous |
-| ? |  | Show help |
+|  | Using the vomnibar |
+| :--- | :--- |
+| o | Open URL, bookmark or history entry |
+| O | Open URL, bookmark or history entry in a new tab |
+| b | Open a bookmark |
+| B | Open a bookmark in a new tab |
+| T | Search through your open tabs |
+|  | Using find |
+| / | Enter find mode |
+| n | Cycle forward to the next find match |
+| N | Cycle backward to the previous find match |
+|  | Navigating history |
+| H | Go back in history |
+| L | Go forward in history |
+|  | Manipulating tabs |
+| t | Create new tab |
+| J, gT | Go one tab left |
+| K, gt | Go one tab right |
+| ^ | Go to previously-visited tab |
+| g0 | Go to the first tab |
+| g$ | Go to the last tab |
+| yt | Duplicate current tab |
+| &lt;a-p&gt; | Pin or unpin current tab |
+| &lt;a-m&gt; | Mute or unmute current tab |
+| x | Close current tab |
+| X | Restore closed tab |
+|  | Miscellaneous |
+| ? | Show help |
 

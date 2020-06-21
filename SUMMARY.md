@@ -57,7 +57,7 @@
 * [Android](electronics/android.md)
 * [Programs](electronics/programs/README.md)
   * [VLC Media Player](electronics/programs/vlc-media-player.md)
-  * [Vimium Link](electronics/programs/vimium-link.md)
+  * [Vimium](electronics/programs/vimium-link.md)
   * [Chrome Shortcut](electronics/programs/chrome-shortcut.md)
 * [macOS](electronics/macos/README.md)
   * [mermaid.js](electronics/macos/mermaid.js.md)
