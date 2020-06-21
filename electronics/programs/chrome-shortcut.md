@@ -4,7 +4,13 @@ description: 'This is the standard list, Vimium is layered ontop'
 
 # Chrome Shortcut
 
+[Tweet longer ](https://www.twitlonger.com/)
 
+[example domain](http://example.com/)
+
+[vector art](https://icons8.com/vector-creator/new) creator
+
+[calendar](http://www.webcal.fi/en/calendars.php) event website
 
 ## Shortcut Reference List
 

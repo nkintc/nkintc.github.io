@@ -26,6 +26,7 @@
 
 ## Math
 
+* [Color](math/color.md)
 * [Materials Modeling](math/materials-modeling/README.md)
   * [Carbon Nanotubes](math/materials-modeling/carbon-nanotubes.md)
 * [Solid Mechanics](math/solid-mechanics.md)
@@ -39,6 +40,7 @@
 
 ## Entertainment
 
+* [Comics](entertainment/comics.md)
 * [Sekiro: Shadows Die Twice](entertainment/sekiro.md)
 * [Cowboy Bebop](entertainment/cowboy-bebop.md)
 * [My Hero Academia](entertainment/my-hero-academia.md)
