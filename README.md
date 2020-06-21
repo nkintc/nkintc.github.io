@@ -1,7 +1,7 @@
 ---
 description: >-
-  Mechanical Engineering Student trying to keep track of things. Private
-  repository to work in the gitbook web application.
+  Mechanical engineer, trying to keep track of things. Private repository to
+  work in the gitbook web application.
 ---
 
 # nkintc.github.io
