@@ -8,7 +8,7 @@ Getting [SSH configs to make ](https://www.howtogeek.com/75007/stupid-geek-trick
 
 [Tmux customization ](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)vs screen
 
-[rito developer](https://developer.riotgames.com/)
+[rito developer](https://developer.riotgames.com/) $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; r
 
 internet relay chat [\(IRC\)](http://python-irclib.sourceforge.net/) protocol which is used by [python twitter ](https://mike.verdone.ca/twitter/#downloads)api
 
