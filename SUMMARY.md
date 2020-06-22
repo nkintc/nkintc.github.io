@@ -54,15 +54,15 @@
 * [Foster](homelife/foster.md)
 * [Geography](homelife/calculus.md)
 
-## Electronics
+## Mollusk
 
-* [Android](electronics/android.md)
-* [Linux](electronics/linux-distros.md)
-* [Programs](electronics/programs/README.md)
-  * [Blender](electronics/programs/blender.md)
-  * [VLC Media Player](electronics/programs/vlc-media-player.md)
-  * [Google Chrome](electronics/programs/chrome-shortcut.md)
-* [macOS](electronics/macos/README.md)
-  * [mermaid.js](electronics/macos/mermaid.js.md)
-* [Windows](electronics/windows.md)
+* [Programs](mollusk/programs/README.md)
+  * [Blender](mollusk/programs/blender.md)
+  * [VLC Media Player](mollusk/programs/vlc-media-player.md)
+  * [Google Chrome](mollusk/programs/chrome-shortcut.md)
+* [Android](mollusk/android.md)
+* [Linux](mollusk/linux-distros.md)
+* [macOS](mollusk/macos/README.md)
+  * [mermaid.js](mollusk/macos/mermaid.js.md)
+* [Windows](mollusk/windows.md)
 

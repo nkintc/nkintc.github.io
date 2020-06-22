@@ -1,5 +1,7 @@
 ---
-description: 'Common use everywhere programs, present across all machines.'
+description: >-
+  Common use everywhere programs, present across all machines as part of
+  mollusk: travelling from shell to shell.
 ---
 
 # Programs
