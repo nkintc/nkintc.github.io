@@ -2,7 +2,7 @@
 description: >-
   Brainless is a personal description of the following collection of pages;
   without a purpose, it feels `brainless`. Meant to be a source for self
-  reference, open to the public. TYIWYG.
+  reference, open to the public. WYSIWYG.
 ---
 
 # What is this?
@@ -13,7 +13,7 @@ A web based interfaced that can works off on top of a network of plain text `.ma
 
 ## Working with a brainless mass
 
-To maintain, and get a feel for where things are clone the [repository](https://github.com/nkintc/nkintc.github.io) and list its content using:
+To maintain, and get a feel for where things are clone the [repository](https://github.com/nkintc/nkintc.github.io) and list the contents using:
 
 ```text
 $ tree -L [n]
