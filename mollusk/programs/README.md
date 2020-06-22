@@ -24,6 +24,8 @@ Make a gif of [words in candy](https://www.candyjapan.com/anim)
 
 [MATLAB](https://people.sc.fsu.edu/~jburkardt/m_src/m_src.html) source codes
 
+[The Uncensored Library](https://uncensoredlibrary.com/) created in Minecraft. 
+
 [StoP that RIgHT NOW](https://stopthatrightnow.github.io/)
 
 [Let me google that for you](https://lmgtfy.com/) if feeling extra smartass-y
