@@ -22,3 +22,5 @@ $$
 
 The expression is equal to $1$ for the maximum and $0.5$ for the annotated values. 
 
+
+

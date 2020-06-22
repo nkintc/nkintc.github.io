@@ -28,6 +28,10 @@ The price which is paid when Sekiro returns to life, when he _dies twice:_ death
 
  
 
+![The first, red, Mortal Blade: a mystical and bloodstained fushigiri capable of slaying the undying.](../.gitbook/assets/weapon+mortal+blade-min.png)
+
+
+
 A less serious take on this game is [Sekirot](https://www.youtube.com/watch?v=31V6ifW3tNk), which accepted that we're gonna die... a lot...
 
 Additionally, my computer can't even run Sekiro anymore so at some point soon, I'm going to have to make an entertainment server. 
