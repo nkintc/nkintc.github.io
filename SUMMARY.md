@@ -5,4 +5,6 @@
 * [Skincare](skincare.md)
 * [Quick Sleep](quick-sleep.md)
 * [Untitled](untitled.md)
+* [Neural Radiance Field](neural-radiance-field.md)
+* [Origami](origami.md)
 
