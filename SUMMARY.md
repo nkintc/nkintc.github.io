@@ -6,8 +6,8 @@
 
 ## meta
 
-* [Reference](meta/reference.md)
 * [Inspirations](meta/inspirations.md)
+* [Reference](meta/reference.md)
 
 ## Sharing
 
