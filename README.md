@@ -35,5 +35,3 @@ description: >-
   * `Fixed` for any bug fixes.
   * `Security` in case of vulnerabilities.
 
-
-
