@@ -1,6 +1,7 @@
 # Table of contents
 
 * [nkintc.github.io](README.md)
+* [Tinitus](tinitus.md)
 * [Rest of the Bookmarks](rest-of-the-bookmarks.md)
 * [Skincare](skincare/README.md)
   * [Ordinary Skincare](skincare/untitled.md)

@@ -17,9 +17,7 @@ Models
 
 [Origami vs Kirigami](https://www.sciencedirect.com/science/article/pii/S1369702117306399#f0065)
 
-[Maze folder](http://erikdemaine.org/fonts/maze/) by Erik Demaine and his [class](http://courses.csail.mit.edu/6.849/fall10/lectures/), in particular lectures [10](http://courses.csail.mit.edu/6.849/fall10/lectures/L10.pdf), [20](http://courses.csail.mit.edu/6.849/fall10/lectures/L20_images.pdf), [22](http://courses.csail.mit.edu/6.849/fall10/lectures/L22.pdf)
-
-
+[Maze folder](http://erikdemaine.org/fonts/maze/) by Erik Demaine and his [class](http://courses.csail.mit.edu/6.849/fall10/lectures/), in particular lectures [10](http://courses.csail.mit.edu/6.849/fall10/lectures/L10.pdf), [20](http://courses.csail.mit.edu/6.849/fall10/lectures/L20_images.pdf), [22](http://courses.csail.mit.edu/6.849/fall10/lectures/L22.pdf). Guest final lecture by Tachi for [L23](http://courses.csail.mit.edu/6.849/fall10/lectures/L23_images.pdf). 
 
 [Origami-based tunable truss structures for non-volatile mechanical memory operation](https://www.nature.com/articles/s41467-017-00670-w?fbclid=IwAR1amNAUPoJ6HPDpVuAXjWZhvaxMK2tJ0kDW2yp6acYux65Y__uoB7VgaAM) with additional [paper context](https://advances.sciencemag.org/content/5/5/eaau2835)
 
