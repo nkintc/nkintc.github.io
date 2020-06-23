@@ -8,12 +8,21 @@ description: >-
 
 
 
+* 1.0.0
+
 ## Changes Logged: 0.0.1 - 2020-05-21
+
+## \[UNRELEASED\]
 
 ### Added
 
+* publish `nkintc.github.io/brainless`  
+  * articles and notes from `gDrive/files/` 
+  * `leave`
 * Added first changelog 
 * Published blank online with github pages.
+
+\#
 
 ### Changed
 
