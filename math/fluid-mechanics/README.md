@@ -10,6 +10,10 @@ description: Notes taken from Prof. Z. Rusak's MANE 6520 Fall 2019
 
 [RPI study on teaching ](https://peer.asee.org/effect-of-learning-style-on-academic-performance-in-an-introductory-thermal-fluids-course)
 
+[Nikander](https://nikander.github.io/compflow/Archives/CourseDetails.html#Assignments) compressible flow helps shows the flexibility of the plaintext file hosting, vs a [more traditional](http://web.cecs.pdx.edu/~gerry/class/ME449/) method of course hostng. 
+
+
+
 
 
 ### Lecture 1: A Topic in Classical Physics 

@@ -7,15 +7,9 @@ description: >-
 
 # Inspirations
 
-### Mathpages
+[Mathpages ](https://www.mathpages.com/home/)My first read and favorite article is the [infinite grid of resistors](https://www.mathpages.com/home/kmath668/kmath668.htm). 
 
-Okay, [mathpages is so cool](https://www.mathpages.com/home/). My first read and favorite article is the [infinite grid of resistors](https://www.mathpages.com/home/kmath668/kmath668.htm). The relationship between the discrete grid being described using continuous math of calculus and integrals is just really interesting. How the sum of the reciprocal of odd numbers just pops out is a thing of beauty. 
-
- $$\mathrm{R}_{\mathrm{m}, \mathrm{m}}=\frac{2}{\pi}\left(1+\frac{1}{3}+\frac{1}{5}+\frac{1}{7}+\ldots+\frac{1}{2 \mathrm{m}-1}\right)$$ 
-
-[Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) This is where I found out about this idea. 
-
-[Nikander](https://nikander.github.io/compflow/Archives/CourseDetails.html#Assignments) compressible flow helps shows the flexibility of the plaintext file hosting, vs a [more traditional](http://web.cecs.pdx.edu/~gerry/class/ME449/) method of course hostng. 
+[Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) is what I hope this eventually
 
 It is our responsibility as [custodians.online](http://custodians.online/) to share what we know. 
 
