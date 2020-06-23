@@ -7,7 +7,7 @@
 ## meta
 
 * [Inspirations](meta/inspirations.md)
-* [Reference](meta/reference.md)
+* [Responsibility](meta/reference.md)
 
 ## Sharing
 
