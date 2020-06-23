@@ -12,6 +12,8 @@ description: Errthang associated and the tools/website used
 
 [calendar](http://www.webcal.fi/en/calendars.php) event website
 
+[Timelapse](https://world.time.com/timelapse/) of the World from TIME 
+
 Enter this in a browser:
 
 ```text
@@ -21,8 +23,6 @@ data:text/html, <html contenteditable>
 to create a scratchpad to work on.
 
 #### Vimium
-
-Vimium
 
 | Keys | Action |
 | :--- | :--- |

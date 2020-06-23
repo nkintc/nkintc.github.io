@@ -20,7 +20,7 @@ $$
 f_i(\left.\lambda\right|\sigma_i,\mu_i)=\frac{e^{-\frac{1}{2}\left(\frac{\lambda-\mu_i}{\sigma_i}\right)^{2}}}{\sigma_i\sqrt{2 \pi}} \quad i = \{\text{blue, black, green, red}\}
 $$
 
-The expression is equal to $1$ for the maximum and $0.5$ for the annotated values. 
+The expression is equal to $$1$$ for the maximum and $$0.5$$ for the annotated values. 
 
 
 
