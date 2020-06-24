@@ -4,6 +4,12 @@ description: Errthang associated and the tools/website used
 
 # Google Chrome
 
+### gDrive
+
+The one word shorthand which I use for CLI reference for Google Drive and the stand alone application Backup and Sync. 
+
+[Internet Archive: Digital Library](https://archive.org/)
+
 [Tweet longer ](https://www.twitlonger.com/)
 
 [example domain](http://example.com/)
@@ -13,6 +19,12 @@ description: Errthang associated and the tools/website used
 [calendar](http://www.webcal.fi/en/calendars.php) event website
 
 [Timelapse](https://world.time.com/timelapse/) of the World from TIME 
+
+[Color Palette](https://colorsinspo.com/) Inspiration and [code movement](https://copypalette.netlify.com/)
+
+[coloors ](https://coolors.co/)
+
+[image hues](https://imagehues.com/) from photo
 
 Enter this in a browser:
 

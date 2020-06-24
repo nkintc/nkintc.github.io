@@ -18,6 +18,8 @@ Math can be written about with less repetition. Inline math helps blend the line
 
 This knowledge is not meant to be kept by me alone. It is our responsibility as [custodians, online](http://custodians.online/) to share what we know. To remember how very small this project is, here is [some sense of scale](http://stars.chromeexperiments.com/). 
 
+
+
  
 
 

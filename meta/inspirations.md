@@ -17,6 +17,7 @@ The following are exobrains or the crystallized component outside of the meat ba
 * [Matthaeus Krenn ](https://matthaeuskrenn.com/)
 * [100 Rabbits](https://100r.co/site/about_us.html)
 * [XXIIVV](https://wiki.xxiivv.com/site/home.html)
+* [beepb00p](https://beepb00p.xyz/)
 
 [Life logging is an extended diary ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose](https://beepb00p.xyz/my-data.html#dashboard) is important. 
 
