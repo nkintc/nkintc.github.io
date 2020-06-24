@@ -7,25 +7,20 @@ description: >-
 
 # Inspirations
 
-[Mathpages ](https://www.mathpages.com/home/)My first read and favorite article is the [infinite grid of resistors](https://www.mathpages.com/home/kmath668/kmath668.htm). 
+### Exobrains and the[ Extended Mind](https://en.wikipedia.org/wiki/Extended_mind_thesis)
 
-[Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) is what I hope this eventually
+The following are exobrains or the crystallized component outside of the meat bag D: 
 
-Exobrains 
+* [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) 
+* [Dercuano](https://gitlab.com/kragen/dercuano/-/tree/master)
+* [stefanjudis](https://www.stefanjudis.com/today-i-learned/)
+* [Matthaeus Krenn ](https://matthaeuskrenn.com/)
+* [100 Rabbits](https://100r.co/site/about_us.html)
+* [XXIIVV](https://wiki.xxiivv.com/site/home.html)
 
-[Dercuano](https://gitlab.com/kragen/dercuano/-/tree/master) is a really interesting one, which isn't online 
-
-Another living exobrain from [stefanjudis](https://www.stefanjudis.com/today-i-learned/) of what they find out. 
+[Life logging is an extended diary ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose](https://beepb00p.xyz/my-data.html#dashboard) is important. 
 
 
-
-[Life logging ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose ](https://beepb00p.xyz/my-data.html#dashboard)
-
-[Matthaeus Krenn ](https://matthaeuskrenn.com/)
-
-[100 Rabbits](https://100r.co/site/about_us.html)
-
-[XXIIVV](https://wiki.xxiivv.com/site/home.html)
 
 
 
