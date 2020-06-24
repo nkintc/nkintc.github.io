@@ -1,10 +1,11 @@
 ---
 description: >-
   The workhorse of the mobile device market. Moved from the iPhone and haven't
-  regretted the platform swap. The hardware, on the otherhand....
+  regretted the platform swap. The hardware on the other hand, leaves much to be
+  desired.
 ---
 
-# Android
+# Android and iOS
 
 ### Pixelmate
 
@@ -12,7 +13,7 @@ Finding a way to manage a Pixel 3 sucks but thankfully, the [workaround](https:/
 
 ### Taskwarrior 
 
-An android app, that is essentially just a GUI for the CLI application on the phone. Syncing with `Inthe.am` allows for a unified multiplatform todo list. 
+An android app, that is essentially just a GUI for the CLI application on the phone. Syncing with `Inthe.am` allows for a unified multi-platform to-do list. 
 
 
 

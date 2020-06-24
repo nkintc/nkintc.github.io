@@ -57,12 +57,13 @@
 ## Mollusk
 
 * [Programs](mollusk/programs/README.md)
+  * [Miscellaneous](mollusk/programs/miscellaneous.md)
+  * [mermaid.js](mollusk/programs/mermaid.js.md)
   * [Blender](mollusk/programs/blender.md)
   * [VLC Media Player](mollusk/programs/vlc-media-player.md)
   * [Google Chrome](mollusk/programs/chrome-shortcut.md)
-* [Android](mollusk/android.md)
-* [Linux](mollusk/linux-distros.md)
-* [macOS](mollusk/macos/README.md)
-  * [mermaid.js](mollusk/macos/mermaid.js.md)
-* [Windows](mollusk/windows.md)
+* [Operating Systems](mollusk/operating-systems/README.md)
+  * [Unix](mollusk/operating-systems/linux-distros.md)
+  * [Windows](mollusk/operating-systems/windows.md)
+* [Android and iOS](mollusk/android.md)
 
