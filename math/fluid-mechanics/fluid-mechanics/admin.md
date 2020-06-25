@@ -7,6 +7,8 @@ description: >-
 
 # Admin
 
+{% file src="../../../.gitbook/assets/mane.6520.admin.syllabus.pdf" caption="Fluids Syllabus" %}
+
 ### Summary
 
 Taught by [Prof. Rusak of RPI ](https://faculty.rpi.edu/zvi-rusak)and collected by nkintc in the fall of 2019
