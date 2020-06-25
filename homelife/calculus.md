@@ -10,9 +10,13 @@ San Antonio
 
 Troy 
 
-Bangkok [mom's message ](https://www.youtube.com/watch?v=PIMTon7ZYQ0&)
+Bangkok 
 
 Tokyo 
+
+### [Final Message](https://www.youtube.com/watch?v=PIMTon7ZYQ0&) from My Mom 
+
+I miss her so much. 
 
 
 

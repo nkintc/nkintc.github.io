@@ -64,6 +64,7 @@
       * [Homework 1](math/fluid-mechanics/fluid-mechanics/homeworks/homework-1.md)
       * [Homework 2](math/fluid-mechanics/fluid-mechanics/homeworks/homework-2.md)
   * [Incompresible Flow](math/fluid-mechanics/incompresible-flow.md)
+* [Experimental Mechanics](math/experimental-mechanics.md)
 * [Machine Dynamics](math/machine-dynamics.md)
 * [Finite Element Methods](math/finite-element-methods/README.md)
   * [Intro to Finite Elements](math/finite-element-methods/intro-to-finite-elements.md)
