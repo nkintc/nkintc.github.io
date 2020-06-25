@@ -23,7 +23,7 @@ where `[n]` is the depth we are willing to traverse through this mess.
 
 ### Making your own
 
-The first step is the hardest: saving a file. But once it is there and you treat it as a connection to all of the other files you manage 
+The first step is the hardest: saving a file. But once it is there and you treat it as a connection to all of the other files you manage, then it _will_ grow over time. 
 
 
 
