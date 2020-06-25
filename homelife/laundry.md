@@ -10,9 +10,7 @@ In her videos, she will try to fold clothing in such a way that it stands up on 
 
 Process seems to be bisect the symmetric clothing article, or lay one of the pair atop the other, so the fabric is a long strip. 
 
-Making food out of what I have using [Munch Labs](https://munchlab.de/)
 
-[legal case](https://www.lexisnexis.com/en-us/home.page#case) reference \(danger!\) and [cases](https://www.oyez.org/)
 
 
 

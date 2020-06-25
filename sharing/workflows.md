@@ -16,6 +16,8 @@ Writing most online work in markdown files, nowadays. Using Gitbook pages to mai
 
 [Laser Cutter](https://glowforge.com/). Undergraduate time at Trinity had access to the glowforge. It's a really intuitive interface: etching my name and contact into a laptop was simple and straightforward. Would make a [3D scanner easier to make](https://hci.rwth-aachen.de/fabscanoriginal).
 
+Dremel Tool or a speed tool to gently etch with 
+
 
 
 

@@ -8,7 +8,11 @@ description: Errthang associated and the tools/website used
 chrome://omnibox/
 ```
 
-Allows for managing the search bar 
+Allows for managing the search bar
+
+Making food out of what I have using [Munch Labs](https://munchlab.de/)
+
+[legal case](https://www.lexisnexis.com/en-us/home.page#case) reference \(danger!\) and [cases](https://www.oyez.org/) 
 
 ### gDrive
 
