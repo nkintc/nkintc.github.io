@@ -11,6 +11,10 @@ description: >-
 
 [Nikander](https://nikander.github.io/compflow/Archives/CourseDetails.html#Assignments) compressible flow helps shows the flexibility of the plaintext file hosting, vs a [more traditional](http://web.cecs.pdx.edu/~gerry/class/ME449/) method of course hostng. 
 
+[Survival Guide](http://www.chem.latech.edu/~ramu/chem311/handouts/thermo1.pdf)
+
+
+
 
 
 
