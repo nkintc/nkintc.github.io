@@ -21,6 +21,17 @@ The following are exobrains or the crystallized component outside of the meat ba
 
 [Life logging is an extended diary ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose](https://beepb00p.xyz/my-data.html#dashboard) is important. 
 
+Health and doctors who I look up to 
+
+* Dr Anthony Fauci. If you're an American you should hold this man in the highest regard. He has most likely saved either your life or the life of someone that you love. 
+* Dr Mikhail Varshavski: A kindred mind, or so I think 
+
+
+
+
+
+
+
 
 
 
