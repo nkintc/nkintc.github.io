@@ -10,6 +10,8 @@ The one word shorthand which I use for CLI reference for Google Drive and the st
 
 [Internet Archive: Digital Library](https://archive.org/)
 
+[Font in Logo](https://www.fontinlogo.com/)
+
 [Tweet longer ](https://www.twitlonger.com/)
 
 [example domain](http://example.com/)
