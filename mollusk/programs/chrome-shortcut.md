@@ -4,6 +4,12 @@ description: Errthang associated and the tools/website used
 
 # Google Chrome
 
+```text
+chrome://omnibox/
+```
+
+Allows for managing the search bar 
+
 ### gDrive
 
 The one word shorthand which I use for CLI reference for Google Drive and the stand alone application Backup and Sync. 
