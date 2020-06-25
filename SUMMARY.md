@@ -40,10 +40,10 @@
 ## Mollusk
 
 * [Programs](mollusk/programs/README.md)
+  * [Blender](mollusk/programs/blender.md)
   * [Google Chrome](mollusk/programs/chrome-shortcut.md)
   * [Miscellaneous](mollusk/programs/miscellaneous.md)
   * [mermaid.js](mollusk/programs/mermaid.js.md)
-  * [Blender](mollusk/programs/blender.md)
   * [VLC Media Player](mollusk/programs/vlc-media-player.md)
 * [Operating Systems](mollusk/operating-systems/README.md)
   * [Unix](mollusk/operating-systems/linux-distros.md)
@@ -59,6 +59,7 @@
   * [Solid Mechanics](math/fluid-mechanics/solid-mechanics.md)
   * [Fluid Mechanics](math/fluid-mechanics/fluid-mechanics/README.md)
     * [Admin](math/fluid-mechanics/fluid-mechanics/admin.md)
+    * [Lectures](math/fluid-mechanics/fluid-mechanics/lectures.md)
     * [Literature](math/fluid-mechanics/fluid-mechanics/literature.md)
     * [Assignments](math/fluid-mechanics/fluid-mechanics/homeworks/README.md)
       * [Homework 1](math/fluid-mechanics/fluid-mechanics/homeworks/homework-1.md)

@@ -5,8 +5,7 @@ description: Start with a list of classes which are not present
 # Kinematics
 
 * Acoustic Engineering
-* Experimental Mechanics
-* Computational Fluid Dynamics  should fall under fluids 
+* Computational Fluid Dynamics should fall under fluids 
 * Tribology
 * Systems Analysis
 * Calculus
