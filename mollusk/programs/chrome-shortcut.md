@@ -20,6 +20,8 @@ The one word shorthand which I use for CLI reference for Google Drive and the st
 
 [Internet Archive: Digital Library](https://archive.org/)
 
+[UX Nice very nice examples](https://www.niceverynice.com/components)
+
 [Font in Logo](https://www.fontinlogo.com/)
 
 [Tweet longer ](https://www.twitlonger.com/)
@@ -33,6 +35,10 @@ The one word shorthand which I use for CLI reference for Google Drive and the st
 [Timelapse](https://world.time.com/timelapse/) of the World from TIME 
 
 [Color Palette](https://colorsinspo.com/) Inspiration and [code movement](https://copypalette.netlify.com/)
+
+[palette from company logo ](https://air.inc/)
+
+[vvv team space](https://vvv.space/)
 
 [coloors ](https://coolors.co/)
 
