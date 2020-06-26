@@ -11,11 +11,7 @@ description: 'Making 3D objects real, at least virtually'
 
 
 
-Shift a or add a mesh 
-
-Making a Donut
-
-* Add a torus using `<Shift-A>`
+ 
 
 [recreate Bedroom In Blender](https://www.youtube.com/watch?v=qR6Kuv2dFHQ)
 
@@ -23,5 +19,7 @@ Making a Donut
 
 
 
-
+| Command | Function |
+| :--- | :--- |
+| `<Shift-A>` | Add mesh |
 

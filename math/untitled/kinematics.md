@@ -12,3 +12,5 @@ description: Start with a list of classes which are not present
 
 [Study Group](https://www.rpistudygroup.org/MANE%20-%20Mechanical%2C%20Aeronautical%2C%20and%20Nuclear%20Engineering/)
 
+[Academic Calendar post covid ](https://info.rpi.edu/registrar/academic-calendar)
+

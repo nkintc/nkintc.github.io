@@ -7,6 +7,10 @@ description: >-
 
 # What is this?
 
+{% hint style="danger" %}
+\[WORK IN PROGRESS\] What you see is what you get; so proceed at your own risk
+{% endhint %}
+
 ## Built with [Gitbook](https://docs.gitbook.com/)
 
 A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian.  
