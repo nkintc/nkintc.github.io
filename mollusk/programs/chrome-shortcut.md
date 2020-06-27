@@ -14,6 +14,8 @@ Making food out of what I have using [Munch Labs](https://munchlab.de/)
 
 [legal case](https://www.lexisnexis.com/en-us/home.page#case) reference \(danger!\) and [cases](https://www.oyez.org/) 
 
+[for ITWS](https://github.com/dawneraq/websci) and site hosting fundamentals
+
 Here's how to get the transcript of a YouTube video \(when available\):
 
 * Go to YouTube and open the video of your choice.
