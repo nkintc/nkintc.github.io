@@ -11,7 +11,7 @@ description: >-
 
 {% tabs %}
 {% tab title="First Tab" %}
-1tab
+1tab . 
 {% endtab %}
 
 {% tab title="second" %}
