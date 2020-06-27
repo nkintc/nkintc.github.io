@@ -1,6 +1,6 @@
 # laundry
 
-wash sheets recur 2w 
+wash sheets recur 2w f
 
 steps 
 
@@ -13,6 +13,10 @@ steps
 3. roll together off to preserve layering
 4. stack head and pillows in corner 
 5. fold over
+
+
+
+[waste a scammers time in python ](https://www.youtube.com/watch?v=UtNYzv8gLbs)
 
 
 
