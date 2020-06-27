@@ -64,21 +64,7 @@ simple finite elements in python [sfepy](https://sfepy.org/doc-devel/introductio
 
 [Gitsheet](https://gitsheet.wtf/) cheat sheet
 
-git bare repo 
-
-A git controlled repo has two parts: a hidden `.git` folder which contains the files which the program `git` needs to function to recreate the workspace, which is the other user side component. using the function-command
-
-```text
-$ git clone --bare [fileName1] [fileName2]
-```
-
-this is a three state system because there are two clone processes
-
-* original repository 
-* bare repository
-* git version controlled repo
-
-really useful in creating a new project which is based in large part from another repo 
+ 
 
 
 
