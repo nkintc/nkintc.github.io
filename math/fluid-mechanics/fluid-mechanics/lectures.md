@@ -1,5 +1,35 @@
 # Lectures
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+
+tab1
+{% endtab %}
+
+{% tab title="Second Tab" %}
+tab2
+{% endtab %}
+
+{% tab title="Third Tab" %}
+tab 3
+{% endtab %}
+
+{% tab title="Fourth Tab" %}
+tab 4
+{% endtab %}
+
+{% tab title="Fifth Tab" %}
+Tab 5
+{% endtab %}
+
+{% tab title="Sixth Tab" %}
+Tab6
+{% endtab %}
+{% endtabs %}
+
+### 
+
 ### Lecture 1: A Topic in Classical Physics 
 
 * 7 pages
