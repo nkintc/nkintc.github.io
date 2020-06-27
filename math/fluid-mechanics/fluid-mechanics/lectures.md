@@ -12,7 +12,7 @@ tab2
 {% endtab %}
 
 {% tab title="Third Tab" %}
-tab 3
+tab 3 as
 {% endtab %}
 
 {% tab title="Fourth Tab" %}
