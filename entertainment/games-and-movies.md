@@ -21,6 +21,28 @@ League of Legends [Kalista cannon rend](https://www.reddit.com/link/ax7ro6/video
 
 [typeracer](https://play.typeracer.com/)
 
+league of legends practice tool shortcuts 
+
+* league of legends dev notes
+
+  `shift t` to get gold
+
+  `shift y` to get levels
+
+  `shift u` lock levels
+
+  \`shift h\` lock tower life
+
+  \`shift g\` turret aggro
+
+  \`shift s\` teleport
+
+  \`shift v\` for revive gonna die alot
+
+  ctrl shift “lowercase l” skip 10 min
+
+  enemy dummy shift b
+
 
 
 
