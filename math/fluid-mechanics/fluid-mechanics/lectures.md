@@ -1,5 +1,7 @@
 # Lectures
 
+header
+
 {% tabs %}
 {% tab title="First Tab" %}
 
@@ -28,7 +30,9 @@ Tab6
 {% endtab %}
 {% endtabs %}
 
-### 
+footer
+
+
 
 ### Lecture 1: A Topic in Classical Physics 
 

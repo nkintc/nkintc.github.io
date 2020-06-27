@@ -7,6 +7,30 @@ description: >-
 
 # Admin
 
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+1tab
+{% endtab %}
+
+{% tab title="second" %}
+
+{% endtab %}
+
+{% tab title="third" %}
+content 
+{% endtab %}
+
+{% tab title="fourth" %}
+content 4
+{% endtab %}
+
+{% tab title="fifth" %}
+content 5
+{% endtab %}
+{% endtabs %}
+
 {% file src="../../../.gitbook/assets/mane.6520.admin.syllabus.pdf" caption="Fluids Syllabus" %}
 
 ### Summary
