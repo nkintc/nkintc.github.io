@@ -48,3 +48,5 @@ this is a three state system because there are two clone processes
 
 really useful in creating a new project which is based in large part from another repo
 
+this bare repo can be used a shit-fuck-undo return to save so keep it in a safe place 
+
