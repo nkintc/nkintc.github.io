@@ -40,6 +40,7 @@
 ## Mollusk
 
 * [Programs](mollusk/programs/README.md)
+  * [git](mollusk/programs/git.md)
   * [Blender](mollusk/programs/blender.md)
   * [Google Chrome](mollusk/programs/chrome-shortcut.md)
   * [Miscellaneous](mollusk/programs/miscellaneous.md)
