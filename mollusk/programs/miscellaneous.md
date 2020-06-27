@@ -40,3 +40,21 @@ Program to visualize those `.dump` files output. Makes pretty photos, and can vi
 
 Just as powerful as Ovito IMO. Turned onto it through research, has a built in plugin to design different CNT's depending on chiral numbers and length.
 
+git bare repo 
+
+A git controlled repo has two parts: a hidden `.git` folder which contains the files which the program `git` needs to function to recreate the workspace, which is the other user side component. using the function-command
+
+```text
+$ git clone --bare [fileName1] [fileName2]
+```
+
+this is a three state system because there are two clone processes
+
+* original repository 
+* bare repository
+* git version controlled repo
+
+really useful in creating a new project which is based in large part from another repo 
+
+
+
