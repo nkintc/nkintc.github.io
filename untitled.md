@@ -2,7 +2,7 @@
 
 example of yaml front matter
 
-* woulb be really useful to see the tags and the the ideal location in the file trees 
+* woulb be really useful to see the tags and the the ideal location in the file trees  
 
 ```yaml
 ---
