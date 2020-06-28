@@ -4,6 +4,10 @@ description: Goes into brainless eventually
 
 # Rest of the Bookmarks
 
+![They save their damn blog using the sarcasm  ](.gitbook/assets/image%20%281%29.png)
+
+[misfits](https://www.misfitsmarket.com/account/login?return_url=%2Faccount) foods
+
 [misfits](https://www.misfitsmarket.com/account/login?return_url=%2Faccount) foods
 
 [american expres](https://global.americanexpress.com/login/en-US?noRedirect=true&DestPage=%2Ffunding-accounts%2Fadd)s
@@ -46,13 +50,9 @@ description: Goes into brainless eventually
 
 [tdm code documentation](https://docs.google.com/document/d/1GGwefpLOZ8AufHPpO78nbN88L4xSzB0qERzGm5ToT04/edit?auth_email=cnkinthorn@gmail.com)
 
+[https://www.lalal.ai/](https://www.lalal.ai/) split audio like[ spleeter ](https://github.com/deezer/spleeter)
 
-
-
-
-
-
-
+[mcsweenys list of trump atrocities](https://www.mcsweeneys.net/articles/the-complete-listing-so-far-atrocities-1-759#update)
 
 Getting [SSH configs to make ](https://www.howtogeek.com/75007/stupid-geek-tricks-use-your-ssh-config-file-to-create-aliases-for-hosts/)aliases for hosts and the [remote copy ](https://www.howtogeek.com/66776/how-to-remotely-copy-files-over-ssh-without-entering-your-password/)of password. With [extra reference](https://scotch.io/tutorials/how-to-create-an-ssh-shortcut) 
 
