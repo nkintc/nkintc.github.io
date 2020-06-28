@@ -7,4 +7,6 @@
   * [Ordinary Skincare](skincare/untitled.md)
 * [Quick Sleep](quick-sleep.md)
 * [Neural Radiance Field](neural-radiance-field.md)
+* [On social media](on-social-media.md)
+* [Random math inspiration](random-math-inspiration.md)
 
