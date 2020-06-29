@@ -1,33 +1,36 @@
 ---
 description: >-
-  Brainless is a personal description of the following collection of pages;
-  without a purpose, it feels `brainless`. Meant to be a source for self
-  reference, open to the public. WYSIWYG.
+  Mechanical engineer, trying to keep track of things. Private repository to
+  work in the gitbook web application.
 ---
 
-# What is this?
-
-{% hint style="danger" %}
-\[WORK IN PROGRESS\] What you see is what you get; so proceed at your own risk
-{% endhint %}
-
-## Built with [Gitbook](https://docs.gitbook.com/)
-
-A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian.  
-
-## Working with a brainless mass
-
-To maintain, and get a feel for where things are clone the [repository](https://github.com/nkintc/nkintc.github.io) and list the contents using:
-
-```text
-$ tree -L [n]
-```
-
-where `[n]` is the depth we are willing to traverse through this mess. 
-
-### Making your own
-
-The first step is the hardest: saving a file. But once it is there and you treat it as a connection to all of the other files you manage, then in the process of tracking things down, this knowledge will grow over time. 
+# nkintc.github.io
 
 
 
+* 1.0.0
+
+## Changes Logged: 0.0.1 - 2020-05-21
+
+## \[UNRELEASED\]
+
+### Added
+
+* publish `nkintc.github.io/brainless`  
+  * articles and notes from `gDrive/files/` 
+  * `leave`
+* Added first changelog 
+* Published blank online with github pages
+
+### Changed
+
+* Begin adhering to rules  for [`How do I make a good changelog?`](https://keepachangelog.com/en/1.0.0/%20)
+* Types of changes
+  * `Added` for new features.
+  * `Changed` for changes in existing functionality.
+  * `Deprecated` for soon-to-be removed features.
+  * `Removed` for now removed features.
+  * `Fixed` for any bug fixes.
+  * `Security` in case of vulnerabilities.
+* [cards against humanity: a writer's horror story ](https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4)
+* 
