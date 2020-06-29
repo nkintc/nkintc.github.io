@@ -34,4 +34,5 @@ description: >-
   * `Removed` for now removed features.
   * `Fixed` for any bug fixes.
   * `Security` in case of vulnerabilities.
-
+* [cards against humanity: a writer's horror story ](https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4)
+* 
