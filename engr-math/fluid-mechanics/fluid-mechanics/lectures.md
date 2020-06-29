@@ -6,35 +6,343 @@ description: Sent by email
 
 header
 
+Collected into two groups 
+
+## Lectures 1 - 11
+
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="1" %}
+{% file src="../../../.gitbook/assets/mane.6520.lecture.1.pdf" caption="Fluids Lecture Notes 1" %}
 
+### Lecture 1: A Topic in Classical Physics 
 
-tab1
+* 7 pages
+
+**Fluid Definition:** A structure \(gas or liquid\) where intermolecular forces are moderate to weak. This contrasts with solids where intermolecular forces are strong. Additionally, there is significant molecular thermal motion and disorder in arrangement. The counter example are crystals, where there is periodicity. 
+
+**Continuum Hypothesis:** A fluid exhibits no structure, no matter how small it is divided. Where $\lambda$  is the mean free path between molecules. Let $L$ be the characteristic length of interest where 
+
+**Time-Space Scale Diagram:** On a power log graph of a bivariate equation 
+
+$$
+\log t = \cancel{k}^{1} \log  x + \cancel{\log a}^0
+$$
+
+Where $x$ and $t$ correspond to SI length and time scales; the constant $k$ is unity, there distinct regions of length scales separating global, fluids, molecular, and atomic interactions. Which line every 3 orders of magnitude. 
 {% endtab %}
 
-{% tab title="Second Tab" %}
-tab2
+{% tab title="2" %}
+{% file src="../../../.gitbook/assets/mane.6520.lecture.2.pdf" caption="Fluids Lecture Notes 2" %}
+
+### Lecture 2: Fluid Properties
+
+* 10 pages
+
+**Density:** Total mass per unit volume is calculated by summation on mass of every molecule. When the increment in volume goes below the cube of the mean free path, increment in mass also loses its identity. 
+
+**Pressure:** Measured in Pascals \[Pa\],  measure of the force per unit area. Derived by conservation of linear momentum along each direction along the 3 identical right triangular faces on the unit tetrahedron. 
+
+* From geometry, the ratio of areas of the cosine of the angles between vectors describing each face to the large equiliateral triangular face. 
+* From Newton's Law for a fluid at rest. 
+* Pressure   
+
+**Temperature:** a measure of the molecular average of the kinetic energy of the particles in a fluid \(typically gas\). Related by Boltzmann's Constant. 
+
+_**Specific**_ **Version of an Extensive Quantity**: is the density normalized version of some measure which otherwise would scale with volume of a fluid. 
+
+Specific Internal Energy: \(how do I even explain this\)
+
+
+
+$$
+du = c_VdT - \left[T\left.\left(\frac{\partial P}{\partial T}\right)\right|_{\rho_{const}}-p\right]\frac{d\rho}{\rho^2}
+$$
+
+Specific Enthalpy:
+
+Energy of creation is one way to think of it 
+
+
+
+$$
+h = u + \frac{P}{\rho} \quad dh = du+ d\left(\frac{P}{\rho}\right)
+$$
+
+Specific Entropy
+
+Measure of disorder. Or measure of deviation from _"perfect"_ order. Second definition comes from Gibbs Eqn. 
+
+
+
+$$
+TdS = c_VdT - \left.\left(\frac{\partial P}{\partial T}\right)\right|_{\rho_{const}}\frac{d \rho}{\rho^2} = dh - \frac{d\rho}{\rho}
+$$
+
+
+
+Simple Compressible Fluid 
+
+Where 2 variables define the rest, so that a surface is described in R^3 \(P,\rho,T\). 
+
+
+
+Phase Diagram 
+
+Three regions of Solid, Liquid, and Vapor meet at one location: the critical point. This is the inflection point with respect to the fluid system energy.  At critical point:
+
+$$
+\left.\left(\frac{\partial P}{\partial \rho}\right)\right|_{T} = \left.\left(\frac{\partial^2 P}{\partial \rho^2}\right)\right|_{T} = 0.
+$$
+
+These state first, that the energy surface is continuous, and then that it is smooth; this is only true when both are identically zero, or homogenous.  
+
+Reducible Values
+
+Akin to the specific versions of extensive properties, normalize one of energy surface's quantities by its critical value. Can be done on pressure, density \(or its' inverse, specific volume\), or temperature. It's also how we have dimensionless versions of working quantities. 
+
+Vander Waals Equation of State
+
+$$
+P = \frac{\rho R T}{1-b\rho}-a\rho^2
+$$
+
+Redlich Kwong Equation of State
+
+$$
+P=\frac{R T}{V_{m}-b}-\frac{a}{\sqrt{T} V_{m}\left(V_{m}+b\right)}
+$$
+
+In the limit as the reduced pressure approaches 0, then we see equation of state of a thermodynamically perfect equation of an ideal gas. 
+
+$$
+P = \rho RT
+$$
+
+### 
 {% endtab %}
 
-{% tab title="Third Tab" %}
+{% tab title="3" %}
 tab 3 as
+
+{% file src="../../../.gitbook/assets/mane.6520.lecture.3.pdf" caption="Fluids Lecture Notes 3" %}
+
+### Lecture 3: Vector and Tensor Math
+
+* 9 pages
+
+Scalar is a property with no preferred direction. These include density, average pressure, temperature, viscosity, enthalpy, and entropy: 
+
+$$
+(\rho, P, T, \mu,h,s).
+$$
+
+Vector properties have preferred directions. List them in order, typically \(x,y,z\). 
+
+Tensor properties have preferences in 2 directions simultaneously. Weird notation used in class but the point comes across. 
+
+Convective Term
+
+Gradient of the velocity vector field produces a tensor field, typically referred to as the velocity gradient which can act on the velocity vector. This is seen in the convective term of Navier-Stokes, or Reynold's Transport Theorem applied to Conservation of Linear Momentum. 
+
+$$
+\frac{D}{Dt} = \frac{\partial}{\partial t} + {\bf v}\cdot \nabla
+$$
+
+Trace of Velocity Gradient or Divergence of Velocity
+
+This is a measure of the compressibility of the fluid and typically zero. 
+
+Vorticity Vector, or application of the differential cross product
+
+Also known as the rotor of a generic vector quantity. 
 {% endtab %}
 
-{% tab title="Fourth Tab" %}
+{% tab title="4" %}
 tab 4
+
+{% file src="../../../.gitbook/assets/mane.6520.lecture.4.pdf" caption="Fluids Notes Lecture 4" %}
+
+### Lecture 4: Fluid Element Kinematics
+
+* 12 pages
+
+Velocity Vector of a fluid element is the rate of change in time of the element's center of gravity. 
+
+Path Line: the trajectory of a single fluid element 
+
+Lagrangian Description: follow individual fluid elements as a local collection of molecules should not change or just as many 
+
+Eulerian Approach: or field variables of scalar or vector properties. or a mapping of a property as a time dependent field. A more analytic approach to get a mapping of a function of space and time. 
+
+Streakline: the collection of all fluid elements which pass through a particular point. Blowing smoke out of a moving car, the contiguous streak of smoke is the line
+
+Streamline: because the velocity field is continuous, a stream line is a line which is tangent to the velocity field at every point. Only possible if there was a weightless totally permeable ribbon
 {% endtab %}
 
-{% tab title="Fifth Tab" %}
+{% tab title="5" %}
 Tab 5
+
+s
+
+### Lecture 5: Fluid Element Spin and Vorticity
+
+* 10 pages 
+
+For some vector quantity, in this case the fluid element's acceleration
+
+$$
+{\bf a}_e = \frac{D {\bf V}_e }{Dt}
+=  \frac{d{\bf V}_e }{dt}
+= \left(\frac{\partial {\bf V}}{\partial t}\right)_e+{\bf V}_e (t) \cdot (\nabla{\bf V})_e
+$$
+
+Here the velocity gradient can be composed of two parts, leveraged because the matrix representation is symmetric:
+
+$$
+\nabla{\bf V} = 
+\overbrace{\frac{1}{2}\left(\nabla{\bf V}+\nabla{\bf V}^T\right)}^{\bf D}
++ 
+\overbrace{\frac{1}{2}\left(\nabla{\bf V}-\nabla{\bf V}^T\right)}^{\boldsymbol \Omega}
+$$
+
+so that the velocity gradient is the sum of the deformation and spin tensors. A key property of the spin tensor is that it is traceless or identically zero along its main diagonal. 
+
+For a time dependent velocity field, then for fixed t:
+
+$$
+{\bf V}(x_0+dx, y_0+dy,z_0+dz,t)
+= {\bf V}(x_0, y_0,z_0,t)
++\frac{\partial V_i}{\partial x_j}\left(x_0, y_0,z_0,t\right)dx_j{\bf e}_i
+$$
+
+using Taylor Series decomposotion decomposition and Einstein summation notation. 
+
+In the limit as 
+
+$$
+d{\boldsymbol\ell}={\bf 0} \text{ or } {dx = dy = dz} \rightarrow 0
+$$
+
+
+
+
+
+Rotation vs. Spin 
+
+Fluid Properties in Time 
 {% endtab %}
 
-{% tab title="Sixth Tab" %}
+{% tab title="6" %}
 Tab6
+
+### Lecture 6: Balance Equations
+
+* 11 pages 
+
+Reynolds Transport Theorem
+
+
+
+
+
+Integral Equations of Balance
+
+* Application of Divergence Theorem
+
+Differential Equations of Balance in Conservative Form 
+
+Conservative vs Regular Form 
+
+Following Fluid Element
+{% endtab %}
+
+{% tab title="7" %}
+asd
+
+### Lecture 7: Intensive and Extensive Properties
+
+* 13 pages
+
+Equations of Motion 
+
+Forces
+
+* Body
+* Surface
+
+ Navier Stokes Equation
+{% endtab %}
+
+{% tab title="8" %}
+### Lecture 8: Fluid Domain Boundaries
+
+* 7 pages 
+
+Summary of Equations
+
+Fluid Boundaries
+
+* Inlet
+* Outlet
+* Rigid Boundary
+* Porous Bodies
+* Far Field
+
+Wall Conditions
+
+Fluid and Temperature Conditions 
+
+Internal and External Flows
+{% endtab %}
+
+{% tab title="9" %}
+### Lecture 9: Selection of Length Scale for Nondimensionalization 
+
+* 14 pages
+
+Choose of set of reference properties 
+
+Flow Across Airfoil
+
+Strouhal Number
+
+Froude Number
+
+Euler Number 
+
+Mach Number
+
+Prandtl Number 
+{% endtab %}
+
+{% tab title="10" %}
+### Lecture 10: Similarity Parameters and Dimensionless Numbers
+
+* 9 pages 
+
+Energy Equation of Fluid Element
+
+Compressibility of Perfect Gas
+
+Thermodynamics of Fluid Elements
+
+Balance of Specific Kinetic Energy in Eulerian Form
+
+Balance of Specific Internal Energy in Eulerian Form 
+{% endtab %}
+
+{% tab title="11" %}
+Lecture 11
 {% endtab %}
 {% endtabs %}
 
-footer
+
+
+## Lectures 12 - 22
+
+
+
+End of tabs here 
 
 
 

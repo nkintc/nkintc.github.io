@@ -10,6 +10,8 @@ description: >-
 
 [RPI study on teaching ](https://peer.asee.org/effect-of-learning-style-on-academic-performance-in-an-introductory-thermal-fluids-course)
 
+[RPI Catalog](http://catalog.rpi.edu/content.php?filter%5B27%5D=MANE&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=20&expand=&navoid=498&search_database=Filter&filter%5Bexact_match%5D=1#acalog_template_course_filter)
+
 
 
 * Acoustic Engineering

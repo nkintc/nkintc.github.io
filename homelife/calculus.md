@@ -4,17 +4,17 @@ description: Places I've been and notes from there
 
 # Geography
 
-## Houston 
+### Houston 
 
 [Last Lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) by Randy Pauch rewatching this with knowledge of hindsight, it takes on new meanings. 
 
-San Antonio
+### San Antonio
 
-Troy 
+### Troy 
 
-Tokyo 
+### Tokyo 
 
-## Bangkok 
+### Bangkok 
 
 I miss her so much. [Final Message](https://www.youtube.com/watch?v=PIMTon7ZYQ0&) from My Mom 
 
