@@ -48,7 +48,7 @@ Icing on the donut
 
 Icing on the donut
 
-1. group select half 
+1. group select half by  alt+z 
 2. group select half s
 
 material nodes  

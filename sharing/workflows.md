@@ -6,19 +6,15 @@ description: >-
 
 # Workflows
 
-### Knowledge Wiki
+## Knowledge Wiki
 
-Writing most online work in markdown files, nowadays. Using Gitbook pages to maintain revision control across machines. [Obsidian ](https://obsidian.md/features)and [Typora](https://typora.io/) are my main workspaces, per-say. Both follow FOSS, or at least the free part. They are both available on macOS, Windows, and Linux.   
+Writing most online work in markdown files, nowadays. Using Gitbook pages to maintain revision control across machines. [Obsidian ](https://obsidian.md/features)and [Typora](https://typora.io/) are my main workspaces, per-say. Both follow FOSS, or at least the free part. They are both available on macOS, Windows, and Linux. Most of the initial work goes into has gone into throwing as much _content_ and letting pairings and organization develop naturally: what do I want to keep track of and let the order come later.
 
-### Wish List of Maker Products 
+## Day-to-Day Notes
 
-[Resin Printer](https://peopoly.net/products/phenom). If one could make a helmet, other cosplay parts should be easy to do as well. Having a large ultrasonic cleaner would be nice to have in cleaning resin.  
+As much time as I spend on the computer, I generally prefer to write out ideas or thoughts. There are too many reasons as to explain why, but one key aspect is being able to freely draw as many lines as one pleases. Lines as letters, as objects, as graphs which can all live on the same sheet of paper. Unless the written notes are bound in a journal or notebook format or they are a contiguous set of notes which fill out more than a single page, I will typically not use the reverse side of the paper. Instead when full, photo scan and file into some directory. Additionally, cropped photos of a white board is also filed in their own folder. 
 
-[Laser Cutter](https://glowforge.com/). Undergraduate time at Trinity had access to the glowforge. It's a really intuitive interface: etching my name and contact into a laptop was simple and straightforward. Would make a [3D scanner easier to make](https://hci.rwth-aachen.de/fabscanoriginal).
-
-Dremel Tool or a speed tool to gently etch with 
-
-
+###  
 
 
 
