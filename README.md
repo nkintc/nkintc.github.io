@@ -20,7 +20,9 @@ description: >-
   * articles and notes from `gDrive/files/` 
   * `leave`
 * Added first changelog 
-* Published blank online with github pages
+* Published blank online with github pages.
+
+\#
 
 ### Changed
 
