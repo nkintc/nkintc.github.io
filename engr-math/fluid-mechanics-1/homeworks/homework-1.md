@@ -384,15 +384,15 @@ Substitution of these results back into the identity being proven shows that the
 {% endtab %}
 
 {% tab title="Graded" %}
+Graded
 
+{% file src="../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
 {% endtab %}
 {% endtabs %}
 
 ## Homework in Latex
 
-## 
-
-$$
+```text
 \begin{align}
 v_{j}v_{j,i}
 &=
@@ -402,5 +402,5 @@ v_{j}v_{j,i}
 
 \overbrace{- v_{j}v_{i,j} + v_{j}v_{j,i}}^\text{must be 0}}.
 \end{align}
-$$
+```
 
