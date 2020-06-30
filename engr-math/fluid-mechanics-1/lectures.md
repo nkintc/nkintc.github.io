@@ -12,7 +12,7 @@ Collected into two groups
 
 {% tabs %}
 {% tab title="1" %}
-{% file src="../../../.gitbook/assets/mane.6520.lecture.1.pdf" caption="Fluids Lecture Notes 1" %}
+{% file src="../../.gitbook/assets/mane.6520.lecture.1.pdf" caption="Fluids Lecture Notes 1" %}
 
 ### Lecture 1: A Topic in Classical Physics 
 
@@ -32,7 +32,7 @@ Where $x$ and $t$ correspond to SI length and time scales; the constant $k$ is u
 {% endtab %}
 
 {% tab title="2" %}
-{% file src="../../../.gitbook/assets/mane.6520.lecture.2.pdf" caption="Fluids Lecture Notes 2" %}
+{% file src="../../.gitbook/assets/mane.6520.lecture.2.pdf" caption="Fluids Lecture Notes 2" %}
 
 ### Lecture 2: Fluid Properties
 
@@ -124,7 +124,7 @@ $$
 {% tab title="3" %}
 tab 3 as
 
-{% file src="../../../.gitbook/assets/mane.6520.lecture.3.pdf" caption="Fluids Lecture Notes 3" %}
+{% file src="../../.gitbook/assets/mane.6520.lecture.3.pdf" caption="Fluids Lecture Notes 3" %}
 
 ### Lecture 3: Vector and Tensor Math
 
@@ -160,7 +160,7 @@ Also known as the rotor of a generic vector quantity.
 {% tab title="4" %}
 tab 4
 
-{% file src="../../../.gitbook/assets/mane.6520.lecture.4.pdf" caption="Fluids Notes Lecture 4" %}
+{% file src="../../.gitbook/assets/mane.6520.lecture.4.pdf" caption="Fluids Notes Lecture 4" %}
 
 ### Lecture 4: Fluid Element Kinematics
 

@@ -2,7 +2,7 @@
 
 
 
-{% file src="../../../.gitbook/assets/mane.6520.notes.student.pdf" caption="MANE 6529: Lecture Notes" %}
+{% file src="../../.gitbook/assets/mane.6520.notes.student.pdf" caption="MANE 6529: Lecture Notes" %}
 
 
 

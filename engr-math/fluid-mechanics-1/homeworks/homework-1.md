@@ -1,11 +1,11 @@
 # Homework 1
 
-Chris Nkinthorn
+{% tabs %}
+{% tab title="Prompt" %}
 
-MANE 6520-01 Fluid Mechanics Fall 2019
+{% endtab %}
 
-Due: September 26, 2019
-
+{% tab title="Attempt" %}
 ## Problem 1
 
 At the thermodynamic critical point the pressure first and second derivatives with specific volume vanish.
@@ -381,6 +381,16 @@ v_{j}v_{i,j}-
 $$
 
 Substitution of these results back into the identity being proven shows that the condition which makes the identity true: that ${\bf v}\times{\bf \omega}$
+{% endtab %}
+
+{% tab title="Graded" %}
+
+{% endtab %}
+{% endtabs %}
+
+## Homework in Latex
+
+## 
 
 $$
 \begin{align}

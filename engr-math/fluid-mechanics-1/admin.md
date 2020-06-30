@@ -11,7 +11,7 @@ Taught by [Prof. Rusak of RPI ](https://faculty.rpi.edu/zvi-rusak)in the fall of
 
 {% tabs %}
 {% tab title="Syllabus" %}
-{% file src="../../../.gitbook/assets/mane.6520.admin.syllabus.pdf" caption="Fluids Syllabus" %}
+{% file src="../../.gitbook/assets/mane.6520.admin.syllabus.pdf" caption="Fluids Syllabus" %}
 {% endtab %}
 
 {% tab title="second" %}
