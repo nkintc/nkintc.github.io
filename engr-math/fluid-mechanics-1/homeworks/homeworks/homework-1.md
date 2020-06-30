@@ -386,7 +386,7 @@ Substitution of these results back into the identity being proven shows that the
 {% tab title="Graded" %}
 Graded
 
-{% file src="../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
 {% endtab %}
 {% endtabs %}
 

@@ -1,72 +1,13 @@
+---
+description: My notes
+---
+
 # Student Notes
-
-
 
 {% file src="../../.gitbook/assets/mane.6520.notes.student.pdf" caption="MANE 6529: Lecture Notes" %}
 
-
-
-Test 1 Study Guide
-
-If I can’t bold something, underline number of rank order bar over variable generally means dimensionless component normally normalized by critical point value
-
-
-
-
-
-
-
-
-
-An introductory graduate course in fluid mechanics.
-
-Topics include:
-
-### Continuum hypothesis
-
-Starting from [here](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/propsoffluids/node3.html)
-
-Notice how the figure starts at what should be nothing and then sparsely increases below a critical differential volume
-
-$$
-\rho=\lim _{\delta \forall \rightarrow \delta \forall_{0}} \frac{\delta m}{\delta \forall}
-$$
-
-* [Perfect gas](https://en.wikipedia.org/wiki/Perfect_gas) 
-
-$$
-p V=n R T \text { and } C_{p}-C_{V}=n R
-$$
-
-| Nomenclature 1 | Nomenclature 2 | Heat capacity at  constant _V_, , or constant _P_, . | Ideal-gas law  and  |
-| :--- | :--- | :--- | :--- |
-| Calorically Perfect | Perfect | Constant | Yes |
-| Thermally Perfect | Semiperfect | T Dependent | Yes |
-| N/A | Ideal | Possible T Dependence | Yes |
-| N/A | Imperfect | P+T dependence | No |
-
-* departures from perfect gas; 
-* Vectors and Tensors; 
-* Conservation laws for a continuum: 
-  * mass
-  * momentum 
-  * energy 
-* Constitutive theory for fluids
-* Viscosity and molecular transport
-* Compressible Navier-Stokes equations
-* Kinematics of the flow field: 
-  * vorticity, 
-  * streamlines; 
-* Incompressible Navier-Stokes equations 
-  * and their applications: 
-  * Poiseuille flow, 
-  * low Reynolds number flows
-  * flows at large Reynolds number, 
-  * boundary layers, 
-  * external flows: 
-  * Flow stability 
-* introduction to the theory of turbulence.
-
+{% tabs %}
+{% tab title="First half " %}
 ## Lecture 1
 
 Fluid mechanics is a topic in classical physics of fluid is a substance gas or liquid where intermolecular forces are medium to week and there's a significant random movement of molecules and disorder in the arrangement
@@ -620,6 +561,8 @@ $$
 
 Consider
 
+
+
 $$
 \rho
 \left(
@@ -659,8 +602,52 @@ $$
 
 \textcolor{red}{\texttt{incomplete}}
 $$
+{% endtab %}
 
-## Lecture 12
+{% tab title="Second half" %}
+This is the stuff after the text
+
+```text
+\rho
+\left(
+    \frac{\partial}{\partial t}
+        \left(
+            \frac{p}{\rho}
+        \right)
+        + 
+        {\bf V}
+        \cdot
+        \nabla
+        \left(
+            \frac{p}{\rho}
+        \right)
+\right)
+
+= 
+
+\left(
+    \cancelto{1}{
+    \rho
+    \left(
+      \frac{1}{\rho}
+    \right)
+    }
+    \frac{\partial p}{\partial t}
+        + 
+        {\bf V}
+        \cdot
+        \nabla
+        \left(
+            \frac{p}{\rho}
+        \right)
+\right)
+
+\\
+
+\textcolor{red}{\texttt{incomplete}}
+```
+
+### Lecture 12
 
 I missed this lecture, mom had a bad day and I had a bad call. RIP
 
@@ -828,6 +815,63 @@ $$
 for x momentum
 
 no model from physical principals for $\overline{\tau}^\text{\(turb\)}\_{ij}$
+{% endtab %}
+
+{% tab title="summary" %}
+An introductory graduate course in fluid mechanics.
+
+Topics include:
+
+### Continuum hypothesis
+
+Starting from [here](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/propsoffluids/node3.html)
+
+Notice how the figure starts at what should be nothing and then sparsely increases below a critical differential volume
+
+$$
+\rho=\lim _{\delta \forall \rightarrow \delta \forall_{0}} \frac{\delta m}{\delta \forall}
+$$
+
+* [Perfect gas](https://en.wikipedia.org/wiki/Perfect_gas) 
+
+$$
+p V=n R T \text { and } C_{p}-C_{V}=n R
+$$
+
+| Nomenclature 1 | Nomenclature 2 | Heat capacity at  constant _V_, , or constant _P_, . | Ideal-gas law  and  |
+| :--- | :--- | :--- | :--- |
+| Calorically Perfect | Perfect | Constant | Yes |
+| Thermally Perfect | Semiperfect | T Dependent | Yes |
+| N/A | Ideal | Possible T Dependence | Yes |
+| N/A | Imperfect | P+T dependence | No |
+
+* departures from perfect gas; 
+* Vectors and Tensors; 
+* Conservation laws for a continuum: 
+  * mass
+  * momentum 
+  * energy 
+* Constitutive theory for fluids
+* Viscosity and molecular transport
+* Compressible Navier-Stokes equations
+* Kinematics of the flow field: 
+  * vorticity, 
+  * streamlines; 
+* Incompressible Navier-Stokes equations 
+  * and their applications: 
+  * Poiseuille flow, 
+  * low Reynolds number flows
+  * flows at large Reynolds number, 
+  * boundary layers, 
+  * external flows: 
+  * Flow stability 
+* introduction to the theory of turbulence.
+
+## 
+{% endtab %}
+{% endtabs %}
+
+
 
 
 

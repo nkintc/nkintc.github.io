@@ -2,7 +2,7 @@
 description: Survey of Vortex Principals
 ---
 
-# Project Proposal
+# Vortex Project
 
 ## Project topic vortex flows
 
