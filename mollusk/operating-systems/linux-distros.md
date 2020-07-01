@@ -10,6 +10,8 @@ description: >-
 
 using the `-` character as a prefix on files makes them \*REALLY\* hard to rename in the shell because it will think its an argument. For example, the situation that caused this note
 
+why everything ends in [rc](https://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files). 
+
 ```text
 mv -fileName1 +fileName2
 mv: illegal option -- N
