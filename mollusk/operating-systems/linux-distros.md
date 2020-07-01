@@ -6,7 +6,16 @@ description: >-
 
 # Unix
 
-### 
+### Random Notes
+
+using the `-` character as a prefix on files makes them \*REALLY\* hard to rename in the shell because it will think its an argument. For example, the situation that caused this note
+
+```text
+mv -fileName1 +fileName2
+mv: illegal option -- N
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+```
 
 
 
