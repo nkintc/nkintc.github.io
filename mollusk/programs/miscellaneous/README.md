@@ -1,5 +1,7 @@
 # Miscellaneous
 
+[matplot lib](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.tripcolor.html) color triad
+
 ### Alfred
 
 Bless this program. One of the first that I paid money for and didn't regret. It serves mainly as a conduit between programs, more than anything 

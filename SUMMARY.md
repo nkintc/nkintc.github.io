@@ -70,6 +70,7 @@
 * [Workflows](sharing/workflows.md)
 * [Social Media](sharing/media/README.md)
   * [Wish List](sharing/media/wish-list.md)
+* [Online Art](sharing/online-art.md)
 
 ## Ideas
 

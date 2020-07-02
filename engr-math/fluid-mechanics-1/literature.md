@@ -4,7 +4,7 @@ description: My notes
 
 # Student Notes
 
-header text and stuff
+Attached are the handwritten notes, collected during lectures by Dr. Rusak. They are mostly an exercise in wrote just as brainless is and attacked for completeness. 
 
 {% file src="../../.gitbook/assets/mane.6520.notes.student.pdf" caption="MANE 6529: Lecture Notes" %}
 
@@ -873,7 +873,7 @@ $$
 {% endtab %}
 {% endtabs %}
 
-
+Consider
 
 
 

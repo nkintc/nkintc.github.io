@@ -7,13 +7,19 @@ description: >-
 
 # What is this?
 
+This collection of markdown and other documents constitute a representative collection of knowledge. Externally this serves as a lasting resource documenting the learning process for a variety of engineering courses as well as my personal process for working on whatever project is at hand. Additionally, it serves as a reclaiming of social media as I manage the files on here and not a platform such as Facebook, Instagram, Snapchat, or one of the numerous companies which make profit from their user's information.
+
+> “Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.” - G. R. R. Martin
+
+Hopefully, this becomes a suit of armor and a source of strength: something to point at which I got to create completely under my own power. 
+
 {% hint style="danger" %}
-\[WORK IN PROGRESS\] What you see is what you get; so proceed at your own risk
+\[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk
 {% endhint %}
 
 ## Built with [Gitbook](https://docs.gitbook.com/)
 
-A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian.  
+A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian. However, cloning the entirety of the repo will also clone documents which belong in other books.  
 
 ## Working with a brainless mass
 
@@ -23,7 +29,7 @@ To maintain, and get a feel for where things are clone the [repository](https://
 $ tree -L [n]
 ```
 
-where `[n]` is the depth we are willing to traverse through this mess. 
+where `[n]` is the depth we are willing to traverse through this mess. However! Since this is a work in progress, cloning directly from the repository 
 
 ### Making your own
 

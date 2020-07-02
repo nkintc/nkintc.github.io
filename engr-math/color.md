@@ -4,15 +4,10 @@ description: Notes on how it works and made.
 
 # Color Theory
 
-On the color [brown](https://www.youtube.com/watch?v=wh4aWZRtTwU), which is dark orange with context.
+A variety of assorted topics: 
 
-Representation of color betwen RBG and[ HSV ](https://en.wikipedia.org/wiki/HSL_and_HSV)
-
-{% embed url="https://www.aao.org/eye-health/tips-prevention/how-humans-see-in-color" %}
-
-[matplot lib](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.tripcolor.html) color triad
-
-[learning](http://learn.leighcotnoir.com/artspeak/elements-color/hue-value-saturation/)
+* On the color [brown](https://www.youtube.com/watch?v=wh4aWZRtTwU), which is dark orange with context.
+* Representation of color betwen RBG and[ HSV ](https://en.wikipedia.org/wiki/HSL_and_HSV); [learning](http://learn.leighcotnoir.com/artspeak/elements-color/hue-value-saturation/)
 
 ![Schubert 2018 figure annotated with left and right half response values](../.gitbook/assets/image%20%281%29.png)
 
