@@ -11,7 +11,8 @@
 
 ## Engineering Mathematics <a id="engr-math"></a>
 
-* [Calculus](engr-math/untitled.md)
+* [Calculus](engr-math/untitled/README.md)
+  * [Miscellaneous](engr-math/untitled/miscellaneous.md)
 * [Fluid Mechanics](engr-math/fluid-mechanics-1/README.md)
   * [Syllabus Description](engr-math/fluid-mechanics-1/admin.md)
   * [Lecture Slides](engr-math/fluid-mechanics-1/lectures.md)

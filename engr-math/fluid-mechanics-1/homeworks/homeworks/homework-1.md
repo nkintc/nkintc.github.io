@@ -1,8 +1,10 @@
 # Homework 1
 
+
+
 {% tabs %}
 {% tab title="Prompt" %}
-
+{% file src="../../../../.gitbook/assets/mane.6520.hw.1.prompt.pdf" caption="Homework 1 Prompt" %}
 {% endtab %}
 
 {% tab title="Attempt" %}
@@ -389,6 +391,8 @@ Graded
 {% file src="../../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ## Homework in Latex
 

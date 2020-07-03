@@ -1,12 +1,10 @@
 ---
-description: Sent by email
+description: >-
+  All the things that were used in class or assigned as homework. Sent by email
+  and hard copies scanned and uploaded.
 ---
 
 # Lecture Slides
-
-## Page Distribution of Lectures
-
-
 
 ## Lectures 1 - 11: Mathematics of Fluid Mechanics
 
@@ -1185,6 +1183,10 @@ for x momentum
 no model from physical principals for $\overline{\tau}^\text{\(turb\)}\_{ij}$
 {% endtab %}
 {% endtabs %}
+
+## Papers 
+
+
 
 
 
