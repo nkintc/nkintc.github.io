@@ -28,13 +28,13 @@ The price which is paid when Sekiro returns to life, when he _dies twice:_ death
 
  
 
-![The first, red, Mortal Blade: a mystical and bloodstained fushigiri capable of slaying the undying.](../../.gitbook/assets/weapon+mortal+blade-min.png)
+![The first, red, Mortal Blade: a bloodstained fushigiri capable able to slay undying.](../../.gitbook/assets/weapon+mortal+blade-min.png)
 
+Sekiro's blade is Kusabimaru
 
+![](../../.gitbook/assets/weapon+kusabimaru-min.png)
 
-A less serious take on this game is [Sekirot](https://www.youtube.com/watch?v=31V6ifW3tNk), which accepted that we're gonna die... a lot...
-
-Additionally, my computer can't even run Sekiro anymore so at some point soon, I'm going to have to make an entertainment server. 
+A less serious take on this game is [Sekirot](https://www.youtube.com/watch?v=31V6ifW3tNk), which accepted that we're gonna die... a lot... [CalebCity](https://www.youtube.com/watch?v=X8TfzFTM5Ys) also had a great short video as well. Additionally, my computer can't even run Sekiro anymore so at some point soon, I'm going to have to make an entertainment server. 
 
 
 
