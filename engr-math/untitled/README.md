@@ -23,6 +23,8 @@ description: >-
 
 Collection of 3 courses: Fluid Mechanics, Solid Mechanics, and Incompressible Flow
 
+Multivariate calculus is the extension of of univariate calculus, which studies mappings $$f: \mathcal{R} \rightarrow \mathcal{R}$$ to more generic $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; relating a vector, $$\boldsymbol{x}$$ of some length$$n$$ to some other vector $$\boldsymbol{y}$$of length $$m$$by multiplication with some some rectangular matrix of dimensions,  $$m \times n$$. This framework is used in all courses except for Machine Dynamics because that class said fuck you that's why. 
+
 {% hint style="info" %}
 Fluid Mechanics content is fully on brainless but is desperately in need of revision and sorting. 
 {% endhint %}
