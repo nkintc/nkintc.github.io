@@ -6,5 +6,7 @@ This course is my least favorite course which I have taken because it required t
 
 {% file src="../../.gitbook/assets/mane.4170.admin.analysisprocedure.pdf" caption="Machine Dynamics Generic Analysis Procedure" %}
 
+{% file src="../../.gitbook/assets/mane.4170.admin.cribsheet.pdf" caption="Machine Dynamics Crib Sheet" %}
+
 
 
