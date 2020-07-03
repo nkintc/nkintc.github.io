@@ -6,6 +6,8 @@ description: Goes into brainless eventually
 
 ![Tesla saves their files under mOcking sPOngEbOb sqUArepAnTs TexT ](.gitbook/assets/image%20%281%29.png)
 
+[statistical solution to 3 body problem](https://www.nature.com/articles/s41586-019-1833-8)
+
 [misfits](https://www.misfitsmarket.com/account/login?return_url=%2Faccount) foods
 
 [misfits](https://www.misfitsmarket.com/account/login?return_url=%2Faccount) foods
@@ -74,9 +76,7 @@ learn [music theory](https://www.musictheory.net/lessons)
 
 [Neil Tyson](https://www.haydenplanetarium.org/tyson/commentary/2020-06-03-reflections-on-color-of-my-skin.php)
 
-[robert lang](http://langorigami.com/math-science-posts/)
 
-[Form Finding Lab with Tomohiro Tachi](https://formfindinglab.wordpress.com/2018/10/09/what-i-am-thinking-origami-artist-and-mathematician-tomohiro-tachi/)
 
 {% embed url="https://e360.yale.edu/features/unequal-impact-the-deep-links-between-inequality-and-climate-change" caption="Reading on racism" %}
 
