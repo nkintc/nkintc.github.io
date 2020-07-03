@@ -9,6 +9,24 @@
 * [Responsibility](meta/reference.md)
 * [Inspirations](meta/inspirations.md)
 
+## Mollusk
+
+* [Programs](mollusk/programs/README.md)
+  * [Octave](mollusk/programs/octave.md)
+  * [LaTeX](mollusk/programs/latex.md)
+  * [sublime](mollusk/programs/sublime.md)
+  * [Blender](mollusk/programs/blender.md)
+  * [Google Chrome](mollusk/programs/chrome-shortcut.md)
+  * [Miscellaneous](mollusk/programs/miscellaneous/README.md)
+    * [gnu stow](mollusk/programs/miscellaneous/gnu-stow/README.md)
+      * [git](mollusk/programs/miscellaneous/gnu-stow/git.md)
+    * [mermaid.js](mollusk/programs/miscellaneous/mermaid.js.md)
+  * [VLC Media Player](mollusk/programs/vlc-media-player.md)
+* [Operating Systems](mollusk/operating-systems/README.md)
+  * [Unix](mollusk/operating-systems/linux-distros.md)
+  * [Windows](mollusk/operating-systems/windows.md)
+* [Android and iOS](mollusk/android.md)
+
 ## Engineering Mathematics <a id="engr-math"></a>
 
 * [Calculus](engr-math/untitled/README.md)
@@ -97,22 +115,4 @@
 * [Comics and Art](entertainment/comics/README.md)
   * [My Hero Academia](entertainment/comics/my-hero-academia.md)
   * [Cowboy Bebop](entertainment/comics/cowboy-bebop.md)
-
-## Mollusk
-
-* [Programs](mollusk/programs/README.md)
-  * [Octave](mollusk/programs/octave.md)
-  * [LaTeX](mollusk/programs/latex.md)
-  * [sublime](mollusk/programs/sublime.md)
-  * [Blender](mollusk/programs/blender.md)
-  * [Google Chrome](mollusk/programs/chrome-shortcut.md)
-  * [Miscellaneous](mollusk/programs/miscellaneous/README.md)
-    * [gnu stow](mollusk/programs/miscellaneous/gnu-stow/README.md)
-      * [git](mollusk/programs/miscellaneous/gnu-stow/git.md)
-    * [mermaid.js](mollusk/programs/miscellaneous/mermaid.js.md)
-  * [VLC Media Player](mollusk/programs/vlc-media-player.md)
-* [Operating Systems](mollusk/operating-systems/README.md)
-  * [Unix](mollusk/operating-systems/linux-distros.md)
-  * [Windows](mollusk/operating-systems/windows.md)
-* [Android and iOS](mollusk/android.md)
 

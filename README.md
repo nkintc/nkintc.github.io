@@ -33,7 +33,7 @@ where `[n]` is the depth we are willing to traverse through this mess. However! 
 
 ### Making your own
 
-The first step is the hardest: saving a file. But once it is there and you treat it as a connection to all of the other files you manage, then in the process of tracking things down, this knowledge will grow over time. 
+The first step is the hardest: saving a file. But once it is there and you treat it as a connection to all of the other files you manage, then in the process of tracking things down, this knowledge will grow over time. The hard part is ironing out all of the kinks. 
 
 
 
