@@ -8,6 +8,8 @@ description: Goes into brainless eventually
 
 **Google Sites**
 
+[statistical solution to 3 body problem](https://www.nature.com/articles/s41586-019-1833-8)
+
 * [Photos ](https://photos.google.com/)
 * [Podcasts](https://podcasts.google.com/)
 

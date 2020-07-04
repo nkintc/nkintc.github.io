@@ -2,6 +2,7 @@
 
 They are 
 
+* [newsletter](https://github.com/learn-anything/newsletters)
 * Replicating target images with geometric [primitives](https://github.com/fogleman/primitive)
   * inspired by [j2kun](https://github.com/j2kun/ellipse-approximation) ellipse [approximation using numba](https://github.com/j2kun/ellipse-approximation) 
 * [Algorithm Visualizer ](https://github.com/algorithm-visualizer/algorithm-visualizer)for [site](https://algorithm-visualizer.org/)
