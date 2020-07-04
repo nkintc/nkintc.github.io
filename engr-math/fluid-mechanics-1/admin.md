@@ -51,5 +51,3 @@ Taught by [Prof. Rusak of RPI ](https://faculty.rpi.edu/zvi-rusak)in the fall of
 
 
 
-
-
