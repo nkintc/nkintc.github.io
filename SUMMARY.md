@@ -25,7 +25,8 @@
 * [Android and iOS](mollusk/android.md)
 * [Operating Systems](mollusk/operating-systems/README.md)
   * [macOS](mollusk/operating-systems/macos.md)
-  * [Unix](mollusk/operating-systems/linux-distros.md)
+  * [Unix](mollusk/operating-systems/linux-distros/README.md)
+    * [folder structure](mollusk/operating-systems/linux-distros/folder-structure.md)
   * [Windows](mollusk/operating-systems/windows.md)
 
 ## Engineering Mathematics <a id="engr-math"></a>
