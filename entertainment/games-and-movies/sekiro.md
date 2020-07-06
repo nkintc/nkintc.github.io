@@ -6,7 +6,7 @@ description: >-
 
 # Sekiro: Shadows Die Twice
 
-Something about this game speaks to me. Even as it tears my computer to shreds because it doesn't have the computing power to render the graphics. Even as I smash my keys and forehead in frustration because _that should have parried!_ Something about this game is so satisfying: defeating an boss or miniboss is just elation when the deathblow marker comes up. But [fighting Genichiro](https://www.youtube.com/watch?v=E_depF8c2B8) just got me hooked.  
+Something about this game speaks to me. Even as it tears my computer to shreds because it doesn't have the computing power to render the graphics. Even as I smash my keys and forehead in frustration because _that should have parried!_ Something about this game is so satisfying: defeating an boss or miniboss is just elation when the deathblow marker comes up. But [fighting Genichiro](https://www.youtube.com/watch?v=E_depF8c2B8)...  
 
 > The intention behind the high difficulty of the games I direct is to evoke a feeling of joy and accomplishment in the player when they overcome these challenges. **-** Hidetaka Miyazaki
 
