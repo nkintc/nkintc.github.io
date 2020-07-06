@@ -8,5 +8,7 @@ description: >-
 
 Most useful thing to be able to do is to shut the whole thing down. The keys are `<super+R>` to bring essentially opens up a single line of the command prompt. Then `shutdown -st 0` to immediately turn the computer off. The argument `r` instead of `s` is restart and `0` is how many seconds to delay.
 
+ctrl + alt + esc will directly bring up task manager
+
 
 

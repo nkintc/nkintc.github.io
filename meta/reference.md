@@ -1,7 +1,7 @@
 ---
 description: >-
   Collection of reasons for public notes, my philosophy on what I write, and why
-  brainless is online.
+  this brainless collection is online.
 ---
 
 # Responsibility
