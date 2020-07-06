@@ -22,11 +22,11 @@
       * [git](mollusk/programs/miscellaneous/gnu-stow/git.md)
     * [mermaid.js](mollusk/programs/miscellaneous/mermaid.js.md)
   * [VLC Media Player](mollusk/programs/vlc-media-player.md)
+* [Android and iOS](mollusk/android.md)
 * [Operating Systems](mollusk/operating-systems/README.md)
   * [macOS](mollusk/operating-systems/macos.md)
   * [Unix](mollusk/operating-systems/linux-distros.md)
   * [Windows](mollusk/operating-systems/windows.md)
-* [Android and iOS](mollusk/android.md)
 
 ## Engineering Mathematics <a id="engr-math"></a>
 
