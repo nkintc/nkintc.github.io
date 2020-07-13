@@ -1,5 +1,15 @@
 # Miscellaneous
 
+### Quick Proof of Bayes Theorem
+
+Partition the possibility space into four sections much like Punnet squares. 
+
+$$
+P(A\cap B) = P(A) P(B | A) = P(B) P(A| B)
+$$
+
+Solve for the conditional probability 
+
 
 
 Multivariate calculus is the extension of of univariate calculus, which studies mappings $$f: \mathcal{R} \rightarrow \mathcal{R}$$ to more generic $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; relating a vector, $$\boldsymbol{x}$$ of some length$$n$$ to some other vector $$\boldsymbol{y}$$of length $$m$$by multiplication with some some rectangular matrix of dimensions,  $$m \times n$$. 
