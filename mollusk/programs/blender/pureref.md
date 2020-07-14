@@ -6,5 +6,7 @@ description: >-
 
 # PureRef
 
-The option to make intangible to mouse might be to allow for tracing through on another program. 
+The [program](https://www.pureref.com/) option to make intangible to mouse might be to allow for tracing through on another program. 
+
+Saved as `.pur` files. 
 
