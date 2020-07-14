@@ -6,6 +6,15 @@ description: Organizing Links in reddit and subreddits
 
 ## HOME FEED SUBREDDITS \(82\)
 
+* art
+* cute
+* engr
+* fail 
+* humor
+* news
+* ref
+* text
+
 
 
 * [multireddit of your subscriptions](https://old.reddit.com/r/abcd_ADHD+ADHD+AnimalsBeingJerks+AskReddit+astrophotography+aww+BadAssShaggy+BadChoicesGoodStories+battlestations+beta+BetterEveryLoop+bisexual+browtfhandsign+brushybrushy+buildapc+ChildrenFallingOver+confusing_perspective+DesperateDesign+devastatingslaps+dogs+donthelpjustfilm+explainlikeimfive+facepalm+famousfuckyous+gadgets+HadToHurt+HighQualityGifs+holdmyfeedingtube+HongKong+howto+HTDYL+Instantregret+intotheshadowrealm+iphone+ItemShop+JustBootThings+leagueoflegends+LeagueOfMemes+lifehacks+LifeProTips+MachinePorn+ManufacturingPorn+memes+mildlyinfuriating+mlem+NamFlashbacks+nononono+nonononoyes+outside+pcmasterrace+PeopleFuckingDying+Perfectfit+perfectlycutscreams+photoshopbattles+Rainmeter+rarepuppers+redditgrl+Rengarmains+ScriptedCatgifs+ScuttleCrabMains+ShitPostCrusaders+Simulated+SkincareAddiction+socialistprogrammers+SweatyPalms+Talonmains+taskwarrior+ThatLookedExpensive+therewasnoattempt+tifu+titantiersuperpowers+tooktoomuch+u_ChrysWatchesGot+UnexpectedMulaney+Whatcouldgowrong+wheredidthesodago+wholesomejojo+WinStupidPrizes+yesyesyesno+yesyesyesyesno+yesyesyesyesyes+zoemains)
