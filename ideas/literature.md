@@ -16,6 +16,10 @@ Why this is up here?
 
 [Francois Clemmons on Fred Rogers](https://www.youtube.com/watch?v=UD7Z-O7U33c)... You are okay as a human being: if you are reading this, I am proud of you. 
 
+> If you knew how quickly people forget the dead you would stop living to impress people. -Unknown
+
+
+
 
 
 
