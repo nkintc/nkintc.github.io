@@ -44,12 +44,16 @@ Steps to make a donut
 16. open subsurface modifier in the properties
     1. render 2 viewport 1 qual 3
 
+
+
 Icing on the donut
 
 Icing on the donut
 
 1. group select half by  alt+z 
-2. group select half s
+2. group select half s**GGGGGGGGGGGGGGGGGGGG**
+
+
 
 material nodes  
 
