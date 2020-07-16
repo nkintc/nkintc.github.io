@@ -27,3 +27,45 @@ But the event gave me hope, and the next night I did it again. This time I didn�
 
 So I can confidently say this decades-old technique worked for me. Mind you, it didn’t work every night. Some nights during that second week I didn’t get that “release” after my visualization. But as the weeks went on, the trick seemed to work more often than not. And it seemed to work more effectively when I visualized myself in a velvety hammock instead of in a canoe, so it helps to switch up visualizations to see what works best.
 
+
+
+[Dr Mike on How to Fall asleep](https://www.youtube.com/watch?v=YvqeWcPwd2o) 
+
+1. Exercise 
+2. Diet
+   1. dont eat within 2/3 hrs before bed 
+   2. not acidic or citrus food 
+   3. no alcohol
+3. naps are hard and \*will\* fuck up your schedule 15-30 min tops 
+4. coffee fix before lunch or before 12  caffeine has a half life of 6 hrs 
+
+evening planning 
+
+1. dim lights 
+2. limit screentime 
+3. make room cool 
+4. cotton sheets 
+
+Bedtime 
+
+1. pitch black 
+2. turn off alerts dont use phone before bed  
+3. no pets on bed 
+4. 15 minutes of trying to sleep do something relaxing after another 15 minutes 
+   1. not phone though
+
+questions 
+
+1. sleep 7 to 9 hrs 
+2. jet lag can be accounted for before reaching destination 
+
+major factors are quantity quality and consistency 
+
+
+
+
+
+
+
+
+

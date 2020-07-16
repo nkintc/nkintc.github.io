@@ -6,11 +6,20 @@ description: Organizing Links in reddit and subreddits
 
 ## HOME FEED SUBREDDITS \(82\)
 
+* admin
 * art
+* engr
+* humor
+* philo
+* text
+* ref
+* origami
+
+
+
 * cute
 * engr
 * fail 
-* humor
 * news
 * ref
 * text
