@@ -10,7 +10,7 @@ How
 
 * is color observed by the human eye? 
 * do people describe the [extended mind](https://en.wikipedia.org/wiki/Extended_mind_thesis)?
-
+* 
 
 
 

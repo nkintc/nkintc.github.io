@@ -2,11 +2,13 @@
 
 * [What is this?](README.md)
 * [Changelog](changelog.md)
+* [Index](index.md)
 * [\[unreleased\]](unreleased.md)
 
 ## meta
 
 * [Responsibility](meta/reference.md)
+* [Geography](meta/calculus.md)
 * [Inspirations](meta/inspirations.md)
 
 ## Mollusk
@@ -140,8 +142,6 @@
   * [Drone Building and Data](ideas/projects/drone.md)
 
 ## Homelife
-
-* [Geography](homelife/calculus.md)
 
 ## Entertainment
 
