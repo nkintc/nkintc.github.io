@@ -10,6 +10,14 @@ chrome://omnibox/
 
 Allows for managing the search bar
 
+googlewebsites for [music](https://musiclab.chromeexperiments.com/Rhythm/)
+
+![a beat in rythmn site](../../.gitbook/assets/image%20%282%29.png)
+
+```text
+
+```
+
 Making food out of what I have using [Munch Labs](https://munchlab.de/)
 
 [legal case](https://www.lexisnexis.com/en-us/home.page#case) reference \(danger!\) and [cases](https://www.oyez.org/) 

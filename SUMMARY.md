@@ -11,8 +11,8 @@
 
 ## Mollusk
 
-* [Blender](mollusk/blender.md)
 * [Programs](mollusk/programs/README.md)
+  * [Blender](mollusk/programs/blender.md)
   * [PureRef](mollusk/programs/pureref.md)
   * [Octave](mollusk/programs/octave.md)
   * [LaTeX](mollusk/programs/latex.md)

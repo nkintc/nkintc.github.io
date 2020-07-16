@@ -22,6 +22,14 @@ The following are exobrains or the crystallized component outside of the meat ba
 
 [Life logging is an extended diary ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose](https://beepb00p.xyz/my-data.html#dashboard) is important. 
 
+As for the philosophy lets look at the etymology of the world 
+
+> philosophy
+>
+> The noun philosophy means the study of proper behavior, and the search for wisdom.
+>
+> The original meaning of the word philosophy comes from the Greek roots philo- meaning "love" and -sophos, or "wisdom." When someone studies philosophy they want to understand how and why people do certain things and how to live a good life. In other words, they want to know the meaning of life. Add the suffix -er to philosophy, and you get a word for someone whose job it is to think these big thoughts.
+
 ### 
 
 
