@@ -4,6 +4,14 @@ description: Goes into brainless eventually
 
 # Rest of the Bookmarks
 
+[How to tell fact from fiction ](https://guides.lib.umich.edu/c.php?g=637508&p=4462444)
+
+* [allsides](https://www.allsides.com/unbiased-balanced-news) where the reports are rated which leads to a cool single peak 
+* [pew research](https://www.pewresearch.org/topics/political-polarization/)
+* adfontesmedia has an [interactive chart ](https://www.youtube.com/watch?v=6aBsjT5HoGY)as of 2020 as a media watchdog with a wikipedia page
+
+
+
 [From how to make local hosts and the rest of the class](https://github.com/dawneraq/websci)
 
 **Google Sites**

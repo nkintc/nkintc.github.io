@@ -6,3 +6,5 @@
 
 
 
+[easy prints 7 list](https://www.youtube.com/watch?v=fq2IKp3jeaY)
+
