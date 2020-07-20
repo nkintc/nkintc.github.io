@@ -1,12 +1,10 @@
-# Homework 3
+# Homework 2
 
 
 
 {% tabs %}
 {% tab title="Prompt" %}
-{% file src="../../../../.gitbook/assets/mane.6520.hw.1.prompt.pdf" caption="Homework 1 Prompt" %}
-
-{% file src="../../../../.gitbook/assets/mane.6520.hw.3.prompt.pdf" caption="Homework 3 Prompt" %}
+{% file src="../../../../../.gitbook/assets/mane.6520.hw.2.prompt.pdf" caption="Homework 2 Prompt" %}
 {% endtab %}
 
 {% tab title="Attempt" %}
@@ -390,563 +388,330 @@ Substitution of these results back into the identity being proven shows that the
 {% tab title="Graded" %}
 Graded
 
-{% file src="../../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
+{% file src="../../../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
 {% endtab %}
 {% endtabs %}
 
 
 
-HW3
+### Problem 1
 
-## Problem 1
-
-Show that the vorticity transport equation for a compressible flow of a Newtonian fluid is:
-
-\(i\) a challenging problem:
+Given the flow velocity field:
 
 $$
-\frac{d \vec{\omega}}{d t}=\vec{\omega} \bullet \nabla \vec{V}-\vec{\omega}(\nabla \bullet \vec{V})+\nabla T \times \nabla s+\mu\left[\frac{1}{\rho} \nabla^{2} \vec{\omega}-\nabla\left(\frac{1}{\rho}\right) \times(\nabla \times \vec{\omega})\right]+\left(\mu_{v}+\frac{4}{3} \mu\right) \nabla\left(\frac{1}{\rho}\right) \times \nabla(\nabla \bullet \vec{V})
+u(x,y,z,t) = 2xt, \quad v(x,y,z,t) = 4y, \quad w(x,y,z,t)=0
 $$
 
-when inviscid
+### Part a
+
+Find the element’s path line and velocity vector as function of time _t_ only for an element that passed through the point $\(x,y,z\)\big\|\_{t=1} = \(1,1,1\)$. Construct a relationship $x\_e=f\_1\(y\_e\)$ for the element’s path line. Notice that there is no change in position with respect to the $z$ direction. Vectors are now simply $\(2\times 1\)$ and tensors $\(2\times 2\)$. For a singular element, the relationship of $x\_e\(t;t\_0\)$ where $t\_0 = 1\text{ sec.}$ is found by solving the vector equation: $\frac{\text{d}{\bf r}\_e\(t\)}{\text{d}t} = {\bf V}\_e\(t\)$, which expressed as a set of scalar equations, is:
 
 $$
-\frac{d(\vec{\omega} / \rho)}{d t}=\frac{\vec{\omega}}{\rho} \bullet \nabla \vec{V}+\frac{1}{\rho} \nabla T \times \nabla s
-$$
+\frac{\text{d}{\bf r}(t)}{\text{d}t} = {\bf V}(t)
 
-Here, T is temperature. Assume viscosity and bulk viscosity are contant.
+\rightarrow
 
-$$
-\mathbf{T} 
+\frac{\text{d}}{\text{d}t}
+\begin{bmatrix}
+x(t)\\y(t)
+\end{bmatrix}
 
 =
 
-\mu(T,p)
+\begin{bmatrix}
+u(x,y,z)\\v(x,y,z)
+\end{bmatrix}
 
-\left[
-\nabla {\bf V}
-+
-(\nabla {\bf V})^T
-- 
-\left(\frac{2}{3}
-\nabla\cdot{\bf V}\right){\bf I}
-\right]
-+
-\mu_v(T,p)
-\left(
-\nabla\cdot{\bf V}\right){\bf I}
-$$
+\begin{split}
+\rightarrow \\
+\rightarrow
+\end{split}
 
-Let $\bf I$ be the identity matrix so that all terms are second order tensors.
-
-$$
-\frac{D}{D t}
-
-=
-\left(
-\frac{\partial}{\partial t}
-+
-{\bf V}\cdot
-\nabla()\right)
-$$
-
-### NS Equation
-
-Assumptions made are constant density and viscosity
-
-$$
-\rho
-\left(
-\frac{D {\bf V}}{D t}
-\right)
-= 
-\rho{\bf F}-\nabla p+ \nabla \cdot {\bf T}
-$$
-
-isolate material derivative
-
-$$
-\frac{D {\bf V}}{D t}
-
-= 
-{\bf F}
--
-\frac{1}{\rho}
-    \nabla p
-+
-\frac{1}{\rho}
-    \nabla \cdot {\bf T}
-$$
-
-Curl the momentum equation using the identity on the second term of the material derivative: ${\bf V}\cdot\nabla{\bf V}$, where the second appearance of the velocity field is the argument of the term. Applying this:
-
-$$
-\frac{d \boldsymbol{\omega}}{dt}
-
-= 
-
-\nabla \times \nabla\left(\frac{1}{2}{\bf V}\cdot{\bf V}\right) 
--
-\nabla \times\left({\bf V}\times{\boldsymbol\omega}\right) 
-
-= 
-
-\nabla\times{\bf F}
--
-\nabla\times
-\frac{1}{\rho}
-    \nabla p
-+
-\nabla
-\frac{1}{\rho}
-    \nabla \cdot {\bf T}
-$$
-
-Investigate each term independently
-
-viscous shear stress according to ns equations
-
-$$
-\nabla {\bf T}
+\underline{\begin{bmatrix}
+\text{d}x\\\text{d}y
+\end{bmatrix}
 
 =
 
-\mu
-
-\left[
-\nabla \cdot(\nabla {\bf V})
-+
-\nabla \cdot(\nabla {\bf V})^T
-- 
-\nabla \cdot\left(\frac{2}{3}
-\nabla\cdot{\bf V}\right){\bf I}
-\right]
-+
-\mu_v
-\nabla \cdot\left(
-\nabla\cdot{\bf V}\right){\bf I}
-
-\\
-=
-\mu
-
-\left[
-(\nabla^2 {\bf V})
-+
-\nabla \cdot(\nabla {\bf V})^T
-- 
-\left(\frac{2}{3}
-\nabla \cdot(\nabla\cdot{\bf V})\right){\bf I}
-\right]
-+
-\mu_v
-\nabla \cdot\left(
-\nabla\cdot{\bf V}\right){\bf I}
-$$
-
-Pressure term
-
-$$
-\nabla \times \left(\frac{1}{\rho}\right)\nabla p
-
-=
-
-\nabla \times \left(\frac{RT}{p}\right)\nabla p
-
-\nabla \times \left(\frac{RT}{p}\right)\cancelto{0}{\nabla p}
-\\
-=
-R\left(T\nabla\left(\frac{1}{p}\right)
-+ 
-\frac{1}{p}\nabla T\right)\times \nabla p
-\\
-$$
-
-Use identity $Tds = dU + dp\left\(\frac{1}{\rho}\right\)$ so that the internal energy is a result of the thermal and pressure terms $dU = Tds + dp\left\(\frac{1}{\rho}\right\)$ and that $\nabla p = \rho C\_p \nabla T - \rho T\nabla $.
-
-$$
-\nabla \times \left(\frac{1}{\rho}\right)\nabla p
-=
-\nabla \left(\frac{1}{\rho}\right)\times\nabla p
-\\
-=
-\nabla \left(\frac{1}{\rho}\right) 
-\left(
-\rho C_p \nabla T - \rho T\nabla
-\right)
-\\
-=
-\rho C_p 
-\nabla
-\left(
-\frac{RT}{p}
-\right)
-\times\nabla T
--
-\nabla\left(
-\frac{1}{\rho}
-\right)
-\times\rho T\nabla s
-\\
-=
-\rho C_p R\nabla
-\left(
-\frac{1}{\rho}\nabla T
-+ 
-T\nabla
-\frac{1}{p}
-\right)
-\left(
-\nabla T\times\nabla T
-\right)
-+ 
-\rho T \nabla 
-\left(\frac{1}{p}\right)\times\nabla s
--
-\rho R T^2
-\nabla\left(
-\frac{1}{p}
-\right)
-\times\nabla s
-$$
-
-isolate and factor where $\nabla \frac{1}{p}= \frac{-1}{p^2}\nabla p$ with three terms now. deal with 2 to show famous identity
-
-$$
-0
-=
-- 
-\frac{\rho RTC_p}{p^2}\nabla p \times \nabla T 
--
-\nabla T \times \nabla s
-+
-\frac{1}{\rho R}
-\left(
-\nabla P
-\times 
-\nabla s
-\right)=0
-$$
-
-so
-
-$$
--\frac{C_{P}}{\rho R T}\left(\rho C_{P} \nabla T-\rho T \nabla s\right) \times \nabla T+\frac{1}{\rho R}\left(\rho C_{P} \nabla T-\rho T \nabla s\right) \times \nabla s=0
-\\
-\frac{C_{p}^2}{ R T}
-\cancel{\nabla T\times\nabla T}
-+ 
-\frac{C_p}{R}
-\nabla s \times \nabla T 
-+
-\frac{C_p}{R}
-\nabla T
-\times\nabla s
--
-\cancel
-{\frac{T}{R}
-\nabla s
-\times\nabla s
+\begin{bmatrix}
+2xt\\4y
+\end{bmatrix}
+\text{d}t
 }
-=0
-\\
-\frac{C_p}{R}
-\nabla s \times \nabla T 
+$$
+
+This equation in integrated between the variables $\(\cdot\)\_0$ to its value at the element, $\(\cdot\)\_e$. Both equations are of the same form, with result of the integration being the natural logarithm. Evaluation of the first direction entry shows:
+
+$$
+\text{ln}(x_e)- \cancelto{0}{\text{ln}(x_0)\big|_{x_0 = 1}}= t^2 - t_0^2\big|_{t_0 = 1} 
+
+\rightarrow
+
+\boxed{ x_e = e^{t^2 -1}}.
+$$
+
+In the second direction, the solution is similar but evolution in time is linear:
+
+$$
+\text{ln}(y_e)- \cancelto{0}{\text{ln}(y_0)\big|_{y_0 = 1}}= t - t_0\big|_{t_0 = 1} 
+
+\rightarrow
+
+\boxed{ y_e = e^{t -1}}.
+$$
+
+Another useful relation found is that $y_e$ is a bijective function of $t$ so that $t=\frac{1}{4}\text{ln}\left\(y\_e\(t\)\right\)+1$. Substitution of this relation back into the first direction equation gives the solution $\boxed{x_  { e } = y  _{ e } ^ { \frac { 1 } { 16 } \left\( \ln \left\( y_  { e } \right\) + 8 \right\) }}$.
+
+### Part b
+
+To find the equation $x = f\_2\(y\)$ which describes the streamline through the same point. The stream function is a potential who’s partial derivative with respect to each direction reveals each directional field. In $2D$, this relation simplifies:
+
+$$
+\frac{\text{d}y}{\text{d}x}
+
+=
+
+\frac{v}{u}
+
+\quad
+
+\rightarrow
+
+\quad 
+
+\int
+\frac{\text{d}x}{2xt}
+
+=
+\int\frac{\text{d}y}{4y}
+
+\rightarrow
+
+\frac{\text{ln}(x)}{\cancelto{1}{t}}
+
+=
+
+\frac{\text{ln}(y)}{2}
+
+\rightarrow
+
+\boxed{x = \sqrt{y}}
+$$
+
+### Part c
+
+Find the equation $x = f\_3\(y\)$ for the streak line at time $t=1$ constructed by all fluid elements that have passed through the point of interest. We pick up from the expressions of the element position from **part a** prior to evaluation at the reference location $x\_0 \text{ and }y\_0$. Let $t$ be a constant so that the expression is a function of $t\_0$, so that $x\_e = e^{1-t\_0^2}$ and $y\_e = e^{4\(1-t\_0\)}$. Substitution using bijectivity again leads to $\boxed{x\_e = e^{\frac{1}{4}\text{ln}\(y\_e\)}}$
+
+Plot all the above lines in a diagram $x$ vs. $y$ and compare between the lines.
+
+```text
+y = linspace(0,10); 
+
+xa = y.^(1/16.*(log(y)+8));
+xb = sqrt(y);
+xc = exp(1/4.*(log(y)));
+
+
+figure(1)
+
+hold on 
+
+plot(xa,y,xb,y,xc,y)
+title('Characteristic Lines')
+xlabel('x-dir')
+ylabel('y-dir')
+legend('Pathline','Streamline','Streakline')
+```
+
+Produces the plot:
+
+### Problem 2
+
+The temperature on the surface of a lake is given by the field $T\({\bf x},t\)$ Find the rate of change of temperature recorded on a thermometer that is dragged through the surface along a trajectory given by ${\bf x} = {\bf r}\(t\)$. Write the answer in terms of a $T$ and an ${\bf r}$ their derivatives.
+
+We are looking for the total derivative with respect to time, a path integral in a scalar field
+
+$$
+\left.
+\frac{\text{d} T({\bf{x}},t)}{\text{d}t} 
+\right|_{{\bf x} = {\bf r}(t)}={\bf r}(t) \cdot \nabla T
+$$
+
+This corresponds to the Lagrangian expression for the fluid element, following it and the total change of the quantity of interest $T$ of the element $\(\cdot\)\_e$ with respect to time $t$. Hence, the use of the total derivative $\frac{\text{d}}{\text{d}t}$, which is analogous to being _inside_ the fluid element, recording the temperature as a function of time. Written compactly in indicial notation and long form expression in the Lagrangian description at the element level is written as:
+
+$$
+\left.
+\frac{\text{d} T({\bf{x}},t)}{\text{d}t} 
+\right|_{{\bf x} = {\bf r}(t)}=
+
+r_i T_{,i} = 
+\underbrace{x \frac{\partial T}{\partial x}
 +
-\frac{C_p}{R}
-\nabla T
-\times\nabla s
-=0
+y \frac{\partial T}{\partial y}
++}_\text{element evaluation}
+\overbrace{
+\cancelto{0}{z \frac{\partial T}{\partial z}}
+}^\text{on surface} 
+
+\rightarrow
+
+\boxed{\left(x \frac{\partial T}{\partial x}
++y \frac{\partial T}{\partial y}\right)\Bigg|_e}
+$$
+
+### Problem 3
+
+Consider the plane \(2D\) stagnation flow given by $u = cx, v = - cy, w=0$. Find the expressions for the vorticity vector $\bf \omega$, the rate of strain tensor $\nabla {\bf V}$, its symmetric $\bf \mathcal{S}$ and skew symmetric $\mathcal{T}$ components, and the rate volumetric expansion for this flow.
+
+$$
+{\bf V} = 
+
+\begin{bmatrix}
+u\\
+v
+\end{bmatrix}
+
+\quad
+
+\omega = \epsilon_{ijk}V_{j,k} = \frac{\partial v}{\partial x} - \frac{\partial u}{\partial y}
+
+\quad 
+
+\nabla{\bf V} =
+
+V_{i,j}
+
+=
+
+\begin{bmatrix}
+\frac{\partial u}{\partial x} & \frac{\partial u}{\partial y} \\
+\frac{\partial v}{\partial x} & \frac{\partial v}{\partial y} 
+\end{bmatrix}
+
+\quad
+
+{\bf \mathcal{S}} =  
+\frac{1}{2}\left(V_{i,j} + V_{j,i}\right)
+=
+\frac{1}{2}\left(\nabla{\bf V} + (\nabla{\bf V} )^T\right)
+
+\quad 
+{\bf \mathcal{T}}
+=
+\frac{1}{2}\left(V_{i,j} - V_{j,i}\right)
+=
+\frac{1}{2}\left(\nabla{\bf V} - (\nabla{\bf V} )^T\right)
+\quad 
+
+\nabla \cdot {\bf V} = V_{i,i}
+$$
+
+Evaluated, these become:
+
+$$
+\boxed{
+{\bf V} = 
+\underline{\begin{bmatrix}
+2xt\\
+4y
+\end{bmatrix}
+}
+
+\quad
+
+\omega =0 + 0 = \boxed{0}
+
+\quad 
+
+\nabla{\bf V}
+=
+
+\boxed{\begin{bmatrix}
+c & 0 \\
+0 & -c 
+\end{bmatrix}}
+
+\quad
+
+{\bf \mathcal{S}} =  
+\boxed{\begin{bmatrix}
+c & 0 \\
+0 & -c
+\end{bmatrix}
+}
+
+\quad 
+{\bf \mathcal{T}}
+=
+\boxed{\begin{bmatrix}
+0 & 0 \\
+0 & 0 
+\end{bmatrix}
+}
+
+\quad 
+
+\nabla \cdot {\bf V} = V_{i,i} = c +(-c) = \boxed{0}}
+$$
+
+### Problem 4
+
+Use the identities given in class to prove that:
+
+$$
+{\bf v} \cdot \nabla  {\bf v} = 
+\frac{1}{2}
+\nabla \left( {\bf v} \cdot {\bf v} \right) -  {\bf v} \times \omega , \text { where }  {\bf v} \text { is the velocity vector and } \omega = \nabla \times  {\bf v}
+\label{eq:rotor}
+$$
+
+This is done by evaluating the two sides, left and right, and showing that they are equivalent. First, noting result is a first order tensor, let us write vectorially the right hand side and use the vector identities to simplify into the left. The useful identity is $\nabla \({\bf a}\cdot {\bf b}\)= {\bf a}\times\(\nabla \times {\bf b}\) + {\bf b}\times\(\nabla \times {\bf a}\) + \({\bf a}\cdot\nabla\){\bf b} +\({\bf b}\cdot\nabla\){\bf a}$ such that the vectors are ${\bf a} = {\bf b} = {\bf v}$. Substitution of the rotor into the expression with the aforementioned identity produces:
+
+$$
+\begin{align}
+{\bf v} \cdot \nabla  {\bf v} 
+&= 
+\bcancel{\cancelto{1}{\frac{1}{2}2}\cdot}\left[\left( 
+{\bf v}\times(\nabla \times {\bf v}) + ({\bf v}\cdot\nabla){\bf v} 
+\right)\right] -  {\bf v} \times \nabla \times  {\bf v} \\
+&= \overbrace{{\bf v}\times(\nabla \times {\bf v})  -  {\bf v} \times \nabla \times  {\bf v}}^\text{identically 0}
++({\bf v}\cdot\nabla){\bf v} 
+= \boxed{{\bf v} \cdot \nabla  {\bf v}}
+\end{align}
+$$
+
+## Problem 5
+
+In order to determine the size of the diameter of a cylinder and the Knudsen number, $\text{Kn}$,of the flow of air characterized by speed of sound, $c$, of $340 \text{ m/s}$, kinematic viscosity $\nu = 1.7\times10^{-5} \text{ m}^2/\text{s}$ for $\text{Ma}=0.5 \text{ or }0.001$ and $\text{Re} = 10 \text{ or }10^6$. Discuss the differences between the various cases and the implications with respect to the validity of fluid mechanics theory for each case. The process to solve is to recognize that the Knudsen number relates the characteristic length $D$ to the mean free path $\lambda$. The Reynolds number, $\text{Re}$, indicates the relative contribution of inertial forces by way of the fluid velocity, $u$, over the characteristic dimension $D$, to viscous forces by way of the fluid viscosity $\nu$. In conjunction this is:
+
+$$
+\text{Ma} = \frac{u}{c}
+
+\qquad
+
+\text{Re} = \frac{uD}{\nu}
+
+= \frac{c\cdot\text{Ma}\cdot D}{\nu}
+
+\qquad 
 
 \rightarrow 
-\underline{
-\nabla \times\left(\frac{1}{p}\right) \nabla p=-\nabla T \times\nabla s
-}
+
+\quad 
+
+\underline{D = \frac{\text{Re}\cdot \nu}{c\cdot \text{Ma}}
+\quad 
+\mathrm{Kn}=\frac{\lambda}{D}}
 $$
 
-Next term
+For particle dynamics in air, assuming STP, $\lambda = 8×10^{−7} \text{ m}$.
 
-$$
-\nabla \times
-\left(
-\frac{1}{\rho}
-\right)
-\nabla\cdot {\bf T}
-= 
-\nabla \times
-\left(
-\frac{\mu}{\rho}
-\left(
-
-\left[
-\nabla \cdot(\nabla {\bf V})
-+
-\nabla \cdot(\nabla {\bf V})^T
-- 
-\nabla \cdot\left(\frac{2}{3}
-\nabla\cdot{\bf V}\right){\bf I}
-\right]
-+
-\frac{\mu_v}{\rho}
-\nabla \cdot\left(
-\nabla\cdot{\bf V}\right){\bf I}
+|  | Ma | Re | D | Kn | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| a | $0.5$ | $10$ | $10^{-6}$ | $0.1$ | Fluid mechanics inapplicable, particle dynamics required |
+| b | $0.5$ | $10^{6}$ | $0.1$ | $10^{-6}$ | Fluid mechanics applicable, compressible turbulent flow |
+| c | $0.001$ | $10$ | $5\times  10^{-3}$ | $2\times 10^{-5}$ | Fluid mechanics applicable, Stokes flow regime |
+| d | $0.001$ | $10^{6}$ | $50$ | $2\times  10^{-9}$ | Fluid mechanics useful, incompressible turbulent flow |
 
 
-\right)
-\right)
-$$
-
-each term is difficult… deal with second viscosity last
-
-$$
-\nabla\times\left(\frac{\mu}{\rho}\right) \nabla^{2} {\bf V}
-=
-\mu\nabla\times
-\left(\frac{1}{\rho}\nabla^2 {\bf V} \right)
-$$
-
-$$
-\mu\left(\frac{1}{\rho}
-\nabla^{2} {\boldsymbol \omega}+\nabla\left(\frac{1}{\rho}\right) \times \nabla^{2} {\bf V}\right)
-=
-\mu
-\left(\frac{1}{\rho} \nabla \times \nabla^{2}{\bf V}+\nabla\left(\frac{1}{\rho}\right) \times \nabla^{2} {\bf V}\right)
-\\
-=
-\mu\left(\frac{1}{\rho} \nabla^{2}{\boldsymbol \omega}+\nabla\left(\frac{1}{\rho}\right) \times \nabla^{2} {\bf V}\right);
-\text{where }\nabla(\vec{\nabla} \cdot {\bf V})-\nabla\times {\boldsymbol \omega}
-\\
-=
-\mu\left(\frac{1}{\rho} \nabla^{2} {\boldsymbol \omega}+\nabla\left(\frac{1}{\rho}\right) \times \nabla^{2} {\bf V}\right)
-\\
-=
-\frac{\mu}{\rho} \nabla^{2} {\boldsymbol \omega}-\nabla\frac{\mu}{\rho} \times(\nabla \times {\boldsymbol\omega})
-$$
-
-ow
-
-$$
-\nabla \times\left(-\mu \frac{2}{3} \nabla 
-\cdot(\nabla \cdot {\bf V} ) {\bf T}\right)=-\frac{2}{3} \mu \nabla \times\left(\frac{1}{\rho} \nabla \cdot(\nabla \cdot {\bf V}) \right)
-$$
-
-with second viscosity
-
-$$
-\nabla \times 
-\left(\frac{\mu_v}{\rho}\cdot \left(\nabla\cdot {\bf V}\right){\bf T}\right)
-=
-\mu_V
-\left(\frac{1}{\rho} \nabla \times \nabla (\nabla  \cdot {\bf V})
-+
-\nabla
-\left(
-\frac{1}{\rho}
-\right)
-\times
-\nabla\cdot
-\left(\nabla\cdot{\bf V}\right)
-\right)
-\\
-=
-\mu_v
-\left(
-\frac{1}{\rho}
-\times\nabla
-\cdot\left(
-\nabla\cdot{\bf V}
-\right)
-\right)
-$$
-
-combining
-
-$$
-\nabla\times
-\left(\frac{1}{\rho}\right)
-\nabla{\bf T}
-=
-\nabla
-\left(
-\frac{\mu}{\rho}
-\left(
-\nabla^2{\bf V}
-+
-\nabla \cdot(\nabla {\bf V})^{T}-\frac{2}{3} \nabla \cdot(\nabla \cdot {\bf V}) {\bf T}
-\right)
-+ 
-\frac{\mu_v}{\rho}\nabla
-\cdot
-\left(
-\nabla
-\cdot
-{\bf V}
-\right)
-\right)
-\\
-=
-\mu
-\frac{1}{\rho}
-\nabla^2
-{\boldsymbol \omega}
--
-\nabla
-\left(
-\frac{1}{\rho}
-\right)
-\times
-\left(
-\nabla\times{\boldsymbol \omega}
-\right)
--\frac{2}{3}
-\mu
-
-\nabla
-\left(
-\frac{1}{\rho}
-\right)
-\times
-\nabla
-\left(
-\nabla\cdot{\bf V}
-\right)
-+
-\mu_v \left(\nabla\left(\frac{1}{\rho}\right)
-\times
-\nabla\cdot\nabla{\bf V}
-\right)
-$$
-
-Finally the curl
-
-$$
-\frac{\partial {\boldsymbol\omega}}{\partial t}
-+
-{\nabla} \times {\nabla}\left(\frac{1}{2}({\bf V} \cdot {\bf V})\right)
--
-{\nabla} \times({\bf V} \times {\boldsymbol \omega})
-$$
-
-so that
-
-$$
-\frac{\partial {\boldsymbol\omega}}{\partial t}
-+
-{\bf V} \cdot \left(\nabla {\boldsymbol\omega}\right)
-=
-{\boldsymbol \omega}\cdot
-\left(
-{\nabla{\bf V}} 
-\right)
-+ 
-{\boldsymbol \omega}
-\left(
-{\nabla\cdot{\bf V}} 
-\right)
-+
-\overbrace{\cancel{{\bf V}
-\left(
-\nabla\cdot\nabla
-\times{\boldsymbol\omega}
-\right)}}^{\text{div(curl(}\cdot{))=0}}
-$$
-
-collect all these terms
-
-$$
-\frac{\partial {\boldsymbol\omega}}{\partial t}
-+
-{\bf V} \cdot \left(\nabla {\boldsymbol\omega}\right)
-=
-{\boldsymbol \omega}\cdot
-\left(
-{\nabla{\bf V}} 
-\right)
-+ 
-{\boldsymbol \omega}
-\left(
-{\nabla\cdot{\bf V}} 
-\right)
-+
-\nabla\times{\bf F}
-+
-\nabla T\times\nabla s
-+
-\mu
-\left(
-\frac{1}{\rho}
-\nabla^2{\boldsymbol\omega}
--
-\nabla
-\left(
-\frac{1}{\rho}
-\right)
-\times
-\left(
-\nabla\times{\boldsymbol\omega}
-\right)
-\right)
-$$
-
-Assuming negligible body forces
-
-$$
-\frac{\partial {\boldsymbol\omega}}{\partial t}
-+
-{\bf V} \cdot \left(\nabla {\boldsymbol\omega}\right)
-=
-{\boldsymbol \omega}\cdot
-\left(
-{\nabla{\bf V}} 
-\right)
-+ 
-{\boldsymbol \omega}
-\left(
-{\nabla\cdot{\bf V}} 
-\right)
-+
-\nabla T\times\nabla s
-+
-\mu
-\left(
-\frac{1}{\rho}
-\nabla^2{\boldsymbol \omega}-
-\nabla\left(\frac{1}{\rho}\right)
-\times\left(\nabla\times{\boldsymbol \omega}\right)
-\right)
-\\
-+
-\left(
-\mu_v+\frac{4}{3}\mu
-\right)
-\left(
-\nabla
-\left(
-\frac{1}{\rho}
-\right)
-\times
-\nabla 
-\left(
-\nabla\cdot{\bf V}
-\right)
-\right)
-$$
-
-IN the case where viscosity goes to zero or inviscid fluid, apply continuity so that all transient terms are functions of the velocity field $\frac{\partial\rho}{\partial t} = -\nabla\cdot\(\rho{\bf V}\)$.
-
-## Problem 2
-
-Determine the pressure in the troposphere where
-
-$$
-T(z) = 288 K – [(288-217)/11000] z, 0 < z < 11,000 m
-$$
-
-## Problem 3
-
-When a uniform stream with an upstream axial velocity u1 = U flows past a cylindrical body, it creates behind the body a low-speed wake axial that may be idealized as a V-shape profile, as shown in the figure below. Assume that the flow is steady, two-dimensional \(with width b normal to the paper\), and incompressible \(with constant density . Also, the pressures p1 and p2 far ahead and behind the body are equal. Use the integral equations for the conservation of mass and balance of momentum to derive a formula for the drag force D \(axial force\) exerted on the body. Also,determine the drag force coefficient CD = D/\( U2Lb\).
-
-## Problem 4
-
-Consider a steady, axisymmetric and incompressible flow \(with constant density  in a circular pipe of radius R. The inlet \(section 1\) axial velocity is uniform, u1 = U0. The flow at the pipe exit \(section 2\) is fully developed \(parallel axial flow\). Use the integral equations for the conservation of mass and balance of momentum to determine umax in terms of R and to find the wall drag force F in terms of p1, p2, U0,  R if the flow at section 2 is
 

@@ -4,9 +4,9 @@
 
 {% tabs %}
 {% tab title="Prompt" %}
-{% file src="../../../../.gitbook/assets/mane.6520.hw.1.prompt.pdf" caption="Homework 1 Prompt" %}
+{% file src="../../../../../.gitbook/assets/mane.6520.hw.1.prompt.pdf" caption="Homework 1 Prompt" %}
 
-{% file src="../../../../.gitbook/assets/mane.6520.hw.4.prompt.pdf" caption="Homework 4 Prompt" %}
+{% file src="../../../../../.gitbook/assets/mane.6520.hw.4.prompt.pdf" caption="Homework 4 Prompt" %}
 {% endtab %}
 
 {% tab title="Attempt" %}
@@ -390,7 +390,7 @@ Substitution of these results back into the identity being proven shows that the
 {% tab title="Graded" %}
 Graded
 
-{% file src="../../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
+{% file src="../../../../../.gitbook/assets/mane.6520.hw.1.graded \(2\).pdf" %}
 {% endtab %}
 {% endtabs %}
 

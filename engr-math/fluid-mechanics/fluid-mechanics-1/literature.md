@@ -1,32 +1,16 @@
 ---
-description: >-
-  All the things that were used in class or assigned as homework. Sent by email
-  and hard copies scanned and uploaded.
+description: My notes
 ---
 
-# Lecture Slides
+# Student Notes
 
-## Lectures 1 - 11: Mathematics of Fluid Mechanics
+Attached are the handwritten notes, collected during lectures by Dr. Rusak. They are mostly an exercise in wrote just as brainless is and attacked for completeness. 
+
+{% file src="../../../.gitbook/assets/mane.6520.notes.student.pdf" caption="MANE 6529: Lecture Notes" %}
 
 {% tabs %}
-{% tab title="1" %}
-{% file src="../../.gitbook/assets/mane.6520.lecture.1.pdf" caption="Fluids Lecture Notes 1" %}
-
-### Lecture 1: A Topic in Classical Physics 
-
-* 7 pages
-
-**Fluid Definition:** A structure \(gas or liquid\) where intermolecular forces are moderate to weak. This contrasts with solids where intermolecular forces are strong. Additionally, there is significant molecular thermal motion and disorder in arrangement. The counter example are crystals, where there is periodicity. 
-
-**Continuum Hypothesis:** A fluid exhibits no structure, no matter how small it is divided. Where $\lambda$  is the mean free path between molecules. Let $L$ be the characteristic length of interest where 
-
-**Time-Space Scale Diagram:** On a power log graph of a bivariate equation 
-
-$$
-\log t = \cancel{k}^{1} \log  x + \cancel{\log a}^0
-$$
-
-Where $x$ and $t$ correspond to SI length and time scales; the constant $k$ is unity, there distinct regions of length scales separating global, fluids, molecular, and atomic interactions. Which line every 3 orders of magnitude. 
+{% tab title="First half " %}
+## Lecture 1
 
 Fluid mechanics is a topic in classical physics of fluid is a substance gas or liquid where intermolecular forces are medium to week and there's a significant random movement of molecules and disorder in the arrangement
 
@@ -47,94 +31,10 @@ Is important to recognize that for very small distances approximately within an 
 density as a function control volume $\rho = \lim\_{\Delta V\rightarrow min} \frac{\Delta m}{\Delta Vol}$
 
 specific volume $ v = 1/\rho$
-{% endtab %}
 
-{% tab title="2" %}
-{% file src="../../.gitbook/assets/mane.6520.lecture.2.pdf" caption="Fluids Lecture Notes 2" %}
+#### Time Space Scale Diagram
 
-### Lecture 2: Fluid Properties
-
-* 10 pages
-
-**Density:** Total mass per unit volume is calculated by summation on mass of every molecule. When the increment in volume goes below the cube of the mean free path, increment in mass also loses its identity. 
-
-**Pressure:** Measured in Pascals \[Pa\],  measure of the force per unit area. Derived by conservation of linear momentum along each direction along the 3 identical right triangular faces on the unit tetrahedron. 
-
-* From geometry, the ratio of areas of the cosine of the angles between vectors describing each face to the large equiliateral triangular face. 
-* From Newton's Law for a fluid at rest. 
-* Pressure   
-
-**Temperature:** a measure of the molecular average of the kinetic energy of the particles in a fluid \(typically gas\). Related by Boltzmann's Constant. 
-
-_**Specific**_ **Version of an Extensive Quantity**: is the density normalized version of some measure which otherwise would scale with volume of a fluid. 
-
-Specific Internal Energy: \(how do I even explain this\)
-
-
-
-$$
-du = c_VdT - \left[T\left.\left(\frac{\partial P}{\partial T}\right)\right|_{\rho_{const}}-p\right]\frac{d\rho}{\rho^2}
-$$
-
-Specific Enthalpy:
-
-Energy of creation is one way to think of it 
-
-
-
-$$
-h = u + \frac{P}{\rho} \quad dh = du+ d\left(\frac{P}{\rho}\right)
-$$
-
-Specific Entropy
-
-Measure of disorder. Or measure of deviation from _"perfect"_ order. Second definition comes from Gibbs Eqn. 
-
-
-
-$$
-TdS = c_VdT - \left.\left(\frac{\partial P}{\partial T}\right)\right|_{\rho_{const}}\frac{d \rho}{\rho^2} = dh - \frac{d\rho}{\rho}
-$$
-
-
-
-Simple Compressible Fluid 
-
-Where 2 variables define the rest, so that a surface is described in R^3 \(P,\rho,T\). 
-
-
-
-Phase Diagram 
-
-Three regions of Solid, Liquid, and Vapor meet at one location: the critical point. This is the inflection point with respect to the fluid system energy.  At critical point:
-
-$$
-\left.\left(\frac{\partial P}{\partial \rho}\right)\right|_{T} = \left.\left(\frac{\partial^2 P}{\partial \rho^2}\right)\right|_{T} = 0.
-$$
-
-These state first, that the energy surface is continuous, and then that it is smooth; this is only true when both are identically zero, or homogenous.  
-
-Reducible Values
-
-Akin to the specific versions of extensive properties, normalize one of energy surface's quantities by its critical value. Can be done on pressure, density \(or its' inverse, specific volume\), or temperature. It's also how we have dimensionless versions of working quantities. 
-
-Vander Waals Equation of State
-
-$$
-P = \frac{\rho R T}{1-b\rho}-a\rho^2
-$$
-
-Redlich Kwong Equation of State
-
-$$
-P=\frac{R T}{V_{m}-b}-\frac{a}{\sqrt{T} V_{m}\left(V_{m}+b\right)}
-$$
-
-In the limit as the reduced pressure approaches 0, then we see equation of state of a thermodynamically perfect equation of an ideal gas. 
-
-$$
-P = \rho RT
-$$
+## Lecture 2
 
 To find the pressure of a hydrostatic fluid look at the unit tetrahedra each of the minor faces has a force orthogonal to eachother. The normal force balancing has to be the balaning them allso that the pressure is the force pre unit area of some arbitrary are
 
@@ -194,43 +94,7 @@ def $\left\( P + a \frac { 1 } { V  _{ m } ^ { 2 } } \right\) \left\( V_  { m } 
 
 def: $p = \frac { R T } { V  _{ m } - b } - \frac { a } { \sqrt { T } V_  { m } \left\( V \_ { m } + b \right\) }$
 
-## 
-{% endtab %}
-
-{% tab title="3" %}
-tab 3 as
-
-{% file src="../../.gitbook/assets/mane.6520.lecture.3.pdf" caption="Fluids Lecture Notes 3" %}
-
-### Lecture 3: Vector and Tensor Math
-
-* 9 pages
-
-Scalar is a property with no preferred direction. These include density, average pressure, temperature, viscosity, enthalpy, and entropy: 
-
-$$
-(\rho, P, T, \mu,h,s).
-$$
-
-Vector properties have preferred directions. List them in order, typically \(x,y,z\). 
-
-Tensor properties have preferences in 2 directions simultaneously. Weird notation used in class but the point comes across. 
-
-Convective Term
-
-Gradient of the velocity vector field produces a tensor field, typically referred to as the velocity gradient which can act on the velocity vector. This is seen in the convective term of Navier-Stokes, or Reynold's Transport Theorem applied to Conservation of Linear Momentum. 
-
-$$
-\frac{D}{Dt} = \frac{\partial}{\partial t} + {\bf v}\cdot \nabla
-$$
-
-Trace of Velocity Gradient or Divergence of Velocity
-
-This is a measure of the compressibility of the fluid and typically zero. 
-
-Vorticity Vector, or application of the differential cross product
-
-Also known as the rotor of a generic vector quantity. 
+## Lecture 3
 
 #### Scalars and Tensors
 
@@ -259,29 +123,8 @@ Rusak’s notation is kinda fucked up. I’m going to copy one verbatim and desc
 $\stackrel{T}{\underline{\underline{}}} = \stackrel{\rightarrow}{a}\stackrel{\rightarrow}{b}$ and does not define the operation which takes place between. Obviously it’s an outer dyatic product but notationally it does not make sense unless indexes are applied
 
 $\textcolor{red}{fucked up }$
-{% endtab %}
 
-{% tab title="4" %}
-tab 4
-
-{% file src="../../.gitbook/assets/mane.6520.lecture.4.pdf" caption="Fluids Notes Lecture 4" %}
-
-### Lecture 4: Fluid Element Kinematics
-
-* 12 pages
-
-Velocity Vector of a fluid element is the rate of change in time of the element's center of gravity. 
-
-Path Line: the trajectory of a single fluid element 
-
-Lagrangian Description: follow individual fluid elements as a local collection of molecules should not change or just as many 
-
-Eulerian Approach: or field variables of scalar or vector properties. or a mapping of a property as a time dependent field. A more analytic approach to get a mapping of a function of space and time. 
-
-Streakline: the collection of all fluid elements which pass through a particular point. Blowing smoke out of a moving car, the contiguous streak of smoke is the line
-
-Streamline: because the velocity field is continuous, a stream line is a line which is tangent to the velocity field at every point. Only possible if there was a weightless totally permeable ribbon  
-
+## Lecture 4
 
 ### Fluid Element Kinematics
 
@@ -311,83 +154,64 @@ Construct field so that
 #### Lagrangian
 
 Follow the element in time so that every variable has a definite derivative wrt time.
-{% endtab %}
 
-{% tab title="5" %}
-Tab 5
+## Lecture 5
 
-s
+Let the quantity of interest be $\bf V$.
 
-### Lecture 5: Fluid Element Spin and Vorticity
+${\bf a}\_e = \frac{D{\bf V}\_e}{Dt} = \frac{d{\bf V}\_e}{dt} = \left\(\frac{\partial{\bf V}\_e}{\partial t} \right\)\_e + {\bf V}\_e\(t\) \cdot \left\(\nabla {\bf V}\right\)\_e $
 
-* 10 pages 
-
-For some vector quantity, in this case the fluid element's acceleration
+Decompose the velocity gradient into even and odd components
 
 $$
-{\bf a}_e = \frac{D {\bf V}_e }{Dt}
-=  \frac{d{\bf V}_e }{dt}
-= \left(\frac{\partial {\bf V}}{\partial t}\right)_e+{\bf V}_e (t) \cdot (\nabla{\bf V})_e
+\nabla {\bf V} = \overbrace{\frac{1}{2}
+\left(\nabla {\bf V}+ \left(\nabla {\bf V}\right)^T\right)}^{\bf D}
++
+\overbrace{\frac{1}{2}
+\left(\nabla {\bf V}- \left(\nabla {\bf V}\right)^T\right)}^{\bf \Omega}
 $$
 
-Here the velocity gradient can be composed of two parts, leveraged because the matrix representation is symmetric:
+$\bf D$ deformation tensor
+
+$\bf \Omega$ spin tensor
+
+Then the velocity vector is described in a Taylor series approximation for fixed time $\textcolor{red}{\texttt{I think he fucked up in the notes here}}$ we have comments of the velocity field in all directions not just ${\bf e}\_x$
 
 $$
-\nabla{\bf V} = 
-\overbrace{\frac{1}{2}\left(\nabla{\bf V}+\nabla{\bf V}^T\right)}^{\bf D}
-+ 
-\overbrace{\frac{1}{2}\left(\nabla{\bf V}-\nabla{\bf V}^T\right)}^{\boldsymbol \Omega}
+{\bf V}(x_o+dx,y_o+dy,z_o+dz,t)
+
+= 
+\\
+\left.{\bf V}\right|_{(x_0,y_0,z_0,t)}
+
++ \left.\frac{\partial {\bf V}_x}{\partial x}\right|_{(x_0,y_0,z_0,t)}dx{\bf e}_x
+
++ \left.\frac{\partial {\bf V}_y}{\partial y}\right|_{(x_0,y_0,z_0,t)}dy{\bf e}_y
+
++ \left.\frac{\partial {\bf V}_z}{\partial z}\right|_{(x_0,y_0,z_0,t)}dz{\bf e}_z
+
++ \text{h.o.t.}\ldots
+
+\\
+
+= 
+
+{\bf V}(x_o,y_o,z_o,t) + (\nabla{\bf V})|_{(x_0,y_0,z_0)}\cdot d{\bf l} + \ldots
 $$
 
-so that the velocity gradient is the sum of the deformation and spin tensors. A key property of the spin tensor is that it is traceless or identically zero along its main diagonal. 
+Note that $d{\bf l}= dx{\bf e}\_x + dy{\bf e}\_y + dz{\bf e}\_z$. In the limit as the differential segment length approaches zero
 
-For a time dependent velocity field, then for fixed t:
+#### Fluid FLow Equations
 
-$$
-{\bf V}(x_0+dx, y_0+dy,z_0+dz,t)
-= {\bf V}(x_0, y_0,z_0,t)
-+\frac{\partial V_i}{\partial x_j}\left(x_0, y_0,z_0,t\right)dx_j{\bf e}_i
-$$
+When Fi is an extensive property \(volume dependent\), the we normalize not by volume but by mass to get a _specific_ quantity : total to specific
 
-using Taylor Series decomposotion decomposition and Einstein summation notation. 
-
-In the limit as 
+As the fluid element evolves in time, we get reynolds transport theorem
 
 $$
-d{\boldsymbol\ell}={\bf 0} \text{ or } {dx = dy = dz} \rightarrow 0
+\frac{d}{d t}(F_{II})=\dot{\mathcal{F}}_{\text {inlet}}-\dot{\mathcal{F}}_{\text {outlet}}+\dot{\mathcal{Q}}_{F}
 $$
 
-
-
-
-
-Rotation vs. Spin 
-
-Fluid Properties in Time 
-{% endtab %}
-
-{% tab title="6" %}
-Tab6
-
-### Lecture 6: Balance Equations
-
-* 11 pages 
-
-Reynolds Transport Theorem
-
-
-
-
-
-Integral Equations of Balance
-
-* Application of Divergence Theorem
-
-Differential Equations of Balance in Conservative Form 
-
-Conservative vs Regular Form 
-
-Following Fluid Element
+## Lecture 6
 
 Reynolds Transport theory
 
@@ -428,21 +252,8 @@ Conservative $\frac{d}{dt}\(\rho e\_t\)+ \rho e\_t\({\bf V \cdot n}\) = \dot{q}\
 Regular $\rho\left\[\frac{d}{dt}\( e\_t\)+ e\_t\({\bf V \cdot n}\)\right\] = \dot{q}\_F$
 
 a
-{% endtab %}
 
-{% tab title="7" %}
-### Lecture 7: Intensive and Extensive Properties
-
-* 13 pages
-
-Equations of Motion 
-
-Forces
-
-* Body
-* Surface
-
- Navier Stokes Equation
+## Lecture 7
 
 Extensive property $F = \int\_V \rho f dV$ so it’s normalized by mass but volume dependent
 
@@ -670,29 +481,7 @@ $$
 
 Nonlinear is ${\bf T} = f\left\(\nabla \cdot {\bf V}\right\)$
 
-## 
-{% endtab %}
-
-{% tab title="8" %}
-### Lecture 8: Fluid Domain Boundaries
-
-* 7 pages 
-
-Summary of Equations
-
-Fluid Boundaries
-
-* Inlet
-* Outlet
-* Rigid Boundary
-* Porous Bodies
-* Far Field
-
-Wall Conditions
-
-Fluid and Temperature Conditions 
-
-Internal and External Flows
+## Lecture 8
 
 ### Summary of Equations
 
@@ -736,27 +525,7 @@ Porous
 
 #### Far Field
 
-## 
-{% endtab %}
-
-{% tab title="9" %}
-### Lecture 9: Selection of Length Scale for Nondimensionalization 
-
-* 14 pages
-
-Choose of set of reference properties 
-
-Flow Across Airfoil
-
-Strouhal Number
-
-Froude Number
-
-Euler Number 
-
-Mach Number
-
-Prandtl Number 
+## Lecture 9
 
 #### Nondimensional equations
 
@@ -771,24 +540,10 @@ $$
 \\
 \text{Property: }t_c, p_c, \rho_c
 $$
-{% endtab %}
 
-{% tab title="10" %}
-### Lecture 10: Similarity Parameters and Dimensionless Numbers
+## Lecture 10
 
-* 9 pages 
-
-Energy Equation of Fluid Element
-
-Compressibility of Perfect Gas
-
-Thermodynamics of Fluid Elements
-
-Balance of Specific Kinetic Energy in Eulerian Form
-
-Balance of Specific Internal Energy in Eulerian Form   
-  
-NRG equation
+### NRG equation
 
 $$
 \rho\left(\frac{\partial e}{\partial t} + {\bf V}\cdot \nabla e\right)
@@ -803,12 +558,12 @@ $$
 
 - \nabla \cdot {\bf q}
 $$
-{% endtab %}
 
-{% tab title="11" %}
-Lecture 11
+## Lecture 11
 
 Consider
+
+
 
 $$
 \rho
@@ -850,35 +605,51 @@ $$
 \textcolor{red}{\texttt{incomplete}}
 $$
 {% endtab %}
-{% endtabs %}
 
+{% tab title="Second half" %}
+This is the stuff after the text
 
+```text
+\rho
+\left(
+    \frac{\partial}{\partial t}
+        \left(
+            \frac{p}{\rho}
+        \right)
+        + 
+        {\bf V}
+        \cdot
+        \nabla
+        \left(
+            \frac{p}{\rho}
+        \right)
+\right)
 
-## Lectures 12 - 22: Physical Flows and Turbulence
+= 
 
-{% tabs %}
-{% tab title="12" %}
-### Lecture 12: Vorticity Transport Equation
+\left(
+    \cancelto{1}{
+    \rho
+    \left(
+      \frac{1}{\rho}
+    \right)
+    }
+    \frac{\partial p}{\partial t}
+        + 
+        {\bf V}
+        \cdot
+        \nabla
+        \left(
+            \frac{p}{\rho}
+        \right)
+\right)
 
-* 6 pages 
+\\
 
-From the equations of motion and the vector identity
+\textcolor{red}{\texttt{incomplete}}
+```
 
-Balance or Transport Equation of Vorticity
-
-* tilting and the stretching/cromressing of vorticity by velocity gradient 
-* measure of the compressibility of of vorticity
-* Baroclinic Effect
-* Viscous Diffusion of Vorticity
-
- Fluid Statics 
-
-* Body Force Due to Gravitation 
-* Due to Atmospheric Pressure 
-
-Focus is on incompressible flow or constant density fluid. 
-
-## Lecture 12
+### Lecture 12
 
 I missed this lecture, mom had a bad day and I had a bad call. RIP
 
@@ -991,163 +762,28 @@ Lecture 3Lecture 4Lecture 5Lecture 6Lecture 7Lecture 8Lecture 9Lecture 10Lecture
 Finite Elements
 
 \# Problem 1 What fluid flow and the requirements for the application of fluid continuum mechanicsThermodynamic identity to differential internal energ What is the expression for specific internal energy using thermodynamic identity Use joe’s post in fluid Knudsen number for STP Air 10E-7 m What is vorticity and rotor? What is its relation to spin vector \# Problem 2 Critical point something? Not sure right now Find the vorticity of a given field Complete the operation for gradient of a scalar and left hand dot \# Problem 3 \# Problem 4Write the lagrangian description of the fluid momentum or the equation of motionDefine each component Write the equation for conservation of energy in differential form Write the equation for the viscous stress tensor used in NS equations Will help to know the derivation 10-10 on so lecture 11
-{% endtab %}
 
-{% tab title="13" %}
-### Lecture 13: Hydraulic Jump Equation
+## Lecture 12
 
-* 10 pages 
+## Lecture 13
 
-In incompressible flow, with constant density and low Mach number systems. 
+## Lecture 14
 
-Conservation of mass and linear momentum 
+## Lecture 15
 
-Example of steady 2d flow without body forces across a flat plate. Constant density
+## Lecture 16
 
-Boundary Conditions 
+## Lecture 17
 
-Conservation of Mass and Momentum 
+## Lecture 18
 
-Example 2 of the Hydraulic Jump 
+## Lecture 19
 
-Three solutions to cubic equation 
+## Lecture 20
 
-$$
-\left(h_{2}-h_{1}\right)\left(h_{2}^{2}+h_{1} h_{2}-\frac{2 v_{1}^{2} h_{1}}{g}\right)=0
-$$
+## Lecture 21
 
-For Froude Number greater or less than 1 
-{% endtab %}
-
-{% tab title="14" %}
-### Lecture 14: Couette and Poiseuille Flow
-
-* 9 pages
-
-Begin with the differential equations of a fluid with constant density, steady flow, incompressible
-
-2D Couette Flow 
-
-Planar Poiseuille Flow
-{% endtab %}
-
-{% tab title="15" %}
-### Lecture 15: Turbulent Flow
-
-* 6 pages 
-
-Axisymmetric Poiseuille Flow 
-
-Application of Continuity and Momentum 
-
-Radial, Tangential, and Axial Momentum Balance
-
-Stress and Drag as a Function of Reynolds Number 
-{% endtab %}
-
-{% tab title="16" %}
-### Lecture 16: Blasius Boundary Layer Stability
-
-* 9 pages 
-
-Flow between two coaxial cylinders 
-
-Flow between two rotating cylinders
-
-* Known as Taylor Couette Flow 
-
-Navier Stokes Equations in Polar Cylindrical Coordinates 
-
-Lubrication Theory 
-
-Slipper Bearing --&gt; Tribology, Lubrication Theory and Sommerfeld Graph 
-{% endtab %}
-
-{% tab title="17" %}
-### Lecture 17: Boundary Layer Growth due to Pressure Gradient
-
-* 13 pages
-
-Measurement of Viscosity 
-{% endtab %}
-
-{% tab title="18" %}
-### Lecture 18: 2D Flow Over Flat Plate
-
-* 13 pages
-
-Flow around a sphere at low Reynolds Number or Stokes Flow 
-
-For Reynolds much less than 1, the NS equations are reducible to ...
-
-In spherical coordinate, 
-
-Application of Legendre Polynomials
-
-[Oseen](http://brennen.caltech.edu/fluidbook/basicfluiddynamics/Stokesflow/oseenflow.pdf)'s extended solution to flow around a sphere 
-
-Unsteady Flow ofa flat plate or the Rayleigh Problem 
-
-Error Function and Runge Kutta Method
-{% endtab %}
-
-{% tab title="19" %}
-### Lecture 19: Boundary Layer Flow Over Flat Plate
-
-* 10 pages
-
-Prandtl Number and Similarity Solution to Boundary Layer Growth 
-
-The Boundary Layer Equation 
-
-Constant Pressure Boundary Layer Equation
-
-Blasius Series Solution Accurate up to Re\_L up to 8x10E4
-
-At greater, the BL is unstable and establishes a turbulent state
-{% endtab %}
-
-{% tab title="20" %}
-### Lecture 20: Boundary Layer on a Smooth Surface with a Pressure Gradient 
-
-* 8 pages
-
-Across an inclined surface, the boundary layer height is much smaller than the length across the surface 
-
-[Falkner-Skan Boundary Layer](https://en.wikipedia.org/wiki/Falkner%E2%80%93Skan_boundary_layer)
-
-Experimental conditions to mimic solution on a real airfoil. 
-{% endtab %}
-
-{% tab title="21" %}
-### Lecture 21: Stability of the Blasius Boundary Layer Solution 
-
-* 14 pages
-
-Linearized BC's should be given 
-
-Stability of Parallel Flows 
-
-Orr Sommerfeld Equation for the 2D Stability of a parallel Flow 
-
-* Flat Plate Boundary
-* Far Field Boundary 
-
-Blasius BL solution, assume that although flow changes with position along 
-
-The growing 2D vorticies inside the BL interact with the plate to form secondary instability along x and z. 
-{% endtab %}
-
-{% tab title="22" %}
-### Lecture 22: Turbulent Flows 
-
-* 12 pages 
-
-Time averaged velocity distribution
-
-Reynolds Averaged Navier Stokes \(RANS\) Equation 
-
-Lecture Notes
+## Lecture 22: Turbulent Flow
 
 ### Reynolds Averaged Navier Stokes \(RANS\) Equations
 
@@ -1182,9 +818,62 @@ for x momentum
 
 no model from physical principals for $\overline{\tau}^\text{\(turb\)}\_{ij}$
 {% endtab %}
+
+{% tab title="summary" %}
+An introductory graduate course in fluid mechanics.
+
+Topics include:
+
+### Continuum hypothesis
+
+Starting from [here](http://www-mdp.eng.cam.ac.uk/web/library/enginfo/aerothermal_dvd_only/aero/fprops/propsoffluids/node3.html)
+
+Notice how the figure starts at what should be nothing and then sparsely increases below a critical differential volume
+
+$$
+\rho=\lim _{\delta \forall \rightarrow \delta \forall_{0}} \frac{\delta m}{\delta \forall}
+$$
+
+* [Perfect gas](https://en.wikipedia.org/wiki/Perfect_gas) 
+
+$$
+p V=n R T \text { and } C_{p}-C_{V}=n R
+$$
+
+| Nomenclature 1 | Nomenclature 2 | Heat capacity at  constant _V_, , or constant _P_, . | Ideal-gas law  and  |
+| :--- | :--- | :--- | :--- |
+| Calorically Perfect | Perfect | Constant | Yes |
+| Thermally Perfect | Semiperfect | T Dependent | Yes |
+| N/A | Ideal | Possible T Dependence | Yes |
+| N/A | Imperfect | P+T dependence | No |
+
+* departures from perfect gas; 
+* Vectors and Tensors; 
+* Conservation laws for a continuum: 
+  * mass
+  * momentum 
+  * energy 
+* Constitutive theory for fluids
+* Viscosity and molecular transport
+* Compressible Navier-Stokes equations
+* Kinematics of the flow field: 
+  * vorticity, 
+  * streamlines; 
+* Incompressible Navier-Stokes equations 
+  * and their applications: 
+  * Poiseuille flow, 
+  * low Reynolds number flows
+  * flows at large Reynolds number, 
+  * boundary layers, 
+  * external flows: 
+  * Flow stability 
+* introduction to the theory of turbulence.
+
+## 
+{% endtab %}
 {% endtabs %}
 
-## Papers 
+Consider
 
 
 
