@@ -11,3 +11,38 @@ the second avoids duplication of the, is shorter, and way cooler
 
 
 
+Doctor Mike Notes
+
+[on summer body](https://www.youtube.com/watch?v=w2I9PTD182A&)
+
+1. sleep 7 to 9 hours  
+2. fuel up and eat 
+
+
+
+[build fat keep muscle ](https://www.youtube.com/watch?v=KNQwfd2kLJg)uses an app :/ fuck 
+
+[productivity ](https://www.youtube.com/watch?v=o3BqdvmmTHk)
+
+1. sleep well 
+2. busy does not mean productive 
+3. routine 
+   1. learn to say no as time is the only limited resources 
+   2. multitasking to the top of your ability and make sure they are complimentary 
+4. get the best tech as they are an investment in yourself and the future 
+5. make room for down time and totally detach 
+6. procrastination 
+   1. passive  that is me 
+   2. active as they are the 
+7. self reflection is essential to growth 
+8. celebrate wins in order to keep serotonin going in 
+9. if it doesnt work at work then maybe the work isnt for you 
+
+
+
+
+
+
+
+
+
