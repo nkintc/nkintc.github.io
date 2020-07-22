@@ -5,11 +5,32 @@
 * [Index](index.md)
 * [\[unreleased\]](unreleased.md)
 
+## Sharing
+
+* [Workflows](sharing/workflows.md)
+* [Social Media](sharing/media/README.md)
+  * [Wish List](sharing/media/wish-list.md)
+* [Online Art](sharing/online-art.md)
+
 ## meta
 
 * [Responsibility](meta/reference.md)
 * [Geography](meta/calculus.md)
 * [Inspirations](meta/inspirations.md)
+* [Research](meta/research.md)
+
+## Ideas
+
+* [Comics and Art](ideas/comics/README.md)
+  * [My Hero Academia](ideas/comics/my-hero-academia.md)
+  * [Cowboy Bebop](ideas/comics/cowboy-bebop.md)
+* [Literature](ideas/literature.md)
+* [Projects](ideas/projects/README.md)
+  * [Photogrammetry](ideas/projects/photogrammetry.md)
+  * [3D Printing and Solid Objects](ideas/projects/3d-printing.md)
+  * [Drone Building and Data](ideas/projects/drone.md)
+* [Games and Movies](ideas/games-and-movies/README.md)
+  * [Sekiro: Shadows Die Twice](ideas/games-and-movies/sekiro.md)
 
 ## Mollusk
 
@@ -32,22 +53,6 @@
   * [Unix](mollusk/operating-systems/linux-distros/README.md)
     * [folder structure](mollusk/operating-systems/linux-distros/folder-structure.md)
   * [Windows](mollusk/operating-systems/windows.md)
-
-## Sharing
-
-* [Workflows](sharing/workflows.md)
-* [Social Media](sharing/media/README.md)
-  * [Wish List](sharing/media/wish-list.md)
-* [Online Art](sharing/online-art.md)
-
-## Ideas
-
-* [Literature](ideas/literature.md)
-* [Research](ideas/research.md)
-* [Projects](ideas/projects/README.md)
-  * [Photogrammetry](ideas/projects/photogrammetry.md)
-  * [3D Printing and Solid Objects](ideas/projects/3d-printing.md)
-  * [Drone Building and Data](ideas/projects/drone.md)
 
 ## Engineering Mathematics <a id="engr-math"></a>
 
@@ -141,14 +146,4 @@
       * [d4](engr-math/heat-transfer/assignments/discussions/d4.md)
       * [d3](engr-math/heat-transfer/assignments/discussions/d3.md)
     * [Project Notes](engr-math/heat-transfer/assignments/project-notes.md)
-
-## Homelife
-
-## Entertainment
-
-* [Games and Movies](entertainment/games-and-movies/README.md)
-  * [Sekiro: Shadows Die Twice](entertainment/games-and-movies/sekiro.md)
-* [Comics and Art](entertainment/comics/README.md)
-  * [My Hero Academia](entertainment/comics/my-hero-academia.md)
-  * [Cowboy Bebop](entertainment/comics/cowboy-bebop.md)
 
