@@ -9,15 +9,15 @@ example of yaml front matter
 ```yaml
 ---
 # My personal record
-name: Saurabh Kumar Gupta
-Title: Sr. Project Lead
+name: Chris Nkinthorn
+title: author
 skill: JAVA/J2EE
-employed: True
+employed: 0
 domains:
-    - Telecom
-    - Finance
-    - Banking
-    - Healthcare
+    - engineering
+    - making
+    - computation
+    - 
 languages:
     ELK: Medium
     JAVA: Expertize
