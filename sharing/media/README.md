@@ -1,14 +1,4 @@
----
-description: An assorted list of beautiful things from across the web
----
-
 # Social Media
 
-Starting to move away from social media sites, slowly 
+The internet is just a bunch of computers. What a stunning revelation, I know, but there is a point. At the end of the day how people communicate is through some intermediate 
 
-* facebook
-* instagram
-* imgur
-* reddit 
-* youtube
-* 
