@@ -6,6 +6,10 @@ description: >-
 
 # Calculus
 
+Notes from [eigenChris's ](https://www.youtube.com/user/eigenchris)video series, which is surprisingly apt. I'm a little staggered at the size of his library of work but 
+
+
+
 ## List of Courses in Brainless
 
 ```text
@@ -19,9 +23,7 @@ description: >-
     - Heat Transfer 
 ```
 
-### Continuum Mechanics
-
-Collection of 3 courses: Fluid Mechanics, Solid Mechanics, and Incompressible Flow
+### 
 
 Multivariate calculus is the extension of of univariate calculus, which studies mappings $$f: \mathcal{R} \rightarrow \mathcal{R}$$ to more generic $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; relating a vector, $$\boldsymbol{x}$$ of some length$$n$$ to some other vector $$\boldsymbol{y}$$of length $$m$$by multiplication with some some rectangular matrix of dimensions,  $$m \times n$$. This framework is used in all courses except for Machine Dynamics because that class said fuck you that's why. 
 
