@@ -8,6 +8,10 @@ List
 
 
 
+* method for labeling wikipedia links in a manner similar to [beepb00p](https://beepb00p.xyz/tags.html#lifelogging)
+
+
+
 *  * What is this?
   * Changelog
   * Index
