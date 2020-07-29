@@ -7,8 +7,6 @@ description: >-
 
 # Literature
 
-## 
-
 
 
 ## Quotes

@@ -57,6 +57,7 @@
 * [Calculus](engr-math/untitled/README.md)
   * [Syllabus Description](engr-math/untitled/syllabus-description.md)
   * [Miscellaneous](engr-math/untitled/miscellaneous.md)
+* [Computer Science](engr-math/computer-science.md)
 * [Color Theory](engr-math/color.md)
 * [Experimental Mechanics](engr-math/experimental-mechanics/README.md)
   * [Syllabus Description](engr-math/experimental-mechanics/syllabus-description.md)

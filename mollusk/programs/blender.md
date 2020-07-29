@@ -9,7 +9,7 @@ description: 'Making 3D objects real, at least virtually'
 * [material nodes](https://www.youtube.com/watch?v=cQ0qtcSymDI)
 * [modifier](https://www.youtube.com/watch?v=8BQYAwDW6IE)
 
-
+[Quick rundown of tips](https://www.youtube.com/watch?v=fKH1XobKWnc)
 
  
 
