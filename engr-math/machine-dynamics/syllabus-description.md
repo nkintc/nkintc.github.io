@@ -8,5 +8,9 @@ This course is my least favorite course which I have taken because it required t
 
 {% file src="../../.gitbook/assets/mane.4170.admin.cribsheet.pdf" caption="Machine Dynamics Crib Sheet" %}
 
+Class used Motion Genesis, attached as a zip file
+
+{% file src="../../.gitbook/assets/mane.4170.motiongenesis.zip" caption="Machine Dynamics Motion Genesis Solver" %}
+
 
 

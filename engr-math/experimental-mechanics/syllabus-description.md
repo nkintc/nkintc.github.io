@@ -36,9 +36,39 @@ for n = 1:frequency:v.FrameRate*v.Duration
           imwrite(imind,cm,filename,'gif','WriteMode','append'); 
     end 
 end
+
+
+
 ```
 
 
+
+
+
+```text
+
+figure(2)
+plot(data2(:,1),data2(:,2),data2(:,3),data2(:,4))
+
+title('Stress Strain Curves for PDMS of Varied Harding Ratios ')
+xlabel('Indentation Depth [nm]')
+ylabel('Force [N]')
+legend('Sample 1 - 1:20','Sample 2 - 1:10')
+```
+
+![Given two samples to analyze on the AFM to measure the surface hardness of PDMS samples. ](../../.gitbook/assets/curve2%20%281%29.png)
+
+![](../../.gitbook/assets/curve.png)
+
+{% tabs %}
+{% tab title="First Tab" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
