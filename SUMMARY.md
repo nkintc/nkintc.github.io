@@ -7,11 +7,11 @@
 
 ## meta
 
+* [Responsibility](meta/reference.md)
 * [Sharing](meta/sharing/README.md)
   * [Inspirations](meta/sharing/inspirations.md)
   * [Workflows](meta/sharing/workflows.md)
   * [Social Media](meta/sharing/media.md)
-* [Responsibility](meta/reference.md)
 * [Geography](meta/calculus.md)
 * [Research](meta/research.md)
 
@@ -20,12 +20,13 @@
 * [Comics and Art](ideas/comics/README.md)
   * [My Hero Academia](ideas/comics/my-hero-academia.md)
   * [Cowboy Bebop](ideas/comics/cowboy-bebop.md)
-* [Literature](ideas/literature.md)
-* [Projects](ideas/projects/README.md)
-  * [Photogrammetry](ideas/projects/photogrammetry/README.md)
-    * [Wish List](ideas/projects/photogrammetry/wish-list.md)
-  * [3D Printing and Solid Objects](ideas/projects/3d-printing.md)
-  * [Drone Building and Data](ideas/projects/drone.md)
+* [Literature](ideas/literature/README.md)
+  * [Projects](ideas/literature/projects/README.md)
+    * [Photogrammetry](ideas/literature/projects/photogrammetry/README.md)
+      * [Wish List](ideas/literature/projects/photogrammetry/wish-list.md)
+    * [3D Printing and Solid Objects](ideas/literature/projects/3d-printing.md)
+    * [Drone Building and Data](ideas/literature/projects/drone.md)
+  * [Quotes](ideas/literature/quotes.md)
 * [Games and Movies](ideas/games-and-movies/README.md)
   * [Sekiro: Shadows Die Twice](ideas/games-and-movies/sekiro.md)
 

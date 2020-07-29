@@ -7,7 +7,7 @@ description: >-
 
 # Android and iOS
 
-### Pixelmate
+### [Pixelmate](https://github.com/eladnava/pixelmate)
 
 Finding a way to manage a Pixel 3 sucks but thankfully, the [workaround](https://github.com/eladnava/pixelmate) was made by a person more clever than I am. 
 
