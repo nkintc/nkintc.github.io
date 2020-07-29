@@ -11,7 +11,7 @@ This collection of markdown and other documents constitute a representative coll
 
 > “Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.” - G. R. R. Martin
 
-Hopefully, this becomes a suit of armor and a source of strength: something to point at which I got to create completely under my own power. This mess of an entity is not meant to be read in one sitting. Reading more than one page should not be necessary because of the intent of this project: each file should be a singular and self-contained document which hold all the necessary information on whatever topic. Though one can always point at something to reference but unless you made it, one day when you reach for it, it will be gone.  
+Hopefully, this becomes a suit of armor and a source of strength: something to point at which I got to create completely under my own power. This mess of an entity is not meant to be read in one sitting. Reading more than one page should not be necessary because of the intent of this project: each file should be a singular and self-contained document which hold all the necessary information on whatever topic. Though one can always point at something to reference but unless you made something with it outside of your brain, one day when you reach for it, it will be gone.  
 
 {% hint style="danger" %}
 \[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk
