@@ -61,8 +61,8 @@ legend('Sample 1 - 1:20','Sample 2 - 1:10')
 ![](../../.gitbook/assets/curve.png)
 
 {% tabs %}
-{% tab title="First Tab" %}
-
+{% tab title="Papers" %}
+{% file src="../../.gitbook/assets/mane.6962.paper.polycrystaldendrite.pdf" %}
 {% endtab %}
 
 {% tab title="Second Tab" %}

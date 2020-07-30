@@ -16,7 +16,7 @@ When I read about how simple it is to convert notes between formats using [pando
 
 Math can be written about with less repetition. Inline math helps blend the line between talking about concepts using variables which are beyond the scope of simple variable placeholders. For example, when I write $$\hbar$$, the reduced Planck's constant likely jumped to mind without having to have mentioned any physics previously. Simply the fact, this document is in English and that quanta of electromagnetic action is traditionally represented with the variable $$h$$, being reduced by the circular frequency, or the `bar` in `hbar`, the knowledge that was already in your head jumped to the front of mind. If that little experiment worked, then the rest of this might be useful to you. 
 
-This knowledge is not meant to be kept by me alone. It is our responsibility as [custodians, online](http://custodians.online/) to share what we know. To remember how very small this project is, here is [some sense of scale](http://stars.chromeexperiments.com/). 
+This knowledge is not meant to be kept by me alone. It is our responsibility as [custodians, online](http://custodians.online/) to share what we know. To remember how very small this project is, here is [some sense of scale](http://stars.chromeexperiments.com/). As Sarte eloquently put, "[Existence preceeds essence](https://en.wikipedia.org/wiki/Existence_precedes_essence)" or better still "fucking around preceeds finding out". 
 
 
 
