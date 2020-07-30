@@ -61,14 +61,142 @@ legend('Sample 1 - 1:20','Sample 2 - 1:10')
 ![](../../.gitbook/assets/curve.png)
 
 {% tabs %}
+{% tab title="jpeg" %}
+![](../../.gitbook/assets/mane.6962.experimental.session.afm.20181105_112027%20%283%29.jpg)
+
+a
+
+![](../../.gitbook/assets/mane.6962.experimental.session.extension.img_9231%20%282%29.jpg)
+
+d
+
+![](../../.gitbook/assets/mane.6962.experimental.session.extension.img_9236%20%282%29.jpg)
+
+f
+
+![](../../.gitbook/assets/mane.6962.experimental.session.extension.sampleb.gif)
+
+s
+
+d
+
+d
+
+![](../../.gitbook/assets/mane.6962.experimental.session.extension.samplec%20%285%29.gif)
+
+asd
+
+![](../../.gitbook/assets/mane.6962.experimental.session.extension.samplec.gif)
+
+![](../../.gitbook/assets/mane.6962.experimental.session.extension.sampled%20%281%29.gif)
+{% endtab %}
+
 {% tab title="Papers" %}
 {% file src="../../.gitbook/assets/mane.6962.paper.polycrystaldendrite.pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.protocol \(2\).pdf" %}
+
+  
+  
+  
+  
+
+
+{% file src="../../.gitbook/assets/mane.6962.syllabus \(2\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.slides.photoelasticity.pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.prompt.final.presentation.pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.presentation.midterm \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.presentation.final \(3\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.paper.midterm.pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.notes.student \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.notes.photoelasticity \(2\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.notes.manualtracking.pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.notes.afmhandbook.pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.hw2.prompt \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.hw1.studentsol \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.protocol \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.hw2.prompt \(3\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.hw1.studentsol \(2\).pdf" %}
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.afm.20181105\_112027 \(2\).jpg" %}
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="csv" %}
+some
 
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.extension.sampleares \(1\).csv" %}
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.specimen\_rawdata\_a \(1\).csv" %}
+
+
+
+csv
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.extension.samplebres.csv" %}
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.specimen\_rawdata\_b \(1\).csv" %}
+
+file 
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.extension.samplecres \(2\).csv" %}
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.specimen\_rawdata\_c \(1\).csv" %}
+
+data 
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.extension.sampledres \(3\).csv" %}
+
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.specimen\_rawdata\_d \(2\).csv" %}
+
+asd
+{% endtab %}
+
+{% tab title="word" %}
+{% file src="../../.gitbook/assets/mane.6962.experimental.session.prompt \(3\).docx" %}
+
+s
+
+{% file src="../../.gitbook/assets/mane.6962.notes.moviereader \(2\).docx" %}
+
+s
+
+{% file src="../../.gitbook/assets/mane.6962.notes.ncorr \(3\).docx" %}
+
+s
+
+{% file src="../../.gitbook/assets/mane.6962.procedure.afmdata.docx" %}
+
+s
+
+
+
+s
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
+
+
+
+
 
 
 

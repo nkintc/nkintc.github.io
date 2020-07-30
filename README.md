@@ -29,7 +29,13 @@ To maintain, and get a feel for where things are clone the [repository](https://
 $ tree -L [n]
 ```
 
-where `[n]` is the depth we are willing to traverse through this mess. However! Since this is a work in progress, cloning directly from the repository will also clone the other gitbooks that I'm working: this means that folder structure is not preserved so singular pages only
+where `[n]` is the depth we are willing to traverse through this mess. However! Since this is a work in progress, cloning directly from the repository will also clone the other gitbooks that I'm working: this means that folder structure is not preserved and working offline requires downloading the whole thing as well as all the other shit I'm working on in these gitbooks.  
+
+### Navigation 
+
+If I had a set of three words which I try to live by, something which I have thought on for some time now, they would be `curiosity`,`integrity`, and `compassion`. Something about those three words, together, ring true to me. Particularly so, if treated as an ordered list. First, being `curiosity` as without the desire to know, there there is no impetus for the rest. If one doesn't know about the topic then what integrity is there to uphold or what is there compassion to be shown for? There needs to be that innate desire to know which will serve as the foundation for everything else. Then comes `integrity`, which is the property which allows for something to withstand the test of time. Finally `compassion`, which is more of a colligative property. It is something you can have for yourself but is most clearly seen when shared between two people. 
+
+This brainless mass is most like the `curiosity` that I try to live by. For this to do some work, I've got to make some record. It might be at least two years late in writing this down, but in my defense I did not know that these resources existed and even if I did, I would not yet have 
 
 ### Making your own
 
