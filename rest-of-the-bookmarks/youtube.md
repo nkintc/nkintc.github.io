@@ -6,16 +6,19 @@ description: Channel Notes
 
 Math Channel 
 
-* v3x or vcubingx has great 3b1b like videos in similar animation such as [fractional calculus](https://www.youtube.com/watch?v=A4sTAKN6yFA) or his [variational calc ](https://www.youtube.com/watch?v=8SwKD5_VL5o)
+* v3x or vcubingx has great like videos in 
+  *  [fractional calculus](https://www.youtube.com/watch?v=A4sTAKN6yFA) 
+  *  [variational calc ](https://www.youtube.com/watch?v=8SwKD5_VL5o)
+*  3b1b
 
 
 
 medical channels
 
-* chubby emu and dr mike 
-* institute of human anatomy such as their [skin video](https://www.youtube.com/watch?v=eCsrAbUP-10)
-
-
+* chubby emu 
+* dr mike 
+* institute of human anatomy 
+  *  [skin video](https://www.youtube.com/watch?v=eCsrAbUP-10)
 
 engineering 
 
