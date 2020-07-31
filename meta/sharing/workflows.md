@@ -10,7 +10,9 @@ description: >-
 
 Writing most online work in markdown files, nowadays. Using Gitbook pages to maintain revision control across machines. [Obsidian ](https://obsidian.md/features)and [Typora](https://typora.io/) are my main workspaces, per-say. Both follow FOSS, or at least the free part. They are both available on macOS, Windows, and Linux. Most of the initial work goes into has gone into throwing as much _content_ and letting pairings and organization develop naturally: what do I want to keep track of and let the order come later.
 
-When writing articles on brainless, I'll try to get 
+When writing articles on brainless, I'll try to get the words down first and fill in the links later. it would be really nice to have some time tracking on this but I'm only human and can only do so much at one time.  additionally seeing how long this takes as it chips away by the hour would probably eat very quickly at any drive to keep going. 
+
+
 
 ## Day-to-Day Notes
 
