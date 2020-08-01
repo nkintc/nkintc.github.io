@@ -8,5 +8,5 @@ description: 'Notes for the Riot Games MOBA, League of Legends'
 
 {% embed url="https://developer.riotgames.com/apis\#account-v1/GET\_getByPuuid" %}
 
-
+[rito developer](https://developer.riotgames.com/) $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; r
 

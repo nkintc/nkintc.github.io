@@ -4,13 +4,10 @@ They are
 
 [update github self updating readme ](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)which references [process here](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/)
 
-
-
-
-
 [api spreadsheet](https://apispreadsheets.com/)
 
 * [nice readme template](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [https://www.lalal.ai/](https://www.lalal.ai/) split audio like[ spleeter ](https://github.com/deezer/spleeter)
 * [newsletter](https://github.com/learn-anything/newsletters)
 * Replicating target images with geometric [primitives](https://github.com/fogleman/primitive)
   * inspired by [j2kun](https://github.com/j2kun/ellipse-approximation) ellipse [approximation using numba](https://github.com/j2kun/ellipse-approximation) 
