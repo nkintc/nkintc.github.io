@@ -19,7 +19,7 @@ usage: mv [-f | -i | -n] [-v] source target
        mv [-f | -i | -n] [-v] source ... directory
 ```
 
-
+[Tmux customization ](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)vs screen
 
 ## 
 

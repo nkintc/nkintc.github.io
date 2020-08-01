@@ -6,6 +6,8 @@ description: >-
 
 # \[unreleased\]
 
+* method for labeling wikipedia links in a manner similar to [beepb00p](https://beepb00p.xyz/tags.html#lifelogging)
+
 
 
 * method for labeling wikipedia links in a manner similar to [beepb00p](https://beepb00p.xyz/tags.html#lifelogging)

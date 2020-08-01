@@ -19,5 +19,9 @@ $$
 
 The expression is equal to $$1$$ for the maximum and $$0.5$$ for the annotated values. 
 
+How people [see ](https://www.aao.org/eye-health/tips-prevention/how-humans-see-in-color)color
+
+
+
 
 

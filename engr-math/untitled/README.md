@@ -6,6 +6,24 @@ description: >-
 
 # Calculus
 
+{% hint style="info" %}
+Look for a hit at the top level file. 
+{% endhint %}
+
+{% hint style="danger" %}
+Red is bad!
+{% endhint %}
+
+{% hint style="success" %}
+Green is good
+{% endhint %}
+
+{% hint style="warning" %}
+Orange is in process
+{% endhint %}
+
+
+
 Notes from [eigenChris's ](https://www.youtube.com/user/eigenchris)video series, which is surprisingly apt. I'm a little staggered at the size of his library of work but 
 
 

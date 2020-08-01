@@ -2,6 +2,14 @@
 
 
 
+```text
+for f in * ; do mv -- "$f" "PRE_$f" ; done
+```
+
+from [stack](https://stackoverflow.com/questions/4787413/rename-files-and-directories-add-prefix)overflow
+
+
+
 [https://www.youtube.com/watch?v=HbgzrKJvDRw](https://www.youtube.com/watch?v=HbgzrKJvDRw)
 
 linux follows unix tradition so backslashses are used and capitalization make filenames unique

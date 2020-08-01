@@ -51,3 +51,105 @@ $$
 
 * Taylor Number … $T=\frac{4 d^{4} \Omega\_{1} A}{\nu^{2}}$, which relates the rotational centrifugal force to the viscous force in a fluid 
 
+## Incompresible Flow
+
+Incompresible FlowLecture 1TextbooksIncompressible FlowList of Derivatives Surface Waves and Interfacial PhenomenaIntroduction to waves Continuity EquationLinear dispersive wavesLecture 2Lecture 8: Weakly Nonlinear Waves in Deep Water
+
+### Lecture 1
+
+Class 1: 2020-01-13T15:49:925
+
+Covered course outline and such; assigned first homework
+
+Topics Required to do basic research into FM is the typical coursework of
+
+* Fluid Mechanics
+* Viscous Flow & Boundary Layer Theory
+* Turbulence
+* Compressible flow
+* kinetic theory
+* continuum theory of fluids
+* combustion aerodynamics
+
+part of the big picture this is one of the topics
+
+### Textbooks
+
+Lighthill waves in fluids
+
+#### Incompressible Flow
+
+Density change is negligible which is seen in low 
+
+#### List of Derivatives
+
+* Partial
+* Material
+* Total
+
+### Surface Waves and Interfacial Phenomena
+
+#### Introduction to waves
+
+Research in fluid dynamics requires the typical coursework
+
+* fluid mechanics
+* viscous flow and BL theory
+* turbulence
+* compressible flow
+* kinetic theory
+* continuum mechanics for fluids
+* speciality courses: aero and combustion
+
+Compressibility  so when  has M &lt;0.3
+
+for water M less than 0.07 much faster speed of sound for compressibility to act
+
+#### Continuity Equation
+
+Conservation of mass: 
+
+#### Linear dispersive waves
+
+Described by
+
+k is wave number, related to wave length 
+
+euler identity to show exponent is purely imaginary and is the phase function , the amplitude the real component
+
+using dimensionless NS
+
+### Lecture 2
+
+Major Equations
+
+euler eqns: 
+
+laplacian or harmonic of potential is 0 
+
+1d pde 
+
+apply to momentum potential and integrate : produces Bernoulli incompressible irrotational flow
+
+at FS  for dynamic free surface condition
+
+show dispersion relation: , 
+
+so  and for deepwater
+
+shallow water   so  and . y
+
+## Lecture 8: Weakly Nonlinear Waves in Deep Water
+
+due to Rayleigh in a stead motion in coordinate system moving a phase speed c
+
+also
+
+clearly nonlinear
+
+small amplitude but keep high order terms expanded wrt a
+
+substitute into 
+
+Ch
+

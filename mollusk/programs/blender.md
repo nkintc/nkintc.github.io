@@ -11,7 +11,9 @@ description: 'Making 3D objects real, at least virtually'
 
 [Quick rundown of tips](https://www.youtube.com/watch?v=fKH1XobKWnc)
 
- 
+ replicate [breaking locks](https://www.youtube.com/watch?v=dBSSA5ot0tA) using orientation of wrenches in blender 
+
+
 
 [recreate Bedroom In Blender](https://www.youtube.com/watch?v=qR6Kuv2dFHQ)
 
