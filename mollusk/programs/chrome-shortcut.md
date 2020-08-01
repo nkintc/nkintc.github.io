@@ -4,19 +4,21 @@ description: Errthang associated and the tools/website used
 
 # Google Chrome
 
+At this point Google has pretty much everything they need to replicate me however they wish.  But the point of consumer privacy is that no one has access to all the information at once.  additionally this is the information which I want to have public anyway:  ideally it should be useful to someone else as well. Being thoughtful as to what is public and what should be private is what makes the private information valuable. 
+
+
+
 ```text
 chrome://omnibox/
 ```
+
+
 
 Allows for managing the search bar
 
 googlewebsites for [music](https://musiclab.chromeexperiments.com/Rhythm/)
 
 ![a beat in rythmn site](../../.gitbook/assets/image%20%282%29.png)
-
-```text
-
-```
 
 Making food out of what I have using [Munch Labs](https://munchlab.de/)
 
