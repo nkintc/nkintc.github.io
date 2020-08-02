@@ -2,7 +2,7 @@
 
 The K90 has 5 function keys `G1` through `G6` can be remapped as a direct key replacement or as a macro:
 
-* `G1`: autotype weeb shit like "Omae wa mou shindeiru"
+* `G1`: autotype, right now its ¯\\_\(ツ\)\_/¯ 
 * `G2`: \[empty\] 
 * `G3`: serves as closer escape button 
 * `G4`: left hand enter key 

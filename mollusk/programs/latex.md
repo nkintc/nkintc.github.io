@@ -6,9 +6,7 @@ description: Common use latex formats.
 
 ### Overlapping Braces from [Stack Exchange](https://tex.stackexchange.com/questions/12963/how-to-have-overlapping-under-braces-and-over-braces/12969)
 
-Use of math in paragraph entry $$n$$
-
-### What's the [Tex](http://detexify.kirelabs.org/classify.html) for that
+Use of math in paragraph entry $$n$$\ 
 
 $$
 a+b+
