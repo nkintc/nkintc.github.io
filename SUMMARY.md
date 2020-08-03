@@ -43,6 +43,7 @@
       * [Youtube](mollusk/programs/chrome-shortcut/websites-1/youtube.md)
     * [Version Control](mollusk/programs/chrome-shortcut/version-control.md)
     * [Extensions](mollusk/programs/chrome-shortcut/extensions/README.md)
+      * [Dark Reader](mollusk/programs/chrome-shortcut/extensions/dark-reader.md)
       * [Vimium](mollusk/programs/chrome-shortcut/extensions/vimium.md)
     * [Websites](mollusk/programs/chrome-shortcut/websites.md)
   * [Miscellaneous](mollusk/programs/miscellaneous/README.md)
