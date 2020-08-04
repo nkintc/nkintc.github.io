@@ -62,6 +62,7 @@
 
 ## Engineering Mathematics <a id="engr-math"></a>
 
+* [\[guide\]](engr-math/guide.md)
 * [Calculus](engr-math/untitled/README.md)
   * [Syllabus Description](engr-math/untitled/syllabus-description.md)
   * [Miscellaneous](engr-math/untitled/miscellaneous.md)

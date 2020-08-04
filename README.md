@@ -9,7 +9,7 @@ description: >-
 
 Everyone has a story; no one will tell it but you. 
 
-This collection of markdown and other documents constitute a representative collection of my knowledge. Internally this is half blog, half journal, half something else...Externally, this serves as a lasting resource which documents the learning process for a variety of engineering courses as well as my personal process for working on whatever project is at hand. Additionally, it serves as a method of reclaiming social media as I, alone, manage the files here and are not hosted on a platform such as Facebook, Instagram, Snapchat, or one of the numerous companies which make profit their from their user's information.
+This collection of markdown and other documents constitute a representative collection of my knowledge. Internally, this is half blog, half journal, half something else...Externally, this serves as a lasting resource which documents the learning process for a variety of engineering courses as well as my personal process for working on whatever project is at hand. Additionally, it serves as a method of reclaiming social media as I, alone, manage the files here and are not hosted on a platform such as Facebook, Instagram, Snapchat, or one of the numerous companies which make profit their from their user's information.
 
 > “Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.” - G. R. R. Martin
 
