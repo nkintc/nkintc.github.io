@@ -7,6 +7,8 @@ wikpedia
 
 [topological quantum computer ](https://en.wikipedia.org/wiki/Topological_quantum_computer)with [notes](https://medium.com/swlh/topological-quantum-computing-5b7bdc93d93f)
 
+[hamming code ](http://users.cs.fiu.edu/~downeyt/cop3402/hamming.html)for adding parity bits for error correction is a classical version  
+
 {% file src="../.gitbook/assets/microsoft.quantum.pdf" caption="qbits.intro.slides" %}
 
 [Notes from Microsoft Research 2018 ](https://www.youtube.com/watch?v=F_Riqjdh2oM)

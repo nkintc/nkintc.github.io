@@ -6,6 +6,8 @@ description: Organizing Links in reddit and subreddits
 
 Youtube
 
+And a collection of uselesshit like [how space smells](https://www.ndtv.com/offbeat/nasa-designed-perfume-brings-the-smell-of-outer-space-to-earth-2253910)
+
 
 
 Math Channel 

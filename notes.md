@@ -7,7 +7,7 @@ From a tweet which mentions that both sentences contain all the letters of the a
 
 the second avoids duplication of the, is shorter, and way cooler
 
-
+[blender guru 15 minute kitchen](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2560868/) and [article ](https://www.blenderguru.com/tutorials/2018/1/17/creating-a-subway-corridor-in-20-minutes)
 
 [DASH Diet](https://familydoctor.org/the-dash-diet-healthy-eating-to-control-your-blood-pressure/)
 

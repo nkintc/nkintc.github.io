@@ -1,12 +1,18 @@
 # ENDER 3 NOTES
 
+[Octoprinting](https://octoprint.org/)
 
-
-{% embed url="https://www.youtube.com/watch?v=N9aWBjbj3Ag" %}
+[setup](https://www.youtube.com/watch?v=N9aWBjbj3Ag)
 
 [fool proof bed leveling and first layer ](https://www.youtube.com/watch?v=8VgVwCeaovQ)
 
+[easy bed level](https://www.youtube.com/watch?v=_EfWVUJjBdA)
 
+[general notes ](https://www.youtube.com/watch?v=EnINVgu7F0I)
+
+[complete](https://www.youtube.com/watch?v=T-Z3GmM20JM)
+
+[https://hackaday.com/2020/07/17/make-your-own-filament/](https://hackaday.com/2020/07/17/make-your-own-filament/) 
 
 1. tram
 2. flat 
