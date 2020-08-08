@@ -1,6 +1,4 @@
-# Miscellaneous
-
-[matplot lib](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.tripcolor.html) color triad
+# \[miscellaneous\]
 
 ### Alfred
 
@@ -41,6 +39,10 @@ Program to visualize those `.dump` files output. Makes pretty photos, and can vi
 ### VMD
 
 Just as powerful as Ovito IMO. Turned onto it through research, has a built in plugin to design different CNT's depending on chiral numbers and length.
+
+### Matplotlib
+
+[matplot lib](https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.tripcolor.html) color triad
 
 
 

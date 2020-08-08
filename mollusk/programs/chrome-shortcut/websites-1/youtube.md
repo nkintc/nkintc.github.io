@@ -8,3 +8,7 @@ Here's how to get the transcript of a YouTube video \(when available\):
 
 Although the syntax may be a little goofy this is a pretty good solution.
 
+
+
+* ben [eater](https://www.youtube.com/c/BenEater)
+

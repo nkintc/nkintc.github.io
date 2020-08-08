@@ -1,5 +1,7 @@
 # Vimium
 
+On imgur, using the shortcut \`\]\]\` will move to the next image, another way to waste time there
+
 #### Table of Vimium Keybinds
 
 {% tabs %}

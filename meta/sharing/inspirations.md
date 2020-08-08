@@ -27,6 +27,7 @@ The oldest collection of thought, and the first which I stumbled upon, was [Math
     * him and casey taught the importance of branding 
   * a more current [tech ingredients](https://www.youtube.com/c/TechIngredients/featured) channel on youtube 
   * [frank makes ](http://www.frankmakes.com/)
+* [jeremykun](https://jeremykun.com/2013/04/10/computing-homology/) 
 
 [Life logging is an extended diary ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose](https://beepb00p.xyz/my-data.html#dashboard) is important. A little story which comes to mind is a comment Dr. Mills made during Experimental Mechanics about how many data points to take during an extensometer reading: rather than analyzing the entire video file simply use a select representative frames as using the whole video would, indeed, be excessive. One would think that this brainless mess would be excessive and disproportionate, but the idea of proportionality falls apart in the face of infinity.  
 
