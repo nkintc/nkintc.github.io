@@ -1,11 +1,11 @@
 # Table of contents
 
 * [nkintc.github.io](README.md)
-* [Notes](notes.md)
 * [Blog Posts](blog-posts/README.md)
   * [August 1, 2020 12:14:14 AM](blog-posts/august-1-2020-12-14-14-am.md)
   * [July 30, 2020 3:06:08 AM](blog-posts/july-30-2020-3-06-08-am.md)
-* [Github Repos](github-repos/README.md)
+* [Assorted](github-repos/README.md)
+  * [Notes](github-repos/notes.md)
   * [quantum computing notes](github-repos/quantum-computing-notes.md)
   * [League of Legends Notes](github-repos/league-of-legends-notes.md)
   * [Neural Radiance Field](github-repos/neural-radiance-field.md)
