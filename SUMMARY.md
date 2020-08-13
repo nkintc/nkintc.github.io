@@ -27,6 +27,7 @@
     * [Drone Building and Data](ideas/literature/projects/drone.md)
   * [Quotes](ideas/literature/quotes.md)
 * [Games and Movies](ideas/games-and-movies/README.md)
+  * [Sword of the Stranger](ideas/games-and-movies/sword-of-the-stranger.md)
   * [Sekiro: Shadows Die Twice](ideas/games-and-movies/sekiro.md)
 
 ## Mollusk
