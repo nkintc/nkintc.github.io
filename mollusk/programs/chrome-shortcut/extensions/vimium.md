@@ -1,5 +1,9 @@
 # Vimium
 
+### Marks
+
+The use of marks has changed the way which I navigate the internet: leaving marks using the `m [newkey]` where \[newkey\] is an lowercase or uppercase character to leave a local or global mark, respectively. Local marks are page specific whereas global marks are shared between tabs and instances of Chrome. A limitation is that if that particular window will not become active if it is not already. 
+
 On imgur, using the shortcut \`\]\]\` will move to the next image, another way to waste time there
 
 #### Table of Vimium Keybinds
