@@ -1,10 +1,12 @@
+---
+description: >-
+  Summary of the channels which I am subscribed to and the highlight videos
+  which drew my eye in the first place.
+---
+
 # Channels
 
 #### SUBSCRIPTIONS
-
-[![](https://yt3.ggpht.com/a/AATXAJzF-K41Fq96yE6jxs_fE6Hr7zvMXsQbqz1QNxGpjg=s88-c-k-c0xffffffff-no-rj-mo)3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
-
-
 
 [![](https://yt3.ggpht.com/a/AATXAJyr1CDKV-mvXW9MppPhpMyjDfYiP95m9Ci5QOOq4A=s88-c-k-c0xffffffff-no-rj-mo)Alexandr Misko](https://www.youtube.com/channel/UCdZe3OmKYiIwyrLFEEbNwVw)
 
@@ -12,7 +14,7 @@
 
 [![](https://yt3.ggpht.com/a/AATXAJzADFPD8e3rcnwPTPp8FvrwLq2KyvKokMdQ-hUClg=s88-c-k-c0xffffffff-no-rj-mo)Alt Shift X](https://www.youtube.com/channel/UCveZqqGewoyPiacooywP5Ig)
 
-[![](https://yt3.ggpht.com/a/AATXAJx6DmaUHjlA8EKQgR6WI2U4ZltUoMf13eamguI0=s88-c-k-c0xffffffff-no-rj-mo)Amy Makes Stuff](https://www.youtube.com/channel/UCAdRYsUa92IgHotq0lqWqjw)
+
 
 [![](https://yt3.ggpht.com/a/AATXAJxB5RGvcTWVSmNPw7J9geQwzeAo0t25Qs-N-beK0Q=s88-c-k-c0xffffffff-no-rj-mo)Astrophysics](https://www.youtube.com/channel/UCWSC_-y9QsDmACXRY3rvtsQ)
 
@@ -32,18 +34,6 @@
 
 
 
-[![](https://yt3.ggpht.com/a/AATXAJziAvJ7jSJNJU1VfXkbfFNuJYoBxoVYHYlXH11TPKI=s88-c-k-c0xffffffff-no-rj-mo)Alex](https://www.youtube.com/channel/UCPzFLpOblZEaIx2lpym1l1A)
-
-[![](https://yt3.ggpht.com/a/AATXAJyOEzv9z4zeOO7jTW33IcaL8nCR8Oy6aBROH5WUEA=s88-c-k-c0xffffffff-no-rj-mo)America's Test Kitchen](https://www.youtube.com/channel/UCxAS_aK7sS2x_bqnlJHDSHw)
-
-
-
-[![](https://yt3.ggpht.com/a/AATXAJxCLWSWX7GIvn4El5cEGTINcV4DBRZe2DuOg2Mr_VY=s88-c-k-c0xffffffff-no-rj-mo)Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w)
-
-
-
-
-
 [![](https://yt3.ggpht.com/a/AATXAJyMaa5nas5955Pebtm4s1wdc8xbu2GCANbES4Y5=s88-c-k-c0xffffffff-no-rj-mo)Chubbyemu](https://www.youtube.com/channel/UCKOvOaJv4GK-oDqx-sj7VVg)
 
 [![](https://yt3.ggpht.com/a/AATXAJzcZBinoY9xtm1ynuNGqpEbxql1-AXFFqOlyhFiwA=s88-c-k-c0xffffffff-no-rj-mo)CinemaWins](https://www.youtube.com/channel/UCL8h3ri2WN_-IbviBlWtUcQ)
@@ -60,17 +50,11 @@
 
 [![](https://yt3.ggpht.com/a/AATXAJyjQmkkio-gWHwmJIOEFH3P8w_SNNL8Zz0HHt5A7g=s88-c-k-c0xffffffff-no-rj-mo)Daily Dose Of Internet](https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw)
 
-[![](https://yt3.ggpht.com/a/AATXAJwtT_pv4gZjgNpmUCTyDkNSP5ZDLTYZaOt5X0EOJA=s88-c-k-c0xffffffff-no-rj-mo)DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw)
-
 [![](https://yt3.ggpht.com/a/AATXAJwEN1mCoPhbqoUB84pQ-Bd5FzSJHLZBCYb5E0i9=s88-c-k-c0xffffffff-no-rj-mo)Doctor Mike](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw)
-
-[ ](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw)[![](https://yt3.ggpht.com/a/AATXAJy11Y0y9Wcz72oS3FASzNH4IPHbvX_rG11Cqcix=s88-c-k-c0xffffffff-no-rj-mo)eigenchris](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw)
 
 [![](https://yt3.ggpht.com/a/AATXAJwiZ3_bm1Y8XXPcLexQ9HQQq1KQv6sZyRwFUefdag=s88-c-k-c0xffffffff-no-rj-mo)Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
 
 [![](https://yt3.ggpht.com/a/AATXAJxygoxDyhTa9jWekTwS-7MizZ1z02sd-el9WuUIuQ=s88-c-k-c0xffffffff-no-rj-mo)engineerguy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJzOMT59hoo68_PA7Ir3o1oh1kGryYnY4EZbdc-R=s88-c-k-c0xffffffff-no-rj-mo)Faculty of Khan](https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg)
 
 [![](https://yt3.ggpht.com/a/AATXAJySFUo8YZ3fHbVJhAlpU0QUD6ORoZIWd1bSkgLe=s88-c-k-c0xffffffff-no-rj-mo)First We Feast](https://www.youtube.com/channel/UCPD_bxCRGpmmeQcbe2kpPaA)
 
@@ -96,11 +80,7 @@
 
 [![](https://yt3.ggpht.com/a/AATXAJxvXXlE4YgbvENTbRHIHQ-2YKd3TcCPEJqqFX7zQg=s88-c-k-c0xffffffff-no-rj-mo)LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
 
-[![](https://yt3.ggpht.com/a/AATXAJwXrIyihwuGCb0q7ZZbwqzmy7SWqGh1md_keRs_Iw=s88-c-k-c0xffffffff-no-rj-mo)Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA)
-
 [![](https://yt3.ggpht.com/a/AATXAJxOeBwKmjYvfuLwFuTuD3zFTffWCZbT5b5ufr8=s88-c-k-c0xffffffff-no-rj-mo)Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
-
-[![](https://yt3.ggpht.com/a/AATXAJyh5foP1uxcqdC_EnHRrhAeDqtcTVZ-1tYUXoxbFw=s88-c-k-c0xffffffff-no-rj-mo)Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 
 [![](https://yt3.ggpht.com/a/AATXAJziOtkhY4O0U1h4oQ2yKh2X9BvH5j8cM0vSRt3B7Q=s88-c-k-c0xffffffff-no-rj-mo)Matthew Shezmen](https://www.youtube.com/channel/UCB4WnO_ELLYdSBxiFn3Wn1A)
 
@@ -108,23 +88,23 @@
 
 [![](https://yt3.ggpht.com/a/AATXAJwQPK4r7bnWzF9y49h1rorUYLDB0lcsRDcNE9zDNQ=s88-c-k-c0xffffffff-no-rj-mo)Matthias Wandel](https://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw)
 
+[![](https://yt3.ggpht.com/a/AATXAJyHLcqNEkQeQiPC3AIurICjHmvubUE1xg4HbKzmhQ=s88-c-k-c0xffffffff-no-rj-mo)Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
+
+[![](https://yt3.ggpht.com/a/AATXAJw5CmHZaQj1uG7dEjqUYStQdeJjn7R7HTDF64CVZQ=s88-c-k-c0xffffffff-no-rj-mo)NightHawkInLight](https://www.youtube.com/channel/UCFtc3XdXgLFwhlDajMGK69w)
+
 [![](https://yt3.ggpht.com/a/AATXAJxVSWN-_wId2QhwO-19K68eri_16Z-UxjhvWvYeAw=s88-c-k-c0xffffffff-no-rj-mo)Medlife Crisis](https://www.youtube.com/channel/UCgRBRE1DUP2w7HTH9j_L4OQ)
 
 [![](https://yt3.ggpht.com/a/AATXAJx5dmdsdQIm4QaDMiC4KNn5GbRWDdftwu3lhpp2YA=s88-c-k-c0xffffffff-no-rj-mo)Melissa Villaseñor](https://www.youtube.com/channel/UCU0r6EjxzvPKJCRktCZwu8A)
 
-[![](https://yt3.ggpht.com/a/AATXAJyHLcqNEkQeQiPC3AIurICjHmvubUE1xg4HbKzmhQ=s88-c-k-c0xffffffff-no-rj-mo)Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
+
 
 [![](https://yt3.ggpht.com/a/AATXAJxeOHFqRokYmcSyVQd1cDM-NIZjI9GHROnmnEOjKw=s88-c-k-c0xffffffff-no-rj-mo)Microsoft Research](https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ)
 
 [![](https://yt3.ggpht.com/a/AATXAJy-LhGct9vUFIJ8N5PNuf6aoKYfXxQ8PxNc2S_2-g=s88-c-k-c0xffffffff-no-rj-mo)New Mind](https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA)
 
-[![](https://yt3.ggpht.com/a/AATXAJw5CmHZaQj1uG7dEjqUYStQdeJjn7R7HTDF64CVZQ=s88-c-k-c0xffffffff-no-rj-mo)NightHawkInLight](https://www.youtube.com/channel/UCFtc3XdXgLFwhlDajMGK69w)
 
 
 
-[![](https://yt3.ggpht.com/a/AATXAJxWOYrZfzn5RFL1tD3q21-7Flf-O09xhwXu1TCbbw=s88-c-k-c0xffffffff-no-rj-mo)Physics Explained](https://www.youtube.com/channel/UCIZ5ZOeiXYbmKTl_85ghNPw)
-
-[![](https://yt3.ggpht.com/a/AATXAJzLJSWlmZUZvxf945kEmEZsEeOkYrd_ULX_S4LouQ=s88-c-k-c0xffffffff-no-rj-mo)Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
 
 [![](https://yt3.ggpht.com/a/AATXAJx8NVC1jFi3Oi27Blw7OK-bwO2rxbDsDTLJ9rw-=s88-c-k-c0xffffffff-no-rj-mo)Rogue Rocket](https://www.youtube.com/channel/UCpLB7kBu9O5dbBKhaIOmqcQ)
 
@@ -201,13 +181,51 @@
 * 
 ### Food
 
+*   [![](https://yt3.ggpht.com/a/AATXAJziAvJ7jSJNJU1VfXkbfFNuJYoBxoVYHYlXH11TPKI=s88-c-k-c0xffffffff-no-rj-mo)Alex](https://www.youtube.com/channel/UCPzFLpOblZEaIx2lpym1l1A)
+
+  [![](https://yt3.ggpht.com/a/AATXAJyOEzv9z4zeOO7jTW33IcaL8nCR8Oy6aBROH5WUEA=s88-c-k-c0xffffffff-no-rj-mo)America's Test Kitchen](https://www.youtube.com/channel/UCxAS_aK7sS2x_bqnlJHDSHw)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJxCLWSWX7GIvn4El5cEGTINcV4DBRZe2DuOg2Mr_VY=s88-c-k-c0xffffffff-no-rj-mo)Bon Appétit](https://www.youtube.com/channel/UCbpMy0Fg74eXXkvxJrtEn3w)
+
 ### Machining
+
+*   [![](https://yt3.ggpht.com/a/AATXAJx6DmaUHjlA8EKQgR6WI2U4ZltUoMf13eamguI0=s88-c-k-c0xffffffff-no-rj-mo)Amy Makes Stuff](https://www.youtube.com/channel/UCAdRYsUa92IgHotq0lqWqjw)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJwtT_pv4gZjgNpmUCTyDkNSP5ZDLTYZaOt5X0EOJA=s88-c-k-c0xffffffff-no-rj-mo)DIY Perks](https://www.youtube.com/channel/UCUQo7nzH1sXVpzL92VesANw)
 
 * [![](https://yt3.ggpht.com/a/AATXAJwEeXL2QlsECI7lobymst95gDwxJZ_Bcb-C07u_=s88-c-k-c0xffffffff-no-rj-mo)Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ)
 * [![](https://yt3.ggpht.com/a/AATXAJzteGIt8uVp64UPt1tDiZ3g4y7O0wXezr7aRQ6PPA=s88-c-k-c0xffffffff-no-rj-mo)This Old Tony](https://www.youtube.com/channel/UC5NO8MgTQKHAWXp6z8Xl7yQ)
 * [![](https://yt3.ggpht.com/a/AATXAJwVbF9UMlHDQ4DoJNIEQoLMTiTLPMKuBELLcmbOPg=s88-c-k-c0xffffffff-no-rj-mo)Unnecessary Inventions](https://www.youtube.com/channel/UCB4NFn-8oipHct0IfAQBQrQ)
 
 ### Math
+
+*   [![](https://yt3.ggpht.com/a/AATXAJzF-K41Fq96yE6jxs_fE6Hr7zvMXsQbqz1QNxGpjg=s88-c-k-c0xffffffff-no-rj-mo)3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+
+
+
+  [ ](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw)[![](https://yt3.ggpht.com/a/AATXAJy11Y0y9Wcz72oS3FASzNH4IPHbvX_rG11Cqcix=s88-c-k-c0xffffffff-no-rj-mo)eigenchris](https://www.youtube.com/channel/UCN8wTUlSAroLslWyf87E2pw)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJzOMT59hoo68_PA7Ir3o1oh1kGryYnY4EZbdc-R=s88-c-k-c0xffffffff-no-rj-mo)Faculty of Khan](https://www.youtube.com/channel/UCGDanWUzNMbIV11lcNi-yBg)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJwXrIyihwuGCb0q7ZZbwqzmy7SWqGh1md_keRs_Iw=s88-c-k-c0xffffffff-no-rj-mo)Looking Glass Universe](https://www.youtube.com/channel/UCFk__1iexL3T5gvGcMpeHNA)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJyh5foP1uxcqdC_EnHRrhAeDqtcTVZ-1tYUXoxbFw=s88-c-k-c0xffffffff-no-rj-mo)Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJxWOYrZfzn5RFL1tD3q21-7Flf-O09xhwXu1TCbbw=s88-c-k-c0xffffffff-no-rj-mo)Physics Explained](https://www.youtube.com/channel/UCIZ5ZOeiXYbmKTl_85ghNPw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJzLJSWlmZUZvxf945kEmEZsEeOkYrd_ULX_S4LouQ=s88-c-k-c0xffffffff-no-rj-mo)Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg)
 
 * [![](https://yt3.ggpht.com/a/AATXAJwrFYwtzS5iLJ9cuzpK6J_ltJUZPrm_gum2UTacVA=s88-c-k-c0xffffffff-no-rj-mo)vcubingx](https://www.youtube.com/channel/UCv0nF8zWevEsSVcmz6mlw6A)
 
