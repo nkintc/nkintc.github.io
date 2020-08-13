@@ -10,5 +10,5 @@ Some films have only a single quality which stands out: music, cinematography, a
 
 But the story does stand above the rest of the production. 
 
-Kotaro, Tobimaru, and Nanashi are the three protagonists in the film and the audience is introduced to them in that order. The opening scene is through Kotaro's eyes as he is pursued down the forest path. 
+Kotaro, Tobimaru, and Nanashi are the three protagonists in the film and the audience is introduced to them in that order. The opening scene is through Kotaro's eyes as he is pursued down the forest path. And one by one, we are introduced to characters which each have their own arc through the film. 
 
