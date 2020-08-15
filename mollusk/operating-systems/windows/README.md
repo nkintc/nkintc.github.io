@@ -10,5 +10,9 @@ Most useful thing to be able to do is to shut the whole thing down. The keys are
 
 ctrl + alt + esc will directly bring up task manager
 
+[filezilla ](https://filezilla-project.org/download.php?type=server)
+
+rainmeter [spectrogram ](https://forum.rainmeter.net/viewtopic.php?t=31091)and [plugin](https://github.com/d-uzlov/Rainmeter-Plugins-by-rxtd)
+
 
 

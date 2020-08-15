@@ -7,17 +7,17 @@ description: >-
 
 # What is this?
 
-Everyone has a story; no one will tell it but you. 
+Everyone has a story; no one is going to tell it but you. 
+
+{% hint style="danger" %}
+\[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk
+{% endhint %}
 
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? Internally, this is half blog, half journal, half something else...Externally, this serves as a lasting resource which documents the learning process for a variety of engineering courses as well as my personal process for working on whatever project is at hand. Additionally, it serves as a method of reclaiming social media as I, alone, manage the files here and are not hosted on a platform such as Facebook, Instagram, Snapchat, or one of the numerous companies which make profit their from their user's information.
 
 > “Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.” - G. R. R. Martin
 
 Hopefully, this becomes a suit of armor and a source of strength: something to point at which I got to create completely under my own power. This mess of an entity is not meant to be read in one sitting. Reading more than one page should not be necessary because of the intent of this project: each file should be a singular and self-contained document which hold all the necessary information on whatever topic. Though one can always point at something to reference but unless you made something with it outside of your brain, one day when you reach for it, it will be gone.  
-
-{% hint style="danger" %}
-\[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk
-{% endhint %}
 
 ## Built with [Gitbook](https://docs.gitbook.com/)
 

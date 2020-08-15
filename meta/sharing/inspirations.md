@@ -7,6 +7,10 @@ description: >-
 
 # Inspirations
 
+
+
+> "Art is sort of a completed pass. You don't just throw it out in the world—someone has to catch it." . Apr 19, 2013 - James Turrell
+
 ### Exobrains and the[ Extended Mind](https://en.wikipedia.org/wiki/Extended_mind_thesis)
 
 The oldest collection of thought, and the first which I stumbled upon, was [Mathpages](https://www.mathpages.com/)'s approach to solving for the effective resistance between two nodes in an [infinite grid of resistors](https://www.mathpages.com/home/kmath668/kmath668.htm).  
