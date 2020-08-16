@@ -1,3 +1,9 @@
+---
+description: >-
+  Currently this page is holding the program names and partial descriptions for
+  (eventually) standalone pages.
+---
+
 # \[miscellaneous\]
 
 ### Alfred

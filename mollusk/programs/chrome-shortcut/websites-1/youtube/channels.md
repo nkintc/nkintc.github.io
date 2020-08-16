@@ -21,6 +21,110 @@ description: >-
 * [![](https://yt3.ggpht.com/a/AATXAJwGqX1M1EgnnSYnmrhejjfQWtXXyGZ0topWRDrSwQ=s88-c-k-c0xffffffff-no-rj-mo)TopTenz](https://www.youtube.com/channel/UCQ-hpFPF4nOKoKPEAZM_THw)
 * [![](https://yt3.ggpht.com/a/AATXAJyeIrgLj32uFVCBEhNDS-dlgh6EBZ5ZBUzo-Yb5mQ=s88-c-k-c0xffffffff-no-rj-mo)Trevor Wallace](https://www.youtube.com/channel/UCc35WvHmQjLE8NN4Y_ITmUQ)
 * [![](https://yt3.ggpht.com/a/AATXAJyZuIsLEwA6u2ZJq7vB6PjpxJZDIJ3mOqT7W0iqnQ=s88-c-k-c0xffffffff-no-rj-mo)からめる](https://www.youtube.com/channel/UCpGk56cJDZcVqIxZatX7nbQ)
+* unsorted work 
+*   misc
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJx1FT3cWHv7Sabox-z5ZTUXe0TRpNivYWcKcYI6=s88-c-k-c0xffffffff-no-rj-mo)Alt Schwift X](https://www.youtube.com/channel/UC0r29hWF31MAwgfilNTUrbA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJzADFPD8e3rcnwPTPp8FvrwLq2KyvKokMdQ-hUClg=s88-c-k-c0xffffffff-no-rj-mo)Alt Shift X](https://www.youtube.com/channel/UCveZqqGewoyPiacooywP5Ig)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJxhc_OBt7CSsm_t9FrJswUh8Bgr0oj4x2_gRvmy=s88-c-k-c0xffffffff-no-rj-mo)AvE](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJwJkG9ruEuriEhmW6-ThGLCQMOvVose_14u9FPH=s88-c-k-c0xffffffff-no-rj-mo)Biographics](https://www.youtube.com/channel/UClnDI2sdehVm1zm_LmUHsjQ)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJyJtu_gMORCzuRvxr-r5wWu198MiXZpDiRLnrcYkQ=s88-c-k-c0xffffffff-no-rj-mo)CalebCity](https://www.youtube.com/channel/UCI1XS_GkLGDOgf8YLaaXNRA)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJxWuqr2NwVFFzwwozxGcpptMjVX9c201rxJ25HF=s88-c-k-c0xffffffff-no-rj-mo)Chilling Smite](https://www.youtube.com/channel/UC0Lhseg2kaIGTddl5HhLUvw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJx8FTAkI6pZ0sCVzRPVoIq6VUHEzBSICOH0_1nvMQ=s88-c-k-c0xffffffff-no-rj-mo)Chris Kogos](https://www.youtube.com/channel/UCwFp56IA1OXfwThwowGBKtw)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJyMaa5nas5955Pebtm4s1wdc8xbu2GCANbES4Y5=s88-c-k-c0xffffffff-no-rj-mo)Chubbyemu](https://www.youtube.com/channel/UCKOvOaJv4GK-oDqx-sj7VVg)
+
+  [![](https://yt3.ggpht.com/a/AATXAJzcZBinoY9xtm1ynuNGqpEbxql1-AXFFqOlyhFiwA=s88-c-k-c0xffffffff-no-rj-mo)CinemaWins](https://www.youtube.com/channel/UCL8h3ri2WN_-IbviBlWtUcQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJwI0MkSiMwppNNWQCnq2ujSMkz6vxsyU7Mkk7bv6Q=s88-c-k-c0xffffffff-no-rj-mo)Clickspring](https://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJx7jXsdTHOLQawbtIROiAAfaVxNeUSFwT14pa2zKQ=s88-c-k-c0xffffffff-no-rj-mo)CNC Kitchen](https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg)
+
+  [![](https://yt3.ggpht.com/a/AATXAJx-VnpxZ0UaDMcOYAFWPkwE2FBLj6JFww5JI-muBA=s88-c-k-c0xffffffff-no-rj-mo)Company Man](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
+
+  [![](https://yt3.ggpht.com/a/AATXAJza8_J5J3HyyQJKuWeFAqzNx73g53S574XS2nxN2w=s88-c-k-c0xffffffff-no-rj-mo)Corridor Crew](https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJwlEuttg0eti2AdP-ZfIlys8BUlMkvqEVLsSl9-=s88-c-k-c0xffffffff-no-rj-mo)Cut](https://www.youtube.com/channel/UCbaGn5VkOVlcRgIWAHcrJKA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJyjQmkkio-gWHwmJIOEFH3P8w_SNNL8Zz0HHt5A7g=s88-c-k-c0xffffffff-no-rj-mo)Daily Dose Of Internet](https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJwEN1mCoPhbqoUB84pQ-Bd5FzSJHLZBCYb5E0i9=s88-c-k-c0xffffffff-no-rj-mo)Doctor Mike](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJwiZ3_bm1Y8XXPcLexQ9HQQq1KQv6sZyRwFUefdag=s88-c-k-c0xffffffff-no-rj-mo)Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxygoxDyhTa9jWekTwS-7MizZ1z02sd-el9WuUIuQ=s88-c-k-c0xffffffff-no-rj-mo)engineerguy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJySFUo8YZ3fHbVJhAlpU0QUD6ORoZIWd1bSkgLe=s88-c-k-c0xffffffff-no-rj-mo)First We Feast](https://www.youtube.com/channel/UCPD_bxCRGpmmeQcbe2kpPaA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJyeWEPnXJZ1mCn8-qTMF3fJGebJ00aLJ2XUEXBY=s88-c-k-c0xffffffff-no-rj-mo)frank howarth](https://www.youtube.com/channel/UC3_VCOJMaivgcGqPCTePLBA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJzKds3kUnyaA3LljMnB9TUv5fyR7CKB1hyvd0ve-g=s88-c-k-c0xffffffff-no-rj-mo)Franzoli Electronic](https://www.youtube.com/channel/UCLsUeooHSJlE_5xL4BPQIOQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJzjdynhtrViI743fxG1miT9q2NcFQ_ASdHexyez=s88-c-k-c0xffffffff-no-rj-mo)Institute of Human Anatomy](https://www.youtube.com/channel/UCgBg0aacyJnw4qUnb1FlfEQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJwz4wog0oo_2plwlU25PSFPZxM7G5vG6XykkLkpfQ=s88-c-k-c0xffffffff-no-rj-mo)Internet Historian](https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxsRP7HY0iDTh-_BDPGT65lej30eFQi16lQb0C6Tw=s88-c-k-c0xffffffff-no-rj-mo)Jeremy Fielding](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxRjUDT8DOrig5Vgvj5VRKHTfa-Es6vIPKm1_L_=s88-c-k-c0xffffffff-no-rj-mo)JeremyShaferOrigami](https://www.youtube.com/channel/UC2OQxWDDE71D6AKrNa7XygQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxQYPP6t0geVUyT_xOVzmTnploy7nQh-u1ZeiwH0w=s88-c-k-c0xffffffff-no-rj-mo)Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJzX2EgbPgRYbO3fna7o0iAptB3fYSOwJNVRfL_HqA=s88-c-k-c0xffffffff-no-rj-mo)Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+
+  [![](https://yt3.ggpht.com/a/AATXAJy8gXGoyM5k4CaDKh75uIU9T91cX22UsdlToaCTiQ=s88-c-k-c0xffffffff-no-rj-mo)LastWeekTonight](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxIA4KYuYS6b5Lqfeyqs_juIeGZ-FuUPiAhaQWexg=s88-c-k-c0xffffffff-no-rj-mo)Learn Engineering](https://www.youtube.com/channel/UCqZQJ4600a9wIfMPbYc60OQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxvXXlE4YgbvENTbRHIHQ-2YKd3TcCPEJqqFX7zQg=s88-c-k-c0xffffffff-no-rj-mo)LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxOeBwKmjYvfuLwFuTuD3zFTffWCZbT5b5ufr8=s88-c-k-c0xffffffff-no-rj-mo)Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
+
+  [![](https://yt3.ggpht.com/a/AATXAJziOtkhY4O0U1h4oQ2yKh2X9BvH5j8cM0vSRt3B7Q=s88-c-k-c0xffffffff-no-rj-mo)Matthew Shezmen](https://www.youtube.com/channel/UCB4WnO_ELLYdSBxiFn3Wn1A)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxMP_bwnT9omSjmxo2UESBcf_ETBDmGpyfrmVcH=s88-c-k-c0xffffffff-no-rj-mo)Matthias random stuff](https://www.youtube.com/channel/UC3_AWXcf2K3l9ILVuQe-XwQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJwQPK4r7bnWzF9y49h1rorUYLDB0lcsRDcNE9zDNQ=s88-c-k-c0xffffffff-no-rj-mo)Matthias Wandel](https://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJyHLcqNEkQeQiPC3AIurICjHmvubUE1xg4HbKzmhQ=s88-c-k-c0xffffffff-no-rj-mo)Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJw5CmHZaQj1uG7dEjqUYStQdeJjn7R7HTDF64CVZQ=s88-c-k-c0xffffffff-no-rj-mo)NightHawkInLight](https://www.youtube.com/channel/UCFtc3XdXgLFwhlDajMGK69w)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxVSWN-_wId2QhwO-19K68eri_16Z-UxjhvWvYeAw=s88-c-k-c0xffffffff-no-rj-mo)Medlife Crisis](https://www.youtube.com/channel/UCgRBRE1DUP2w7HTH9j_L4OQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJx5dmdsdQIm4QaDMiC4KNn5GbRWDdftwu3lhpp2YA=s88-c-k-c0xffffffff-no-rj-mo)Melissa Villaseñor](https://www.youtube.com/channel/UCU0r6EjxzvPKJCRktCZwu8A)
+
+
+
+  [![](https://yt3.ggpht.com/a/AATXAJxeOHFqRokYmcSyVQd1cDM-NIZjI9GHROnmnEOjKw=s88-c-k-c0xffffffff-no-rj-mo)Microsoft Research](https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJy-LhGct9vUFIJ8N5PNuf6aoKYfXxQ8PxNc2S_2-g=s88-c-k-c0xffffffff-no-rj-mo)New Mind](https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJx8NVC1jFi3Oi27Blw7OK-bwO2rxbDsDTLJ9rw-=s88-c-k-c0xffffffff-no-rj-mo)Rogue Rocket](https://www.youtube.com/channel/UCpLB7kBu9O5dbBKhaIOmqcQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJykSnRGWpVqWzuXq5YYC2IiSKp9GEg57NxPqnw0sA=s88-c-k-c0xffffffff-no-rj-mo)Ryan George](https://www.youtube.com/channel/UCh9IfI45mmk59eDvSWtuuhQ)
+
+  [![](https://yt3.ggpht.com/a/AATXAJznle0ueWEu0TJU8VDoo-crBCMsn4SQjoWyeRxE=s88-c-k-c0xffffffff-no-rj-mo)Sam O'Nella Academy](https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA)
+
+  [![](https://yt3.ggpht.com/a/AATXAJxZx1UIdkwdnMCfLzbNwLgM90098RcrOPRKPdFvAU4=s88-c-k-c0xffffffff-no-rj-mo)Seeker](https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw)
+
+  [![](https://yt3.ggpht.com/a/AATXAJyvO911LiQ-Dru4QFo8j2LLSKp-XpqdqUoiniIN=s88-c-k-c0xffffffff-no-rj-mo)Supercuts Delight](https://www.youtube.com/channel/UCg_s1VNrLoV4cFsH9TKXnuw)
 {% endtab %}
 
 {% tab title="Engineering" %}
@@ -148,111 +252,11 @@ description: >-
 {% endtab %}
 
 {% tab title="misc" %}
-misc
 
-
-
-[![](https://yt3.ggpht.com/a/AATXAJx1FT3cWHv7Sabox-z5ZTUXe0TRpNivYWcKcYI6=s88-c-k-c0xffffffff-no-rj-mo)Alt Schwift X](https://www.youtube.com/channel/UC0r29hWF31MAwgfilNTUrbA)
-
-[![](https://yt3.ggpht.com/a/AATXAJzADFPD8e3rcnwPTPp8FvrwLq2KyvKokMdQ-hUClg=s88-c-k-c0xffffffff-no-rj-mo)Alt Shift X](https://www.youtube.com/channel/UCveZqqGewoyPiacooywP5Ig)
-
-
-
-[![](https://yt3.ggpht.com/a/AATXAJxhc_OBt7CSsm_t9FrJswUh8Bgr0oj4x2_gRvmy=s88-c-k-c0xffffffff-no-rj-mo)AvE](https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA)
-
-[![](https://yt3.ggpht.com/a/AATXAJwJkG9ruEuriEhmW6-ThGLCQMOvVose_14u9FPH=s88-c-k-c0xffffffff-no-rj-mo)Biographics](https://www.youtube.com/channel/UClnDI2sdehVm1zm_LmUHsjQ)
-
-
-
-[![](https://yt3.ggpht.com/a/AATXAJyJtu_gMORCzuRvxr-r5wWu198MiXZpDiRLnrcYkQ=s88-c-k-c0xffffffff-no-rj-mo)CalebCity](https://www.youtube.com/channel/UCI1XS_GkLGDOgf8YLaaXNRA)
-
-
-
-[![](https://yt3.ggpht.com/a/AATXAJxWuqr2NwVFFzwwozxGcpptMjVX9c201rxJ25HF=s88-c-k-c0xffffffff-no-rj-mo)Chilling Smite](https://www.youtube.com/channel/UC0Lhseg2kaIGTddl5HhLUvw)
-
-[![](https://yt3.ggpht.com/a/AATXAJx8FTAkI6pZ0sCVzRPVoIq6VUHEzBSICOH0_1nvMQ=s88-c-k-c0xffffffff-no-rj-mo)Chris Kogos](https://www.youtube.com/channel/UCwFp56IA1OXfwThwowGBKtw)
-
-
-
-[![](https://yt3.ggpht.com/a/AATXAJyMaa5nas5955Pebtm4s1wdc8xbu2GCANbES4Y5=s88-c-k-c0xffffffff-no-rj-mo)Chubbyemu](https://www.youtube.com/channel/UCKOvOaJv4GK-oDqx-sj7VVg)
-
-[![](https://yt3.ggpht.com/a/AATXAJzcZBinoY9xtm1ynuNGqpEbxql1-AXFFqOlyhFiwA=s88-c-k-c0xffffffff-no-rj-mo)CinemaWins](https://www.youtube.com/channel/UCL8h3ri2WN_-IbviBlWtUcQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJwI0MkSiMwppNNWQCnq2ujSMkz6vxsyU7Mkk7bv6Q=s88-c-k-c0xffffffff-no-rj-mo)Clickspring](https://www.youtube.com/channel/UCworsKCR-Sx6R6-BnIjS2MA)
-
-[![](https://yt3.ggpht.com/a/AATXAJx7jXsdTHOLQawbtIROiAAfaVxNeUSFwT14pa2zKQ=s88-c-k-c0xffffffff-no-rj-mo)CNC Kitchen](https://www.youtube.com/channel/UCiczXOhGpvoQGhOL16EZiTg)
-
-[![](https://yt3.ggpht.com/a/AATXAJx-VnpxZ0UaDMcOYAFWPkwE2FBLj6JFww5JI-muBA=s88-c-k-c0xffffffff-no-rj-mo)Company Man](https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg)
-
-[![](https://yt3.ggpht.com/a/AATXAJza8_J5J3HyyQJKuWeFAqzNx73g53S574XS2nxN2w=s88-c-k-c0xffffffff-no-rj-mo)Corridor Crew](https://www.youtube.com/channel/UCSpFnDQr88xCZ80N-X7t0nQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJwlEuttg0eti2AdP-ZfIlys8BUlMkvqEVLsSl9-=s88-c-k-c0xffffffff-no-rj-mo)Cut](https://www.youtube.com/channel/UCbaGn5VkOVlcRgIWAHcrJKA)
-
-[![](https://yt3.ggpht.com/a/AATXAJyjQmkkio-gWHwmJIOEFH3P8w_SNNL8Zz0HHt5A7g=s88-c-k-c0xffffffff-no-rj-mo)Daily Dose Of Internet](https://www.youtube.com/channel/UCdC0An4ZPNr_YiFiYoVbwaw)
-
-[![](https://yt3.ggpht.com/a/AATXAJwEN1mCoPhbqoUB84pQ-Bd5FzSJHLZBCYb5E0i9=s88-c-k-c0xffffffff-no-rj-mo)Doctor Mike](https://www.youtube.com/channel/UC0QHWhjbe5fGJEPz3sVb6nw)
-
-[![](https://yt3.ggpht.com/a/AATXAJwiZ3_bm1Y8XXPcLexQ9HQQq1KQv6sZyRwFUefdag=s88-c-k-c0xffffffff-no-rj-mo)Engineer Man](https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJxygoxDyhTa9jWekTwS-7MizZ1z02sd-el9WuUIuQ=s88-c-k-c0xffffffff-no-rj-mo)engineerguy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJySFUo8YZ3fHbVJhAlpU0QUD6ORoZIWd1bSkgLe=s88-c-k-c0xffffffff-no-rj-mo)First We Feast](https://www.youtube.com/channel/UCPD_bxCRGpmmeQcbe2kpPaA)
-
-[![](https://yt3.ggpht.com/a/AATXAJyeWEPnXJZ1mCn8-qTMF3fJGebJ00aLJ2XUEXBY=s88-c-k-c0xffffffff-no-rj-mo)frank howarth](https://www.youtube.com/channel/UC3_VCOJMaivgcGqPCTePLBA)
-
-[![](https://yt3.ggpht.com/a/AATXAJzKds3kUnyaA3LljMnB9TUv5fyR7CKB1hyvd0ve-g=s88-c-k-c0xffffffff-no-rj-mo)Franzoli Electronic](https://www.youtube.com/channel/UCLsUeooHSJlE_5xL4BPQIOQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJzjdynhtrViI743fxG1miT9q2NcFQ_ASdHexyez=s88-c-k-c0xffffffff-no-rj-mo)Institute of Human Anatomy](https://www.youtube.com/channel/UCgBg0aacyJnw4qUnb1FlfEQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJwz4wog0oo_2plwlU25PSFPZxM7G5vG6XykkLkpfQ=s88-c-k-c0xffffffff-no-rj-mo)Internet Historian](https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw)
-
-[![](https://yt3.ggpht.com/a/AATXAJxsRP7HY0iDTh-_BDPGT65lej30eFQi16lQb0C6Tw=s88-c-k-c0xffffffff-no-rj-mo)Jeremy Fielding](https://www.youtube.com/channel/UC_SLthyNX_ivd-dmsFgmJVg)
-
-[![](https://yt3.ggpht.com/a/AATXAJxRjUDT8DOrig5Vgvj5VRKHTfa-Es6vIPKm1_L_=s88-c-k-c0xffffffff-no-rj-mo)JeremyShaferOrigami](https://www.youtube.com/channel/UC2OQxWDDE71D6AKrNa7XygQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJxQYPP6t0geVUyT_xOVzmTnploy7nQh-u1ZeiwH0w=s88-c-k-c0xffffffff-no-rj-mo)Jim Browning](https://www.youtube.com/channel/UCBNG0osIBAprVcZZ3ic84vw)
-
-[![](https://yt3.ggpht.com/a/AATXAJzX2EgbPgRYbO3fna7o0iAptB3fYSOwJNVRfL_HqA=s88-c-k-c0xffffffff-no-rj-mo)Kurzgesagt – In a Nutshell](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
-
-[![](https://yt3.ggpht.com/a/AATXAJy8gXGoyM5k4CaDKh75uIU9T91cX22UsdlToaCTiQ=s88-c-k-c0xffffffff-no-rj-mo)LastWeekTonight](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJxIA4KYuYS6b5Lqfeyqs_juIeGZ-FuUPiAhaQWexg=s88-c-k-c0xffffffff-no-rj-mo)Learn Engineering](https://www.youtube.com/channel/UCqZQJ4600a9wIfMPbYc60OQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJxvXXlE4YgbvENTbRHIHQ-2YKd3TcCPEJqqFX7zQg=s88-c-k-c0xffffffff-no-rj-mo)LockPickingLawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJxOeBwKmjYvfuLwFuTuD3zFTffWCZbT5b5ufr8=s88-c-k-c0xffffffff-no-rj-mo)Mark Rober](https://www.youtube.com/channel/UCY1kMZp36IQSyNx_9h4mpCg)
-
-[![](https://yt3.ggpht.com/a/AATXAJziOtkhY4O0U1h4oQ2yKh2X9BvH5j8cM0vSRt3B7Q=s88-c-k-c0xffffffff-no-rj-mo)Matthew Shezmen](https://www.youtube.com/channel/UCB4WnO_ELLYdSBxiFn3Wn1A)
-
-[![](https://yt3.ggpht.com/a/AATXAJxMP_bwnT9omSjmxo2UESBcf_ETBDmGpyfrmVcH=s88-c-k-c0xffffffff-no-rj-mo)Matthias random stuff](https://www.youtube.com/channel/UC3_AWXcf2K3l9ILVuQe-XwQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJwQPK4r7bnWzF9y49h1rorUYLDB0lcsRDcNE9zDNQ=s88-c-k-c0xffffffff-no-rj-mo)Matthias Wandel](https://www.youtube.com/channel/UCckETVOT59aYw80B36aP9vw)
-
-[![](https://yt3.ggpht.com/a/AATXAJyHLcqNEkQeQiPC3AIurICjHmvubUE1xg4HbKzmhQ=s88-c-k-c0xffffffff-no-rj-mo)Michael Reeves](https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw)
-
-[![](https://yt3.ggpht.com/a/AATXAJw5CmHZaQj1uG7dEjqUYStQdeJjn7R7HTDF64CVZQ=s88-c-k-c0xffffffff-no-rj-mo)NightHawkInLight](https://www.youtube.com/channel/UCFtc3XdXgLFwhlDajMGK69w)
-
-[![](https://yt3.ggpht.com/a/AATXAJxVSWN-_wId2QhwO-19K68eri_16Z-UxjhvWvYeAw=s88-c-k-c0xffffffff-no-rj-mo)Medlife Crisis](https://www.youtube.com/channel/UCgRBRE1DUP2w7HTH9j_L4OQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJx5dmdsdQIm4QaDMiC4KNn5GbRWDdftwu3lhpp2YA=s88-c-k-c0xffffffff-no-rj-mo)Melissa Villaseñor](https://www.youtube.com/channel/UCU0r6EjxzvPKJCRktCZwu8A)
-
-
-
-[![](https://yt3.ggpht.com/a/AATXAJxeOHFqRokYmcSyVQd1cDM-NIZjI9GHROnmnEOjKw=s88-c-k-c0xffffffff-no-rj-mo)Microsoft Research](https://www.youtube.com/channel/UCCb9_Kn8F_Opb3UCGm-lILQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJy-LhGct9vUFIJ8N5PNuf6aoKYfXxQ8PxNc2S_2-g=s88-c-k-c0xffffffff-no-rj-mo)New Mind](https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA)
-
-[![](https://yt3.ggpht.com/a/AATXAJx8NVC1jFi3Oi27Blw7OK-bwO2rxbDsDTLJ9rw-=s88-c-k-c0xffffffff-no-rj-mo)Rogue Rocket](https://www.youtube.com/channel/UCpLB7kBu9O5dbBKhaIOmqcQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJykSnRGWpVqWzuXq5YYC2IiSKp9GEg57NxPqnw0sA=s88-c-k-c0xffffffff-no-rj-mo)Ryan George](https://www.youtube.com/channel/UCh9IfI45mmk59eDvSWtuuhQ)
-
-[![](https://yt3.ggpht.com/a/AATXAJznle0ueWEu0TJU8VDoo-crBCMsn4SQjoWyeRxE=s88-c-k-c0xffffffff-no-rj-mo)Sam O'Nella Academy](https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA)
-
-[![](https://yt3.ggpht.com/a/AATXAJxZx1UIdkwdnMCfLzbNwLgM90098RcrOPRKPdFvAU4=s88-c-k-c0xffffffff-no-rj-mo)Seeker](https://www.youtube.com/channel/UCzWQYUVCpZqtN93H8RR44Qw)
-
-[![](https://yt3.ggpht.com/a/AATXAJyvO911LiQ-Dru4QFo8j2LLSKp-XpqdqUoiniIN=s88-c-k-c0xffffffff-no-rj-mo)Supercuts Delight](https://www.youtube.com/channel/UCg_s1VNrLoV4cFsH9TKXnuw)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
