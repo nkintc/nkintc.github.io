@@ -42,6 +42,7 @@
     * [mermaid.js](mollusk/programs/miscellaneous/mermaid.js.md)
   * [Blender](mollusk/programs/blender.md)
   * [Google Chrome](mollusk/programs/chrome-shortcut/README.md)
+    * [Google Suite Sites](mollusk/programs/chrome-shortcut/google-suite-sites.md)
     * [Websites](mollusk/programs/chrome-shortcut/websites-1/README.md)
       * [Github](mollusk/programs/chrome-shortcut/websites-1/github/README.md)
         * [Version Control](mollusk/programs/chrome-shortcut/websites-1/github/version-control.md)

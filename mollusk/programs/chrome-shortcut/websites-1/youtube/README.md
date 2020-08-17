@@ -29,27 +29,25 @@ Requires youtube-dl with original [process](https://www.tecmint.com/download-mp3
 * --extract-audio or -x 
 * --audio-format 
 
-
-
-
-
-Math Channel 
+### Math Channel 
 
 * v3x or vcubingx has great like videos in 
   *  [fractional calculus](https://www.youtube.com/watch?v=A4sTAKN6yFA) 
   *  [variational calc ](https://www.youtube.com/watch?v=8SwKD5_VL5o)
 *  3b1b
 
+[sax music in the NYC Subway](https://www.youtube.com/watch?v=27Dx6ztJ8jw), starting with Billie Jean and accumulating into a crazy battle. 
 
+the [national anthem](https://www.youtube.com/watch?v=y2V0rG_4Ax4) shown from the Portland State graduation.
 
-medical channels
+### Medical Channels
 
 * chubby emu 
 * dr mike 
 * institute of human anatomy 
   *  [skin video](https://www.youtube.com/watch?v=eCsrAbUP-10)
 
-engineering 
+### Engineering 
 
 * engineer man on [docker ](https://www.youtube.com/watch?v=6aBsjT5HoGY)and python [web scraping](https://www.youtube.com/watch?v=6aBsjT5HoGY)
 

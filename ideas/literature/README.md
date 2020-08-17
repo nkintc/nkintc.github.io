@@ -37,13 +37,9 @@ From [lectures](https://lectureinprogress.com/journal/corita-kent#:~:text=Sister
 {% endtab %}
 {% endtabs %}
 
+[How to write concisely by the government](https://plainlanguage.gov/guidelines/concise/)
 
-
-
-
- [sax music in the NYC Subway](https://www.youtube.com/watch?v=27Dx6ztJ8jw), starting with Billie Jean and accumulating into a crazy battle. 
-
-the [national anthem](https://www.youtube.com/watch?v=y2V0rG_4Ax4) shown from the Portland State graduation.
+ 
 
 
 
