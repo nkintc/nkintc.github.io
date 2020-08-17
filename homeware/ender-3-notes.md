@@ -12,6 +12,10 @@
 
 [complete](https://www.youtube.com/watch?v=T-Z3GmM20JM)
 
+{% embed url="https://all3dp.com/2/ender-3-with-marlin-how-to-install-marlin-firmware-on-your-ender-3/" %}
+
+and [this](https://all3dp.com/2/3d-printer-firmware-which-to-choose-and-how-to-change-it/) firmware
+
 [https://hackaday.com/2020/07/17/make-your-own-filament/](https://hackaday.com/2020/07/17/make-your-own-filament/) 
 
 1. tram
