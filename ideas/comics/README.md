@@ -2,7 +2,7 @@
 description: Artists and comedy
 ---
 
-# Comics and Art
+# Comics and Games
 
 XKCD comics 
 
