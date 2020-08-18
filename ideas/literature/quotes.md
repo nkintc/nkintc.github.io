@@ -10,5 +10,7 @@ Why this is up here?  Look to [Francois Clemmons on Fred Rogers](https://www.you
 
 > There is nothing more deceptive than an obvious fact - Sir Arthur Conan Doyle
 
+ Relevant quote, [here](https://quoteinvestigator.com/2016/03/13/destroy/#:~:text=Yudkowsky%20who%20is%20a%20researcher,by%20the%20truth%20should%20be.%E2%80%9D): 
+
 
 

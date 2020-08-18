@@ -7,9 +7,11 @@ description: >-
 
 # Literature and Art
 
-Everyone deserves to be remembered: life is too ephemeral not to have something to look back on. A curated work is rare and no one can assume that their life is going to be meaningful. It certainly won't be if it cannot survive self-scrutiny. Relevant quote, [here](https://quoteinvestigator.com/2016/03/13/destroy/#:~:text=Yudkowsky%20who%20is%20a%20researcher,by%20the%20truth%20should%20be.%E2%80%9D): 
+Everyone deserves to be remembered: life is too ephemeral not to have something to look back on. A curated work is rare and no one can assume that their life is going to be meaningful. It certainly won't be if it cannot survive self-scrutiny: if you can't find meaning in yourself then what is the point in trying to impart meaning toward others?
 
 ### Sister Corita Kent’s Rules
+
+Teacher at the Immaculate Heart College's Art Department, her list of rules are a succinct message of how to approach the process of art and, for that matter, a great approach to life. 
 
 {% tabs %}
 {% tab title="The List of Rules" %}
