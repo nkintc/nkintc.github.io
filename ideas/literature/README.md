@@ -39,6 +39,10 @@ From [lectures](https://lectureinprogress.com/journal/corita-kent#:~:text=Sister
 {% endtab %}
 {% endtabs %}
 
+
+
+![](../../.gitbook/assets/compose.poetry.png)
+
 [How to write concisely by the government](https://plainlanguage.gov/guidelines/concise/)
 
  
