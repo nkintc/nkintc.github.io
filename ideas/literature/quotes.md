@@ -8,9 +8,11 @@ Why this is up here?  Look to [Francois Clemmons on Fred Rogers](https://www.you
 
 > If you knew how quickly people forget the dead you would stop living to impress people. -Unknown
 
-> There is nothing more deceptive than an obvious fact - Sir Arthur Conan Doyle
+> There is nothing more deceptive than an obvious fact - _Sir Arthur Conan Doyle_
 
  Relevant quote, [here](https://quoteinvestigator.com/2016/03/13/destroy/#:~:text=Yudkowsky%20who%20is%20a%20researcher,by%20the%20truth%20should%20be.%E2%80%9D): 
+
+> Hope is passion for what is possible. - _Søren Kierkegaard_
 
 
 

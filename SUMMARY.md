@@ -25,6 +25,7 @@
   * [Sekiro: Shadows Die Twice](ideas/comics/sekiro.md)
   * [League of Legends](ideas/comics/league-of-legends.md)
 * [Literature and Art](ideas/literature/README.md)
+  * [Interviews](ideas/literature/interviews.md)
   * [Quotes](ideas/literature/quotes.md)
 * [Shows and Films](ideas/games-and-movies/README.md)
   * [Cowboy Bebop](ideas/games-and-movies/cowboy-bebop.md)
