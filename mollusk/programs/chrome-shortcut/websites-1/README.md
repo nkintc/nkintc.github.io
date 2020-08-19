@@ -79,6 +79,18 @@ a
       </td>
       <td style="text-align:left"></td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="http://www.tricki.org/article/To_find_a_rational_with_low_denominator_near_a_given_real_use_continued_fractions">tricki</a>
+      </td>
+      <td style="text-align:left">method for finding nearest rational given any value in the real</td>
+      <td
+      style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
   </tbody>
 </table>
 {% endtab %}

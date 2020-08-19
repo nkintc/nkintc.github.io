@@ -35,6 +35,7 @@ Requires youtube-dl with original [process](https://www.tecmint.com/download-mp3
   *  [fractional calculus](https://www.youtube.com/watch?v=A4sTAKN6yFA) 
   *  [variational calc ](https://www.youtube.com/watch?v=8SwKD5_VL5o)
 *  3b1b
+* mathologer [Euler's crazy pi formula generation](https://www.youtube.com/watch?v=WL_Yzbo1ha4)
 
 [sax music in the NYC Subway](https://www.youtube.com/watch?v=27Dx6ztJ8jw), starting with Billie Jean and accumulating into a crazy battle. 
 
@@ -46,6 +47,7 @@ the [national anthem](https://www.youtube.com/watch?v=y2V0rG_4Ax4) shown from th
 * dr mike 
 * institute of human anatomy 
   *  [skin video](https://www.youtube.com/watch?v=eCsrAbUP-10)
+  * 
 
 ### Engineering 
 
