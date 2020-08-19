@@ -1,5 +1,15 @@
 # Miscellaneous
 
+### Gaussian
+
+From a generic form to a PDF whose CDF approaches 1
+
+$$
+f(x)=a e^{-\frac{(x-b)^{2}}{2 c^{2}}} \rightarrow g(x)=\frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{2}}
+$$
+
+
+
 ### Quick Proof of Bayes Theorem
 
 Partition the possibility space into four sections much like Punnet squares. 
