@@ -74,7 +74,8 @@
 ## Engineering Mathematics <a id="engr-math"></a>
 
 * [\[guide\]](engr-math/guide.md)
-* [Computer Science](engr-math/computer-science.md)
+* [Computer Science](engr-math/computer-science/README.md)
+  * [Commands](engr-math/computer-science/commands.md)
 * [Color Theory](engr-math/color.md)
 * [Experimental Mechanics](engr-math/experimental-mechanics/README.md)
   * [Syllabus Description](engr-math/experimental-mechanics/syllabus-description.md)

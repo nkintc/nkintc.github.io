@@ -10,17 +10,89 @@
 
 {% tabs %}
 {% tab title="Syllabus" %}
+  a
 
+{% file src="../../.gitbook/assets/math.4600.math.4600.syllabus.pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.defs.tex" %}
+
+{% file src="../../.gitbook/assets/math.4600.cone.pdf" %}
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
 {% endtab %}
 
 {% tab title="Handouts" %}
+ 
 
+{% file src="../../.gitbook/assets/math.4600.lesson.0.review \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.lesson.1.vectorfunctions.pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.lesson.2.optimization.pdf" %}
+
+a
+
+{% file src="../../.gitbook/assets/math.4600.lesson.3.multiintegrals.pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.lesson.4.lineintegral.pdf" %}
+
+a
+
+{% file src="../../.gitbook/assets/math.4600.lesson.5.variationalcalc.pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.lesson.6.tensors.pdf" %}
+
+a
+
+a
 {% endtab %}
 
 {% tab title="Figures" %}
 
 {% endtab %}
+
+{% tab title="tests" %}
+{% file src="../../.gitbook/assets/math.4600.practicetest.1.pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.practicetest.1.solf17.pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.practicetest.1.solf18 \(1\).pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.practicetest.2.solf18.pdf" %}
+
+a
+
+{% file src="../../.gitbook/assets/math.4600.test.1.pdf" %}
+
+{% file src="../../.gitbook/assets/math.4600.testsol.1 \(1\).pdf" %}
+
+a
+
+a
+
+a
+
+aa
+
+a
+{% endtab %}
 {% endtabs %}
+
+
+
+
 
 Lebesque Integral 
 

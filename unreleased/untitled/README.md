@@ -24,7 +24,7 @@ Orange is in process
 
 
 
-Notes from [eigenChris's ](https://www.youtube.com/user/eigenchris)video series, which is surprisingly apt. I'm a little staggered at the size of his library of work but 
+Notes from a collection of sources, including [eigenChris's ](https://www.youtube.com/user/eigenchris)video series, which is surprisingly apt. I'm a little staggered at the size of his library of work but might was well get started. 
 
 $$
 A \cos (\omega t+\alpha)+B \cos (\omega t+\beta) \\
