@@ -14,5 +14,7 @@ Why this is up here?  Look to [Francois Clemmons on Fred Rogers](https://www.you
 
 > Hope is passion for what is possible. - _Søren Kierkegaard_
 
+> Don't get cynical, don't you ever think you can't make a difference. -_Barack Obama._
+
 
 

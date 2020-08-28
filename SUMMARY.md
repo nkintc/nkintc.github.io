@@ -27,6 +27,7 @@
 * [Comics and Games](ideas/comics/README.md)
   * [Sekiro: Shadows Die Twice](ideas/comics/sekiro.md)
   * [League of Legends](ideas/comics/league-of-legends.md)
+  * [Super Smash Bros](ideas/comics/super-smash-bros.md)
 * [Literature and Art](ideas/literature/README.md)
   * [Interviews](ideas/literature/interviews.md)
   * [Quotes](ideas/literature/quotes.md)
