@@ -60,7 +60,11 @@ a
 {% endtab %}
 
 {% tab title="Figures" %}
+{% file src="../../.gitbook/assets/math.4600.homework3supp.m" %}
 
+
+
+{% file src="../../.gitbook/assets/math.4600.homework4code.m" %}
 {% endtab %}
 
 {% tab title="tests" %}
