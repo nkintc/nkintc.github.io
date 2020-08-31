@@ -1,8 +1,8 @@
 ---
 description: >-
-  Brainless is a personal description of the following collection of pages;
-  without a purpose, it feels `brainless`. Meant to be a source for self
-  reference, open to the public. WYSIWYG.
+  It is a personal description of the following collection of pages; without a
+  purpose, it feels `brainless`. Meant to be a source for self reference, open
+  to the public. WYSIWYG.
 ---
 
 # What is this?
