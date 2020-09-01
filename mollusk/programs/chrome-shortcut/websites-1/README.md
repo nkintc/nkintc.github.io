@@ -8,7 +8,11 @@ description: Just an assortment of cool stuff to check out
 
 [https://specialprojects.studio/projects](https://specialprojects.studio/projects)
 
+[www.zygotebody.com](https://www.zygotebody.com/) for virtual 3D body systems
 
+[https://www.openanatomy.org/](https://www.openanatomy.org/about.html#whats-wrong)
+
+[https://www.allsides.com/unbiased-balanced-news](https://www.allsides.com/unbiased-balanced-news)
 
 * [Internet Archive: Digital Library](https://archive.org/)
 * [UX Nice very nice examples](https://www.niceverynice.com/components)
@@ -33,9 +37,9 @@ description: Just an assortment of cool stuff to check out
 | :--- | :--- |
 | [Facebook](https://www.facebook.com/) | the closest thing to a necessary evil |
 | [Twitter](https://twitter.com/home) | a kind of zeitgeist thermometer |
-| [Instagram](https://www.instagram.com/) |  |
-| [Reddit](https://old.reddit.com/) |  |
-| [Youtube](https://www.youtube.com/) |  |
+| [Instagram](https://www.instagram.com/) | confluence of influencers  |
+| [Reddit](https://old.reddit.com/) | partially controlled madness, prone to groupthink |
+| [Youtube](https://www.youtube.com/) | video sharing platform |
 |  |  |
 {% endtab %}
 
