@@ -4,6 +4,29 @@ description: Just an assortment of cool stuff to check out
 
 # Websites
 
+
+
+[https://specialprojects.studio/projects](https://specialprojects.studio/projects)
+
+
+
+* [Internet Archive: Digital Library](https://archive.org/)
+* [UX Nice very nice examples](https://www.niceverynice.com/components)
+* [Font in Logo](https://www.fontinlogo.com/)
+* [Tweet longer ](https://www.twitlonger.com/)
+* [example domain](http://example.com/)
+
+
+
+* [calendar](http://www.webcal.fi/en/calendars.php) event website
+* [Timelapse](https://world.time.com/timelapse/) of the World from TIME 
+* [Color Palette](https://colorsinspo.com/) Inspiration 
+* [vector art](https://icons8.com/vector-creator/new) creator
+  * [code movement](https://copypalette.netlify.com/)
+  * [palette from company logo ](https://air.inc/)
+  * [coloors ](https://coolors.co/)
+  * [image hues](https://imagehues.com/) from photo
+
 {% tabs %}
 {% tab title="First Tab" %}
 | Website |  |
