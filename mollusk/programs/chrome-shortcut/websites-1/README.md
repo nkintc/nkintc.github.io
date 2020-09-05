@@ -6,6 +6,23 @@ description: Just an assortment of cool stuff to check out
 
 
 
+{% embed url="https://whenshouldistopwatching.com/tt0383126" %}
+
+{% embed url="https://www.bumblebeespaces.com/\#home" %}
+
+
+
+[https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/](https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/)  
+[https://www.youtube.com/watch?v=rkv1fpWLy0Q](https://www.youtube.com/watch?v=rkv1fpWLy0Q)  
+[https://www.youtube.com/watch?v=TuOYF2\_oGaU&list=PL26HeTCO57qdk9OhgCEea7T-viu4eJqoX&index=3](https://www.youtube.com/watch?v=TuOYF2_oGaU&list=PL26HeTCO57qdk9OhgCEea7T-viu4eJqoX&index=3)  
+[https://publicseminar.org/essays/time-is-out-of-joint/](https://publicseminar.org/essays/time-is-out-of-joint/)  
+[https://www.youtube.com/watch?v=RAt1rwW1MSE&list=PLcmDF5qlusW4lrVLWCjRSJE59vA4P-sok](https://www.youtube.com/watch?v=RAt1rwW1MSE&list=PLcmDF5qlusW4lrVLWCjRSJE59vA4P-sok)  
+  
+[https://regex101.com/r/POWIAY/1](https://regex101.com/r/POWIAY/1)  
+[https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4](https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4)  
+[https://www.youtube.com/watch?v=KrQnIy9g4nI](https://www.youtube.com/watch?v=KrQnIy9g4nI)  
+[https://cults3d.com/en/3d-model/art/satisfying-hexagons](https://cults3d.com/en/3d-model/art/satisfying-hexagons)
+
 [https://specialprojects.studio/projects](https://specialprojects.studio/projects)
 
 [www.zygotebody.com](https://www.zygotebody.com/) for virtual 3D body systems
