@@ -13,7 +13,7 @@ description: >-
 
 ### Exobrains and the[ Extended Mind](https://en.wikipedia.org/wiki/Extended_mind_thesis)
 
-The oldest collection of thought, and the first which I stumbled upon, was [Mathpages](https://www.mathpages.com/)'s approach to solving for the effective resistance between two nodes in an [infinite grid of resistors](https://www.mathpages.com/home/kmath668/kmath668.htm).  
+This is also called a [digital garden](https://joelhooks.com/digital-garden). I quite like this idea as it grows over time, the author merely tending to the collection until it bears fruit. The oldest collection of thought, and the first which I stumbled upon, was [Mathpages](https://www.mathpages.com/)'s approach to solving for the effective resistance between two nodes in an [infinite grid of resistors](https://www.mathpages.com/home/kmath668/kmath668.htm).  
 
 * [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/) 
 * [Dercuano](https://gitlab.com/kragen/dercuano/-/tree/master)
