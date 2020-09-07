@@ -18,8 +18,8 @@
 * [Research](meta/research/README.md)
   * [Project Index](meta/research/projects.md)
   * [Photogrammetry](meta/research/photogrammetry.md)
-  * [Drone Building and Data](meta/research/drone.md)
-  * [3D Printing and Solid Objects](meta/research/3d-printing.md)
+  * [Drone Building](meta/research/drone.md)
+  * [3D Printing](meta/research/3d-printing.md)
 
 ## Ideas
 
