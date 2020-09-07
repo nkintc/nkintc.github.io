@@ -1,8 +1,5 @@
 ---
-description: >-
-  It is a personal description of the following collection of pages; without a
-  purpose, it feels `brainless`. Meant to be a source for self reference, open
-  to the public. WYSIWYG.
+description: Digital Gardens and second brains are (like) human horcruxes.
 ---
 
 # What is this?
@@ -12,6 +9,8 @@ Everyone has a story; no one is going to tell it but you.
 {% hint style="danger" %}
 \[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk
 {% endhint %}
+
+
 
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability. 
 
