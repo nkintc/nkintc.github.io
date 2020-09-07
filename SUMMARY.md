@@ -16,11 +16,10 @@
   * [Social Media](meta/sharing/media.md)
 * [Geography](meta/calculus.md)
 * [Research](meta/research/README.md)
-  * [Projects](meta/research/projects/README.md)
-    * [Photogrammetry](meta/research/projects/photogrammetry/README.md)
-      * [Wish List](meta/research/projects/photogrammetry/wish-list.md)
-    * [3D Printing and Solid Objects](meta/research/projects/3d-printing.md)
-    * [Drone Building and Data](meta/research/projects/drone.md)
+  * [Project Index](meta/research/projects.md)
+  * [Photogrammetry](meta/research/photogrammetry.md)
+  * [Drone Building and Data](meta/research/drone.md)
+  * [3D Printing and Solid Objects](meta/research/3d-printing.md)
 
 ## Ideas
 
@@ -41,6 +40,7 @@
 ## Mollusk
 
 * [Programs](mollusk/programs/README.md)
+  * [Audacity](mollusk/programs/audacity.md)
   * [\[miscellaneous\]](mollusk/programs/miscellaneous/README.md)
     * [Octave](mollusk/programs/miscellaneous/octave.md)
     * [PureRef](mollusk/programs/miscellaneous/pureref.md)

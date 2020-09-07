@@ -6,6 +6,10 @@ description: >-
 
 # Unix
 
+### Using \`ytdl\`
+
+Downloading video from youtube as[ mp3](https://askubuntu.com/questions/423508/can-i-directly-download-audio-using-youtube-dl)
+
 ### Random Notes
 
 using the `-` character as a prefix on files makes them \*REALLY\* hard to rename in the shell because it will think its an argument. For example, the situation that caused this note
