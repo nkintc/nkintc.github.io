@@ -14,15 +14,7 @@ Just a sick [Kalista cannon rend](https://www.reddit.com/link/ax7ro6/video/bhvt9
 | `shift s` | teleport | different from the summoner spell; no cast time  |
 | `shift v` | revive |  |
 | `ctrl shift “lowercase l”` | forward 10 min |  |
-| `shift b` | enemy dummy |  |
-
-\`\`  this is 
-
-\`\` for revive gonna die alot
-
- skip 10 min
-
-enemy dummy 
+| `[shift]+'b'` | enemy dummy |  |
 
 
 
