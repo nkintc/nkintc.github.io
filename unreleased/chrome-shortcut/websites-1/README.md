@@ -75,7 +75,7 @@ description: Just an assortment of cool stuff to check out
 
 a
 
-![a beat in rythmn site](../../../../.gitbook/assets/image%20%282%29.png)
+![a beat in rythmn site](../../../.gitbook/assets/image%20%282%29.png)
 
 a
 

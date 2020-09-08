@@ -1,28 +1,32 @@
 # League of Legends
 
-League of Legends [Kalista cannon rend](https://www.reddit.com/link/ax7ro6/video/bhvt96r254k21/player?utm_source=reddit&utm_medium=usertext&utm_name=KalistaMains&utm_content=t3_ax7ro6)
+Just a sick [Kalista cannon rend](https://www.reddit.com/link/ax7ro6/video/bhvt96r254k21/player?utm_source=reddit&utm_medium=usertext&utm_name=KalistaMains&utm_content=t3_ax7ro6), just one wild confluence of events which happens all the time on summoners rift
 
-league of legends practice tool shortcuts 
+### Practice Tool Shortcuts 
 
-* league of legends dev notes
+| Shortcut | Effect | Description |
+| :--- | :--- | :--- |
+| `shift t`  | add 10k gold |  |
+| `shift y`  | add level |  |
+| `shift u`  | lock level |  |
+| `shift h` | lock tower health |  |
+| `shift g` | turret aggro |  |
+| `shift s` | teleport | different from the summoner spell; no cast time  |
+| `shift v` | revive |  |
+| `ctrl shift “lowercase l”` | forward 10 min |  |
+| `shift b` | enemy dummy |  |
 
-  `shift t` to get gold
+\`\`  this is 
 
-  `shift y` to get levels
+\`\` for revive gonna die alot
 
-  `shift u` lock levels
+ skip 10 min
 
-  \`shift h\` lock tower life
+enemy dummy 
 
-  \`shift g\` turret aggro
 
-  \`shift s\` teleport
 
-  \`shift v\` for revive gonna die alot
-
-  ctrl shift “lowercase l” skip 10 min
-
-  enemy dummy shift b
+{% embed url="https://developer.riotgames.com/apis\#spectator-v4" %}
 
 
 
