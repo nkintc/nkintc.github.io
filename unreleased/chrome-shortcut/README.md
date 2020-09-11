@@ -4,11 +4,7 @@ description: Errthang associated and the tools/website used
 
 # Google Chrome
 
-Of all the programs on all the computers which I have gotten to work with, Chrome was presented there already or I added it to use its functionality. As with any process, my personal workflow has some inertia behind it, so I'm not 
-
-This program is generally where I waste all of my time, some of which is spent productively writing and actively thinking about projects or problems. However, sites like Reddit, Imgur, Twitter, Instagram, Facebook, etc, … are also available on the internet sooooo… ¯\\_\(o.O\)\_/¯ where my eye wanders is subject to what I click on with my hands. And it's muscle memory to open a new tab and type `old.reddit.com` . 
-
-At this point Google has pretty much everything they need to replicate me however they wish.  But the point of consumer privacy is that no one has access to all the information at once.  additionally this is the information which I want to have public anyway:  ideally it should be useful to someone else as well. Being thoughtful as to what is public and what should be private is what makes the private information valuable.
+One of innumerable browsers to explore the internet, this page is where I'll jot down digital landmarks and other notable sites which existed at least one point on the internet. While I appreciate about this program in particular is that the setting sync between machines,  which follows the principle of replicability on the internet.  however that's due to a single Google account and It's a love-hate relationship between Google and I. As much as I enjoy their products and the services that they provide, I cannot help but think that at some point dedicating any more energy effort or most importantly money towards them would be a detriment to my overall well-being.
 
 ### Address Bar Searches
 
@@ -31,6 +27,10 @@ bookmarks... where i store some bookmarks temporarily
 newtab: what chrome picks up and is different from new-tab-page
 
 chrome-urls: where to find the rest of these
+
+
+
+
 
 
 
