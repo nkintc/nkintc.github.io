@@ -1,4 +1,13 @@
+---
+description: >-
+  On brainless are a, posts are listed by date. Containing all the little
+  ramblings which might possibly be intriguing to other people or might be
+  useful later on.
+---
+
 # Blog Posts
 
-All the words and thoughts that dont belong anywhere else, tagged with when and what they're about. 
+{% hint style="info" %}
+Waiting for more posts in order to make meaningful categorizations
+{% endhint %}
 
