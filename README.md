@@ -10,8 +10,6 @@ Everyone has a story; no one is going to tell it but you.
 \[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk.
 {% endhint %}
 
-
-
 ## Organization
 
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability. 
