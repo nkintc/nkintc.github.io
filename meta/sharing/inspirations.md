@@ -7,8 +7,6 @@ description: >-
 
 # Inspirations
 
-
-
 > "Art is sort of a completed pass. You don't just throw it out in the world—someone has to catch it." . Apr 19, 2013 - James Turrell
 
 ### Exobrains and the[ Extended Mind](https://en.wikipedia.org/wiki/Extended_mind_thesis)

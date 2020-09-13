@@ -16,5 +16,15 @@ Why this is up here?  Look to [Francois Clemmons on Fred Rogers](https://www.you
 
 > Don't get cynical, don't you ever think you can't make a difference. -_Barack Obama._
 
+> "nulla dies umquam memori vos eximet aevo."
+>
+> "No day shall erase you from the memory of time,"-Virgil
+
+> _Le savant doit ordonner ; on fait la science avec des faits comme une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison._
+>
+> The [Scientist](https://en.wikiquote.org/wiki/Scientist) must set in order. **Science is built up with** [**facts**](https://en.wikiquote.org/wiki/Facts)**, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.**
+>
+> [Ch. IX: Hypotheses in Physics, Tr. George Bruce Halsted \(1913\)](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
+
 
 

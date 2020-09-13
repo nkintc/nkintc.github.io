@@ -58,13 +58,13 @@ description: Just an assortment of cool stuff to check out
 
 {% tabs %}
 {% tab title="First Tab" %}
-| Website |  |
+| Website | Description |
 | :--- | :--- |
 | [Facebook](https://www.facebook.com/) | the closest thing to a necessary evil |
 | [Twitter](https://twitter.com/home) | a kind of zeitgeist thermometer |
-| [Instagram](https://www.instagram.com/) | confluence of influencers  |
-| [Reddit](https://old.reddit.com/) | partially controlled madness, prone to groupthink |
-| [Youtube](https://www.youtube.com/) | video sharing platform |
+| [Instagram](https://www.instagram.com/) |  |
+| [Reddit](https://old.reddit.com/) |  |
+| [Youtube](https://www.youtube.com/) |  |
 |  |  |
 {% endtab %}
 
@@ -203,6 +203,8 @@ WebGL Globe
 A Chrome Experiment which shows the distribution of events on a globe 
 
 [globe github](https://github.com/dataarts/webgl-globe)
+
+[adl injustice heat map](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map?s=eyJpZGVvbG9naWVzIjpbXSwiaW5jaWRlbnRzIjpbIkFudGktU2VtaXRpYyBJbmNpZGVudCJdLCJ5ZWFyIjpbMjAwMiwyMDIwXX0%253D)
 
 [some globes](https://experiments.withgoogle.com/chrome/globe) and more to explore 
 

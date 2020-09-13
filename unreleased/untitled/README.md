@@ -1,7 +1,7 @@
 ---
 description: >-
-  Uh this is really just a page for place holder math tbh, dont take this
-  seriously
+  The study of change which comes from the Latin for "small stone"; these pages
+  collect my knowledge about mathematics in general.
 ---
 
 # Calculus

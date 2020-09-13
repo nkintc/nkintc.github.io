@@ -1,5 +1,5 @@
 ---
-description: Digital Gardens and second brains are (like) human horcruxes.
+description: 'Shitty soundcloud rapper, but in a Gitbook.'
 ---
 
 # What is this?
@@ -7,24 +7,54 @@ description: Digital Gardens and second brains are (like) human horcruxes.
 Everyone has a story; no one is going to tell it but you. 
 
 {% hint style="danger" %}
-\[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk
+\[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk.
 {% endhint %}
 
 
 
+## Organization
+
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability. 
 
-Internally, these Gitbooks is half-blog, half-journal, and perhaps half-something-else. Externally, these books serve as a lasting resource which documents the learning process for a variety of engineering courses as well documenting the processes for working on whatever projects are at hand. Additionally, it serves as a method of reclaiming social media as I, alone, manage the files here and are not hosted on a platform such as Facebook, Instagram, Snapchat, or one of the numerous companies which make profit their from their user's information. There is an implicit expectation of regularity in posts which is not present here: I'm going to be working at my speed.
+One of the names for this kind of collection of documents is a digital garden. Though the analogy is not perfect, it does promote the idea of cultivation. This process of writing is nonlinear and doing the same thing twice will give two different results: inspiration is a nonrenewable resource. 
 
-## Why bother putting these up?
+First step, was simply writing and throwing words at the metaphysical page. But before being worth reading some pruning needs to be done and some organization needs to come across before being ready for the public. 
+
+Now, the process for developing brainless is adding content to a single \(set\) of pages to polish what work is already there. These are collected as subpages for the [`[unreleased]`](https://nkintc.gitbook.io/brainless/unreleased) heading. 
+
+### Meta
+
+These pages relate to brainless, my thoughts, or one of the other gitbooks
+
+### Ideas
+
+Inspiration is 
+
+### Mollusk
+
+A little in-joke, moving from shell to shell. These pages collect computer notes and how the day to day works on  
+
+### Engineering Mathematics
+
+These pages are based on class notes, but as I develop them further, the baseline organization of `syllabus` -&gt; `lecture notes` -&gt; `student notes` -&gt; `assignments` will begin to break down into a more organic arrangements, dependent on their topic. 
+
+## Description of Brainless
+
+This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability. 
+
+Internally, these Gitbooks are half-blog, half-journal, and perhaps half-something-else. Externally, these books serve as a lasting resource which documents the learning process for a variety of engineering courses as well documenting the processes for working on whatever projects are at hand. Additionally, it serves as a method of reclaiming social media as I, alone, manage the files here and are not hosted on a platform such as Facebook, Instagram, Snapchat, or one of the numerous companies which make profit their from their user's information. There is an implicit expectation of regularity in posts which is not present here: I'm going to be working at my speed.
+
+### Why bother putting these up?
 
 > “Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.” - G. R. R. Martin
 
-Hopefully, this becomes that suit of armor, indeed, a source of strength. Something to point at, which I created completely under my own power. Note, this mess of an entity is not meant to be read in one sitting. Finishing one page should not necessarily lead on to the next; reading more than one page should not be necessary because each file should be a self-contained document.
+Hopefully, this becomes that suit of armor, indeed, a source of strength. Something to point at, which I created completely under my own power. During the creation of this, I can confess that it feels like being a shitty Soundcloud rapper, but on Github. 
+
+But, this mess of an entity is not meant to be read in one sitting. Finishing one page should not necessarily lead on to the next; reading more than one page should not be necessary because each file should be a self-contained document.
 
 Each page should hold all the necessary information on whatever topic: not explicitly but should at least point at where to turn to for more. Though one can always point at something to reference but unless you made something with it outside of your brain, one day when you reach for it, it will be gone. 
 
-## Built with [Gitbook](https://docs.gitbook.com/)
+### Built with [Gitbook](https://docs.gitbook.com/)
 
 A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian. There are other benefits: hyperlinking, image and file hosting with built in commenting, math fonts through LaTeX, the list goes on. However, cloning the entirety of the repo will also clone documents which belong in other books and is a problem for another time. 
 
