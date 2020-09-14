@@ -26,7 +26,5 @@ steps
 
 
 
-[waste a scammers time in python ](https://www.youtube.com/watch?v=UtNYzv8gLbs)
-
 
 

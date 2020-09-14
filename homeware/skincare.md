@@ -12,9 +12,7 @@ description: Notes from reddit
 
 )
 
-## Reddit Skincare Clincal Summary
-
-[https://www.reddit.com/r/SkincareAddiction/comments/em3c8t/acne\_spent\_4\_weeks\_for\_a\_dermatologist\_this\_is/?utm\_medium=android\_app&utm\_source=share](https://www.reddit.com/r/SkincareAddiction/comments/em3c8t/acne_spent_4_weeks_for_a_dermatologist_this_is/?utm_medium=android_app&utm_source=share)
+## [Reddit Skincare Clinical Summary](https://www.reddit.com/r/SkincareAddiction/comments/em3c8t/acne_spent_4_weeks_for_a_dermatologist_this_is/?utm_medium=android_app&utm_source=share)
 
 * derived from [https://www.aad.org/member/clinical-quality/guidelines/acne](https://www.aad.org/member/clinical-quality/guidelines/acne)
 

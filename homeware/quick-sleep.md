@@ -4,7 +4,7 @@ description: From here
 
 # Quick Sleep
 
-### [HERE’S THE QUICK SLEEP TECHNIQUE](https://www.fastcompany.com/90253444/what-happened-when-i-tried-the-u-s-armys-tactic-to-fall-asleep-in-two-minutes)
+## [Here is the Quick Sleep Technique](https://www.fastcompany.com/90253444/what-happened-when-i-tried-the-u-s-armys-tactic-to-fall-asleep-in-two-minutes)
 
 So four weeks ago, I tried it. The technique mainly involves muscle relaxation, breathing, and visualization tricks anyone can do. Here’s how it works:
 
@@ -17,7 +17,7 @@ So four weeks ago, I tried it. The technique mainly involves muscle relaxation, 
 
 And that’s it. At the end of these steps, which should take about two minutes, lie down and turn out the bedside light. Ideally, you’ll drift off to sleep within a few minutes.
 
-### HOW THE TECHNIQUE WORKED FOR ME
+### How the Technique Worked for Me
 
 When I began the technique I was heartened that the Army found that it worked for 96% of people who tried it–but that was for people who tried it for six weeks. That’s why I wasn’t too bummed when I tried this technique every night in the first week and nothing happened.
 
@@ -29,7 +29,7 @@ So I can confidently say this decades-old technique worked for me. Mind you, it 
 
 
 
-[Dr Mike on How to Fall asleep](https://www.youtube.com/watch?v=YvqeWcPwd2o) 
+## [Dr Mike on How to Fall asleep](https://www.youtube.com/watch?v=YvqeWcPwd2o) 
 
 1. Exercise 
 2. Diet
@@ -39,14 +39,14 @@ So I can confidently say this decades-old technique worked for me. Mind you, it 
 3. naps are hard and \*will\* fuck up your schedule 15-30 min tops 
 4. coffee fix before lunch or before 12  caffeine has a half life of 6 hrs 
 
-evening planning 
+### evening planning 
 
 1. dim lights 
 2. limit screentime 
 3. make room cool 
 4. cotton sheets 
 
-Bedtime 
+### Bedtime 
 
 1. pitch black 
 2. turn off alerts dont use phone before bed  
@@ -54,7 +54,7 @@ Bedtime
 4. 15 minutes of trying to sleep do something relaxing after another 15 minutes 
    1. not phone though
 
-questions 
+### questions 
 
 1. sleep 7 to 9 hrs 
 2. jet lag can be accounted for before reaching destination 
