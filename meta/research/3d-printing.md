@@ -1,10 +1,6 @@
 # 3D Printing
 
-3D printing is a bit of a misnomer, Fused deposition modeling or fdm is much more practically Akin  to Machining or woodworking rather than consumer level printing. The main reason is because it's far more likely to fail due to an inexperienced and then say clicking a button and expecting an object to magically appear.   
-  
-****
-
-
+3D printing is a bit of a misnomer, Fused deposition modeling or fdm is much more practically Akin  to Machining or woodworking rather than consumer level printing. The main reason is because it's far more likely to fail due to an inexperienced and then say clicking a button and expecting an object to magically appear. Of the hours and hours I've had to spend on this dumb fuckin’ machine,  the quality and success of prints have been minimal. 
 
 
 
@@ -45,8 +41,6 @@
 [general notes ](https://www.youtube.com/watch?v=EnINVgu7F0I)
 
 [general notes ](https://www.youtube.com/watch?v=EnINVgu7F0I)
-
-[complete](https://www.youtube.com/watch?v=T-Z3GmM20JM)
 
 [complete](https://www.youtube.com/watch?v=T-Z3GmM20JM)
 
