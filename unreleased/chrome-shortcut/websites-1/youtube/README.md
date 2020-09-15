@@ -41,6 +41,8 @@ Requires youtube-dl with original [process](https://www.tecmint.com/download-mp3
 
 the [national anthem](https://www.youtube.com/watch?v=y2V0rG_4Ax4) shown from the Portland State graduation.
 
+[waste a scammers time in python ](https://www.youtube.com/watch?v=UtNYzv8gLbs)
+
 ### Medical Channels
 
 * chubby emu 

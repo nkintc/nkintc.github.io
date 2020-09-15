@@ -1,8 +1,14 @@
 ---
-description: Just an assortment of cool stuff to check out
+description: >-
+  Like pages in a book, these are the sections which I want to return to, in
+  order to experience again.
 ---
 
 # Websites
+
+Want to see something cool? [Sound on](https://matias.ma/nsfw/).
+
+[https://oscilloscopemusic.com/watch.php\#album](https://oscilloscopemusic.com/watch.php#album)
 
 {% embed url="https://github.com/readme/" %}
 

@@ -6,11 +6,15 @@ description: >-
 
 # Calculus
 
+{% tabs %}
+{% tab title="First Tab" %}
+Hints
+
 {% hint style="info" %}
 Look for a hit at the top level file. 
 {% endhint %}
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Red is bad!
 {% endhint %}
 
@@ -21,6 +25,12 @@ Green is good
 {% hint style="warning" %}
 Orange is in process
 {% endhint %}
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
 
 
 
