@@ -55,5 +55,15 @@ the [national anthem](https://www.youtube.com/watch?v=y2V0rG_4Ax4) shown from th
 
 * engineer man on [docker ](https://www.youtube.com/watch?v=6aBsjT5HoGY)and python [web scraping](https://www.youtube.com/watch?v=6aBsjT5HoGY)
 
+### misc 
+
+
+
+[https://www.youtube.com/watch?v=rkv1fpWLy0Q](https://www.youtube.com/watch?v=rkv1fpWLy0Q)  
+[https://www.youtube.com/watch?v=TuOYF2\_oGaU&list=PL26HeTCO57qdk9OhgCEea7T-viu4eJqoX&index=3](https://www.youtube.com/watch?v=TuOYF2_oGaU&list=PL26HeTCO57qdk9OhgCEea7T-viu4eJqoX&index=3)  
+[https://www.youtube.com/watch?v=RAt1rwW1MSE&list=PLcmDF5qlusW4lrVLWCjRSJE59vA4P-sok](https://www.youtube.com/watch?v=RAt1rwW1MSE&list=PLcmDF5qlusW4lrVLWCjRSJE59vA4P-sok)  
+  
+
+
 
 

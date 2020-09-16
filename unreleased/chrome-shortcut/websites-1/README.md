@@ -1,66 +1,16 @@
 ---
 description: >-
   Like pages in a book, these are the sections which I want to return to, in
-  order to experience again.
+  order to re-experience.
 ---
 
 # Websites
 
 Want to see something cool? [Sound on](https://matias.ma/nsfw/).
 
-[https://oscilloscopemusic.com/watch.php\#album](https://oscilloscopemusic.com/watch.php#album)
-
-{% embed url="https://github.com/readme/" %}
-
-[Opensource Deep Fakes](https://aliaksandrsiarohin.github.io/first-order-model-website/) or [First order Motion Model for image animation](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation). Code [here](https://github.com/AliaksandrSiarohin/first-order-model).
-
-[Static charge](http://web.archive.org/web/19961226041803/http://www.att.com/conferences/eosesd/s7.htm) worthy of [Star Trek](http://amasci.com/weird/unusual/swenson1.html).
-
-[Statistical solution to 3 body problem.](https://www.nature.com/articles/s41586-019-1833-8)
 
 
-
-{% embed url="https://whenshouldistopwatching.com/tt0383126" %}
-
-{% embed url="https://www.bumblebeespaces.com/\#home" %}
-
-
-
-[https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/](https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/)  
-[https://www.youtube.com/watch?v=rkv1fpWLy0Q](https://www.youtube.com/watch?v=rkv1fpWLy0Q)  
-[https://www.youtube.com/watch?v=TuOYF2\_oGaU&list=PL26HeTCO57qdk9OhgCEea7T-viu4eJqoX&index=3](https://www.youtube.com/watch?v=TuOYF2_oGaU&list=PL26HeTCO57qdk9OhgCEea7T-viu4eJqoX&index=3)  
-[https://publicseminar.org/essays/time-is-out-of-joint/](https://publicseminar.org/essays/time-is-out-of-joint/)  
-[https://www.youtube.com/watch?v=RAt1rwW1MSE&list=PLcmDF5qlusW4lrVLWCjRSJE59vA4P-sok](https://www.youtube.com/watch?v=RAt1rwW1MSE&list=PLcmDF5qlusW4lrVLWCjRSJE59vA4P-sok)  
-  
-[https://regex101.com/r/POWIAY/1](https://regex101.com/r/POWIAY/1)  
-[https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4](https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4)  
-[https://www.youtube.com/watch?v=KrQnIy9g4nI](https://www.youtube.com/watch?v=KrQnIy9g4nI)  
-[https://cults3d.com/en/3d-model/art/satisfying-hexagons](https://cults3d.com/en/3d-model/art/satisfying-hexagons)
-
-[https://specialprojects.studio/projects](https://specialprojects.studio/projects)
-
-[www.zygotebody.com](https://www.zygotebody.com/) for virtual 3D body systems
-
-[https://www.openanatomy.org/](https://www.openanatomy.org/about.html#whats-wrong)
-
-[https://www.allsides.com/unbiased-balanced-news](https://www.allsides.com/unbiased-balanced-news)
-
-* [Internet Archive: Digital Library](https://archive.org/)
-* [UX Nice very nice examples](https://www.niceverynice.com/components)
-* [Font in Logo](https://www.fontinlogo.com/)
-* [Tweet longer ](https://www.twitlonger.com/)
-* [example domain](http://example.com/)
-
-
-
-* [calendar](http://www.webcal.fi/en/calendars.php) event website
-* [Timelapse](https://world.time.com/timelapse/) of the World from TIME 
-* [Color Palette](https://colorsinspo.com/) Inspiration 
-* [vector art](https://icons8.com/vector-creator/new) creator
-  * [code movement](https://copypalette.netlify.com/)
-  * [palette from company logo ](https://air.inc/)
-  * [coloors ](https://coolors.co/)
-  * [image hues](https://imagehues.com/) from photo
+* * 
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -68,7 +18,7 @@ Want to see something cool? [Sound on](https://matias.ma/nsfw/).
 | :--- | :--- |
 | [Facebook](https://www.facebook.com/) | the closest thing to a necessary evil |
 | [Twitter](https://twitter.com/home) | a kind of zeitgeist thermometer |
-| [Instagram](https://www.instagram.com/) |  |
+| [Instagram](https://www.instagram.com/) | public facing facebook |
 | [Reddit](https://old.reddit.com/) |  |
 | [Youtube](https://www.youtube.com/) |  |
 |  |  |
@@ -205,6 +155,62 @@ code stuff
 {% endtabs %}
 
 
+
+[http://www.entropyfm.com/](http://www.entropyfm.com/)
+
+[https://getcssscan.com/css-box-shadow-examples](https://getcssscan.com/css-box-shadow-examples)
+
+[https://oscilloscopemusic.com/watch.php\#album](https://oscilloscopemusic.com/watch.php#album)
+
+{% embed url="https://github.com/readme/" %}
+
+[Opensource Deep Fakes](https://aliaksandrsiarohin.github.io/first-order-model-website/) or [First order Motion Model for image animation](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation). Code [here](https://github.com/AliaksandrSiarohin/first-order-model).
+
+[Static charge](http://web.archive.org/web/19961226041803/http://www.att.com/conferences/eosesd/s7.htm) worthy of [Star Trek](http://amasci.com/weird/unusual/swenson1.html).
+
+[Statistical solution to 3 body problem.](https://www.nature.com/articles/s41586-019-1833-8)
+
+
+
+{% embed url="https://whenshouldistopwatching.com/tt0383126" %}
+
+{% embed url="https://www.bumblebeespaces.com/\#home" %}
+
+
+
+sergio article [https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/](https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/)  
+
+
+sergio article [https://publicseminar.org/essays/time-is-out-of-joint/](https://publicseminar.org/essays/time-is-out-of-joint/)  
+[https://regex101.com/r/POWIAY/1](https://regex101.com/r/POWIAY/1)  
+[https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4](https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4)  
+[https://www.youtube.com/watch?v=KrQnIy9g4nI](https://www.youtube.com/watch?v=KrQnIy9g4nI)  
+[https://cults3d.com/en/3d-model/art/satisfying-hexagons](https://cults3d.com/en/3d-model/art/satisfying-hexagons)
+
+[https://specialprojects.studio/projects](https://specialprojects.studio/projects)
+
+[www.zygotebody.com](https://www.zygotebody.com/) for virtual 3D body systems
+
+[https://www.openanatomy.org/](https://www.openanatomy.org/about.html#whats-wrong)
+
+[https://www.allsides.com/unbiased-balanced-news](https://www.allsides.com/unbiased-balanced-news)
+
+* [Internet Archive: Digital Library](https://archive.org/)
+* [UX Nice very nice examples](https://www.niceverynice.com/components)
+* [Font in Logo](https://www.fontinlogo.com/)
+* [Tweet longer ](https://www.twitlonger.com/)
+* [example domain](http://example.com/)
+
+
+
+* [calendar](http://www.webcal.fi/en/calendars.php) event website
+* [Timelapse](https://world.time.com/timelapse/) of the World from TIME 
+* [Color Palette](https://colorsinspo.com/) Inspiration 
+* [vector art](https://icons8.com/vector-creator/new) creator
+  * [code movement](https://copypalette.netlify.com/)
+  * [palette from company logo ](https://air.inc/)
+  * [coloors ](https://coolors.co/)
+  * [image hues](https://imagehues.com/) from photo
 
 
 
