@@ -1,5 +1,7 @@
 ---
-description: 'Shitty soundcloud rapper, but in a Gitbook.'
+description: >-
+  My little digital garden to cultivate notes and ideas, leaving a little trace
+  of my thoughts.
 ---
 
 # What is this?
@@ -24,7 +26,7 @@ Now, the process for developing brainless is adding content to a single \(set\) 
 
 ### Meta
 
-These pages relate to brainless, my thoughts, or one of the other gitbooks
+These pages relate to my thoughts and reasoning on why this is a public work. A newcomer should begin with the essay on responsiblity 
 
 ### Ideas
 

@@ -22,7 +22,7 @@
 
 ## meta
 
-* [Responsibility](meta/reference.md)
+* [Responsibility](meta/responsibility.md)
 * [Geography](meta/calculus.md)
 * [Sharing](meta/sharing/README.md)
   * [Inspirations](meta/sharing/inspirations.md)
