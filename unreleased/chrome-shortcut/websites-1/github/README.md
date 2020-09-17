@@ -2,6 +2,8 @@
 
 A list of github directories which are pretty interesting. Learned it from [youtube](https://www.youtube.com/watch?v=rlO4OL7HrNw)
 
+[https://mkorostoff.github.io/1-pixel-wealth/](https://mkorostoff.github.io/1-pixel-wealth/)
+
 <table>
   <thead>
     <tr>
