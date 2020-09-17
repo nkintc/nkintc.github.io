@@ -23,11 +23,11 @@
 ## meta
 
 * [Responsibility](meta/responsibility.md)
-* [Geography](meta/calculus.md)
 * [Sharing](meta/sharing/README.md)
   * [Inspirations](meta/sharing/inspirations.md)
   * [Workflows](meta/sharing/workflows.md)
   * [Social Media](meta/sharing/media.md)
+* [Geography](meta/calculus.md)
 * [Research](meta/research/README.md)
   * [Project Index](meta/research/projects.md)
   * [3D Printing](meta/research/3d-printing.md)

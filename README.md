@@ -16,25 +16,23 @@ Everyone has a story; no one is going to tell it but you.
 
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability. 
 
-One of the names for this kind of collection of documents is a digital garden. Though the analogy is not perfect, it does promote the idea of cultivation. This process of writing is nonlinear and doing the same thing twice will give two different results: inspiration is a nonrenewable resource.
+One of the names for this kind of collection of documents is a digital garden. Though the analogy is not perfect, it does promote the idea of cultivation. This process of writing is nonlinear and doing the same thing twice will give two different results: inspiration is a nonrenewable resource. Additionally, the process of growth is not beautiful. The steps in between stages is almost always gross 
 
-Additionally, the process of growth is not beautiful. The steps in between stages is almost always gross 
-
-First step, was simply writing and throwing words at the metaphysical page. But before being worth reading some pruning needs to be done and some organization needs to come across before being ready for the public. 
-
-Now, the process for developing brainless is adding content to a single \(set\) of pages to polish what work is already there. These are collected as subpages for the [`[unreleased]`](https://nkintc.gitbook.io/brainless/unreleased) heading. 
+First step, was simply writing and throwing words at the metaphysical page. But before being worth reading, some pruning needs to be done and some organization needs to come across before being ready for the public. Now, the process for developing brainless is adding content to a single \(set\) of pages to polish what work is already there. These are collected as pages under the [`[unreleased]`](https://nkintc.gitbook.io/brainless/unreleased) heading. The following are descriptions of the top level headings, seen in the sidebar. 
 
 ### Meta
 
-These pages relate to my thoughts and reasoning on why this is a public work. A newcomer should begin with the essay on responsiblity 
+These pages relate to my thoughts and reasoning on why this is a public wKKork. A newcomer should begin with the essay on [responsiblity](https://nkintc.gitbook.io/brainless/meta/responsibility) online. My \(human\) geography is my own personal history, if you want to get to know the author. Sharing is a set of pages which links to other digital gardens or second brains. Research are the list of projects which I have worked on. 
 
 ### Ideas
 
-Inspiration is 
+One of the main reasons for creating a work of art is to be though t provoking. As a person online in 2020, keeping track of these persistent works is difficult but worthwhile. Computer games, books, and film are all human creations: they serve no utility other than to make people _feel_ something. In grade school, teachers feed students the little lies so that they will be ready for the big ones. 
+
+A little lie which students hear is that during English class, that they are searching for hidden meanings. I disagree fully: what students are actually doing \(and what the teachers use the lie for\) is to better the quality of though on the work. Give it time and enough thought, some meaning should bear fruit.  
 
 ### Mollusk
 
-A little in-joke, moving from shell to shell. These pages collect computer notes and how the day to day works on  
+A little in-joke, as an individual moving from shell to shell. These pages collect computer notes and how the day to day works on.  
 
 ### Engineering Mathematics
 
@@ -59,16 +57,6 @@ Each page should hold all the necessary information on whatever topic: not expli
 ### Built with [Gitbook](https://docs.gitbook.com/)
 
 A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian. There are other benefits: hyperlinking, image and file hosting with built in commenting, math fonts through LaTeX, the list goes on. However, cloning the entirety of the repo will also clone documents which belong in other books and is a problem for another time. 
-
-## Working with a brainless mass
-
-To maintain, and get a feel for where things are clone the [repository](https://github.com/nkintc/nkintc.github.io) and list the contents using:
-
-```text
-$ tree -L [n]
-```
-
-where `[n]` is the depth we are willing to traverse through this mess. However! Since this is a work in progress, cloning directly from the repository will also clone the other gitbooks that I'm working: this means that folder structure is not preserved and working offline requires downloading the whole thing as well as all the other shit I'm working on in these gitbooks.  
 
 ### Navigation 
 

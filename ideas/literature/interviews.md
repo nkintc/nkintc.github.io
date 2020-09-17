@@ -6,7 +6,16 @@ description: >-
 
 # Interviews
 
-Table of Interview
+In Boy Scouts \(RIP to that organization\), I learned the EDGE framework for teaching. It is probably mangled from the brain vault 
+
+* Educate
+* Demonstrate
+* Guide
+* Enable
+
+Teaching anyone how to do a task involve these sequential stages, which cannot be accomplished unless the previous step is solid. 
+
+### Table of Interview
 
 | Interviewee | Interviewer | Topic |
 | :--- | :--- | :--- |

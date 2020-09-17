@@ -16,6 +16,16 @@ using the `-` character as a prefix on files makes them \*REALLY\* hard to renam
 
 why everything ends in [rc](https://stackoverflow.com/questions/11030552/what-does-rc-mean-in-dot-files). 
 
+## Working with a brainless mass
+
+To maintain, and get a feel for where things are clone the [repository](https://github.com/nkintc/nkintc.github.io) and list the contents using:
+
+```text
+$ tree -L [n]
+```
+
+where `[n]` is the depth we are willing to traverse through this mess. However! Since this is a work in progress, cloning directly from the repository will also clone the other gitbooks that I'm working: this means that folder structure is not preserved and working offline requires downloading the whole thing as well as all the other shit I'm working on in these gitbooks.  
+
 ```text
 mv -fileName1 +fileName2
 mv: illegal option -- N
