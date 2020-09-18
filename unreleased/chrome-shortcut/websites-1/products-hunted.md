@@ -1,10 +1,8 @@
 # Product Hunt
 
-[https://slazzer.com/?ref=producthunt](https://slazzer.com/?ref=producthunt)
+[slazzer background removal](https://slazzer.com/)
 
 [AR Copy Paste](https://arcopypaste.app/)
-
-[Cool shirt ](%20https://coolshirt.com/product/sfi-3-3-rated-2coolfr-water-pants-clearance/)and [cool pants](https://www.advanced-autosports.com/collections/drive-gear/products/cool-suit-system)
 
 Product Hunting [new tab ](https://www.producthunt.com/posts/mue)and [figma](https://www.producthunt.com/posts/figma-pizza)
 

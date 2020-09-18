@@ -14,6 +14,8 @@ None of these have hard-and-fast rules: if it is possible it can be done. Howeve
 
 [Laser Cutter](https://glowforge.com/). Undergraduate time at Trinity had access to the glowforge. It's a really intuitive interface: etching my name and contact into a laptop was simple and straightforward. Would make a [3D scanner easier to make](https://hci.rwth-aachen.de/fabscanoriginal).
 
+[Cool shirt ](%20https://coolshirt.com/product/sfi-3-3-rated-2coolfr-water-pants-clearance/)and [cool pants](https://www.advanced-autosports.com/collections/drive-gear/products/cool-suit-system)
+
 
 
 
