@@ -10,5 +10,13 @@ Product Hunting [new tab ](https://www.producthunt.com/posts/mue)and [figma](htt
 
 [The helper Droid ](https://gitlab.com/0xnaka/thehelperdroid/raw/master/helplist.txt)
 
+[blush](https://blush.design/) for figures and images 
+
+[paint with machine learning](http://paintwith.spell.ml/)
+
+[script to ai video](https://www.synthesia.io/)
+
+
+
 
 
