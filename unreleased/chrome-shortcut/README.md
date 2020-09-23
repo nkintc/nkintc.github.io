@@ -13,11 +13,19 @@ One of innumerable browsers to explore the internet, this page is where I'll jot
 
 Typically the omnibar searches for a url but you can specify what you want to see on the screen
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+
 ```text
 data:text/html, <html contenteditable>
 ```
 
 to create a scratchpad to work on.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
 
 ```text
 chrome://{settings,bookmarks,newtab,chrome-urls}
@@ -27,6 +35,10 @@ chrome://{settings,bookmarks,newtab,chrome-urls}
 * bookmarks... where i store some bookmarks temporarily
 * newtab: what chrome picks up and is different from new-tab-page
 * chrome-urls: where to find the rest of these
+{% endtab %}
+{% endtabs %}
+
+
 
 
 
