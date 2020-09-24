@@ -40,6 +40,31 @@ chrome://{settings,bookmarks,newtab,chrome-urls}
 
 
 
+{% tabs %}
+{% tab title="First Tab" %}
+
+
+```text
+data:text/html, <html contenteditable>
+```
+
+to create a scratchpad to work on.
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+
+```text
+chrome://{settings,bookmarks,newtab,chrome-urls}
+```
+
+* settings 
+* bookmarks... where i store some bookmarks temporarily
+* newtab: what chrome picks up and is different from new-tab-page
+* chrome-urls: where to find the rest of these
+{% endtab %}
+{% endtabs %}
+
 
 
 
