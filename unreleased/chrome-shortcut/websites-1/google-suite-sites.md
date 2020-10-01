@@ -30,5 +30,7 @@ Found via [these](https://www.scriptol.com/web/google-sites.php) [sources](https
 
 [https://sci-hub.now.sh/](https://sci-hub.now.sh/)
 
+[killed by google](https://killedbygoogle.com/)
+
 
 
