@@ -19,14 +19,16 @@ All For Good is a project to help people find places to lend their help. [Ngram 
 Google's [Music Lab](https://musiclab.chromeexperiments.com/) is a chrome experiment which has a variety of instruments \(heh, instruments\) which measures and display those measurements in a meaningful way. Watching music through the [spectrogram](https://musiclab.chromeexperiments.com/Spectrogram/) is always an interesting experience. Drums with their instantaneous vertical lines and strings with their soaring harmonics parallel across the screen. I suggest [Ihojin no Yaiba](https://www.youtube.com/watch?v=S8gmbWKXY_M) from Sword of the Stranger to listen to through the spectrograph: both features will be visible.
 
 * beta feature of [simultaneous pianos](https://musiclab.chromeexperiments.com/Shared-Piano/#sxdB8VjZi)
-* 
+
 ### Sources
 
 Found via [these](https://www.scriptol.com/web/google-sites.php) [sources](https://www.scriptol.com/web/google-sites.php) which are dated even at the time of writing. 
 
+[https://citationsy.com/](https://citationsy.com/)
 
+[gen.lib.rus](http://gen.lib.rus.ec/)
 
-
+[https://sci-hub.now.sh/](https://sci-hub.now.sh/)
 
 
 
