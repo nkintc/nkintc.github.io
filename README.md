@@ -32,7 +32,7 @@ A little lie which students hear is that during English class, that they are sea
 
 ### Mollusk
 
-A little in-joke, as an individual moving from shell to shell. These pages collect computer notes and how the day to day works on.  
+A little in-joke, as an individual moving from shell to shell. These pages collect computer notes and how the day to day works on. 
 
 ### Engineering Mathematics
 
