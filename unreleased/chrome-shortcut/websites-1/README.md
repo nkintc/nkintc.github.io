@@ -20,8 +20,9 @@ Okay, you watched? Cool. This is the kind of stuff the internet is meant for: me
 | [Twitter](https://twitter.com/home) | a kind of zeitgeist thermometer |
 | [Instagram](https://www.instagram.com/) | public facing facebook |
 | [Reddit](https://old.reddit.com/) | biggest time waster on the internet  |
+| [simReddit](https://anvaka.github.io/redsim/#?q=IdiotsFightingThings) | Find similar Reddit |
 | [Youtube](https://www.youtube.com/) | if you need your eyes to be occupied too |
-|  |  |
+| [Allsides](https://www.allsides.com/unbiased-balanced-news) | managed news  |
 {% endtab %}
 
 {% tab title="Google Pages " %}
@@ -224,16 +225,10 @@ code stuff
 * [https://getcssscan.com/css-box-shadow-examples](https://getcssscan.com/css-box-shadow-examples)
 {% endtab %}
 
-{% tab title="News" %}
+{% tab title="" %}
 
 
 
-
-|  | managed news  |
-| :--- | :--- |
-| [ground.news](https://web.ground.news/) |  |
-| [Allsides](https://www.allsides.com/unbiased-balanced-news) |  |
-|  |  |
 
 ### [How to tell fact from fiction ](https://guides.lib.umich.edu/c.php?g=637508&p=4462444)
 
@@ -260,5 +255,7 @@ A Chrome Experiment which shows the distribution of events on a globe
 {% endtab %}
 {% endtabs %}
 
+### Motherfuckin' Websites
 
+There is a variety: the [original](http://motherfuckingwebsite.com/), the [oneup](http://bettermotherfuckingwebsite.com/), and the [latest](https://perfectmotherfuckingwebsite.com/) and the "[greatest](https://thebestmotherfucking.website/)". These are what I like in websites. Simple and malleable to one person. These go over the principals for website design, but the key takeaway is that simplicity is best. Don't need to make every website look like a flipbook or reactive elements, just follow KISS \(Keep It Simple Stupid\).  
 
