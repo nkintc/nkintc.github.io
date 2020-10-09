@@ -8,7 +8,7 @@ description: >-
 
 Want to see something cool? [Sound on](https://matias.ma/nsfw/).
 
-Okay, you watched? Cool. This is the kind of stuff the internet is meant for: meaningless things which bring a smile to someone's face. 
+Okay, you watched? Cool. This is the kind of stuff the internet is meant for: meaningless things which bring a smile to someone's face. But clearly, the internet is used for meaningful
 
 
 
@@ -21,7 +21,7 @@ Okay, you watched? Cool. This is the kind of stuff the internet is meant for: me
 | [Instagram](https://www.instagram.com/) | public facing facebook |
 | [Reddit](https://old.reddit.com/) | biggest time waster on the internet  |
 | [Youtube](https://www.youtube.com/) | if you need your eyes to be occupied too |
-| [Allsides](https://www.allsides.com/unbiased-balanced-news) | managed news  |
+|  |  |
 {% endtab %}
 
 {% tab title="Google Pages " %}
@@ -224,10 +224,16 @@ code stuff
 * [https://getcssscan.com/css-box-shadow-examples](https://getcssscan.com/css-box-shadow-examples)
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="News" %}
 
 
 
+
+|  | managed news  |
+| :--- | :--- |
+| [ground.news](https://web.ground.news/) |  |
+| [Allsides](https://www.allsides.com/unbiased-balanced-news) |  |
+|  |  |
 
 ### [How to tell fact from fiction ](https://guides.lib.umich.edu/c.php?g=637508&p=4462444)
 
