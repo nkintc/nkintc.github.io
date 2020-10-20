@@ -18,5 +18,12 @@ Why this is up here?  Look to [Francois Clemmons on his interaction with Fred Ro
 >
 > [Ch. IX: Hypotheses in Physics, Tr. George Bruce Halsted \(1913\)](https://en.wikiquote.org/wiki/Henri_Poincar%C3%A9)
 
+Laplace Again 
+
+* [Ce que nous connaissons est peu de chose; ce que nous ignorons est immense](https://todayinsci.com/L/Laplace_Pierre/LaplacePierre-Quotations.htm). 
+* What we know is not much. What we do not know is immense.
+
+
+
 
 
