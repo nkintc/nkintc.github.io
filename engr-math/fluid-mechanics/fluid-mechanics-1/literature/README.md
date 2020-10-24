@@ -6,7 +6,7 @@ description: My notes
 
 Attached are the handwritten notes, collected during lectures by Dr. Rusak. They are mostly an exercise in wrote just as brainless is and attacked for completeness. 
 
-{% file src="../../../.gitbook/assets/mane.6520.notes.student.pdf" caption="MANE 6529: Lecture Notes" %}
+{% file src="../../../../.gitbook/assets/mane.6520.notes.student.pdf" caption="MANE 6529: Lecture Notes" %}
 
 {% tabs %}
 {% tab title="First half " %}

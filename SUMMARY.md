@@ -97,7 +97,8 @@
       * [hw1](engr-math/fluid-mechanics/fluid-mechanics-1/inflow/hw1.md)
     * [Syllabus Description](engr-math/fluid-mechanics/fluid-mechanics-1/admin.md)
     * [Lecture Slides](engr-math/fluid-mechanics/fluid-mechanics-1/lectures.md)
-    * [Student Notes](engr-math/fluid-mechanics/fluid-mechanics-1/literature.md)
+    * [Student Notes](engr-math/fluid-mechanics/fluid-mechanics-1/literature/README.md)
+      * [Dynamic or Kinematic Viscosity](engr-math/fluid-mechanics/fluid-mechanics-1/literature/dynamic-or-kinematic-viscosity.md)
     * [Assignments](engr-math/fluid-mechanics/fluid-mechanics-1/homeworks/README.md)
       * [Homeworks](engr-math/fluid-mechanics/fluid-mechanics-1/homeworks/homeworks/README.md)
         * [Homework 1](engr-math/fluid-mechanics/fluid-mechanics-1/homeworks/homeworks/homework-1.md)
@@ -170,8 +171,4 @@
       * [d4](engr-math/heat-transfer/assignments/discussions/d4.md)
       * [d3](engr-math/heat-transfer/assignments/discussions/d3.md)
     * [Project Notes](engr-math/heat-transfer/assignments/project-notes.md)
-
----
-
-* [Dynamic or Kinematic Viscosity](dynamic-or-kinematic-viscosity.md)
 
