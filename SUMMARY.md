@@ -171,3 +171,7 @@
       * [d3](engr-math/heat-transfer/assignments/discussions/d3.md)
     * [Project Notes](engr-math/heat-transfer/assignments/project-notes.md)
 
+---
+
+* [Dynamic or Kinematic Viscosity](dynamic-or-kinematic-viscosity.md)
+
