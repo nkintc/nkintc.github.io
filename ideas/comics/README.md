@@ -16,10 +16,6 @@ The sensation of mastering a character or game is one unlike any other:  it can 
 
 A possible finishing pseudo combo Ike can perform on Mid to heavyweight characters in the mid-range percentile. Sudo because none of these attacks are guaranteed to land like they are in Street Fighter or Mortal Kombat. But you must control the characters such  that both it and the opponent are in a position such that the attack will land. 
 
-
-
-
-
 XKCD comics 
 
 * [depth perception](https://xkcd.com/941/)

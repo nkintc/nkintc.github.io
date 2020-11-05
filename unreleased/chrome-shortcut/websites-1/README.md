@@ -64,8 +64,6 @@ a
 {% tab title="Articles" %}
 ### Scientific
 
-
-
 * [Opensource Deep Fakes](https://aliaksandrsiarohin.github.io/first-order-model-website/) or [First order Motion Model for image animation](http://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation). Code [here](https://github.com/AliaksandrSiarohin/first-order-model).
 * [Static charge](http://web.archive.org/web/19961226041803/http://www.att.com/conferences/eosesd/s7.htm) worthy of [Star Trek](http://amasci.com/weird/unusual/swenson1.html).
 * [Statistical solution to 3 body problem.](https://www.nature.com/articles/s41586-019-1833-8)
@@ -75,11 +73,10 @@ a
 
 ### Other
 
-
-
 * sergio article [https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/](https://publicseminar.org/essays/in-search-of-lost-time-and-misplaced-memories/) sergio article [https://publicseminar.org/essays/time-is-out-of-joint/](https://publicseminar.org/essays/time-is-out-of-joint/)
 * [how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired](https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4)
 * [https://blog.prototypr.io/on-citationsy-4e143bbafc0](https://blog.prototypr.io/on-citationsy-4e143bbafc04)
+* [https://retractionwatch.com/](https://retractionwatch.com/)
 
 
 
