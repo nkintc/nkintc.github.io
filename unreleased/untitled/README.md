@@ -43,6 +43,21 @@ A \cos (\omega t+\alpha)+B \cos (\omega t+\beta) \\
 \cos \left\{\omega t+\tan ^{-1}\left[\frac{A \sin (\alpha)+B \sin (\beta)}{A \cos (\alpha)+B \cos (\beta)}\right]\right\}
 $$
 
+euler lagrange 
+
+$$
+\frac{\text{d}}{\text{dt}}
+\left(
+\frac{\partial L}{\partial {\dot{\mathbf {q}}}}
+\right)
+=
+\frac{\partial L}{\partial {\mathbf {q}}}
+
+
+\qquad
+\textcolor{red}{\texttt{Euler-Lagrange Eqn. 2nd Kind }}
+$$
+
 Multivariate calculus is the extension of of univariate calculus, which studies mappings $$f: \mathcal{R} \rightarrow \mathcal{R}$$ to more generic $$\boldsymbol{g}: \mathcal{R}^{n} \rightarrow \mathcal{R}^{m}$$; relating a vector, $$\boldsymbol{x}$$ of some length$$n$$ to some other vector $$\boldsymbol{y}$$of length $$m$$by multiplication with some some rectangular matrix of dimensions,  $$m \times n$$.  Really there is a very important connection between multivariate calculus and linear algebra. Being consistent in in ideas and This framework is used in all courses except for Machine Dynamics because that class said fuck you that's why. Well, the professor did but that's a story for another time. 
 
 {% hint style="info" %}
