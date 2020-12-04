@@ -1,40 +1,26 @@
----
-description: >-
-  Logging a list of changes to brainless directories and plaintext markdown
-  files.
----
-
 # Changelog
 
-## Changes Logged: 0.0.2 - 2020-06-20
+## Changes Logged: 0.0.2 - 2020-09-13 \[UNRELEASED\]
 
-### Added
+Not much has changed except for moving much of the content over to brain was, essentially much removal. However,  a more streamlined approach towards organization was forum,  such that these pages are mainly random collections of thoughts and possible blog post ideas.
 
-* Notes for Fluid Mechanics starting with fundamentals 
-* Framework for Incompressible flow notes
-* Warnings for rough edges in some places, but still fluid \(_haha...shoot me...._\)
+### Removed
+
+* Quantum computing notes moved to brainless, slides from Microsoft downloaded and linked.
+* Ender 3 moved to 3D Printing project page from brainless.
 
 ### Changed
 
-* Various descriptions around the site for the sake of coherency
-* Major Sections 
-  * `[untitled]` major sections include the _What is this?_, _Changelog_, and `[unreleased]` pages. 
-  * Meta, Sharing, Ideas, Mathematics, Entertainment, Homelife, and Electronics. 
-* Probably missed a few. 
+* Ordinary skincare page collected with regular skincare page. 
 
-### Security
-
-* Search engine indexing turned off, until a less rough state is achieved. 
-* Page ratings turned off, don't need them because they're in a goddawful state right now `:(`
-
-
-
-## Changes Logged: 0.0.1 - 2020-05-18
+## Changes Logged: 0.0.1 - 2020-05-21 \[UNRELEASED\]
 
 ### Added
 
-* Added intro paragraph 
-* Published blank online with github pages.
+* publish `nkintc.github.io/brainless`  
+  * articles and notes from `gDrive/files/` 
+* Added first changelog 
+* Published blank online with github pages
 
 ### Changed
 
