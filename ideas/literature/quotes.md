@@ -11,6 +11,7 @@ Why this is up here?  Look to [Francois Clemmons on his interaction with Fred Ro
 * No day shall erase you from the memory of time,"-Virgil
   * "nulla dies umquam memori vos eximet aevo."
 * How wonderful it is that nobody need wait a single moment before starting to improve the world- Anne Frank
+* “A true thing, poorly expressed, is a lie.”― Stephen Fry  
 
 > _Le savant doit ordonner ; on fait la science avec des faits comme une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison._
 >

@@ -162,6 +162,8 @@ a
 ### Unclassified
 
 * [https://whenshouldistopwatching.com/](https://whenshouldistopwatching.com/tt0383126)
+* [https://q.uiver.app/](https://q.uiver.app/)
+* [https://thenounproject.com/search/?q=heart](https://thenounproject.com/search/?q=heart)
 * [https://github.com/readme/](https://github.com/readme/)
 * [https://regex101.com/r/POWIAY/1](https://regex101.com/r/POWIAY/1)
 * [https://www.bumblebeespaces.com/](https://www.bumblebeespaces.com/)
@@ -192,6 +194,10 @@ a
 * [https://www.openanatomy.org/](https://www.openanatomy.org/about.html#whats-wrong)
 * [Internet Archive: Digital Library](https://archive.org/)
 * [UX Nice very nice examples](https://www.niceverynice.com/components)
+* [Amateur Morse Code](http://aa9pw.com/morsecode/)
+* [https://sites.psu.edu/edog/lucie/](https://sites.psu.edu/edog/lucie/)
+* [JSON stringlength tool](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+* [https://howtomechatronics.com/arduino-projects/](https://howtomechatronics.com/arduino-projects/) 
 * [Font in Logo](https://www.fontinlogo.com/)
 * [Tweet longer ](https://www.twitlonger.com/)
 * [example domain](http://example.com/)
