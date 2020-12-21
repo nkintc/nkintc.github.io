@@ -11,3 +11,9 @@ description: >-
 Waiting for more posts in order to make meaningful categorizations
 {% endhint %}
 
+
+
+{% file src="../.gitbook/assets/coolball.gif" %}
+
+ 
+

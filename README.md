@@ -7,9 +7,9 @@ description: >-
 
 # Welcome
 
-This is one of two GitBooks where I note my knowledge in a digital form. Of the two this one is more narrative base and less factual,  per se.  rather than take  notes precisely, which is what [the sister GitBook](https://nkintc.gitbook.io/brainless) is for, this self-titled collection is more constructive and referential of the brainless data contained in the other. Projects ideas and thoughts should live here, whereas news, notes, external sites belong in the other.  
+This is one of two GitBooks where I note my knowledge in a digital form. Of the two this one is more narrative base and less factual,  per se.  rather than take  notes precisely, which is what [the sister GitBook](https://nkintc.gitbook.io/brainless) is for, this self-titled collection is more constructive and referential of the _brainless_ information contained in the other. Projects ideas and thoughts live here, whereas news, notes, and \(most\) links external sites belong in the other. 
 
-
+![Photo of the author, dressed as a Red Crayon. ](.gitbook/assets/crayolaselfie.png)
 
 
 
