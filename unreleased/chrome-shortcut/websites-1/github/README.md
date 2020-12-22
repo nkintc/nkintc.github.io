@@ -4,6 +4,8 @@ A list of github directories which are pretty interesting. Learned it from [yout
 
 [https://mkorostoff.github.io/1-pixel-wealth/](https://mkorostoff.github.io/1-pixel-wealth/)
 
+[https://www.moormann.de/vk2\_de/](https://www.moormann.de/vk2_de/)
+
 <table>
   <thead>
     <tr>
@@ -31,6 +33,12 @@ A list of github directories which are pretty interesting. Learned it from [yout
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://github.com/deezer/spleeter">spleeter</a>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://infinite-nature.github.io/">https://infinite-nature.github.io/</a>
       </td>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
