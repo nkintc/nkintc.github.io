@@ -4,3 +4,5 @@ The internet is just a bunch of computers. What a stunning revelation, I know, b
 
 Every Facebook post, every Instagram photo, every single one of Twitter's ever growing number of user tweets is a fragment of social media. On the off-chance that this is read and found useful, one would hope that the fragments of the interactions reflect kindly on the memory of who they were. 
 
+
+
