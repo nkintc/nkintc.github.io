@@ -1,5 +1,5 @@
 ---
-description: 'MANE 6962 from Fall 2018, taught by Dr, Kristen Mills'
+description: 'MANE 6962 from Fall 2018, taught by Dr. Kristen Mills'
 ---
 
 # Experimental Mechanics
