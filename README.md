@@ -6,7 +6,7 @@ description: >-
 
 # What is this?
 
-Everyone has a story; no one is going to tell it but you. 
+Everyone has a story. No one is going to tell it but you. 
 
 {% hint style="danger" %}
 \[WORK IN PROGRESS\] What you see is what you get: proceed at your own risk.
