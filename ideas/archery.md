@@ -6,9 +6,7 @@ description: >-
 
 # Archery
 
-
-
-Given the prevalence of archery in  movies, books, and other media, every protagonist who picks up a bow and fires an arrow seems to be a natural crack shot, every time. That seems to rub off on all of their viewers in a sense of confidence that every arrow will find its way to the bullseye. However, upon reaching the firing line  for the first time and letting loose an arrow that illusion is quickly broken. 
+Given the prevalence of archery in movies, books, and other media, every character who picks up a bow and fires an arrow seems to be a natural crack shot, every time. That seems to rub off on all of their viewers in a sense of confidence that every arrow will find its way to the bullseye. However, upon reaching the firing line  for the first time and letting loose an arrow that illusion is quickly broken. 
 
 Archery is hard. Surmounting that challenge requires continuous practice.
 
@@ -20,15 +18,17 @@ Of the hobbies and skills to cultivate, this is one of the few that is a solely 
 
 ### Setting Up
 
+Finding a range is hard! There might not be a range near you. If there is one, going there might not be feasible or the group might not be a good fit. In either case, this might not be a good time for archery for you. However, if you do find a place to practice archery then a range is the best first step. Low entry cost and if you find that archery is not for you then no harm, no foul! 
 
+Going to a reputable range for the first time, they will equipment for you to use, a safe space to fire, and knowledgeable instructors to answer questions. They will inform you of the range rules, when to fire and when to collect, and how to do all of this safely. 
 
-### Gap Shooting 
+The next step is to choose the kind of archery that you want to purse! There is traditional or barebow, Olympic recurve, and compound archery. Traditional barebow is how it sounds: no equipment other than the bow and arrow: no sights and or aim help. Olympic recurve is the most popular though I do not have much experience with it. Finally, compound bows which have cams on the ends of the bow which allow for significant reduction in strain while aiming at full draw. 
 
-Beginning with basic barebow, or sightless, archery one of the first skills taught is gap shooting or a rudimentary method of aiming.   
+Try barebow first. Once comfortable, then move onto one of the disciplines \(if you want to!\).  
 
+### Continuing Practice
 
-
-
+Once settled in with a reasonable skill level \(consistently hitting the 60 cm target at 18 meters\), I highly suggest scoring yourself and joining Junior Olympic Archery Program \(JOAD\) or Adult Archery Program \(AAP\) where your scores are counted tournament style with fellow archers as judges. Those scores are submitted to World Archery and you can get pins for your achievements! 
 
 
 
