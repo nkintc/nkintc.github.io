@@ -1,8 +1,14 @@
 ---
-description: Common use latex formats.
+description: The ubiquitous plain text math editor seen after Word
 ---
 
 # LaTeX
+
+Though I thought that I had seen the extent of $$\LaTeX\text{'s}$$ functionality in college and grad school, it would be at my first job where the true usefulness of program would come into view.
+
+The fact that it processes plain text files opens up many doors over Word's proprietary format. For the seismic calculations that I was part of, $$\LaTeX$$ was part of the report pipeline which required barely any interaction with a GUI.
+
+Rather than creating documents word by word, the workflow allowed for the direct production of $$\LaTeX$$sections upon preprocessing of the FEM analysis. At this point I would realize that the limitations of Word documents and how plain text is just an overall more efficient method of transmitting ideas.&#x20;
 
 ## List of Online Resources
 
