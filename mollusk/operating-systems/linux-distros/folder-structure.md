@@ -2,7 +2,7 @@
 
 
 
-```text
+```
 for f in * ; do mv -- "$f" "[prefix_]$f" ; done
 ```
 
@@ -12,12 +12,12 @@ from [stack](https://stackoverflow.com/questions/4787413/rename-files-and-direct
 
 I like to prefix symbols to folders and files when I'm working in a file tree. Those symbols are ``{_,-,!,`,+}`` . Apple's macOS Finder will sort a directories files by the File name, starting with the first character: these non-letter character allow sorting by a persistent file property rather than Finder's other, more malleable, options such as File Size or Date Modified, Additionally this doesnt modify the meaning of the name. Each of these prefixes are an operation on a name, each with different meanings:
 
-* \_ a directory which holds fundamental files, README's Licenses, other crucial user files. 
-  * Dont use it too often, generally just when I'm sharing with other parties 
-* `-` this is a development top level directory and holds a mixture of file types 
-* \` reserved for a file that is currently being worked 
-* ! for a file that I'm working on but have to leave 
-* + directory with a single filetype but is still being used for references 
+* \_ a directory which holds fundamental files, README's Licenses, other crucial user files.&#x20;
+  * Dont use it too often, generally just when I'm sharing with other parties&#x20;
+* `-` this is a development top level directory and holds a mixture of file types&#x20;
+* \` reserved for a file that is currently being worked&#x20;
+* ! for a file that I'm working on but have to leave&#x20;
+* \+ directory with a single filetype but is still being used for references&#x20;
 
 
 
@@ -45,4 +45,3 @@ FHS filesystem heirarchy standard
 * `tmp` temporary
 * `var` variable directory which are added such as logs and database kind of folder
 * `home`
-

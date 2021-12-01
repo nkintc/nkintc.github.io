@@ -6,12 +6,12 @@ description: Common use latex formats.
 
 ## List of Online Resources
 
-* [PGF Plots](http://pgfplots.net/) are a library of LaTeX figures such as this, [volume under graph ](http://pgfplots.net/tikz/examples/fill-space-3d/)
-* What's the [Tex](http://detexify.kirelabs.org/classify.html) for that? Draw a math character and it will give you a score, the Tex mode and any packages needed. 
+* [PGF Plots](http://pgfplots.net) are a library of LaTeX figures such as this, [volume under graph ](http://pgfplots.net/tikz/examples/fill-space-3d/)
+* What's the [Tex](http://detexify.kirelabs.org/classify.html) for that? Draw a math character and it will give you a score, the Tex mode and any packages needed.&#x20;
 
 ### Overlapping Braces from [Stack Exchange](https://tex.stackexchange.com/questions/12963/how-to-have-overlapping-under-braces-and-over-braces/12969)
 
-Use of math in paragraph entry $$n$$\ 
+Use of math in paragraph entry $$n$$\\&#x20;
 
 $$
 a+b+
@@ -23,31 +23,32 @@ a+b+
 =e^2
 $$
 
-```text
+```
 a+b+\rlap{\overbrace{\phantom{c+d+e+f+g}}^x}c+d   
 +\underbrace{e+f+g+h+i}_y +k+l=e^2
 ```
 
 
 
- Normal or Gaussian Distribution 
+&#x20;Normal or Gaussian Distribution&#x20;
 
 
 
-* 
+*
+
 $$
 f(x)=\frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{2}}
 $$
 
 
 
-[Logistic Distribution](https://en.wikipedia.org/wiki/Logistic_distribution)
+[Logistic Distribution](https://en.wikipedia.org/wiki/Logistic\_distribution)
 
 $$
 \frac{e^{-(x-\mu) / s}}{s\left(1+e^{-(x-\mu) / s}\right)^{2}}
 $$
 
-[Logistic Function ](https://en.wikipedia.org/wiki/Logistic_function)
+[Logistic Function ](https://en.wikipedia.org/wiki/Logistic\_function)
 
 $$
 \frac{1}{1+e^{-(x-\mu) / s}}
@@ -59,19 +60,19 @@ sample figures from [pgfplots](http://pgfplots.net/tikz/examples/)
 
 ## Bibliographies
 
-Ottobib bibliography [generator](https://www.ottobib.com/) from isbn
+Ottobib bibliography [generator](https://www.ottobib.com) from isbn
 
-[doi](https://citation.crosscite.org/) formatter to bib
+[doi](https://citation.crosscite.org) formatter to bib
 
 [tree generator](https://lautgesetz.com/latreex/)
 
-Geogebra can [make diagrams in tikz](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_%28Part_2%29%E2%80%94Generating_TikZ_Code_from_GeoGebra) but cant do it through its website, unfortunately 
+Geogebra can [make diagrams in tikz](https://www.overleaf.com/learn/latex/LaTeX\_Graphics\_using\_TikZ:\_A\_Tutorial\_for\_Beginners\_\(Part\_2\)%E2%80%94Generating\_TikZ\_Code\_from\_GeoGebra) but cant do it through its website, unfortunately&#x20;
 
 latex prettifier kinda like lint
 
-Side By Side figures 
+Side By Side figures&#x20;
 
-```text
+```
 \begin{frame}{Introduction}
 \begin{figure}[H]
 \centering
@@ -94,9 +95,9 @@ Side By Side figures
 
 
 
-{% embed url="http://www.texample.net/tikz/examples/tag/diagrams/" caption="Great resource for diagrams." %}
-
-
+{% embed url="http://www.texample.net/tikz/examples/tag/diagrams/" %}
+Great resource for diagrams.
+{% endembed %}
 
 
 
