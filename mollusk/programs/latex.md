@@ -14,6 +14,7 @@ Rather than creating documents word by word, the workflow allowed for the direct
 
 * [PGF Plots](http://pgfplots.net) are a library of LaTeX figures such as this, [volume under graph ](http://pgfplots.net/tikz/examples/fill-space-3d/)
 * What's the [Tex](http://detexify.kirelabs.org/classify.html) for that? Draw a math character and it will give you a score, the Tex mode and any packages needed.&#x20;
+* [Codecogs](https://latex.codecogs.com/eqneditor/editor.php): an online equation&#x20;
 
 ### Overlapping Braces from [Stack Exchange](https://tex.stackexchange.com/questions/12963/how-to-have-overlapping-under-braces-and-over-braces/12969)
 

@@ -50,6 +50,7 @@
   * [Cowboy Bebop](thoughts/games-and-movies/cowboy-bebop.md)
   * [My Hero Academia](thoughts/games-and-movies/my-hero-academia.md)
   * [Sword of the Stranger](thoughts/games-and-movies/sword-of-the-stranger.md)
+* [Working and Life Balance](thoughts/working-and-life-balance.md)
 
 ## Mollusk
 

@@ -8,25 +8,25 @@ description: >-
 
 ## Changes Logged: 0.0.3 - 2021-12-01
 
+Distinct from an actual garden, a digital garden can be left without tending, only to be brought back without atrophy or decay but exactly as it was when it was abandoned. Still plenty of changes made in the interim trying to find a voice.&#x20;
+
+Looking at the other sites and trying to emulate them was a mistake.
+
+Their thoughts come their brains. It is inherently unique so trying to copy them would bind up the work flow. It has to be something that I create under my own power and if it takes longer or breaks need to be taken, then so be it.   &#x20;
+
 ### Added
 
-* &#x20;Archery
-*
+* [Archery](thoughts/archery.md) article added with tips on how to get into the hobby.&#x20;
+* [Working and Life Balance](thoughts/working-and-life-balance.md) article added &#x20;
 
 ### Changed
 
-* &#x20;
-*
-
-### Removed
-
-* &#x20;
-*
+* [Drone Building](meta/research/drone.md) video of complete build linked to page &#x20;
+* Calculus sections on Euler's Identity and Euler-Lagrange edited&#x20;
 
 ### Fixed
 
-* Sorted Engineering Mathematics/Steam to &#x20;
-*
+* Sorted Engineering Mathematics/Steam to alphabetical temporarily&#x20;
 
 ## Changes Logged: 0.0.2 - 2020-06-20
 

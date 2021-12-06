@@ -1,25 +1,29 @@
+---
+description: A physical implementation of linear algebra, in a simplistic description.
+---
+
 # Quantum Computing
 
-wikpedia 
+wikpedia&#x20;
 
-* [block sphere](https://en.wikipedia.org/wiki/Bloch_sphere)
-* [toffoli gate ](https://en.wikipedia.org/wiki/Toffoli_gate)
+* [block sphere](https://en.wikipedia.org/wiki/Bloch\_sphere)
+* [toffoli gate ](https://en.wikipedia.org/wiki/Toffoli\_gate)
 
-[topological quantum computer ](https://en.wikipedia.org/wiki/Topological_quantum_computer)with [notes](https://medium.com/swlh/topological-quantum-computing-5b7bdc93d93f)
+[topological quantum computer ](https://en.wikipedia.org/wiki/Topological\_quantum\_computer)with [notes](https://medium.com/swlh/topological-quantum-computing-5b7bdc93d93f)
 
-[hamming code ](http://users.cs.fiu.edu/~downeyt/cop3402/hamming.html)for adding parity bits for error correction is a classical version  
+[hamming code ](http://users.cs.fiu.edu/\~downeyt/cop3402/hamming.html)for adding parity bits for error correction is a classical version &#x20;
 
 {% file src="../../.gitbook/assets/microsoft.quantum.pdf" %}
 
-[Notes from Microsoft Research 2018 ](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+[Notes from Microsoft Research 2018 ](https://www.youtube.com/watch?v=F\_Riqjdh2oM)
 
 
 
-* built on logic gates just like traditional machines 
+* built on logic gates just like traditional machines&#x20;
 
-Bit wise vectors 
+Bit wise vectors&#x20;
 
-0 
+0&#x20;
 
 $$
 \left(\begin{array}{l}
@@ -28,7 +32,7 @@ $$
 \end{array}\right)
 $$
 
-matrix multiplication 
+matrix multiplication&#x20;
 
 $$
 \left(\begin{array}{ll}
@@ -79,23 +83,26 @@ $$
 
 
 $$
-\left(\begin{array}{llll}
+\left[
+\begin{array}{llll}
 1 & 0 & 0 & 0 \\
 0 & 1 & 0 & 0 \\
 0 & 0 & 1 & 0 \\
 0 & 0 & 0 & 1
-\end{array}\right)\left(\begin{array}{l}
+\end{array}\right]\left[\begin{array}{l}
 a \\
 b \\
 c \\
 d
-\end{array}\right)=\left(\begin{array}{l}
+\end{array}\right]=\left[\begin{array}{l}
 a \\
 b \\
 c \\
 d
-\end{array}\right)
+\end{array}\right]
 $$
+
+
 
 $$
 \left(\begin{array}{llll}
@@ -117,4 +124,3 @@ $$
 $$
 
 The bit flipping is important. The four operations of a function are identity, negation, constant 0 and constant 1
-
