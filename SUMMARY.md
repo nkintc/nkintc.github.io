@@ -173,3 +173,4 @@
     * [folder structure](mollusk/operating-systems/linux-distros/folder-structure.md)
   * [Windows](mollusk/operating-systems/windows/README.md)
     * [Corsair Utility Engine](mollusk/operating-systems/windows/corsair-utility-engine.md)
+* [Mathematics](mollusk/mathematics.md)
