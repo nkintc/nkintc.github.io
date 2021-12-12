@@ -174,3 +174,15 @@
   * [Windows](mollusk/operating-systems/windows/README.md)
     * [Corsair Utility Engine](mollusk/operating-systems/windows/corsair-utility-engine.md)
 * [Mathematics](mollusk/mathematics.md)
+
+## Projects
+
+* [FolderMath](projects/foldermath/README.md)
+  * [Surveying Origami Math](projects/foldermath/surveying-origami-math.md)
+  * [Represent a Folded Object](projects/foldermath/represent-a-folded-object.md)
+  * [Creating a Crease Pattern](projects/foldermath/creating-a-crease-pattern.md)
+  * [Making the Folds](projects/foldermath/making-the-folds.md)
+  * [Simulating Folding Origami](projects/foldermath/simulating-folding-origami.md)
+  * [List of Resources](projects/foldermath/list-of-resources/README.md)
+    * [Codes](projects/foldermath/list-of-resources/codes.md)
+    * [Papers, Programs, and Inspirations](projects/foldermath/list-of-resources/papers-programs-and-inspirations.md)
