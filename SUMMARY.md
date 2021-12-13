@@ -136,6 +136,7 @@
   * [Assignments](steam/materials-modeling/assignments/README.md)
     * [index](steam/materials-modeling/assignments/untitled.md)
     * [Carbon Nanotubes](steam/materials-modeling/assignments/carbon-nanotubes.md)
+* [Mathematics](steam/mathematics.md)
 
 ## Mollusk
 
@@ -173,7 +174,6 @@
     * [folder structure](mollusk/operating-systems/linux-distros/folder-structure.md)
   * [Windows](mollusk/operating-systems/windows/README.md)
     * [Corsair Utility Engine](mollusk/operating-systems/windows/corsair-utility-engine.md)
-* [Mathematics](mollusk/mathematics.md)
 
 ## Projects
 
