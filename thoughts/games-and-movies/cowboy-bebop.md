@@ -11,6 +11,12 @@ This show is just so unique and so much though is given to how the world progres
 > They must create new dreams and films by breaking traditional styles. They are sick and tired of conventional fixed style jazz. …the work, which becomes a new genre itself, will be called COWBOY BEBOP, will play without fear of risky things. \
 > \- Cowboy Bebop Title Card
 
+My favorite one off "Wild Horses" (S01E19) which funnily enough shows off the Space Shuttle Columbia. More importantly to the show, it illustrates the history of both Spike and his craft, the Swordfish II. It adds even more depth to his character and what he was like well before his time in the syndicate, meeting Julia or Vicious. Under the tutelage of a grumpy old man, Doohan, Spike learned how to work as a mechanic and would inherit the space craft at the end of his tenure.&#x20;
+
+It also is the episode that has Spike's most memorable quote while facing death by burning up in the atmosphere: "Whatever happens... happens".&#x20;
+
+
+
 On the ambiguity of the ending and the[ context of Spike](http://bebopattic.weebly.com/between-the-lines.html)'s final fight with Vicious.
 
 ### Musical Sessions

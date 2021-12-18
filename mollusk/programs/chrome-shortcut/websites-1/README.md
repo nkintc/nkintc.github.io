@@ -14,7 +14,7 @@ Okay, you watched? Cool. This is the kind of stuff the internet is meant for: me
 
 [https://forensic-architecture.org/](https://forensic-architecture.org)
 
-
+[mcbroken.com](https://mcbroken.com) is the McDonalds ice cream machine broken?&#x20;
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -34,7 +34,7 @@ Okay, you watched? Cool. This is the kind of stuff the internet is meant for: me
 
 
 
-| Pages Ive made                                                                                                         | Description |
+|                                                                                                                        | Description |
 | ---------------------------------------------------------------------------------------------------------------------- | ----------- |
 | Web experiments [music](https://musiclab.chromeexperiments.com/Rhythm/)                                                |             |
 | [google podcasts](https://podcasts.google.com)                                                                         |             |
@@ -44,7 +44,7 @@ Okay, you watched? Cool. This is the kind of stuff the internet is meant for: me
 
 a
 
-![a beat in rythmn site](<../../../.gitbook/assets/image (2).png>)
+![a beat in rythmn site](<../../../../.gitbook/assets/image (2).png>)
 
 a
 
