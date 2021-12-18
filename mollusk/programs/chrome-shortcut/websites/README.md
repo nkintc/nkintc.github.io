@@ -17,7 +17,7 @@ Okay, you watched? Cool. This is the kind of stuff the internet is meant for: me
 [mcbroken.com](https://mcbroken.com) is the McDonalds ice cream machine broken?&#x20;
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="General" %}
 | Website                                                               | Description                              |
 | --------------------------------------------------------------------- | ---------------------------------------- |
 | [Facebook](https://www.facebook.com)                                  | the closest thing to a necessary evil    |
@@ -81,18 +81,6 @@ a
 | <p><a href="https://trello.com/b/McoJNvPZ/intheam-tasks">inthe am </a></p><p><a href="https://messages.google.com/web/conversations">messages</a></p><p><a href="https://www.overleaf.com/project">overleaf</a></p> | <p></p><p><a href="https://www.interviewmagazine.com">interviewmagazine</a> calls itself the crystal ball of pop</p> |   |
 | [tricki](http://www.tricki.org/article/To\_find\_a\_rational\_with\_low\_denominator\_near\_a\_given\_real\_use\_continued\_fractions)                                                                              | method for finding nearest rational given any value in the real                                                      |   |
 |                                                                                                                                                                                                                     |                                                                                                                      |   |
-{% endtab %}
-
-{% tab title="Entertainment" %}
-
-
-* [http://www.entropyfm.com/](http://www.entropyfm.com)
-* [https://oscilloscopemusic.com/watch.php#album](https://oscilloscopemusic.com/watch.php#album)
-
-| <p><a href="https://global.americanexpress.com/login/en-US?noRedirect=true&#x26;DestPage=%2Ffunding-accounts%2Fadd">american expres</a>s</p><p><a href="https://secure05b.chase.com/web/auth/dashboard#/dashboard/overviewAccounts/overview/index">chase</a></p><p></p> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [interview](https://www.interviewmagazine.com)                                                                                                                                                                                                                          |
-| <p><a href="https://www.resumehub.org">resumehub</a></p><p><a href="https://www.resumebuilder.com">resume builder</a></p><p><a href="https://www.fiverr.com/logo-maker">fiverr logo m</a>aker </p><p></p>                                                               |
 {% endtab %}
 
 {% tab title="Unclassified" %}
@@ -163,6 +151,18 @@ code stuff
 
 
 * [https://getcssscan.com/css-box-shadow-examples](https://getcssscan.com/css-box-shadow-examples)
+{% endtab %}
+
+{% tab title="Entertainment" %}
+
+
+* [http://www.entropyfm.com/](http://www.entropyfm.com)
+* [https://oscilloscopemusic.com/watch.php#album](https://oscilloscopemusic.com/watch.php#album)
+
+| <p><a href="https://global.americanexpress.com/login/en-US?noRedirect=true&#x26;DestPage=%2Ffunding-accounts%2Fadd">american expres</a>s</p><p><a href="https://secure05b.chase.com/web/auth/dashboard#/dashboard/overviewAccounts/overview/index">chase</a></p><p></p> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [interview](https://www.interviewmagazine.com)                                                                                                                                                                                                                          |
+| <p><a href="https://www.resumehub.org">resumehub</a></p><p><a href="https://www.resumebuilder.com">resume builder</a></p><p><a href="https://www.fiverr.com/logo-maker">fiverr logo m</a>aker </p><p></p>                                                               |
 {% endtab %}
 
 {% tab title="" %}
