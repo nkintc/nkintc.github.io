@@ -8,10 +8,6 @@ description: >-
 
 
 
-Want to see something cool? [Sound on](https://matias.ma/nsfw/).
-
-Okay, you watched? Cool. This is the kind of stuff the internet is meant for: meaningless things which bring a smile to someone's face. But clearly, the internet is used for meaningful
-
 [https://forensic-architecture.org/](https://forensic-architecture.org)
 
 [mcbroken.com](https://mcbroken.com) is the McDonalds ice cream machine broken?&#x20;
@@ -165,7 +161,7 @@ code stuff
 | <p><a href="https://www.resumehub.org">resumehub</a></p><p><a href="https://www.resumebuilder.com">resume builder</a></p><p><a href="https://www.fiverr.com/logo-maker">fiverr logo m</a>aker </p><p></p>                                                               |
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="Misc." %}
 
 
 
@@ -200,4 +196,14 @@ A Chrome Experiment which shows the distribution of events on a globe&#x20;
 
 ### Motherfuckin' Websites
 
-There is a variety: the [original](http://motherfuckingwebsite.com), the [oneup](http://bettermotherfuckingwebsite.com), and the [latest](https://perfectmotherfuckingwebsite.com) and the "[greatest](https://thebestmotherfucking.website)". These are what I like in websites. Simple and malleable to one person. These go over the principals for website design, but the key takeaway is that simplicity is best. Don't need to make every website look like a flipbook or reactive elements, just follow KISS (Keep It Simple Stupid). &#x20;
+There is a variety: the [original](http://motherfuckingwebsite.com), the [oneup](http://bettermotherfuckingwebsite.com), and the [latest](https://perfectmotherfuckingwebsite.com) and the "[greatest](https://thebestmotherfucking.website)". These are what I like in websites. Simple and malleable to one person. These go over the principals for website design, but the key takeaway is that simplicity is best. Don't need to make every website look like a flipbook or reactive elements, just follow KISS (Keep It Simple Stupid).
+
+{% hint style="info" %}
+Want to see something cool? [Sound on](https://matias.ma/nsfw/).
+{% endhint %}
+
+
+
+
+
+&#x20;&#x20;
