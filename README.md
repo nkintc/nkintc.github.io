@@ -58,7 +58,7 @@ Each page should hold all the necessary information on whatever topic: not expli
 
 ### Built with [Gitbook](https://docs.gitbook.com)
 
-A web based interfaced that can works off on top of a network of plain text `.markdown`  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian. There are other benefits: hyperlinking, image and file hosting with built in commenting, math fonts through LaTeX, the list goes on. However, cloning the entirety of the repo will also clone documents which belong in other books and is a problem for another time.&#x20;
+A web based interfaced that can works off on top of a network of plain text [`.markdown`](https://commonmark.org/help/)  files. This has the benefits of version control and easy integration with other programs such as Typora and Obsidian. There are other benefits: hyperlinking, image and file hosting with built in commenting, math fonts through LaTeX, the list goes on. However, cloning the entirety of the repo will also clone documents which belong in other books and is a problem for another time.&#x20;
 
 ### Navigation&#x20;
 

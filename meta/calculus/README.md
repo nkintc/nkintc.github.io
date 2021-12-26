@@ -18,13 +18,13 @@ description: Places I've been and notes from there
 
 I miss her so much. This is a [final message](https://www.youtube.com/watch?v=PIMTon7ZYQ0&) from my mom. She asks me to be a good man and I damn well intend on fulfilling that request.&#x20;
 
-![The kind of future that I'm fighting for: my nephew being held by Mom. ](../.gitbook/assets/momandk.jpeg)
+![The kind of future that I'm fighting for: my nephew being held by Mom. ](../../.gitbook/assets/momandk.jpeg)
 
-{% file src="../.gitbook/assets/momsmessage.subeng.rtf" %}
+{% file src="../../.gitbook/assets/momsmessage.subeng.rtf" %}
 Mom's Message English Subtitles
 {% endfile %}
 
-{% file src="../.gitbook/assets/momsmessage.subthai.rtf" %}
+{% file src="../../.gitbook/assets/momsmessage.subthai.rtf" %}
 Mom's Message Thai Subtitles
 {% endfile %}
 
