@@ -7,7 +7,7 @@ description: >-
 
 # Inspirations
 
-> "Art is sort of a completed pass. You don't just throw it out in the world—someone has to catch it." . Apr 19, 2013 - James Turrell&#x20;
+> "Art is sort of a completed pass. You don't just throw it out in the world—someone has to catch it." - James Turrell (2013-05-19)
 
 ### Exobrains and the [Extended Mind](https://en.wikipedia.org/wiki/Extended\_mind\_thesis)
 
@@ -22,12 +22,11 @@ This is also called a [digital garden](https://joelhooks.com/digital-garden). I 
 * [beepb00p](https://beepb00p.xyz)
 * [jbranchaud](https://github.com/jbranchaud/til)
 * [amandaghaessi](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/#)&#x20;
-  * through ghaessi, [marius watz](http://mariuswatz.com)
+* [marius watz](http://mariuswatz.com)
 * [amymakesstuff](https://amymakesstuff.com)
-  * she links [mattias wandel](https://woodgears.ca)
-  * I was watching [diresta ](https://jimmydiresta.com)at the time
-    * him and casey taught the importance of branding&#x20;
-  * a more current [tech ingredients](https://www.youtube.com/c/TechIngredients/featured) channel on youtube&#x20;
+* [mattias wandel](https://woodgears.ca)
+* [diresta ](https://jimmydiresta.com)
+* [tech ingredients](https://www.youtube.com/c/TechIngredients/featured)&#x20;
   * [frank makes ](http://www.frankmakes.com)
 * [jeremykun](https://jeremykun.com/2013/04/10/computing-homology/)&#x20;
 * [schof](https://schof.co)
@@ -48,13 +47,12 @@ This is also called a [digital garden](https://joelhooks.com/digital-garden). I 
 * [beepb00p](https://beepb00p.xyz)
 * [jbranchaud](https://github.com/jbranchaud/til)
 * [amandaghaessi](http://www.amandaghassaei.com/blog/2020/05/01/the-recursive-universe/#)&#x20;
-  * through ghaessi, [marius watz](http://mariuswatz.com)
+* [marius watz](http://mariuswatz.com)
 * [amymakesstuff](https://amymakesstuff.com)
-  * she links [mattias wandel](https://woodgears.ca)
-  * I was watching [diresta ](https://jimmydiresta.com)at the time
-    * him and casey taught the importance of branding&#x20;
-  * a more current [tech ingredients](https://www.youtube.com/c/TechIngredients/featured) channel on youtube&#x20;
-  * [frank makes ](http://www.frankmakes.com)
+* [mattias wandel](https://woodgears.ca)
+* [diresta ](https://jimmydiresta.com)at the time
+* [tech ingredients](https://www.youtube.com/c/TechIngredients/featured) channel on youtube&#x20;
+* [frank makes ](http://www.frankmakes.com)
 * [jeremykun](https://jeremykun.com/2013/04/10/computing-homology/)&#x20;
 * [mike tannenbaum](https://refinedmind.co)
 * [david gasquez](https://github.com/davidgasquez/handbook)

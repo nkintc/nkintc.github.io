@@ -6,9 +6,9 @@ description: >-
 
 # Responsibility
 
-Most of what is here is going to be wrong.&#x20;
+It is okay to be wrong.&#x20;
 
-That's okay: I make no claims about what goes onto these pages. What is not mine, I will credit its true author and cite in a clear manner. Can't expect a collected set of footnotes every time, but it should be clear what is and what is not mine. Still, at any given time, some nonzero component of this brainless mass is going to have factually incorrect information. I strive to be accurate but the likelihood of perfect information is zero. Something will be amiss. The problem is that I will not know what is correct, and what is not.&#x20;
+I make no claims about what goes onto these pages. What is not mine, I will credit its true author and cite in a clear manner. Can't expect a collected set of footnotes every time, but it should be clear what is and what is not mine. Still, at any given time, some nonzero component of this brainless mass is going to have factually incorrect information. I strive to be accurate but the likelihood of perfect information is zero. Something will be amiss. The problem is that I will not know what is correct, and what is not.&#x20;
 
 Some time ago, [this article](https://jamesbvaughan.com/markdown-pandoc-notes/) got the idea in my head for the need to take notes without having to move over to the mouse. As I think more about it, a mouse is a far more rudimentary method interacting with data: it is better optimized for the direct sharing of information, such as when a second person takes [direct control](https://www.youtube.com/watch?v=p3h8ZnXLsRg). For a single person wanting to communicate an idea directly to an electronic screen, it is much easier to keep the hands on the home row and navigate using modal editing.&#x20;
 

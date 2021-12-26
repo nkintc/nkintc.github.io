@@ -10,7 +10,7 @@
   * [Inspirations](meta/sharing/inspirations.md)
   * [Workflows](meta/sharing/workflows.md)
   * [Social Media](meta/sharing/media.md)
-* [Geography](meta/calculus/README.md)
+* [Geography](meta/calculus.md)
   * [Life](meta/calculus/life.md)
   * [Death](meta/calculus/death.md)
 * [Research](meta/research/README.md)

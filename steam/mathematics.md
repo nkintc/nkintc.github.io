@@ -12,14 +12,17 @@ A fun example is that two concepts that are taught in high school are intimately
 
 $$
 \begin{align*}
- ax^2 + bx + c &= 0 \\
+\overbrace{ax^2 + bx + c }^\texttt{Generic Quadratic}&= 0 
+\\
  x^2 + \frac{b}{a}x + \frac{c}{a} &= 0 \\
  \left( x + \frac{b}{2a} \right )^2 - \left( \frac{b}{2a}  \right )^2 + \frac{c}{a} &= 0 \\
  \left( x + \frac{b}{2a} \right )^2 &=  \left( \frac{b}{2a}  \right )^2 - \frac{c}{a}\\
  & =  \frac{b^2-4ac}{4a^2}\\
  x + \frac{b}{2a} & = \frac{\pm\sqrt{b^2-4ac}}{2a}
 \quad\longrightarrow\quad
+\overbrace{
 \boxed{x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}}
+}^\texttt{Quadratic Equation}
 \end{align*}
 $$
 
@@ -42,4 +45,24 @@ It is relatively common to know that $$\phi$$ can be represented with an algebra
 $$
 \frac{n + \sqrt{n^2+4}}{2} \quad \forall n\in \N
 $$
+
+### Laplace Tidal Equation&#x20;
+
+Introduced to this PDE from a really interesting [Veritasium video](https://www.youtube.com/watch?v=IgF3OX8nT0w) on analog computers. The [Wikipedia page](https://en.wikipedia.org/wiki/Theory\_of\_tides#Laplace's\_tidal\_equations) is also historically insightful.
+
+$$
+\begin{align*}
+& \frac{\partial \zeta}{\partial t}+\frac{1}{a \cos (\varphi)}\left[\frac{\partial}{\partial \lambda}(u D)+\frac{\partial}{\partial \varphi}(v D \cos (\varphi))\right]=0\\
+& \frac{\partial u}{\partial t}-v(2 \Omega \sin (\varphi))+\frac{1}{a \cos (\varphi)} \frac{\partial}{\partial \lambda}(g \zeta+U)=0\\
+& \frac{\partial v}{\partial t}+u(2 \Omega \sin (\varphi))+\frac{1}{a} \frac{\partial}{\partial \varphi}(g \zeta+U)=0
+\end{align*}
+$$
+
+* $$(u,v)$$... latitudinal ($$\phi$$) and longitudinal($$\lambda$$) velocity components
+* $$D$$... mean _thicc_ness &#x20;
+* $$\zeta$$... tidal elevation
+* $$\Omega$$... planetary rotational frequency
+* $$g$$... gravitational acceleration
+* $$a$$... planetary radius
+* $$U$$... external gravitational tidal potential
 

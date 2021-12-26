@@ -6,6 +6,8 @@ description: >-
 
 # Sharing
 
+The internet was built originally to share information. On 12 March 1989, Tim Berners Lee proposed and later implemented the [Hypertext Transfer Protocol](https://www.w3.org/Talks/9608HTTP/) and since its framework was developed, the Internet has grown to a degree that no one in its early days could have imagined. Here is my little corner of it, and below are other sites where you can find me.&#x20;
+
 * [Twitter](https://twitter.com/nkintc): Musings are my own, and some views on current events
 * [Instagram](https://www.instagram.com/nkintc/): Watch me do stuff and look at my face! Might see something fun
 * [Linkedin](https://www.linkedin.com/in/chris-nkinthorn-65463213a/): The less fun version of stuff but a little more polished.&#x20;
