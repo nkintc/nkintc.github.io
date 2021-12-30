@@ -8,11 +8,15 @@ description: Notes on Solid Mechanics
 
 > This course provides an introduction to the mechanics of solids from a continuum perspective. Topics covered in this course include: vector and tensor analysis, coordinate systems and calculus in curvilinear coordinate systems, kinematics (motion, deformation and strain), stress and momentum balance, energy principles and balance laws, linear isotropic and anisotropic elasticity, thermoelasticity, method of solutions for 2-D and 3-D linear elastic boundary value problems, applications to simple structures.
 
-This is the ceiling on the complexity of information that I can reasonably understand...&#x20;
+This is the ceiling on the complexity of information that I have a reasonable grasp on. This course started pretty slow and then accelerated pretty rapidly.&#x20;
 
 ### Lecture 1: Scalars
 
-Scalar Field&#x20;
+Fields (_in this context_) are variables which depend on multiple variables, typically position. In PDE's, most students are introduced to temperature fields but fields can be any kind of variable. Temperature or pressure, which are scalars, are simplest but velocity or stress can also depend on location.&#x20;
+
+&#x20;
+
+Scalar Field.&#x20;
 
 Vector Field
 
@@ -39,6 +43,12 @@ Permutation Symbol
 \----
 
 Epsilon Delta Identity
+
+$$
+\epsilon_{i j k} \epsilon_{i m n}=\delta_{j m} \delta_{k n}-\delta_{j n} \delta_{k m}
+$$
+
+Notice that the two Levi-Civita symbols share an index, $$i$$, as a dummy index. The appearance of a dummy index indicates a contraction, a reduction in rank. On the left-hand side the Kronecker Delta symbols are of rank 2 whereas on the right, rank 3 tensors appear.&#x20;
 
 Scalar Triple Product
 
