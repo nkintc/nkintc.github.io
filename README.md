@@ -14,6 +14,10 @@ Everyone has a story. No one is going to tell it but you.&#x20;
 \[WORK IN PROGRESS] What you see is what you get: proceed at your own risk.
 {% endhint %}
 
+“If I had more time, I would have written a shorter letter.” - Source Disputed&#x20;
+
+Often while writing, I worry that I could do better: written more concisely, been more clear, developed these ideas to maturity before attempting to save them here. But our [time on earth is finite](thoughts/death.md), so these pages will be as long as they are. &#x20;
+
 ## Organization
 
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability.&#x20;
