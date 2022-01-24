@@ -18,7 +18,7 @@ Why this is up here?  Look to [Francois Clemmons on his interaction with Fred Ro
 
 > _Le savant doit ordonner ; on fait la science avec des faits comme une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison._
 >
-> The [Scientist](https://en.wikiquote.org/wiki/Scientist) must set in order. **Science is built up with** [**facts**](https://en.wikiquote.org/wiki/Facts)**, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.**
+> The Scientist must set in order. **Science is built up with facts, as a house is with stones. But a collection of facts is no more a science than a heap of stones is a house.**
 >
 > [Ch. IX: Hypotheses in Physics, Tr. George Bruce Halsted (1913)](https://en.wikiquote.org/wiki/Henri\_Poincar%C3%A9)
 

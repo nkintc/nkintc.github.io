@@ -179,6 +179,7 @@
 
 ## Projects
 
+* [3D Printing](projects/3d-printing.md)
 * [FolderMath](projects/foldermath/README.md)
   * [Surveying Origami Math](projects/foldermath/surveying-origami-math.md)
   * [Represent a Folded Object](projects/foldermath/represent-a-folded-object.md)
