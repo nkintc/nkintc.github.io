@@ -2,8 +2,8 @@
 description: >-
   My little digital garden to cultivate notes and ideas, leaving a little trace
   of my thoughts. Quantified, they're complex numbers so mostly imaginary.
-cover: .gitbook/assets/thisIsFineReverse.jpg
-coverY: -39.181598062953995
+cover: .gitbook/assets/stupidFaster (1).png
+coverY: 0
 ---
 
 # What is this?
