@@ -12,9 +12,26 @@ This is the ceiling on the complexity of information that I have a reasonable gr
 
 ### Lecture 1: Scalars
 
-Fields (_in this context_) are variables which depend on multiple variables, typically position. In PDE's, most students are introduced to temperature fields but fields can be any kind of variable. Temperature or pressure, which are scalars, are simplest but velocity or stress can also depend on location.&#x20;
+Fields (_in this context_) are variables which depend on multiple variables, typically position. In PDE's, most students are introduced to temperature fields but fields can be any kind of variable. Temperature or pressure, which are scalars, are simplest but velocity or stress can also depend on location. $$\tikz \draw (0pt,0pt) -- (20pt,6pt);$$
 
-&#x20;
+$$
+\begin{align*}
+& \bold{a} = a_1\bold{e}_1+a_2\bold{e}_2+a_3\bold{e}_3 \\
+& a_i = \left<\bold{a},\bold{e}_i\right> \\
+& \left | \bold{e}_i \right | = 1\\
+& \bold{x} = 
+\overbrace{x_1\bold{e}_1+x_2\bold{e}_2+x_3\bold{e}_3 = x_i\bold{e}_i}^{\texttt{Summation Convention}} \\
+& \delta_{ij} = {\bf e}_i\cdot {\bf e}_j = 
+\begin{bmatrix}
+1 & 0 & 0\\
+0 & 1 & 0\\
+0 & 0 & 1\\
+\end{bmatrix}\\
+& \left | \bold{a} \right | = \sqrt{a_i a_i} \\
+& \epsilon_{ijk} = \\
+& \bold{n} = \frac{\bold{a} \times \bold{b}}{\left | \bold{a} \times \bold{b} \right |}
+\end{align*}
+$$
 
 Scalar Field.&#x20;
 
