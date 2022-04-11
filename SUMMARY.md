@@ -24,6 +24,7 @@
 
 * [Archery](thoughts/archery.md)
 * [Comics and Games](thoughts/comics/README.md)
+  * [Beyond-All-Reason](thoughts/comics/beyond-all-reason.md)
   * [Sekiro: Shadows Die Twice](thoughts/comics/sekiro.md)
   * [League of Legends](thoughts/comics/league-of-legends.md)
   * [Super Smash Bros](thoughts/comics/super-smash-bros/README.md)
