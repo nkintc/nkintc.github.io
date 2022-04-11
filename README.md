@@ -4,7 +4,6 @@ description: >-
   of my thoughts. Quantified, they're complex numbers so mostly imaginary.
 cover: .gitbook/assets/stupidFaster (1).png
 coverY: 0
-layout: landing
 ---
 
 # What is this?

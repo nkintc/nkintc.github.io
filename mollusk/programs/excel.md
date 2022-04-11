@@ -16,4 +16,4 @@ Populate A1 with Time if B1 is Filled\
 `=IF(A1<>"",IF(B1<>"",B1,NOW()),"")`\
 
 
-#### Source: [https://www.extendoffi](https://www.extendoffice.com/documents/excel/5894-excel-insert-date-and-time-stamp.html)
+#### Source: [https://www.extendoffice.com/documents/excel/5894-excel-insert-date-and-time-stamp.html](https://www.extendoffice.com/documents/excel/5894-excel-insert-date-and-time-stamp.html)
