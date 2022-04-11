@@ -24,6 +24,7 @@
 
 * [Archery](thoughts/archery.md)
 * [Comics and Games](thoughts/comics/README.md)
+  * [Dungeons and Dragons](thoughts/comics/dungeons-and-dragons.md)
   * [Beyond-All-Reason](thoughts/comics/beyond-all-reason.md)
   * [Sekiro: Shadows Die Twice](thoughts/comics/sekiro.md)
   * [League of Legends](thoughts/comics/league-of-legends.md)
@@ -165,6 +166,7 @@
     * [git](mollusk/programs/miscellaneous/git.md)
     * [gnu stow](mollusk/programs/miscellaneous/gnu-stow.md)
     * [mermaid.js](mollusk/programs/miscellaneous/mermaid.js.md)
+  * [Excel](mollusk/programs/excel.md)
   * [Blender](mollusk/programs/blender.md)
   * [LaTeX](mollusk/programs/latex.md)
   * [Sublime: Text Editor](mollusk/programs/sublime.md)
