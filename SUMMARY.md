@@ -18,7 +18,8 @@
   * [3D Printing](meta/research/3d-printing.md)
   * [Photogrammetry](meta/research/photogrammetry.md)
   * [Drone Building](meta/research/drone.md)
-* [\[unreleased\]](meta/unreleased.md)
+* [\[unreleased\]](meta/unreleased/README.md)
+  * [\[TEMPLATE\]](meta/unreleased/template.md)
 
 ## Thoughts
 

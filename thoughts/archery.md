@@ -6,7 +6,7 @@ description: >-
 
 # Archery
 
-![](https://keep.google.com/u/0/media/v2/1EaI6EAPtKsqS4HuehLGGNbKX1YLDgfOklL3lsfyT7Gl3bbDiuyAWvy\_JB42kcu9RAxKZ/13BoZY0czZyj2UoV\_WBgUmdGChu72lNtGb7p\_HmWva-KqjV0SG5Pa4Z2lWUJmcVCfVLvl?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp%2Caudio%2Faac\&sz=4032)![Displaying Photo note](https://keep.google.com/u/0/media/v2/1EaI6EAPtKsqS4HuehLGGNbKX1YLDgfOklL3lsfyT7Gl3bbDiuyAWvy\_JB42kcu9RAxKZ/13BoZY0czZyj2UoV\_WBgUmdGChu72lNtGb7p\_HmWva-KqjV0SG5Pa4Z2lWUJmcVCfVLvl?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp%2Caudio%2Faac\&sz=4032)Given the prevalence of archery in movies, books, and other media, every character who picks up a bow and fires an arrow seems to be a natural crack shot, every time. That seems to rub off on all of their viewers in a sense of confidence that every arrow will find its way to the bullseye. However, upon reaching the firing line  for the first time and letting loose an arrow that illusion is quickly broken.&#x20;
+Given the prevalence of archery in movies, books, and other media, every character who picks up a bow and fires an arrow seems to be a natural crack shot, every time. That seems to rub off on all of their viewers in a sense of confidence that every arrow will find its way to the bullseye. However, upon reaching the firing line  for the first time and letting loose an arrow that illusion is quickly broken.&#x20;
 
 Archery is hard. Surmounting that challenge requires continuous practice.
 
@@ -32,6 +32,6 @@ Once settled in with a reasonable skill level (consistently hitting the 60 cm ta
 
 Note that the photos below are not representative of how I generally shoot.&#x20;
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
