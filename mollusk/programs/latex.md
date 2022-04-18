@@ -10,6 +10,14 @@ The fact that it processes plain text files opens up many doors over Word's prop
 
 Rather than creating documents word by word, the workflow allowed for the direct production of $$\LaTeX$$sections upon preprocessing of the FEM analysis. At this point I would realize that the limitations of Word documents and how plain text is just an overall more efficient method of transmitting ideas.&#x20;
 
+### Example Images
+
+One of the things that would get in my way during school, is that I would want to get the figures together before writing the paper. This was little more than just procrastination with more steps. Here is something that I wish that I had known about: place holder images which can be replaced with an image later, without disturbing formatting. I'm looking at you Microsoft Word. Go [here](https://ctan.math.washington.edu/tex-archive/macros/latex/contrib/mwe/) for a full list of options. There is even an example movie, surprisingly.&#x20;
+
+```
+\includegraphics[width=\textwidth]{example-image-a}
+```
+
 ## List of Online Resources
 
 * [PGF Plots](http://pgfplots.net) are a library of LaTeX figures such as this, [volume under graph ](http://pgfplots.net/tikz/examples/fill-space-3d/)
