@@ -8,11 +8,11 @@ coverY: 0
 
 # What is this?
 
-Everyone has a story. No one is going to tell it but you.&#x20;
-
 {% hint style="danger" %}
 \[WORK IN PROGRESS] What you see is what you get: proceed at your own risk.
 {% endhint %}
+
+Everyone has a story. No one is going to tell it but you.&#x20;
 
 “If I had more time, I would have written a shorter letter.” - Source Disputed&#x20;
 
