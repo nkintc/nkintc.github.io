@@ -6,19 +6,25 @@ description: >-
 
 # Sekiro: Shadows Die Twice
 
-This is the first game that I really fell in love with. It was to my detriment that it was a From Software game.&#x20;
+This is the first game that I really fell in love with, so of course it would end up being a From Software story.&#x20;
 
-Something about this game speaks to me. Even as it tears my computer to shreds because it doesn't have the computing power to render the graphics. Even as I smash my keys and forehead in frustration because _that should have parried!_ Something about this game is so satisfying: defeating an boss or miniboss is just elation when the deathblow marker comes up. But [fighting Genichiro](https://www.youtube.com/watch?v=E\_depF8c2B8)... &#x20;
+Something about this game speaks to me. Maybe it was the time in my life when I first discovered it. Maybe it was the single player aspect of it that meant I could progress on my own and not have to deal with others. Maybe it was something that I could not attribute my love for that game to.&#x20;
 
-> The intention behind the high difficulty of the games I direct is to evoke a feeling of joy and accomplishment in the player when they overcome these challenges. **-** Hidetaka Miyazaki
+Even as I smash my keys and forehead in frustration because "T_hat should have parried!_", something about this game is so satisfying. Defeating an boss or miniboss is just elation when the deathblow marker comes up. A rare occurence for me because I am a relatively bad gamer and brute force a fight until it is in my short term memory, hoping that one of these fights, I will get the killing blow instead of being killed... again.
 
-That really does come across. But there are plenty of difficult games. What sets Sekiro apart is the story that it tells and how the mechanics of the game are represented in the story.&#x20;
+It took me over two years to beat this game, thought I was not playing continuously, letting it sit on the shelf for a while and run in the background over night, I did spent well over the 60 hours that this game is rated for. So, at the end of the day, I very much got my money's worth in playtime.&#x20;
 
-Sekiro is set in the [Sengoku ](https://en.wikipedia.org/wiki/Sengoku\_period)era of Japan, roughly between 1467 to 1615, following a nameless shinobi plucked from a lost battlefield as a child. His father, the Great Shinobi Owl trains him to obey the Iron Code. In his boss fight for the good endings, we see how Sekiro was raised:&#x20;
+&#x20;The intention behind the high difficulty of the games I direct is to evoke a feeling of joy and accomplishment in the player when they overcome these challenges. ****&#x20;
 
-* **First Death:** "One! The parent is absolute. Their will must be obeyed. ...Yet I'm sensing some insubordination"&#x20;
-* **Second Death:**"Two! The master is absolute. You give your life to keep him safe. You bring him back at any cost. ...At this rate, you'll lose him again"&#x20;
-* **Third Death:** (only possible by Jizo Statue) "Three! Fear is absolute. There is no shame in losing one battle. But you must take revenge by any means necessary! ...I wonder if you've got it in you - to bring me down."
+> **-** Hidetaka Miyazaki
+
+That really does come across. But there are plenty of difficult games. What sets Sekiro apart isn't just the game play but the story that it tells. Even more so that those component individually, but how the mechanics of the game are represented in the story itself.&#x20;
+
+### Story
+
+Sekiro is set in the [Sengoku ](https://en.wikipedia.org/wiki/Sengoku\_period)era of Japan, roughly between 1467 to 1615, following a nameless shinobi plucked from a lost battlefield as a child.&#x20;
+
+Raised by the Owl, Wolf is raised under this duplicitous father figure, before he is tasked with the protection of a young boy named Kuro
 
 But how is Sekiro able to _die twice_. Because his young master, to whom his father has pledged Sekiro's allegiance is the Divine Heir Kuro: the last of a clan whose bloodline confers immortality. We see later that this is part of the crooked Owl's plot to obtain Kuro's immortality for himself. The desire for immortality is a common one, particularly as as a motivation for the antagonists of the story.&#x20;
 
@@ -35,6 +41,14 @@ The price which is paid when Sekiro returns to life, when he _dies twice:_ death
 Sekiro's blade is Kusabimaru
 
 ![Sekiro's first blade, Kusabimaru ](../../.gitbook/assets/weapon+kusabimaru-min.png)
+
+###
+
+His father, the Great Shinobi Owl trains him to obey the Iron Code. In his boss fight for the good endings, we see how Sekiro was raised:&#x20;
+
+* **First Death:** "One! The parent is absolute. Their will must be obeyed. ...Yet I'm sensing some insubordination"&#x20;
+* **Second Death:**"Two! The master is absolute. You give your life to keep him safe. You bring him back at any cost. ...At this rate, you'll lose him again"&#x20;
+* **Third Death:** (only possible by Jizo Statue) "Three! Fear is absolute. There is no shame in losing one battle. But you must take revenge by any means necessary! ...I wonder if you've got it in you - to bring me down."
 
 ### Parody Videos&#x20;
 

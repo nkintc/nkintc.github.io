@@ -14,10 +14,6 @@ coverY: 0
 
 Everyone has a story. No one is going to tell it but you.&#x20;
 
-“If I had more time, I would have written a shorter letter.” - Source Disputed&#x20;
-
-Often while writing, I worry that I could do better: written more concisely, been more clear, developed these ideas to maturity before attempting to save them here. But our [time on earth is finite](thoughts/death.md), so these pages will be as long as they are. &#x20;
-
 ## Organization
 
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability.&#x20;
@@ -28,7 +24,11 @@ First step, was simply writing and throwing words at the metaphysical page. But 
 
 ### Meta
 
-These pages relate to my thoughts and reasoning on why this is a public wKKork. A newcomer should begin with the essay on [responsiblity](https://nkintc.gitbook.io/brainless/meta/responsibility) online. My (human) geography is my own personal history, if you want to get to know the author. Sharing is a set of pages which links to other digital gardens or second brains. Research are the list of projects which I have worked on.&#x20;
+> “If I had more time, I would have written a shorter letter.” - Source Disputed&#x20;
+
+Often while writing, I worry that I could do better: written more concisely, been more clear, developed these ideas to maturity before attempting to save them here. But our [time on earth is finite](thoughts/death.md), so these pages will be as long as they are. &#x20;
+
+These pages relate to my thoughts and reasoning on why this is a public work. A newcomer should begin with the essay on [responsiblity](https://nkintc.gitbook.io/brainless/meta/responsibility) online. My (human) geography is my own personal history, if you want to get to know the author. Sharing is a set of pages which links to other digital gardens or second brains. Research are the list of projects which I have worked on.&#x20;
 
 ### Ideas
 
