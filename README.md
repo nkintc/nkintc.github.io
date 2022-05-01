@@ -1,7 +1,5 @@
 ---
-description: >-
-  My little digital garden to cultivate notes and ideas, leaving a little trace
-  of my thoughts. Quantified, they're complex numbers so mostly imaginary.
+description: Everyone has a story. No one is going to tell it but you.
 cover: .gitbook/assets/stupidFaster (1).png
 coverY: 0
 ---
@@ -12,7 +10,7 @@ coverY: 0
 \[WORK IN PROGRESS] What you see is what you get: proceed at your own risk.
 {% endhint %}
 
-Everyone has a story. No one is going to tell it but you.&#x20;
+
 
 ## Organization
 

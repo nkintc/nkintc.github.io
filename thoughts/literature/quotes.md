@@ -7,11 +7,12 @@ Why this is up here?  Look to [Francois Clemmons on his interaction with Fred Ro
 * If you knew how quickly people forget the dead you would stop living to impress people. -Unknown
 * There is nothing more deceptive than an obvious fact - _Sir Arthur Conan Doyle_
 * Hope is passion for what is possible. - _Søren Kierkegaard_
-* Don't get cynical, don't you ever think you can't make a difference. -_Barack Obama._
-* No day shall erase you from the memory of time,"-Virgil
+* Don't get cynical, don't you ever think you can't make a difference. - _Barack Obama._
+* No day shall erase you from the memory of time,"- _Virgil_
   * "nulla dies umquam memori vos eximet aevo."
-* How wonderful it is that nobody need wait a single moment before starting to improve the world- Anne Frank
-*   “A true thing, poorly expressed, is a lie.”― Stephen Fry\
+* How wonderful it is that nobody need wait a single moment before starting to improve the world- _Anne Frank_
+* “A true thing, poorly expressed, is a lie.” - _Stephen Fry_
+* "If it disagrees with experiment, it is wrong." - _Richard Feynmann_\
 
 
 

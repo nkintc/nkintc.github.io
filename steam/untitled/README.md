@@ -6,15 +6,11 @@ description: >-
 
 # Calculus
 
-The study of change which comes from the Latin for "small stone". These pages collect my knowledge about mathematics in general and why this branch of math is so interesting at the end of the day.&#x20;
+Why this branch of math is so interesting that it deserves its own page, broken out from general mathematics? &#x20;
 
-Differential equations seem to be the general language of most systems. From observation, one cannot tell total quantities as some may be hidden. But overall change can always be described. Calculus and the different branches of differential equations link those two ideas together into an equation (or equations). If those equations are solvable or not is another question entirely.&#x20;
+Differential equations seem to be the general language of most systems. From observation, one cannot tell total quantities. But change can always be described. Calculus and the different branches of differential equations link those two ideas together into an equation (or equations) which describe those changes.&#x20;
 
-
-
-
-
-
+If those equations are solvable or not is another question entirely.&#x20;
 
 {% tabs %}
 {% tab title="Channels" %}
@@ -22,11 +18,27 @@ Differential equations seem to be the general language of most systems. From obs
 {% endtab %}
 
 {% tab title="Websites" %}
-[Math Museum](http://virtualmathmuseum.org/Surface/gallery\_o.html)
+[Math Museum](http://virtualmathmuseum.org/Surface/gallery\_o.html)\
 
-[https://www.mathpages.com/](https://www.mathpages.com)
+
+[https://www.mathpages.com/](https://www.mathpages.com)[\
+](https://complex-analysis.com)
+
+[https://complex-analysis.com/](https://complex-analysis.com)
+
+
+
+\
+\
+
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 
