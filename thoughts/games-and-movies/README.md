@@ -107,13 +107,13 @@ Movies that I've watched at some point.&#x20;
 
 
 * league [dodge game](https://loldodgegame.com/choose\_game.html)
-* [jungle](https://www.jung.gg) path finder&#x20;
+* [jungle](https://www.jung.gg/) path finder&#x20;
 
-[cards lacking originality](https://cardslackingoriginality.com)
+[cards lacking originality](https://cardslackingoriginality.com/)
 
-[scribble game](https://skribbl.io)&#x20;
+[scribble game](https://skribbl.io/)&#x20;
 
-[typeracer](https://play.typeracer.com)
+[typeracer](https://play.typeracer.com/)
 
 
 

@@ -1,17 +1,21 @@
 # Intro to Finite Elements
 
-### Lecture 1: Linear Algebra and Notation
+An often occurring assumption of engineering is a simple geometry. In physics, this is happily known as a "spherical cow". Though this is incredibly important because how else is analytical work would never progress if every assumption needed to be addressed. But in practical applications, there needs to be a way to deal with complex geometries.&#x20;
 
-Finite Element Methods are suitable for nonsquare, or rectangular matrices which is a change from SM, which typically deals with square, and for that matter symmetric, matrices. 
+This is where Finite Element Methods come in: by breaking up difficult geometries in to simple regions, which are then joined together in a "mesh". This mesh is then analyzed element by element to create a linear set of equations: knowns are isolated to one side and a matrix of parameters multiplying the unknowns.&#x20;
 
 $$
-{\bf M} 
-= 
-\begin{bmatrix}
-M_{1,1} & M_{1,2} & M_{1,3} & M_{1,4}\\
-M_{2,1} & M_{2,2} & M_{2,3} & M_{2,4}\\
-M_{3,1} & M_{3,2} & M_{3,3} & M_{3,4}\\
-\end{bmatrix}
+F_i = K_{ij}u_j
+$$
+
+F and U are both vectors and K is a matrix.&#x20;
+
+### Lecture 1: Linear Algebra and Notation
+
+Finite Element Methods are suitable for nonsquare, or rectangular matrices which is a change from SM, which typically deals with square, and for that matter symmetric, matrices.&#x20;
+
+$$
+\boldsymbol{K} = \left[\begin{array}{cccc}k_{1,1} & k_{1,2} & \cdots & k_{1, m} \\k_{2,1} & k_{2,2} & \cdots & k_{2, m} \\\vdots & \vdots & \ddots & \vdots \\k_{n, 1} & k_{n, 2} & \cdots & k_{n, m}\end{array}\right]
 $$
 
 Vectors are like matrices but has only one value in one of the 2 dimensions so the second index is omitted
@@ -28,7 +32,7 @@ a_n
 \end{bmatrix}
 $$
 
-Two special matrices, the zero matrix and the identity matrix. The zero matrix is the equivalent of identically zero in linear algebra. The identity matrix is a square matrix which has 1 along the main diagonal. 
+Two special matrices, the zero matrix and the identity matrix. The zero matrix is the equivalent of identically zero in linear algebra. The identity matrix is a square matrix which has 1 along the main diagonal.&#x20;
 
 
 
@@ -36,7 +40,7 @@ Two special matrices, the zero matrix and the identity matrix. The zero matrix i
 
 ### Lecture 3: Finite Element System of Equations from Direct Stiffness
 
-### Lecture 4: Development of Displacement Based FEM in 1D, Formation of Stiffness Matrix 
+### Lecture 4: Development of Displacement Based FEM in 1D, Formation of Stiffness Matrix&#x20;
 
 ### Lecture 5: Development of Displacement Based FEM in 2D, Constant Strain Triangle and Quadrilateral Elements
 
@@ -51,4 +55,3 @@ Two special matrices, the zero matrix and the identity matrix. The zero matrix i
 ### Lecture 10: Numeric Integration in 2D
 
 ### Lecture 11: Solution of Linear Algebraic Equations
-

@@ -66,13 +66,13 @@ disown -a && exit
 
 ##
 
-[`explainshell`](https://explainshell.com)...match command-line arguments to their help text
+[`explainshell`](https://explainshell.com/)...match command-line arguments to their help text
 
 &#x20;
 
 `http` File Server or [HFS](https://www.rejetto.com/hfs/) is a program to share files using internet protocol
 
-[File Pizza](https://file.pizza) or Free peer-to-peer file transfers in browser.
+[File Pizza](https://file.pizza/) or Free peer-to-peer file transfers in browser.
 
 [Google Style Guide](https://google.github.io/styleguide/) holds for a variety of languages&#x20;
 

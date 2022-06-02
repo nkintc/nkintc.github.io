@@ -262,7 +262,7 @@ Here with tensors or order 1 or greater, operations are not commuitive, directio
 
 Rusak’s notation is kinda fucked up. I’m going to copy one verbatim and describe my qualms
 
-$\stackrel{T}{\underline{\underline{}}} = \stackrel{\rightarrow}{a}\stackrel{\rightarrow}{b}$ and does not define the operation which takes place between. Obviously it’s an outer dyatic product but notationally it does not make sense unless indexes are applied
+$\stackrel{T}{\underline{\underline{\}}} = \stackrel{\rightarrow}{a}\stackrel{\rightarrow}{b}$ and does not define the operation which takes place between. Obviously it’s an outer dyatic product but notationally it does not make sense unless indexes are applied
 
 $\textcolor{red}{fucked up }$
 {% endtab %}
@@ -409,15 +409,15 @@ let $F_{II} = \int_\text{vol} \rho f d\text{vol}$ where $f$ is the normalized $F
 
 Inlet
 
-$\dot{\mathcal{F}}\_\text{inlet} = -\int\rho f({\bf V \cdot n})dS$
+$\dot{\mathcal{F\}}\_\text{inlet} = -\int\rho f({\bf V \cdot n})dS$
 
 with outlet
 
-$\dot{\mathcal{F}}\_\text{outlet} = \int\rho f({\bf V \cdot n})dS$
+$\dot{\mathcal{F\}}\_\text{outlet} = \int\rho f({\bf V \cdot n})dS$
 
 then diff
 
-$\dot{\mathcal{F}}_\text{inlet} - \dot{\mathcal{F}}_\text{outlet} = -\int\rho f({\bf V \cdot n})dS$
+$\dot{\mathcal{F\}}_\text{inlet} - \dot{\mathcal{F\}}_\text{outlet} = -\int\rho f({\bf V \cdot n})dS$
 
 end with
 
@@ -425,7 +425,7 @@ $$
 \frac{d}{dt}\int_V\rho f d\text{vol} + \int_S\rho f({\bf V\cdot n})dS = \dot {\mathcal{Q}}_F
 $$
 
-is the integral equation of balance on $F$ where $\dot{\mathcal{Q}}_F = \int_\text{Vol} \dot{q}\_F d\text{vol}$
+is the integral equation of balance on $F$ where $\dot{\mathcal{Q\}}_F = \int_\text{Vol} \dot{q}\_F d\text{vol}$
 
 #### The Energy Equation
 
@@ -468,7 +468,7 @@ $$
 \frac{\partial}{\partial t}(\rho f) + \nabla \cdot (\rho f{\bf V}) = \dot{q}_F
 $$
 
-Note that $\dot{q}$ is $\dot{\mathcal{Q}}$ per unit volume
+Note that $\dot{q}$ is $\dot{\mathcal{Q\}}$ per unit volume
 
 Regular Form through the domain
 
@@ -490,9 +490,9 @@ $\rho\_e(t)\left(\frac{df}{dt}\right)\_e = \dot{q}\_F$
 
 The linear momentum equation where $f \rightarrow {\bf V}$ and $\dot{q}\_F \neq0$
 
-$\frac{\partial (\rho {\bf V})}{\partial t} + \nabla \cdot (\rho({\bf V\otimes V})) ={\bf \dot{q}}\_F$ or $\rho(\frac{\partial ( {\bf V})}{\partial t} + \nabla \cdot ({\bf V\otimes V})) ={\bf \dot{q}}\_F$
+$\frac{\partial (\rho {\bf V})}{\partial t} + \nabla \cdot (\rho({\bf V\otimes V})) ={\bf \dot{q\}}\_F$ or $\rho(\frac{\partial ( {\bf V})}{\partial t} + \nabla \cdot ({\bf V\otimes V})) ={\bf \dot{q\}}\_F$
 
-in Newton’s 2nd law form $\rho\_e(t)(\frac{d{\bf V}}{dt})\_e = ({\bf \dot{q}}\_F)\_e$
+in Newton’s 2nd law form $\rho\_e(t)(\frac{d{\bf V\}}{dt})\_e = ({\bf \dot{q\}}\_F)\_e$
 
 #### Forces Exerted on body
 
@@ -710,7 +710,7 @@ Internal and External Flows
 
 #### Equations of Motion
 
-$\rho\left(\frac{\partial {\bf V}}{\partial t} + {\bf V}\cdot(\nabla {\bf V})\right)=\rho{\bf B} - \nabla p + \nabla \cdot {\bf T}$
+$\rho\left(\frac{\partial {\bf V\}}{\partial t} + {\bf V}\cdot(\nabla {\bf V})\right)=\rho{\bf B} - \nabla p + \nabla \cdot {\bf T}$
 
 #### Energy Equation
 
@@ -724,9 +724,9 @@ $p = f(\rho , T) $ or hold $\rho$ as constant
 
 $\frac{1}{\rho\_e}\left(\frac{d\rho}{dt}\right)\_e = - \nabla \cdot {\bf V}$
 
-$\rho\_e(t) \left(\frac{d{\bf V}}{dt}\right)\_e = \rho\_e{\bf B}\_e - (\nabla p)\_e + (\nabla \cdot {\bf T})\_e$
+$\rho\_e(t) \left(\frac{d{\bf V\}}{dt}\right)\_e = \rho\_e{\bf B}\_e - (\nabla p)\_e + (\nabla \cdot {\bf T})\_e$
 
-$\rho\_e(t) \left(\frac{d{e\_t}}{dt}\right)\_e = \rho\_e{(\bf B\cdot V)}\_e - (\nabla \cdot (p{\bf V}))\_e + (\nabla \cdot {\bf (T\cdot V)})\_e -(\nabla \cdot {q})\_e$
+$\rho\_e(t) \left(\frac{d{e\_t\}}{dt}\right)\_e = \rho\_e{(\bf B\cdot V)}\_e - (\nabla \cdot (p{\bf V}))\_e + (\nabla \cdot {\bf (T\cdot V)})\_e -(\nabla \cdot {q})\_e$
 
 ### Boundary Conditions
 
@@ -907,7 +907,7 @@ $$
 \rho{\bf B}- \nabla p + \nabla \cdot {\bf {\text{traction}}}
 $$
 
-We find using the vector identity ${\bf V}\cdot\nabla{\bf V} = \nabla \left(\frac{2}\right) -{\bf V}\times{\underline{\omega}}$ then applying $\nabla \times (\cdot)$ of the expression.
+We find using the vector identity ${\bf V}\cdot\nabla{\bf V} = \nabla \left(\frac{2}\right) -{\bf V}\times{\underline{\omega\}}$ then applying $\nabla \times (\cdot)$ of the expression.
 
 $$
 \frac{\partial \underline{\omega}}{\partial t} + {\bf V}\cdot \nabla \underline{\omega} = \underline{\omega}\cdot \nabla{\bf V} - \underline{\omega} \left(\nabla \cdot{\bf V}\right)
@@ -928,7 +928,7 @@ $$
 \right]
 $$
 
-for a newtonian fluid the balance of vorticity $\underline{\omega}$. Effect to change in the flow are each of the terms:$\textcolor{red}{\text{screen caps would be nice}}$
+for a newtonian fluid the balance of vorticity $\underline{\omega}$. Effect to change in the flow are each of the terms:$\textcolor{red}{\text{screen caps would be nice\}}$
 
 * $\underline{\omega}\cdot(\nabla{\bf V})$ is the streching
 * $\underline{\omega} \left(\nabla \cdot{\bf V}\right)$ measure of compressibility and stretching of rotation&#x20;
@@ -937,7 +937,7 @@ for a newtonian fluid the balance of vorticity $\underline{\omega}$. Effect to c
 
 ### Fluid statics
 
-If the fluid is not in motion, pressure becomes the dominant effect this is $\bf V=\underline{0}$ and $\nabla {\bf V} = \underline{\underline{0}}$. Equations of motion become $\nabla p = \rho {\bf B}$ the fluid static equation.
+If the fluid is not in motion, pressure becomes the dominant effect this is $\bf V=\underline{0}$ and $\nabla {\bf V} = \underline{\underline{0\}}$. Equations of motion become $\nabla p = \rho {\bf B}$ the fluid static equation.
 
 Assuming that ${\bf B } = g {\bf e}_z$ and $\rho$ is a constant for most liquids. so $\frac{d p}{dz} = \rho g$ and $p|_{z=0} = p\_\text{atm}$. So integrate from the surface atmospheric for the hydrostatic equation $p(z) = \rho g z+p\_a $ for $z \geq 0$.
 
@@ -958,7 +958,7 @@ $$
 \frac{-p}{RT}g
 $$
 
-Using a given T(z)$\textcolor{red}{\text{he corrected but I still can’t read his correction….}}$
+Using a given T(z)$\textcolor{red}{\text{he corrected but I still can’t read his correction….\}}$
 
 $$
 \int_{p_\text{ref}}^{p}
@@ -972,7 +972,7 @@ $$
 
 Generally T is const $T(z) = \text{const}= 216.6 \text{ K.}$
 
-Stratosphere $1.1\times 10^{4}\<z<2.5\times 10^{4}$ where $z_\text{bot} = 1.1\times 10^{4}$, $\ln (\frac{p}{p_\text{bot}})=\frac{-g}{RT}(z-z\_\text{bot})$ is solved straightforward
+Stratosphere $1.1\times 10^{4}\<z<2.5\times 10^{4}$ where $z_\text{bot} = 1.1\times 10^{4}$, $\ln (\frac{p}{p_\text{bot\}})=\frac{-g}{RT}(z-z\_\text{bot})$ is solved straightforward
 
 $$
 p=p_{11,000} \exp \left(\frac{-g}{R T}(z-z_\text{bot})\right)
@@ -980,17 +980,17 @@ $$
 
 Focus on liquids where incompressible have $\rho = \text{const}$. for low $\text{Ma}$. of gases and most liquids. Use integral equation of property balance for fixed volume
 
-$\underline{\text{mass:}} \int_{\text{vol}} \frac{\partial}{\partial t}d\text{Vol} + \int_\text{surf} \rho {\bf V}\cdot {\bf n}dS=0$ where usually $\int\_\text{surf} {\bf V}\cdot {\bf n}dS=0$
+$\underline{\text{mass:\}} \int_{\text{vol\}} \frac{\partial}{\partial t}d\text{Vol} + \int_\text{surf} \rho {\bf V}\cdot {\bf n}dS=0$ where usually $\int\_\text{surf} {\bf V}\cdot {\bf n}dS=0$
 
 $\underline{momentum}$aaaaayyy $\int_\text{vol}\frac{\partial}{\partial t}(\rho{\bf V})d\text{vol} + \int \rho {\bf V}({\bf V}\cdot {\bf n})dS = \int_\text{vol} \rho {\bf B} d\text{vol} - \int_\text{surf} p {\bf n} dS + \int_\text{surf} \underline{\tau} dS $
 
 or
 
-$\cancelto{0}{\int_\text{vol}\frac{\partial}{\partial t}(\rho{\bf V})d\text{vol} }+ \int \rho {\bf V}({\bf V}\cdot {\bf n})dS = \int_\text{vol} \rho {\bf B} d\text{vol} - \int_\text{surf} p {\bf n} dS + \int_\text{surf} \underline{\tau} dS \\\textcolor{red}{\text{i can’t deal with these notes… impossible to transcribe}}$
+$\cancelto{0}{\int_\text{vol}\frac{\partial}{\partial t}(\rho{\bf V})d\text{vol} }+ \int \rho {\bf V}({\bf V}\cdot {\bf n})dS = \int_\text{vol} \rho {\bf B} d\text{vol} - \int_\text{surf} p {\bf n} dS + \int_\text{surf} \underline{\tau} dS \\\textcolor{red}{\text{i can’t deal with these notes… impossible to transcribe\}}$
 
 > Ya know, I'm not mathematician here, but even I can see a common denominator ...
 >
-> from `u/Synli` on this [post](https://www.reddit.com/r/AskReddit/comments/dkjimg/what\_screams\_im\_very\_insecure/f4go5yh)
+> from `u/Synli` on this [post](https://www.reddit.com/r/AskReddit/comments/dkjimg/what\_screams\_im\_very\_insecure/f4go5yh?utm\_source=share\&utm\_medium=web2x)
 
 ### unsorted
 

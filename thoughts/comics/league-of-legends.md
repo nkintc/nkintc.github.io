@@ -10,7 +10,7 @@ This is a great game, but incredibly toxic due to the community. Turning off all
 
 Additionally, it is a difficult game to pick up. The learning curve is steep and it is almost mandatory to already have people integrated in the game to help you pick it up.&#x20;
 
-Just a sick [Kalista cannon rend](https://www.reddit.com/link/ax7ro6/video/bhvt96r254k21/player), just one wild confluence of events which happens all the time on summoners rift
+Just a sick [Kalista cannon rend](https://www.reddit.com/link/ax7ro6/video/bhvt96r254k21/player?utm\_source=reddit\&utm\_medium=usertext\&utm\_name=KalistaMains\&utm\_content=t3\_ax7ro6), just one wild confluence of events which happens all the time on summoners rift
 
 ### Practice Tool Shortcuts&#x20;
 

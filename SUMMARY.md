@@ -89,6 +89,11 @@
   * [Student Notes](steam/experimental-mechanics/student-notes.md)
   * [Assignments](steam/experimental-mechanics/assignments.md)
 * [Finite Element Methods](steam/finite-element-methods/README.md)
+  * [Intro to Finite Elements](steam/finite-element-methods/intro-to-finite-elements/README.md)
+    * [Syllabus Description](steam/finite-element-methods/intro-to-finite-elements/syllabus-description.md)
+    * [Lecture Slides](steam/finite-element-methods/intro-to-finite-elements/lecture-slides.md)
+    * [Student Notes](steam/finite-element-methods/intro-to-finite-elements/student-notes.md)
+    * [Assignments](steam/finite-element-methods/intro-to-finite-elements/assignments.md)
   * [Fundamentals of FEM](steam/finite-element-methods/fundamentals-of-finite-elements/README.md)
     * [Syllabus Description](steam/finite-element-methods/fundamentals-of-finite-elements/syllabus-description/README.md)
       * [index](steam/finite-element-methods/fundamentals-of-finite-elements/syllabus-description/untitled.md)
@@ -101,11 +106,6 @@
       * [Homework 1](steam/finite-element-methods/fundamentals-of-finite-elements/assignments/homework-1.md)
       * [Homework 4](steam/finite-element-methods/fundamentals-of-finite-elements/assignments/homework-4.md)
       * [index](steam/finite-element-methods/fundamentals-of-finite-elements/assignments/untitled-3.md)
-  * [Intro to Finite Elements](steam/finite-element-methods/intro-to-finite-elements/README.md)
-    * [Syllabus Description](steam/finite-element-methods/intro-to-finite-elements/syllabus-description.md)
-    * [Lecture Slides](steam/finite-element-methods/intro-to-finite-elements/lecture-slides.md)
-    * [Student Notes](steam/finite-element-methods/intro-to-finite-elements/student-notes.md)
-    * [Assignments](steam/finite-element-methods/intro-to-finite-elements/assignments.md)
 * [Heat Transfer](steam/heat-transfer/README.md)
   * [Syllabus Description](steam/heat-transfer/syllabus-description.md)
   * [Lecture Slides](steam/heat-transfer/lecture-slides.md)
@@ -142,7 +142,8 @@
   * [Assignments](steam/materials-modeling/assignments/README.md)
     * [index](steam/materials-modeling/assignments/untitled.md)
     * [Carbon Nanotubes](steam/materials-modeling/assignments/carbon-nanotubes.md)
-* [Mathematics](steam/mathematics.md)
+* [Mathematics](steam/mathematics/README.md)
+  * [Bad Maths](steam/mathematics/bad-maths.md)
 
 ## Mollusk
 

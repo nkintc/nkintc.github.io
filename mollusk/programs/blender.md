@@ -13,7 +13,7 @@ description: Making 3D objects real, at least virtually
 
 &#x20;replicate [breaking locks](https://www.youtube.com/watch?v=dBSSA5ot0tA) using orientation of wrenches in blender&#x20;
 
-[https://cascadeur.com/](https://cascadeur.com) physics animation&#x20;
+[https://cascadeur.com/](https://cascadeur.com/) physics animation&#x20;
 
 
 

@@ -21,10 +21,10 @@ If those equations are solvable or not is another question entirely.&#x20;
 [Math Museum](http://virtualmathmuseum.org/Surface/gallery\_o.html)\
 
 
-[https://www.mathpages.com/](https://www.mathpages.com)[\
-](https://complex-analysis.com)
+[https://www.mathpages.com/](https://www.mathpages.com/)[\
+](https://complex-analysis.com/)
 
-[https://complex-analysis.com/](https://complex-analysis.com)
+[https://complex-analysis.com/](https://complex-analysis.com/)
 
 
 

@@ -20,7 +20,7 @@ One of the things that would get in my way during school, is that I would want t
 
 ## List of Online Resources
 
-* [PGF Plots](http://pgfplots.net) are a library of LaTeX figures such as this, [volume under graph ](http://pgfplots.net/tikz/examples/fill-space-3d/)
+* [PGF Plots](http://pgfplots.net/) are a library of LaTeX figures such as this, [volume under graph ](http://pgfplots.net/tikz/examples/fill-space-3d/)
 * What's the [Tex](http://detexify.kirelabs.org/classify.html) for that? Draw a math character and it will give you a score, the Tex mode and any packages needed.&#x20;
 * [Codecogs](https://latex.codecogs.com/eqneditor/editor.php): an online equation&#x20;
 
@@ -75,9 +75,9 @@ sample figures from [pgfplots](http://pgfplots.net/tikz/examples/)
 
 ## Bibliographies
 
-Ottobib bibliography [generator](https://www.ottobib.com) from isbn
+Ottobib bibliography [generator](https://www.ottobib.com/) from isbn
 
-[doi](https://citation.crosscite.org) formatter to bib
+[doi](https://citation.crosscite.org/) formatter to bib
 
 [tree generator](https://lautgesetz.com/latreex/)
 
