@@ -12,7 +12,7 @@ Distinct from an actual garden, a digital garden can be left without tending, on
 
 Looking at the other sites and trying to emulate them was a mistake.
 
-Their thoughts come their brains. It is inherently unique so trying to copy them would bind up the work flow. It has to be something that I create under my own power and if it takes longer or breaks need to be taken, then so be it.   &#x20;
+Their thoughts come from their brains. It is inherently unique so trying to copy them would bind up the work flow. It has to be something that I create under my own power and if it takes longer or breaks need to be taken, then so be it.   &#x20;
 
 ### Added
 
