@@ -14,11 +14,11 @@ Equivalence of Strong and Weak Forms
 
 Global and Local Coordinates
 
-Method of Weighted Residuals 
+Method of Weighted Residuals&#x20;
 
 Chapter 2
 
-Heat Transfer 
+Heat Transfer&#x20;
 
 Elastostatics
 
@@ -28,9 +28,11 @@ FE Pseudocode
 
 
 
-### Linear Space 
+### Linear Space&#x20;
 
-Additive and Multiplicative Properties 
+Vectors will appear in the problems, so it is important to note that they are distinct from scalars that most people are used to. Rather than a single value, they are list of multiple scalars collected into a single object and reside in a space, $$\mathcal{L}$$. Vectors obey addition and multiplication rules, though differently traditional scalars.&#x20;
+
+#### Vector Addition
 
 $$
 \begin{align}
@@ -39,7 +41,13 @@ $$
 \end{align}
 $$
 
+Note that subraction works the same as addition using negative vectors, just like how subtraction of scalars is addition using a negative number.
+
+#### Vector Multiplcation
+
+Multiplication of a vector by a scalar is communitive, just like two scalars.&#x20;
+
+
+
 ### Inner Product
-
-
 
