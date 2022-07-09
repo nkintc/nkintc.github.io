@@ -30,6 +30,7 @@ This is also called a [digital garden](https://joelhooks.com/digital-garden). I 
   * [frank makes ](http://www.frankmakes.com/)
 * [jeremykun](https://jeremykun.com/2013/04/10/computing-homology/)&#x20;
 * [schof](https://schof.co/)
+* [Ben Kovach](https://www.kovach.me/)
 * [mike tannenbaum](https://refinedmind.co/)
 * [david gasquez](https://github.com/davidgasquez/handbook)
 * [okmij](http://okmij.org/ftp/) on [information and shannon entropy](http://okmij.org/ftp/Computation/limits-of-information.html)
