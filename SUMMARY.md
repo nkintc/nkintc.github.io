@@ -33,6 +33,7 @@
     * [Project +](thoughts/comics/super-smash-bros/project-+.md)
   * [League of Legends](thoughts/comics/league-of-legends.md)
 * [Literature and Art](thoughts/literature/README.md)
+  * [Poems](thoughts/literature/poems.md)
   * [Interviews](thoughts/literature/interviews.md)
   * [Quotes](thoughts/literature/quotes.md)
 * [Shows and Films](thoughts/games-and-movies/README.md)
@@ -143,12 +144,15 @@
   * [Assignments](steam/materials-modeling/assignments/README.md)
     * [index](steam/materials-modeling/assignments/untitled.md)
     * [Carbon Nanotubes](steam/materials-modeling/assignments/carbon-nanotubes.md)
-* [Mathematics](steam/mathematics/README.md)
+* [Mathematics](steam/mathematics.md)
+  * [Wavelet Transform](steam/mathematics/wavelet-transform.md)
+  * [Constants](steam/mathematics/constants.md)
   * [Bad Maths](steam/mathematics/bad-maths.md)
 
 ## Mollusk
 
 * [Programs](mollusk/programs/README.md)
+  * [Matlab and Octave](mollusk/programs/matlab-and-octave.md)
   * [Audacity](mollusk/programs/audacity.md)
   * [Google Chrome](mollusk/programs/chrome-shortcut/README.md)
     * [Websites](mollusk/programs/chrome-shortcut/websites/README.md)

@@ -24,7 +24,7 @@ Going to a reputable range for the first time, they will equipment for you to us
 
 The next step is to choose the kind of archery that you want to purse! There is traditional or barebow, Olympic recurve, and compound archery. Traditional barebow is how it sounds: no equipment other than the bow and arrow: no sights and or aim help. Olympic recurve is the most popular though I do not have much experience with it. Finally, compound bows which have cams on the ends of the bow which allow for significant reduction in strain while aiming at full draw.&#x20;
 
-Try barebow first. Once comfortable, then move onto one of the disciplines (if you want to!). &#x20;
+Try bare bow first. Once comfortable, then move onto one of the disciplines (if you want to!). &#x20;
 
 ### Continuing Practice
 
@@ -46,6 +46,13 @@ Once settled in with a reasonable skill level (consistently hitting the 60 cm ta
 
 Note that the photos below are not representative of how I generally shoot.&#x20;
 
-![](<../.gitbook/assets/image (5) (1).png>)
+{% tabs %}
+{% tab title="Arrows" %}
+![It is satisfying when one arrow hits the bullseye and even more so when the next arrow hits the previous one. For it to happen twice after the first hit the center is something I hope to replicate some day. ](<../.gitbook/assets/image (5) (1).png>)
+{% endtab %}
 
-![](<../.gitbook/assets/image (4) (1).png>)
+{% tab title="Axes" %}
+![Many axes had their handles ruined to get these two to stick like that](<../.gitbook/assets/image (4) (1).png>)
+{% endtab %}
+{% endtabs %}
+

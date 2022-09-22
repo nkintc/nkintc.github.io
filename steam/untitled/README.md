@@ -12,35 +12,9 @@ Differential equations seem to be the general language of most systems. From obs
 
 If those equations are solvable or not is another question entirely.&#x20;
 
-{% tabs %}
-{% tab title="Channels" %}
-[eigenChris's ](https://www.youtube.com/user/eigenchris)
-{% endtab %}
+## Basis
 
-{% tab title="Websites" %}
-[Math Museum](http://virtualmathmuseum.org/Surface/gallery\_o.html)\
-
-
-[https://www.mathpages.com/](https://www.mathpages.com/)[\
-](https://complex-analysis.com/)
-
-[https://complex-analysis.com/](https://complex-analysis.com/)
-
-
-
-\
-\
-
-{% endtab %}
-{% endtabs %}
-
-
-
-
-
-
-
-
+Calculus is broken up in to _differential_ and _integral_ calculus. Of the two, finding definite closed form solutions for integral calculus is much more difficult than finding a derivative. Calculus has become so influential in the field of mathematics that it is now used as an adjective for disparate fields: propositional, Ricci, variational, lambda, etc.&#x20;
 
 Notes from a collection of sources on a variety of topics. Including online video series in addition to more traditional sources since they do such a great job at illustrating a point beyond what a textbook or paper could.&#x20;
 
@@ -104,5 +78,19 @@ Multivariate calculus is the extension of of univariate calculus, which studies 
 {% hint style="info" %}
 Fluid Mechanics content is fully on brainless but is desperately in need of revision and sorting.&#x20;
 {% endhint %}
+
+## Resources
+
+{% tabs %}
+{% tab title="Websites" %}
+[Math Museum](http://virtualmathmuseum.org/Surface/gallery\_o.html)\
+[Mathpages](https://www.mathpages.com/)[\
+](https://complex-analysis.com/)[Complex analysis](https://complex-analysis.com/)&#x20;
+{% endtab %}
+
+{% tab title="Channels" %}
+[eigenChris's ](https://www.youtube.com/user/eigenchris)
+{% endtab %}
+{% endtabs %}
 
 ##

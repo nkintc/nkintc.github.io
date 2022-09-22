@@ -18,7 +18,7 @@ description: Short description that summarizes content
 
 {% tabs %}
 {% tab title="First Tab" %}
-![Use the Convert to Block formatting option when replacing this image. ](<../../.gitbook/assets/image (5).png>)
+![Use the Convert to Block formatting option when replacing this image. ](<../../.gitbook/assets/image (5) (2).png>)
 {% endtab %}
 
 {% tab title="Second Tab" %}

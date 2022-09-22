@@ -7,16 +7,14 @@ coverY: 0
 # What is this?
 
 {% hint style="danger" %}
-\[WORK IN PROGRESS] What you see is what you get: proceed at your own risk.
+WIP - WYSIWYG
 {% endhint %}
-
-
 
 ## Organization
 
 This collection of markdown and other documents constitute a representative collection of my knowledge, since what is the point of doing something if you aren't willing to put your name to it? There  are obviously advantages to remaining anonymous but to make a real impact, there needs to be accountability.&#x20;
 
-One of the names for this kind of collection of documents is a digital garden. Though the analogy is not perfect, it does promote the idea of cultivation. This process of writing is nonlinear and doing the same thing twice will give two different results: inspiration is a nonrenewable resource. Additionally, the process of growth is not beautiful. The steps in between stages is almost always gross&#x20;
+One o f the names for this kind of collection of documents is a digital garden. Though the analogy is not perfect, it does promote the idea of cultivation. This process of writing is nonlinear and doing the same thing twice will give two different results: inspiration is a nonrenewable resource. Additionally, the process of growth is not beautiful. The steps in between stages is almost always gross&#x20;
 
 First step, was simply writing and throwing words at the metaphysical page. But before being worth reading, some pruning needs to be done and some organization needs to come across before being ready for the public. Now, the process for developing brainless is adding content to a single (set) of pages to polish what work is already there. These are collected as pages under the [`[unreleased]`](https://nkintc.gitbook.io/brainless/unreleased) heading. The following are descriptions of the top level headings, seen in the sidebar.&#x20;
 
@@ -70,7 +68,11 @@ This brainless mass is most like the `curiosity` that I try to live by. For this
 
 ### Making your own
 
-The first step is the hardest: saving a file. I personally am one of the passive procrastinators and am trying to be an active one, so having an unfinished work which is open to the public is... not what I would consider ideal. But once it is there and you treat it as a connection to all of the other files you manage, then in the process of tracking things down, this knowledge will grow over time. The real problem is ironing out all of the kinks from a living document. And though this document is dedicated to the sciences and engineering, I think back to the quintessential polymath...
+The first step is the hardest: saving a file. I personally am one of the passive procrastinators and am trying to be an active one, so having an unfinished work which is open to the public is... not what I would consider ideal.&#x20;
+
+But once it is there and you treat it as a connection to all of the other files you manage, then in the process of tracking things down, this knowledge will grow over time. The real problem is ironing out all of the kinks from a living document. And though this document is dedicated to the sciences and engineering, I think back to the quintessential polymath...
+
+
 
 > A work of art is never finished, merely abandoned. - Leonardo da Vinci
 
