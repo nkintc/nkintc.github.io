@@ -30,6 +30,20 @@ Try barebow first. Once comfortable, then move onto one of the disciplines (if y
 
 Once settled in with a reasonable skill level (consistently hitting the 60 cm target at 18 meters), I highly suggest scoring yourself and joining Junior Olympic Archery Program (JOAD) or Adult Archery Program (AAP) where your scores are counted tournament style with fellow archers as judges. Those scores are submitted to World Archery and you can get pins for your achievements!
 
+#### Steps of Shooting&#x20;
+
+1. Stance
+2. Nock
+3. Hook and Grip
+4. Posture/ Alignment (Set)
+5. Raise (Set Up)
+6. Draw (to Load)
+7. Anchor
+8. Transfer to Hold
+9. (Expand and) Aim
+10. Release (and Follow Through)
+11. Feed Back
+
 Note that the photos below are not representative of how I generally shoot.&#x20;
 
 ![](<../.gitbook/assets/image (5) (1).png>)

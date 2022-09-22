@@ -46,6 +46,7 @@
 
 * [\[guide\]](steam/guide/README.md)
   * [Quantum Computing](steam/guide/quantum-computing.md)
+  * [Engineering](steam/guide/engineering.md)
 * [Calculus](steam/untitled/README.md)
   * [Syllabus Description](steam/untitled/syllabus-description.md)
   * [Miscellaneous](steam/untitled/miscellaneous.md)
