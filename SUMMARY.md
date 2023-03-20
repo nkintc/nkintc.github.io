@@ -1,11 +1,12 @@
 # Table of contents
 
-* [What is this?](README.md)
-* [Changelog](changelog.md)
+* [Responsibility](README.md)
+  * [What is this?](responsibility/master.md)
+  * [Changelog](responsibility/changelog/README.md)
+    * [Keeping a Changelog](responsibility/changelog/keeping-a-changelog.md)
 
 ## meta
 
-* [Responsibility](meta/responsibility.md)
 * [Sharing](meta/sharing/README.md)
   * [Inspirations](meta/sharing/inspirations.md)
   * [Workflows](meta/sharing/workflows.md)
@@ -20,6 +21,7 @@
   * [Drone Building](meta/research/drone.md)
 * [\[unreleased\]](meta/unreleased/README.md)
   * [\[TEMPLATE\]](meta/unreleased/template.md)
+  * [Boredom](meta/unreleased/boredom.md)
 
 ## Thoughts
 

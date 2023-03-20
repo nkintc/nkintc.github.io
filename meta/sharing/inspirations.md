@@ -61,7 +61,9 @@ This is also called a [digital garden](https://joelhooks.com/digital-garden). I 
 * [halrgang](https://halrgang.wordpress.com/) thoughts on heathenry&#x20;
 * [external list of second brains](https://github.com/KasperZutterman/Second-Brain)
 
-[Life logging is an extended diary ](https://beepb00p.xyz/tags.html#lifelogging)and [what to choose](https://beepb00p.xyz/my-data.html#dashboard) is important. A little story which comes to mind is a comment Dr. Mills made during Experimental Mechanics about how many data points to take during an extensometer reading: rather than analyzing the entire video file simply use a select representative frames as using the whole video would, indeed, be excessive. One would think that this brainless mess would be excessive and disproportionate, but the idea of proportionality falls apart in the face of infinity. &#x20;
+## [Life Logging as an Extended Diary](https://beepb00p.xyz/tags.html#lifelogging)
+
+[What to choose](https://beepb00p.xyz/my-data.html#dashboard) is important. A little story which comes to mind is a comment Dr. Mills made during Experimental Mechanics. Lecutring about how many data points to take during an extensometer reading, she commented that rather than analyzing the entire video file, simply use a select representative frames. Using the whole video would, indeed, be excessive.&#x20;
 
 
 
