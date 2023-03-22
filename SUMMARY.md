@@ -22,6 +22,7 @@
 * [\[unreleased\]](meta/unreleased/README.md)
   * [\[TEMPLATE\]](meta/unreleased/template.md)
   * [Boredom](meta/unreleased/boredom.md)
+  * [Four Noble Truths of "Thermo"](meta/unreleased/four-noble-truths-of-thermo.md)
 
 ## Thoughts
 
