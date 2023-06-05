@@ -6,6 +6,8 @@ description: >-
 
 # Archery
 
+Toxon - Greek for bow and arrow
+
 Given the prevalence of archery in movies, books, and other media, every character who picks up a bow and fires an arrow seems to be a natural crack shot, every time. That seems to rub off on all of their viewers in a sense of confidence that every arrow will find its way to the bullseye. However, upon reaching the firing line  for the first time and letting loose an arrow that illusion is quickly broken.&#x20;
 
 Archery is hard. Surmounting that challenge requires continuous practice.

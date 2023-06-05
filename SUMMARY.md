@@ -21,12 +21,15 @@
   * [Drone Building](meta/research/drone.md)
 * [\[unreleased\]](meta/unreleased/README.md)
   * [\[TEMPLATE\]](meta/unreleased/template.md)
+  * [Notes and Ideas](meta/unreleased/notes-and-ideas.md)
   * [Boredom](meta/unreleased/boredom.md)
   * [Four Noble Truths of "Thermo"](meta/unreleased/four-noble-truths-of-thermo.md)
 
 ## Thoughts
 
 * [Archery](thoughts/archery.md)
+* [Schooling](thoughts/schooling.md)
+* [Origami](thoughts/origami.md)
 * [Comics and Games](thoughts/comics/README.md)
   * [Dungeons and Dragons](thoughts/comics/dungeons-and-dragons.md)
   * [Beyond-All-Reason](thoughts/comics/beyond-all-reason.md)
