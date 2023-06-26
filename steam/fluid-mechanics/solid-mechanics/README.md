@@ -6,6 +6,8 @@ description: Notes on Solid Mechanics
 
 ### Dear god the single hardest class that I've ever taken
 
+Thankfully, the course [textbook](http://solidmechanics.org/contents.php) is readily available online.&#x20;
+
 > This course provides an introduction to the mechanics of solids from a continuum perspective. Topics covered in this course include: vector and tensor analysis, coordinate systems and calculus in curvilinear coordinate systems, kinematics (motion, deformation and strain), stress and momentum balance, energy principles and balance laws, linear isotropic and anisotropic elasticity, thermoelasticity, method of solutions for 2-D and 3-D linear elastic boundary value problems, applications to simple structures.
 
 This is the ceiling on the complexity of information that I have a reasonable grasp on. This course started pretty slow and then accelerated pretty rapidly.&#x20;
