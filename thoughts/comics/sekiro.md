@@ -14,7 +14,7 @@ Even as I smash my keys and forehead in frustration because "_That should have p
 
 It took me over two years to beat this game, thought I was not playing continuously, letting it sit on the shelf for a while and run in the background over night, I did spent well over the 60 hours that this game is rated for. So, at the end of the day, I very much got my money's worth in playtime.&#x20;
 
-&#x20;The intention behind the high difficulty of the games I direct is to evoke a feeling of joy and accomplishment in the player when they overcome these challenges. ****&#x20;
+&#x20;The intention behind the high difficulty of the games I direct is to evoke a feeling of joy and accomplishment in the player when they overcome these challenges.&#x20;
 
 > **-** Hidetaka Miyazaki
 

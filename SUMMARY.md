@@ -27,7 +27,8 @@
 
 ## Thoughts
 
-* [Archery](thoughts/archery.md)
+* [Marksmanship](thoughts/marksmanship/README.md)
+  * [Archery](thoughts/marksmanship/archery.md)
 * [Schooling](thoughts/schooling.md)
 * [Origami](thoughts/origami.md)
 * [Comics and Games](thoughts/comics/README.md)

@@ -50,11 +50,11 @@ Note that the photos below are not representative of how I generally shoot.&#x20
 
 {% tabs %}
 {% tab title="Arrows" %}
-![It is satisfying when one arrow hits the bullseye and even more so when the next arrow hits the previous one. For it to happen twice after the first hit the center is something I hope to replicate some day. ](<../.gitbook/assets/image (5) (1).png>)
+![It is satisfying when one arrow hits the bullseye and even more so when the next arrow hits the previous one. For it to happen twice after the first hit the center is something I hope to replicate some day. ](<../../.gitbook/assets/image (5) (1).png>)
 {% endtab %}
 
 {% tab title="Axes" %}
-![Many axes had their handles ruined to get these two to stick like that](<../.gitbook/assets/image (4) (1).png>)
+![Many axes had their handles ruined to get these two to stick like that](<../../.gitbook/assets/image (4) (1).png>)
 {% endtab %}
 {% endtabs %}
 

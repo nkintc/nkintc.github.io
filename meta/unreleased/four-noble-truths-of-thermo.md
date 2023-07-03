@@ -4,7 +4,10 @@ description: Buddhist and Thermo seems to share unlikely similarities
 
 # Four Noble Truths of "Thermo"
 
-[https://en.wikipedia.org/w/index.php?title=Four\_Noble\_Truths\&oldid=1140984114](https://en.wikipedia.org/w/index.php?title=Four\_Noble\_Truths\&oldid=1140984114)
+The [Laws of Thermodynamics](https://en.wikipedia.org/wiki/Laws\_of\_thermodynamics) and the [Four Noble Truths](https://en.wikipedia.org/w/index.php?title=Four\_Noble\_Truths\&oldid=1140984114) of Buddhism share some structural qualities, that I would like to outline here. &#x20;
+
+* Zero and the first truth, dukkha: Thermo states that two systems in equilibrium with a third are in equilibrium with eachother. Buddhism states that there is suffering or dissatisfaction with life. Both are saying that there is a "game" and we are all playing it&#x20;
+* First law and second truth:&#x20;
 
 Seems like both are stating something exists, that it is a shared quantity, and&#x20;
 

@@ -114,15 +114,7 @@ $$
 
 ### Divisibility Tricks
 
-| Divisor | Rule                                 |
-| ------- | ------------------------------------ |
-| 2       | Last digit is even                   |
-| 3       | Sum of the digits is divisible by 3  |
-| 4       | Last two digits are divisible by 4   |
-| 5       | Last digit ends in 0 or 5            |
-| 6       | Satisfies both 2 and 3               |
-| 8       | Last three digits divisible by 8     |
-| 9       | Sum of the digits are divisible by 9 |
+<table><thead><tr><th width="150">Divisor</th><th>Rule</th></tr></thead><tbody><tr><td>2</td><td>Last digit is even</td></tr><tr><td>3</td><td>Sum of the digits is divisible by 3</td></tr><tr><td>4</td><td>Last two digits are divisible by 4</td></tr><tr><td>5</td><td>Last digit ends in 0 or 5 </td></tr><tr><td>6</td><td>Satisfies both 2 and 3</td></tr><tr><td>8</td><td>Last three digits divisible by 8</td></tr><tr><td>9</td><td>Sum of the digits are divisible by 9</td></tr></tbody></table>
 
 ## Cauchy's Formula for Repeated Integration
 
