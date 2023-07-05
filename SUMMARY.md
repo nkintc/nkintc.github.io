@@ -123,13 +123,13 @@
   * [Wavelet Transform](steam/mathematics/wavelet-transform.md)
   * [Constants](steam/mathematics/constants.md)
   * [Bad Maths](steam/mathematics/bad-maths.md)
-  * [Calculus](steam/mathematics/untitled/README.md)
-    * [Syllabus Description](steam/mathematics/untitled/syllabus-description.md)
-    * [Miscellaneous](steam/mathematics/untitled/miscellaneous.md)
+  * [Calculus](steam/untitled/README.md)
+    * [Syllabus Description](steam/untitled/syllabus-description.md)
+    * [Miscellaneous](steam/untitled/miscellaneous.md)
 * [\[guide\]](steam/guide/README.md)
   * [Quantum Computing](steam/guide/quantum-computing.md)
   * [Engineering](steam/guide/engineering.md)
-  * [Color Theory](steam/guide/color.md)
+  * [Color Theory](steam/color.md)
 
 ## Thoughts
 

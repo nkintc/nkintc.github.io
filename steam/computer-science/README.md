@@ -1,13 +1,12 @@
 ---
 description: Limited knowledge. Not enough to be useful, but enough to be dangerous.
-coverY: 0
 ---
 
 # Computer Science
 
 Speaking with people who have done computer science all of their lives, it has been weird to see that my generation is (arguably) the most literate. Having grown up with computers but before the wide adoption of smartphones, this is the easiest way to move information between people.&#x20;
 
-Still, I wish that I had adopted computers more than I did.&#x20;
+Still, I wish that I had adopted computers more than I did, starting with the command line terminal before being introduced to the desktop GUI. It feels like it's more of a crutch now; something to fall back onto rather than knowing it is just another simpler, if slower, way of moving data around inside the computer.&#x20;
 
 * [Classwork for ITWS](https://github.com/dawneraq/websci)
 * [missing lecture on vim](https://missing.csail.mit.edu/2020/editors/)
