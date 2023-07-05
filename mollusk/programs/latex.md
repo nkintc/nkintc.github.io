@@ -1,5 +1,5 @@
 ---
-description: The ubiquitous plain text math editor seen after Word
+description: Ubiquitous plain text math text editor
 ---
 
 # LaTeX

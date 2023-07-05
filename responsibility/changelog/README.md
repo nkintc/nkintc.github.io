@@ -32,7 +32,7 @@ Their thoughts come from their brains. It is inherently unique so trying to copy
 
 ### Added
 
-* [Archery](../../thoughts/marksmanship/archery.md) article added with tips on how to get into the hobby.&#x20;
+* [Archery](../../thoughts/archery.md) article added with tips on how to get into the hobby.&#x20;
 * [Working and Life Balance](../../thoughts/working-and-life-balance.md) article added &#x20;
 
 ### Changed
