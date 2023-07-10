@@ -1,12 +1,8 @@
 ---
-description: Everyone has a story. No one is going to tell it but you.
-cover: ../.gitbook/assets/stupidFaster (1).png
-coverY: 0
+description: Everyone has a story. No one is can tell it, but you.
 ---
 
 # What is this?
-
-
 
 {% hint style="danger" %}
 WIP - WYSIWYG

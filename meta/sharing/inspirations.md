@@ -9,11 +9,19 @@ description: >-
 
 > "Art is sort of a completed pass. You don't just throw it out in the world—someone has to catch it." - James Turrell (2013-05-19)
 
-### Exobrains and the [Extended Mind](https://en.wikipedia.org/wiki/Extended\_mind\_thesis)
+### Exobrains and the [Extended Mind](https://en.wikipedia.org/wiki/Extended\_mind\_thesis) to Digital Gardening&#x20;
 
 This is also called a [digital garden](https://joelhooks.com/digital-garden). I quite like this idea as it grows over time, the author merely tending to the collection until it bears fruit. The oldest collection of thought, and the first which I stumbled upon, was [Mathpages](https://www.mathpages.com/)'s approach to solving for the effective resistance between two nodes in an [infinite grid of resistors](https://www.mathpages.com/home/kmath668/kmath668.htm).&#x20;
 
-* [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/)&#x20;
+What finally put a name on it was Nikitavoloboev's [Everything I Know](https://wiki.nikiv.dev/sharing/everything-I-know) that finally got me into the idea that this is much more approachable. It just needed to have ideas, not necessarily mastery over mathematics and physics. With all of those ideas laid bare, I thought to myself that I could start putting my own down into words.&#x20;
+
+For a time, this was public, then private, and now public again. These pages were public originally. but at some point (I forget when) I made it private. As a reflection of my mind, the clutter and disorder made me feel ashamed.&#x20;
+
+Without order, without guidance, without meaning.  &#x20;
+
+It was Maggie Appleton's [essay on Digital Gardens](https://maggieappleton.com/garden-history) that has gotten this back out into the public. Her garden is beautiful. Her garden and her approach in tending to her garden is inspirational. &#x20;
+
+* [Nikitavoloboev](https://wiki.nikitavoloboev.xyz/)[ ](https://wiki.nikiv.dev/sharing/everything-I-know)
 * [maggieappleton](https://maggieappleton.com/)
 * [Dercuano](https://gitlab.com/kragen/dercuano/-/tree/master)
 * [stefanjudis](https://www.stefanjudis.com/today-i-learned/)
