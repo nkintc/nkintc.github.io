@@ -20,10 +20,11 @@
   * [Photogrammetry](meta/research/photogrammetry.md)
   * [Drone Building](meta/research/drone.md)
 * [\[unreleased\]](meta/unreleased/README.md)
-  * [\[TEMPLATE\]](meta/unreleased/template.md)
+  * [\[Template\]](meta/unreleased/template.md)
   * [Notes and Ideas](meta/unreleased/notes-and-ideas.md)
   * [Boredom](meta/unreleased/boredom.md)
   * [Four Noble Truths of "Thermo"](meta/unreleased/four-noble-truths-of-thermo.md)
+  * [Respect](meta/unreleased/respect.md)
 
 ## STE\[A]M <a href="#steam" id="steam"></a>
 
@@ -120,7 +121,14 @@
     * [index](steam/materials-modeling/assignments/untitled.md)
     * [Carbon Nanotubes](steam/materials-modeling/assignments/carbon-nanotubes.md)
 * [Mathematics](steam/mathematics.md)
+  * [Analytic Hierarchy Process](steam/mathematics/analytic-hierarchy-process.md)
+  * [What is i^i](steam/mathematics/what-is-i-i.md)
+  * [Conway's Game of Life](steam/mathematics/conways-game-of-life.md)
+  * [Metallic Numbers](steam/mathematics/metallic-numbers.md)
+  * [Cauchy's Formula for Repeated Integration](steam/mathematics/cauchys-formula-for-repeated-integration.md)
   * [Wavelet Transform](steam/mathematics/wavelet-transform.md)
+  * [Laplace Tidal Equation](steam/mathematics/laplace-tidal-equation.md)
+  * [Alternating Summation of Ones](steam/mathematics/alternating-summation-of-ones.md)
   * [Constants](steam/mathematics/constants.md)
   * [Bad Maths](steam/mathematics/bad-maths.md)
   * [Calculus](steam/untitled/README.md)

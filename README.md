@@ -18,9 +18,7 @@ Math can be written about with less repetition. Inline math helps blend the line
 
 This knowledge is not meant to be kept by me alone. It is our responsibility as [custodians, online](http://custodians.online/) to share what we know. To remember how very small this project is, here is [some sense of scale](http://stars.chromeexperiments.com/).&#x20;
 
-Sarte put this eloquently as, "[Existence preceeds essence](https://en.wikipedia.org/wiki/Existence\_precedes\_essence)" &#x20;
-
-or better still...
+Put this eloquently, "[Existence preceeds essence](https://en.wikipedia.org/wiki/Existence\_precedes\_essence)"  or better still...
 
 $$
 \color{red}\texttt{Fucking around precedes finding out.}

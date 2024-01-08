@@ -1,3 +1,7 @@
+---
+description: We taught him wrong,
+---
+
 # Bad Maths
 
 $$

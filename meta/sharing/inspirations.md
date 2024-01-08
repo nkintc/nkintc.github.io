@@ -69,6 +69,7 @@ It was Maggie Appleton's [essay on Digital Gardens](https://maggieappleton.com/g
 * [okmij](http://okmij.org/ftp/) on [information and shannon entropy](http://okmij.org/ftp/Computation/limits-of-information.html)
 * [halrgang](https://halrgang.wordpress.com/) thoughts on heathenry&#x20;
 * [external list of second brains](https://github.com/KasperZutterman/Second-Brain)
+* [brr.fyi](https://brr.fyi/)
 
 ## [Life Logging as an Extended Diary](https://beepb00p.xyz/tags.html#lifelogging)
 
