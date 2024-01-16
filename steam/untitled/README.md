@@ -8,21 +8,15 @@ description: >-
 
 Why this branch of math is so interesting that it deserves its own page, broken out from general mathematics? &#x20;
 
-Differential equations seem to be the general language of most systems. From observations, one cannot tell total quantities. But change can always be described. Calculus and the different branches of differential equations link those two ideas together into an equation (or equations) which describe those changes.&#x20;
+Differential equations seem to be the general language of most systems. From observation, one cannot tell total quantities. But change can always be described. Calculus and the different branches of differential equations link those two ideas together into an equation (or equations) which describe those changes. If those equations are solvable or not is another question entirely.&#x20;
 
-If those equations are solvable or not is another question entirely.&#x20;
+$$\begin{equation} \int\limits_a^b f(x) d x=F(b)-F(a) \end{equation}$$
+
+$$\begin{equation} \frac{d}{d x} \int_a^x f(t) d t=f(x) \end{equation}$$
 
 ## Basis
 
-Disclaimer: Do NOT attempt to use this as a learning tool. \[weHaveTrainedHimWrongAsAJoke.gif] All that this digital garden should be used for is reference and awareness: it should let you know something exists. It should not be used as a guide.
-
-This section assumes knowledge of algebra and some trigonometric identities. However, this should not be used as a learning tool. Refer to the disclaimer.
-
-For all the hubub that we hear about calculus, it serves as a tool that answers two major questions: how fast are we going and how far have we gone? If we know where we are and when we got there, we should know speed and what it has been. Conversely, if we know our historic speed, then we should know how far we have gone.
-
-These analogies can serve as representations for the two major branches of calculus: differential and integral calculus. Differential calculus corresponds to "how fast" analogy and integral calculus to the "how far" analogy.
-
-Of the two, finding definite closed form solutions for integral calculus is much more difficult than finding a derivative. Calculus has become so influential in the field of mathematics that it is now used as an adjective for disparate fields: propositional, Ricci, variational, lambda, etc.&#x20;
+Calculus is broken up in to _differential_ and _integral_ calculus. Of the two, finding definite closed form solutions for integral calculus is much more difficult than finding a derivative. Calculus has become so influential in the field of mathematics that it is now used as an adjective for disparate fields: propositional, Ricci, variational, lambda, etc.&#x20;
 
 Notes from a collection of sources on a variety of topics. Including online video series in addition to more traditional sources since they do such a great job at illustrating a point beyond what a textbook or paper could.&#x20;
 
