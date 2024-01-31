@@ -20,6 +20,7 @@
   * [Photogrammetry](meta/research/photogrammetry.md)
   * [Drone Building](meta/research/drone.md)
 * [\[unreleased\]](meta/unreleased/README.md)
+  * [Working and Staying Busy](meta/unreleased/working-and-staying-busy.md)
   * [\[Template\]](meta/unreleased/template.md)
   * [Notes and Ideas](meta/unreleased/notes-and-ideas.md)
   * [Boredom](meta/unreleased/boredom.md)
