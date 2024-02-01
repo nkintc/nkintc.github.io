@@ -8,7 +8,7 @@ description: >-
 
 ## Changes Logged: 0.0.4 - 2022-10-03
 
-&#x20;Again, a long break but not&#x20;
+&#x20;Again, a long break but not a whole lot added.&#x20;
 
 ### Added
 
@@ -17,10 +17,6 @@ description: >-
 ### Changed
 
 * Calculus changed to add introduction and prerequesites.&#x20;
-
-### Fixed
-
-* .
 
 ## Changes Logged: 0.0.3 - 2021-12-01
 
