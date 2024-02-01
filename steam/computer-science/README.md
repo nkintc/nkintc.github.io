@@ -24,4 +24,5 @@ Still, I wish that I had adopted computers more than I did, starting with the co
 * [https://developer.github.com/v4/explorer/](https://developer.github.com/v4/explorer/)
 * internet relay chat [(IRC)](http://python-irclib.sourceforge.net/) protocol which is used by [python twitter ](https://mike.verdone.ca/twitter/#downloads)api
 * [data wrangling ](https://missing.csail.mit.edu/2020/data-wrangling/)from the missing semester
+* asahi linux for apple silicon?&#x20;
 

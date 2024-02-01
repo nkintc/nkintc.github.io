@@ -22,6 +22,19 @@ To narrow in on a specific file extension you would add the extension to the fir
 \
 Ex: get-childitem \*.txt | rename-item -newname { string .substring(8) }\
 to remove "Copy of " (8 characters) from sheet music\
+
+
+`Get-WmiObject Win32_BaseBoard | Format-Table -Auto Manufacturer,Product,SerialNumber,Version`
+
+get baseboard information from powershell
+
+```bash
+$items=Get-ChildItem;
+$items | Rename-Item -NewName { "Prefix_" + $_.Name };
+```
+
+prefix "Prefix\_" to all files in a directory&#x20;
+
 \
 from here\
 [https://community.spiceworks.com/how\_to/149670-powershell-simple-file-rename-to-strip-beginning-characters](https://community.spiceworks.com/how\_to/149670-powershell-simple-file-rename-to-strip-beginning-characters)

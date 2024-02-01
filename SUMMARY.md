@@ -19,6 +19,7 @@
   * [3D Printing](meta/research/3d-printing.md)
   * [Photogrammetry](meta/research/photogrammetry.md)
   * [Drone Building](meta/research/drone.md)
+* [External Websites](meta/external-websites.md)
 * [\[unreleased\]](meta/unreleased/README.md)
   * [Working and Staying Busy](meta/unreleased/working-and-staying-busy.md)
   * [\[Template\]](meta/unreleased/template.md)
@@ -32,6 +33,7 @@
 
 * [Computer Science](steam/computer-science/README.md)
   * [Commands](steam/computer-science/commands.md)
+* [Photogrammetry](steam/photogrammetry.md)
 * [Continuum Mechanics](steam/fluid-mechanics/README.md)
   * [Fluid Mechanics](steam/fluid-mechanics/fluid-mechanics-1/README.md)
     * [Incompressible Flow](steam/fluid-mechanics/fluid-mechanics-1/inflow/README.md)
@@ -148,6 +150,7 @@
 * [Schooling](thoughts/schooling.md)
 * [Origami](thoughts/origami.md)
 * [Comics and Games](thoughts/comics/README.md)
+  * [ASCII Art](thoughts/comics/ascii-art.md)
   * [Dungeons and Dragons](thoughts/comics/dungeons-and-dragons.md)
   * [Beyond-All-Reason](thoughts/comics/beyond-all-reason.md)
   * [Sekiro: Shadows Die Twice](thoughts/comics/sekiro.md)
