@@ -26,6 +26,7 @@
   * [Boredom](meta/unreleased/boredom.md)
   * [Four Noble Truths of "Thermo"](meta/unreleased/four-noble-truths-of-thermo.md)
   * [Respect](meta/unreleased/respect.md)
+  * [Work](meta/unreleased/work.md)
 
 ## STE\[A]M <a href="#steam" id="steam"></a>
 
