@@ -167,6 +167,7 @@
 
 ## Mollusk
 
+* [Computers](mollusk/computers.md)
 * [Programs](mollusk/programs/README.md)
   * [Matlab and Octave](mollusk/programs/matlab-and-octave.md)
   * [Audacity](mollusk/programs/audacity.md)
