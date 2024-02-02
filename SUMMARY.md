@@ -148,6 +148,7 @@
 * [Marksmanship](thoughts/marksmanship/README.md)
   * [Archery](thoughts/archery.md)
 * [Schooling](thoughts/schooling.md)
+* [...and Ideas?](thoughts/...and-ideas.md)
 * [Origami](thoughts/origami.md)
 * [Comics and Games](thoughts/comics/README.md)
   * [ASCII Art](thoughts/comics/ascii-art.md)
