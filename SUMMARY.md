@@ -208,6 +208,8 @@
   * [Unix](mollusk/operating-systems/linux-distros/README.md)
     * [folder structure](mollusk/operating-systems/linux-distros/folder-structure.md)
   * [Windows](mollusk/operating-systems/windows/README.md)
+    * [App Installation](mollusk/operating-systems/windows/app-installation.md)
+    * [Meshroom](mollusk/operating-systems/windows/meshroom.md)
     * [Corsair Utility Engine](mollusk/operating-systems/windows/corsair-utility-engine.md)
 
 ## Projects
