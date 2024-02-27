@@ -126,6 +126,7 @@
     * [Carbon Nanotubes](steam/materials-modeling/assignments/carbon-nanotubes.md)
 * [Mathematics](steam/mathematics.md)
   * [Analytic Hierarchy Process](steam/mathematics/analytic-hierarchy-process.md)
+  * [Probability](steam/mathematics/probability.md)
   * [What is i^i](steam/mathematics/what-is-i-i.md)
   * [Conway's Game of Life](steam/mathematics/conways-game-of-life.md)
   * [Metallic Numbers](steam/mathematics/metallic-numbers.md)
