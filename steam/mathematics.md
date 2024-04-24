@@ -8,6 +8,8 @@ description: >-
 
 Mathematics is such a broad term for what I want to cover. There are many that are broken out that should be covered under this but I digress. These are concepts based in mathematics which may or may not have practical applications in the real world. But in any case, I think that my favorite is stuff that everyone can at least be somewhat familiar with.&#x20;
 
+## Screwing Around
+
 A fun example is that two concepts that are taught in high school are intimately related to each other: the quadratic formula can be derived by completing the square of a generic quadratic equation.
 
 $$
