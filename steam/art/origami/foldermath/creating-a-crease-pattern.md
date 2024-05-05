@@ -12,5 +12,5 @@ As the process described is novel, it should be flexible as to accept the existi
 
 Not all objects have an existing set of folds created by an origami artist. But a solid model can be approximated as a polyhedron using [Origamizer](https://origami.c.u-tokyo.ac.jp/\~tachi/software/), which accepts the `.obj` fileype and generates the associated crease pattern of the associated polyhedron.
 
-![Crease pattern of a faceted torus](<../../.gitbook/assets/image (9)>)
+![Crease pattern of a faceted torus](<../../../../.gitbook/assets/image (9)>)
 

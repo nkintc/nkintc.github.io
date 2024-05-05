@@ -24,7 +24,7 @@ Organizing these pages came from an interative process. First step is to write a
 
 > “If I had more time, I would have written a shorter letter.” - Source Disputed&#x20;
 
-Often while writing, I worry that I could do better: written more concisely, been more clear, developed these ideas to maturity before attempting to save them here. But our [time on earth is finite](../thoughts/death.md), so these pages will be as long or, more likely, as short as they will be
+Often while writing, I worry that I could do better: written more concisely, been more clear, developed these ideas to maturity before attempting to save them here. But our [time on earth is finite](../meta/calculus/death/), so these pages will be as long or, more likely, as short as they will be
 
 These pages relate to my thoughts and reasoning on why this is a public work. A newcomer should begin with the essay on [Responsibility Online](https://nkintc.gitbook.io/brainless/meta/responsibility). The (Human) geography is my own personal history, if you want to get to know where I've been. Sharing is a set of inspirations which links to other digital gardens (second brains or zettelkastens, if you prefer). Research are the list of projects which I have worked on.&#x20;
 

@@ -40,7 +40,7 @@ description: >-
 
 a
 
-![a beat in rythmn site](<../../../../.gitbook/assets/image (2) (1).png>)
+![a beat in rythmn site](<../../../../../.gitbook/assets/image (2) (1).png>)
 
 a
 

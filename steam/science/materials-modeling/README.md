@@ -6,7 +6,7 @@ description: Notes of modeling materials; from first principals, on.
 
 ### Lecture 1: Introduction to Material Science
 
-![Ashby Chart sourced from ntopology](../../.gitbook/assets/Figure-1-1024x791.png)
+![Ashby Chart sourced from ntopology](../../../.gitbook/assets/Figure-1-1024x791.png)
 
 Multiscale Modeling is touched on in Fluid Mechanics but here, will traverse the scale through the lectures.&#x20;
 

@@ -6,9 +6,9 @@ If an object file from origami simulator is directly loaded into a FDM slicing p
 
 However, once an `.obj` is exported from origami simulator it can be opened in Blender which readily accepts mesh networks.
 
-![Extruded fold object saved as a Blender file](<../../.gitbook/assets/image (2)>)
+![Extruded fold object saved as a Blender file](<../../../../.gitbook/assets/image (2)>)
 
-![Printed crease pattern in partial fold state](<../../.gitbook/assets/image (8)>)
+![Printed crease pattern in partial fold state](<../../../../.gitbook/assets/image (8)>)
 
 * Orient the model along a plane
   * since the exported fold file is only very partially in the process of being folded, most of the points remain mostly coplanar.

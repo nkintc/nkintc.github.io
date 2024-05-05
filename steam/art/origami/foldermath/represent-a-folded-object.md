@@ -28,7 +28,7 @@ description for valid deformation. A valid deformation is a crease pattern repre
 
 Consider the crease pattern where one creases a square sheet in half once along the vertical and then along the horizontal. Unfolding would show a single node surrounded by 3 valley creases and one mountain. In this flat foldable state, folding once in half along the vertical and horizontal produces a self similar shape of another square. This is not a tessellation as the boundary was not preserved.
 
-![Tw consecutive mountain creases in origami simulator at 99% folded from originally flat state](<../../.gitbook/assets/image (10)>)
+![Tw consecutive mountain creases in origami simulator at 99% folded from originally flat state](<../../../../.gitbook/assets/image (10)>)
 
 An important consequence of Maekawa's Theorem on a flat foldable crease pattern, the number of mountain and valley folds will always differ by two. This is because any additional fold which runs through the node will always add both a mountain and valley, effectively "canceling" the additional folds. The description of the infinitesimal deformation $$d{\bf x}$$ as the kernel of the the$$n_c \times 3n_{\text{vert}}$$ Jacobian matrix and is found using a pseudo-inverse (akin to a stress measure).
 

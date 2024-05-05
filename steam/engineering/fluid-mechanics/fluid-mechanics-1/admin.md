@@ -17,29 +17,29 @@ Taught by [Prof. Rusak of RPI ](https://faculty.rpi.edu/zvi-rusak)in the fall of
 
 {% tabs %}
 {% tab title="Syllabus" %}
-{% file src="../../../.gitbook/assets/mane.6520.admin.syllabus.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.admin.syllabus.pdf" %}
 Fluids Syllabus
 {% endfile %}
 {% endtab %}
 
 {% tab title="Handouts" %}
-{% file src="../../../.gitbook/assets/mane.6520.handout.nrgsurface.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.handout.nrgsurface.pdf" %}
 Energy Surface
 {% endfile %}
 
-{% file src="../../../.gitbook/assets/mane.6520.handout.vectoridentities.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.handout.vectoridentities.pdf" %}
 Vector Identities
 {% endfile %}
 
-{% file src="../../../.gitbook/assets/mane.6520.paper.vortexbreakdowninterp.1995 (1).pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.paper.vortexbreakdowninterp.1995 (1).pdf" %}
 Vortex Breakdown by Benjamin
 {% endfile %}
 
-{% file src="../../../.gitbook/assets/mane.6520.paper.vortexbreakdowninterp.1995.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.paper.vortexbreakdowninterp.1995.pdf" %}
 Breakdown Interpretation by Keller
 {% endfile %}
 
-{% file src="../../../.gitbook/assets/mane.6520.paper.vortexflowrusak.1997 (1).pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.paper.vortexflowrusak.1997 (1).pdf" %}
 Vortex Dynamics by Rusak
 {% endfile %}
 
@@ -51,11 +51,11 @@ Vortex Dynamics by Rusak
 
 
 
-![](../../../.gitbook/assets/mane.6520.figure.freqreplot.png)
+![](../../../../.gitbook/assets/mane.6520.figure.freqreplot.png)
 
-![](../../../.gitbook/assets/mane.6520.figure.lines.png)
+![](../../../../.gitbook/assets/mane.6520.figure.lines.png)
 
-![](../../../.gitbook/assets/mane.6520.figure.regionmap.png)
+![](../../../../.gitbook/assets/mane.6520.figure.regionmap.png)
 
 
 {% endtab %}
