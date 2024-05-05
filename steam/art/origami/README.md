@@ -12,7 +12,7 @@ Like many, I would guess, my first foray into origami was as a child. In school,
 
 [Origami-Flower](http://www.origami-flower.org/kawasaki-rose-new.php): excellent site where I learned my favorite model to fold
 
-[Origami-Make](../../../responsibility/changelog/keeping-a-changelog.md): a similar site to Origami-Flower with simple models&#x20;
+[Origami-Make](../../../changelog/keeping-a-changelog.md): a similar site to Origami-Flower with simple models&#x20;
 
 [Geometric Folding Algorithms](https://courses.csail.mit.edu/6.849/fall10/lectures/): Demaine's 2010 course on the mathematics of origami&#x20;
 

@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Responsibility](README.md)
-  * [What is this?](responsibility/master.md)
-  * [Changelog](responsibility/changelog/README.md)
-    * [Keeping a Changelog](responsibility/changelog/keeping-a-changelog.md)
+* [What is this?](README.md)
+* [Responsibility](responsibility.md)
+* [Changelog](changelog/README.md)
+  * [Keeping a Changelog](changelog/keeping-a-changelog.md)
 
 ## meta
 
@@ -85,8 +85,8 @@
       * [App Installation](steam/technology/operating-systems/windows/app-installation.md)
       * [Meshroom](steam/technology/operating-systems/windows/meshroom.md)
       * [Corsair Utility Engine](steam/technology/operating-systems/windows/corsair-utility-engine.md)
-  * [3D Printing](steam/technology/3d-printing.md)
-* [Engineering](steam/engineering/README.md)
+  * [3D Printing](projects/3d-printing.md)
+* [Engineering](steam/guide/engineering.md)
   * [Fundamentals of Engineering](steam/engineering/fundamentals-of-engineering.md)
   * [Continuum Mechanics](steam/engineering/fluid-mechanics/README.md)
     * [Fluid Mechanics](steam/engineering/fluid-mechanics/fluid-mechanics-1/README.md)
@@ -222,8 +222,11 @@
   * [Poems](thoughts/literature/poems.md)
   * [Interviews](thoughts/literature/interviews.md)
   * [Quotes](thoughts/literature/quotes.md)
+  * [Jokes](thoughts/literature/jokes.md)
 * [Shows and Films](thoughts/games-and-movies/README.md)
   * [Cowboy Bebop](thoughts/games-and-movies/cowboy-bebop.md)
   * [My Hero Academia](thoughts/games-and-movies/my-hero-academia.md)
   * [Sword of the Stranger](thoughts/games-and-movies/sword-of-the-stranger.md)
 * [Working and Life Balance](thoughts/working-and-life-balance.md)
+
+## Projects
