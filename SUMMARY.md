@@ -218,7 +218,7 @@
   * [League of Legends](thoughts/comics/league-of-legends.md)
 * [Literature and Art](thoughts/literature/README.md)
   * [Reading is Hard](thoughts/literature/reading-is-hard.md)
-  * [Nice Words](thoughts/literature/nice-words.md)
+  * [Various Words and Phrases](thoughts/literature/various-words-and-phrases.md)
   * [Poems](thoughts/literature/poems.md)
   * [Interviews](thoughts/literature/interviews.md)
   * [Quotes](thoughts/literature/quotes.md)
