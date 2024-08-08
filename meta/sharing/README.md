@@ -21,7 +21,9 @@ On a tangential note, there's a term in construction called a tofu project. Typi
 This problem isn't seen in open source software; one could say that open source software lets you see how it is built but I would argue that that phrasing would distance A singular object as to different things: a difference without a distinction. open source software does not just let you see how it is built: it \*is\* the thing which is being used.&#x20;
 
 * Open-source software combats the problem of misrepresentation&#x20;
+  * Misrepresentation is combated by eliminating a "middle man"&#x20;
 * Showing work combats the problem of misinterpretation&#x20;
+  * Seeing the original work allows for direct understanding&#x20;
 
 On Github, opening up some repository on the web allows for an opensource version control: letting users see not just the code, but issues, pull requests, actions, and insights into how it is developed by users. There should be no tofu projects on Github. There are notes and gists and README’s which don’t make sense, certainly, but they are not being passed off as more than they are. They are just that: notes, gists, and README’s. Don't read into it any deeper than needed because more than likely there is no intended meaning there.&#x20;
 

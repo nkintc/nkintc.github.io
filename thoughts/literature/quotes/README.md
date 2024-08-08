@@ -19,17 +19,7 @@ Note many of these came from [Mathpages](https://www.mathpages.com/home/quotes.h
 * How wonderful it is that nobody need wait a single moment before starting to improve the world- _Anne Frank_
 * “A true thing, poorly expressed, is a lie.” - _Stephen Fry_
 * "If it disagrees with experiment, it is wrong." - _Richard Feynmann_
-*
-
-    * Past has a vote, not a veto
-    * Not my monkey, not my zoo
-    * Wound, Scar, Reminder of Love
-    * (Alone and Forsaken) By Fate and by Man
-    * Turn the crank for frank
-    * never approach a bull from the front, a horse from the rear, or a fool from any direction
-    *
-
-    \
+* "Stagnation is death. If you don't change, you die. It's that simple. It's that scary" - Leonard Sweet\
 
 
 

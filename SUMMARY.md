@@ -2,8 +2,7 @@
 
 * [What is this?](README.md)
 * [Responsibility](responsibility.md)
-* [Changelog](changelog/README.md)
-  * [Keeping a Changelog](changelog/keeping-a-changelog.md)
+* [Changelog](changelog.md)
 
 ## meta
 
@@ -23,6 +22,8 @@
 * [External Websites](meta/external-websites.md)
 * [\[unreleased\]](meta/unreleased/README.md)
   * [Working and Staying Busy](meta/unreleased/working-and-staying-busy.md)
+  * [Stride](meta/unreleased/stride.md)
+  * [Funeral Playlist](meta/unreleased/funeral-playlist.md)
   * [\[Template\]](meta/unreleased/template.md)
   * [Notes and Ideas](meta/unreleased/notes-and-ideas.md)
   * [Boredom](meta/unreleased/boredom.md)
@@ -217,11 +218,13 @@
     * [Project +](thoughts/comics/super-smash-bros/project-+.md)
   * [League of Legends](thoughts/comics/league-of-legends.md)
 * [Literature and Art](thoughts/literature/README.md)
+  * [Books](thoughts/literature/books.md)
   * [Reading is Hard](thoughts/literature/reading-is-hard.md)
   * [Various Words and Phrases](thoughts/literature/various-words-and-phrases.md)
   * [Poems](thoughts/literature/poems.md)
   * [Interviews](thoughts/literature/interviews.md)
-  * [Quotes](thoughts/literature/quotes.md)
+  * [Quotes](thoughts/literature/quotes/README.md)
+    * [Phrases](thoughts/literature/quotes/phrases.md)
   * [Jokes](thoughts/literature/jokes.md)
 * [Shows and Films](thoughts/games-and-movies/README.md)
   * [Cowboy Bebop](thoughts/games-and-movies/cowboy-bebop.md)

@@ -6,13 +6,32 @@ description: >-
 
 # Changelog
 
+The template for this changelog comes from [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This is what I'll build it off of but no promises that there will be no changes. Some of these sections will not apply to what I do in this digital garden.&#x20;
+
+* `Added` for new features.
+* `Changed` for changes in existing functionality.
+* `Deprecated` for soon-to-be removed features.
+* `Removed` for now removed features.
+* `Fixed` for any bug fixes.
+* `Security` in case of vulnerabilities
+
+For most of these, the Security and Deprecated sections are not going to be utilized except in the rarest circumstances.&#x20;
+
+## Changes Logged: 0.0.5 - 2024-08-08
+
+Keeping track of all of these seems like a mistake since it's not in a released state yet. That might be a thing to do when I hit v1.0.0, eventually?
+
+### Removed
+
+* Mannnnnnnyyyyyy pages and paragraphs deleted. See the description for this change log entry.&#x20;
+
 ## Changes Logged: 0.0.4 - 2022-10-03
 
 &#x20;Again, a long break but not a whole lot added.&#x20;
 
 ### Added
 
-* &#x20;Added [Keeping a Changelog](keeping-a-changelog.md) page which holds a template for these issues&#x20;
+* &#x20;Added [Keeping a Changelog](broken-reference) page which holds a template for these issues&#x20;
 
 ### Changed
 
@@ -28,12 +47,12 @@ Their thoughts come from their brains. It is inherently unique so trying to copy
 
 ### Added
 
-* [Archery](../../thoughts/archery.md) article added with tips on how to get into the hobby.&#x20;
-* [Working and Life Balance](../../thoughts/working-and-life-balance.md) article added &#x20;
+* [Archery](thoughts/archery.md) article added with tips on how to get into the hobby.&#x20;
+* [Working and Life Balance](thoughts/working-and-life-balance.md) article added &#x20;
 
 ### Changed
 
-* [Drone Building](../../meta/research/drone.md) video of complete build linked to page &#x20;
+* [Drone Building](meta/research/drone.md) video of complete build linked to page &#x20;
 * Calculus sections on Euler's Identity and Euler-Lagrange edited&#x20;
 
 ### Fixed
