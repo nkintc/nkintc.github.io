@@ -24,6 +24,13 @@ Ex: get-childitem \*.txt | rename-item -newname { string .substring(8) }\
 to remove "Copy of " (8 characters) from sheet music\
 
 
+Get-Command \[NAME-EXECUTABLE-FILE] | Select-Object \*\
+Use to find filelocation of executable
+
+
+
+
+
 `Get-WmiObject Win32_BaseBoard | Format-Table -Auto Manufacturer,Product,SerialNumber,Version`
 
 get baseboard information from powershell
