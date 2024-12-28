@@ -13,7 +13,15 @@ This is a lot of work for just meeting notes but once the legwork is done, a tem
 ### Formulas
 
 Populate A1 with Time if B1 is Filled\
-`=IF(A1<>"",IF(B1<>"",B1,NOW()),"")`\
+`=IF(A1<>"",IF(B1<>"",B1,NOW()),"")`
+
+
+
+Automatic Numbering List in Excel
+
+\="No. " \&SEQENCE()
+
+Use a number or the SEQUENCE function argument for a static list of numbers. Use COUNTA() function with the range of items to dynamically number cells.\
 
 
 #### Source: [https://www.extendoffice.com/documents/excel/5894-excel-insert-date-and-time-stamp.html](https://www.extendoffice.com/documents/excel/5894-excel-insert-date-and-time-stamp.html)
