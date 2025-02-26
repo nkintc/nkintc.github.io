@@ -32,7 +32,7 @@ u_i = q_i
 \end{align}
 $$
 
-where $\sigma_{ij} = c_{ijkl}u\_{\(k,l\)}$. Establish a weak formulation for this problem in which all “$q$-type” boundary conditions are essential and all “$h$-type ” boundary conditions are natural. State all requirements on the spaces $\delta$ and $\mathcal{V}$. Hint $w\_i = w\_n n\_i+ w\_s s\_i$.
+where $\sigm&#x61;_{ij} = c_{ijkl}u\_{(k,l)}$. Establish a weak formulation for this problem in which all “$q$-type” boundary conditions are essential and all “$h$-type ” boundary conditions are natural. State all requirements on the spaces $\delta$ and $\mathcal{V}$. Hint $w\_i = w\_n n\_i+ w\_s s\_i$.
 
 ### Method of Weighted Residuals
 
@@ -275,7 +275,7 @@ $$
 \sigma_{i j}=c_{i j k l}\left(\epsilon_{k l}-\epsilon_{k l}^{0}\right)+\sigma_{i j}^{0}
 $$
 
-Where $\epsilon_{ij}^0$ and $\sigma_{ij}^0$
+Where $\epsilo&#x6E;_{ij}^0$ and $\sigma_{ij}^0$
 
 are the initial strain and initial stress both given functions of $x$. The initial strain term may be used to represent thermal expansion effects by way of
 
@@ -283,7 +283,7 @@ $$
 \epsilon_{k l}^{0}=-\theta c_{k l}
 $$
 
-where $\theta$ is the temperature and the $c\_{kl}$’s are the thermal expansion coefficients \(both given functions\). Clearly \[const eqn\] will in no way change the stiffness matrix . However there will be additional contributions to $f\_p^e$ Generalize the definition of $f\_p^e$ to account for these additional terms.
+where $\theta$ is the temperature and the $c\_{kl}$’s are the thermal expansion coefficients (both given functions). Clearly \[const eqn] will in no way change the stiffness matrix . However there will be additional contributions to $f\_p^e$ Generalize the definition of $f\_p^e$ to account for these additional terms.
 
 $$
 \int_{\Omega} w_{(i, j)} \sigma_{i j} d \Omega=\int_{\Omega} w_{i} f_{i} d \Omega+\sum_{i=1}^{n_{s d}}\left(\int_{\Gamma_{h_{i}}} w_{i} h_{i} d \Gamma\right)
@@ -315,22 +315,22 @@ $$
 
 ## Problem 3
 
-The mesh and boundary conditions given below are for a 2-D elastostatics problem. Following the method given in the class handout, determine the ID matrix, IEN vectors and LM matrix. Also indicate the locations in the stiffness matrix, or force vector the “contributions” for the terms in the element stiffness matrix for element 7 will go. Essential BC information \(be sure to account for it\): The vertical edge \(nodes 1,4,7,8 are on it\) can not move in the in either direction The horizontal edge \(nodes 15, 3,13 on it\) has a prescribed vertical displacement of 0.05 units. Note – Nodes are marked with a black dot \(there are corner nodes and three edge nodes\). Element numbers have the circles around them.
+The mesh and boundary conditions given below are for a 2-D elastostatics problem. Following the method given in the class handout, determine the ID matrix, IEN vectors and LM matrix. Also indicate the locations in the stiffness matrix, or force vector the “contributions” for the terms in the element stiffness matrix for element 7 will go. Essential BC information (be sure to account for it): The vertical edge (nodes 1,4,7,8 are on it) can not move in the in either direction The horizontal edge (nodes 15, 3,13 on it) has a prescribed vertical displacement of 0.05 units. Note – Nodes are marked with a black dot (there are corner nodes and three edge nodes). Element numbers have the circles around them.
 
 Let $n$ be $null$, $f$ be a degree of freedom, and $g$ be a nonzero essential boundary condition. As $n\_\text{sd} =2$, the first entry corresponds to the $x$ direction and the second with $y$.
 
 ### Node Information
 
-| Node Number | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: |
-| NTYP | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\g\end{matrix}\right}$ | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\g\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\g\end{matrix}\right}$ |
-| FG | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0.05\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0.05\end{matrix}$ | $\begin{matrix}0\0\end{matrix}$ | $\begin{matrix}0\0.05\end{matrix}$ |
+| Node Number |                       1                      |                       2                      |                       3                      |                       4                      |                       5                      |                       6                      |                       7                      |                       8                      |                       9                      |                      10                      |                      11                      |                      12                      | 13                                           |                      14                      |                      15                      |
+| :---------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------------------------: | -------------------------------------------- | :------------------------------------------: | :------------------------------------------: |
+|     NTYP    | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\g\end{matrix}\right}$ | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}n\n\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\g\end{matrix}\right}$ | $\left{\begin{matrix}f\f\end{matrix}\right}$ | $\left{\begin{matrix}f\g\end{matrix}\right}$ |
+|      FG     |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |      $\begin{matrix}0\0.05\end{matrix}$      |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       |        $\begin{matrix}0\0\end{matrix}$       | $\begin{matrix}0\0.05\end{matrix}$           |        $\begin{matrix}0\0\end{matrix}$       |      $\begin{matrix}0\0.05\end{matrix}$      |
 
 ### Element Information
 
-| Element Number | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Node Count | 6 | 4 | 3 | 3 | 4 | 4 | 4 | 4 |
+| Element Number  |                           1                           |                          2                         |                        3                        |                        4                        |                          5                          |                          6                          |                          7                         |                          8                          |
+| --------------- | :---------------------------------------------------: | :------------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------------: | :-------------------------------------------------: |
+| Node Count      |                           6                           |                          4                         |                        3                        |                        3                        |                          4                          |                          4                          |                          4                         |                          4                          |
 | Element/Node ID | $\left{\begin{matrix}7\5\14\2\1\4\end{matrix}\right}$ | $\left{\begin{matrix}10\14\5\7\end{matrix}\right}$ | $\left{\begin{matrix}8\10\7\end{matrix}\right}$ | $\left{\begin{matrix}9\10\7\end{matrix}\right}$ | $\left{\begin{matrix}11\12\10\9\end{matrix}\right}$ | $\left{\begin{matrix}12\6\14\10\end{matrix}\right}$ | $\left{\begin{matrix}3\13\6\12\end{matrix}\right}$ | $\left{\begin{matrix}15\3\12\11\end{matrix}\right}$ |
 
 #### Element 7
@@ -355,4 +355,3 @@ k_{12,3}&f_{12}&k_{12,13}&f_{12}&k_{3,6}&k_{3,7}&k_{3,12}&k_{3,14}\\
 k_{14,3}&f_{14}&k_{14,13}&f_3&k_{14,6}&k_{14,7}&k_{14,12}&k_{14,14}\\
 \end{bmatrix}
 $$
-

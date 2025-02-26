@@ -45,30 +45,6 @@ a+b+\rlap{\overbrace{\phantom{c+d+e+f+g}}^x}c+d
 
 
 
-&#x20;Normal or Gaussian Distribution&#x20;
-
-
-
-*
-
-$$
-f(x)=\frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{2}}
-$$
-
-
-
-[Logistic Distribution](https://en.wikipedia.org/wiki/Logistic\_distribution)
-
-$$
-\frac{e^{-(x-\mu) / s}}{s\left(1+e^{-(x-\mu) / s}\right)^{2}}
-$$
-
-[Logistic Function ](https://en.wikipedia.org/wiki/Logistic\_function)
-
-$$
-\frac{1}{1+e^{-(x-\mu) / s}}
-$$
-
 
 
 sample figures from [pgfplots](http://pgfplots.net/tikz/examples/)
@@ -81,7 +57,7 @@ Ottobib bibliography [generator](https://www.ottobib.com/) from isbn
 
 [tree generator](https://lautgesetz.com/latreex/)
 
-Geogebra can [make diagrams in tikz](https://www.overleaf.com/learn/latex/LaTeX\_Graphics\_using\_TikZ:\_A\_Tutorial\_for\_Beginners\_\(Part\_2\)%E2%80%94Generating\_TikZ\_Code\_from\_GeoGebra) but cant do it through its website, unfortunately&#x20;
+Geogebra can [make diagrams in tikz](https://www.overleaf.com/learn/latex/LaTeX_Graphics_using_TikZ:_A_Tutorial_for_Beginners_\(Part_2\)%E2%80%94Generating_TikZ_Code_from_GeoGebra) but cant do it through its website, unfortunately&#x20;
 
 latex prettifier kinda like lint
 

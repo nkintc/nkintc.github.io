@@ -4,9 +4,9 @@
 
 **Prompt:** Derive the following expressions:
 
-* Boundary Layer Height: $\delta\(x\)=\left\[\frac{4 x k_{l}\left\(T_{s a t}-T_{w}\right\) v_{l}}{h_{f g} g\left\(\rho_{l}-\rho\_{v}\right\)}\right\]^{1 / 4}$
-* Heat Transfer Coefficient: $h\(x\)=\left\[\frac{h_{f g} g\left\(\rho_{l}-\rho_{v}\right\) k_{l}^{3}}{4 x\left\(T_{s a t}-T_{w}\right\) v\_{l}}\right\]^{1 / 4}$ 
-* Average Heat Transfer Coefficient: $\overline{h}_{L}=0.943\left\[\frac{h_{f \beta} g\left\(\rho_{l}-\rho_{v}\right\) k_{l}^{3}}{L\left\(T_{s a t}-T_{w}\right\) v_{l}}\right\]^{1 / 4}$
+* Boundary Layer Height: $\delta(x)=\left\[\frac{4 x &#x6B;_{l}\left(T_{s a t}-&#x54;_{w}\right) v_{l\}}{&#x68;_{f g} g\left(\rho_{l}-\rho\_{v}\right)}\right]^{1 / 4}$
+* Heat Transfer Coefficient: $h(x)=\left\[\frac{&#x68;_{f g} g\left(\rho_{l}-\rh&#x6F;_{v}\right) k_{l}^{3\}}{4 x\left(&#x54;_{s a t}-T_{w}\right) v\_{l\}}\right]^{1 / 4}$&#x20;
+* Average Heat Transfer Coefficient: $\overline{h}_{L}=0.943\left\[\frac{h_{f \beta} g\left(\rh&#x6F;_{l}-\rho_{v}\right) &#x6B;_{l}^{3\}}{L\left(T_{s a t}-&#x54;_{w}\right) v_{l\}}\right]^{1 / 4}$
 
 ## Solution
 
@@ -82,7 +82,7 @@ $$
 \end{align}
 $$
 
-Integrate and conduct algebra for expression, where $h_{fg}’ = h_{fg} + \frac 3 8 c \Delta T$ for boundary layer height:
+Integrate and conduct algebra for expression, where $&#x68;_{fg}’ = h_{fg} + \frac 3 8 c \Delta T$ for boundary layer height:
 
 $$
 \begin{align}
@@ -93,7 +93,7 @@ $$
 \end{align}
 $$
 
-**Part c:** Obtain Heat transfer coefficient \(HTC\), by using the two definitional expressions for $h$, Newton’s Law of Convection and equating the heat flux at the surface for conduction and convection
+**Part c:** Obtain Heat transfer coefficient (HTC), by using the two definitional expressions for $h$, Newton’s Law of Convection and equating the heat flux at the surface for conduction and convection
 
 $$
 \label{eqn:htc}
@@ -114,4 +114,3 @@ h_{avg}&=\frac{1}{L} \int_{0}^{L} h d x =\frac{1}{L} \int_{0}^{L} \left(\sqrt[4]
 & \boxed{h_{a v g}=0.943 \sqrt[4]{\frac{g \rho_{l i q}\left(\rho_{l i q}-\rho_{v}\right) k_{l i q}^{3} h_{f g}}{L \mu_{l i q}\left(T_{s a t}-T_{w}\right)} \sin \phi}}
 \end{align}
 $$
-

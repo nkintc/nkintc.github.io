@@ -10,7 +10,7 @@ description: >-
 
 {% tabs %}
 {% tab title="1" %}
-{% file src="../../../.gitbook/assets/mane.6520.lecture.1.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.lecture.1.pdf" %}
 Fluids Lecture Notes 1
 {% endfile %}
 
@@ -52,7 +52,7 @@ specific volume $ v = 1/\rho$
 {% endtab %}
 
 {% tab title="2" %}
-{% file src="../../../.gitbook/assets/mane.6520.lecture.2.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.lecture.2.pdf" %}
 Fluids Lecture Notes 2
 {% endfile %}
 
@@ -70,7 +70,7 @@ Fluids Lecture Notes 2
 
 **Temperature:** a measure of the molecular average of the kinetic energy of the particles in a fluid (typically gas). Related by Boltzmann's Constant.&#x20;
 
-_**Specific**_** Version of an Extensive Quantity**: is the density normalized version of some measure which otherwise would scale with volume of a fluid.&#x20;
+_**Specific**_**&#x20;Version of an Extensive Quantity**: is the density normalized version of some measure which otherwise would scale with volume of a fluid.&#x20;
 
 Specific Internal Energy: (how do I even explain this)
 
@@ -167,7 +167,7 @@ Specific properties
 
 * internal energy :$du = c\_vdT - \[T(\frac{\partial p}{\partial T}-p)]\frac{d\rho}{\rho^2}$
 * enthalpy: $h = u + \frac{P}{\rho}$ or $dh=du+d(p/\rho)$
-* entropy: $Tds = c_VdT - (\frac{\partial P}{\partial T})_{cost. \rho}\frac{d\rho}{\rho^2}$ leads to $Tds = dh - \frac{d\rho}{\rho}$ or the gibbs eqn
+* entropy: $Tds = &#x63;_&#x56;dT - (\frac{\partial P}{\partial T})_{cost. \rho}\frac{d\rho}{\rho^2}$ leads to $Tds = dh - \frac{d\rho}{\rho}$ or the gibbs eqn
 
 simple compressible fluid: any two properties define the rest $P = f(\rho,T)$ but that is not the only choice. Just need to link the fluid to the critical point
 
@@ -204,7 +204,7 @@ def: $p = \frac { R T } { V _{ m } - b } - \frac { a } { \sqrt { T } V_ { m } \l
 {% tab title="3" %}
 tab 3 as
 
-{% file src="../../../.gitbook/assets/mane.6520.lecture.3.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.lecture.3.pdf" %}
 Fluids Lecture Notes 3
 {% endfile %}
 
@@ -254,7 +254,7 @@ Here with tensors or order 1 or greater, operations are not commuitive, directio
     ${\bf c} = {\bf a} \pm {\bf n} = (a\_i + b\_i){\bf e}\_i$
 * multiplication is a measure of orthogonality of two vectors
   * dot inner product : c is now a scalar $c = {\bf a\cdot b} =a\_i \space b\_i$
-  * cross outer product: c is of the same rank $\bf c = a\times b$ or $c_i = \epsilon_{ijk}a\_jb\_k$&#x20;
+  * cross outer product: c is of the same rank $\bf c = a\times b$ or $&#x63;_&#x69; = \epsilon_{ijk}a\_jb\_k$&#x20;
   *
   *
 
@@ -270,7 +270,7 @@ $\textcolor{red}{fucked up }$
 {% tab title="4" %}
 tab 4
 
-{% file src="../../../.gitbook/assets/mane.6520.lecture.4.pdf" %}
+{% file src="../../../../.gitbook/assets/mane.6520.lecture.4.pdf" %}
 Fluids Notes Lecture 4
 {% endfile %}
 
@@ -401,7 +401,7 @@ Following Fluid Element
 
 Reynolds Transport theory
 
-let $F_{II} = \int_\text{vol} \rho f d\text{vol}$ where $f$ is the normalized $F$ per unit mass
+let $&#x46;_{II} = \int_\text{vol} \rho f d\text{vol}$ where $f$ is the normalized $F$ per unit mass
 
 * $f = 1 $, then $F\_{II} \rightarrow \text{mass in volume at }t $
 * $f = {\bf V} $, then $F\_{II} \rightarrow \text{momentum in volume at }t $
@@ -972,7 +972,7 @@ $$
 
 Generally T is const $T(z) = \text{const}= 216.6 \text{ K.}$
 
-Stratosphere $1.1\times 10^{4}\<z<2.5\times 10^{4}$ where $z_\text{bot} = 1.1\times 10^{4}$, $\ln (\frac{p}{p_\text{bot\}})=\frac{-g}{RT}(z-z\_\text{bot})$ is solved straightforward
+Stratosphere $1.1\times 10^{4}\<z<2.5\times 10^{4}$ where $&#x7A;_\text{bot} = 1.1\times 10^{4}$, $\ln (\frac{p}{p_\text{bot\}})=\frac{-g}{RT}(z-z\_\text{bot})$ is solved straightforward
 
 $$
 p=p_{11,000} \exp \left(\frac{-g}{R T}(z-z_\text{bot})\right)
@@ -980,17 +980,17 @@ $$
 
 Focus on liquids where incompressible have $\rho = \text{const}$. for low $\text{Ma}$. of gases and most liquids. Use integral equation of property balance for fixed volume
 
-$\underline{\text{mass:\}} \int_{\text{vol\}} \frac{\partial}{\partial t}d\text{Vol} + \int_\text{surf} \rho {\bf V}\cdot {\bf n}dS=0$ where usually $\int\_\text{surf} {\bf V}\cdot {\bf n}dS=0$
+$\underline{\text{mass:\}} \in&#x74;_{\text{vol\}} \frac{\partial}{\partial t}d\text{Vol} + \int_\text{surf} \rho {\bf V}\cdot {\bf n}dS=0$ where usually $\int\_\text{surf} {\bf V}\cdot {\bf n}dS=0$
 
-$\underline{momentum}$aaaaayyy $\int_\text{vol}\frac{\partial}{\partial t}(\rho{\bf V})d\text{vol} + \int \rho {\bf V}({\bf V}\cdot {\bf n})dS = \int_\text{vol} \rho {\bf B} d\text{vol} - \int_\text{surf} p {\bf n} dS + \int_\text{surf} \underline{\tau} dS $
+$\underline{momentum}$aaaaayyy $\in&#x74;_\text{vol}\frac{\partial}{\partial t}(\rho{\bf V})d\text{vol} + \int \rho {\bf V}({\bf V}\cdot {\bf n})dS = \int_\text{vol} \rho {\bf B} d\text{vol} - \in&#x74;_\text{surf} p {\bf n} dS + \int_\text{surf} \underline{\tau} dS $
 
 or
 
-$\cancelto{0}{\int_\text{vol}\frac{\partial}{\partial t}(\rho{\bf V})d\text{vol} }+ \int \rho {\bf V}({\bf V}\cdot {\bf n})dS = \int_\text{vol} \rho {\bf B} d\text{vol} - \int_\text{surf} p {\bf n} dS + \int_\text{surf} \underline{\tau} dS \\\textcolor{red}{\text{i can’t deal with these notes… impossible to transcribe\}}$
+$\cancelto{0}{\in&#x74;_\text{vol}\frac{\partial}{\partial t}(\rho{\bf V})d\text{vol} }+ \int \rho {\bf V}({\bf V}\cdot {\bf n})dS = \int_\text{vol} \rho {\bf B} d\text{vol} - \in&#x74;_\text{surf} p {\bf n} dS + \int_\text{surf} \underline{\tau} dS \\\textcolor{red}{\text{i can’t deal with these notes… impossible to transcribe\}}$
 
 > Ya know, I'm not mathematician here, but even I can see a common denominator ...
 >
-> from `u/Synli` on this [post](https://www.reddit.com/r/AskReddit/comments/dkjimg/what\_screams\_im\_very\_insecure/f4go5yh?utm\_source=share\&utm\_medium=web2x)
+> from `u/Synli` on this [post](https://www.reddit.com/r/AskReddit/comments/dkjimg/what_screams_im_very_insecure/f4go5yh?utm_source=share\&utm_medium=web2x)
 
 ### unsorted
 
@@ -1138,7 +1138,7 @@ At greater, the BL is unstable and establishes a turbulent state
 
 Across an inclined surface, the boundary layer height is much smaller than the length across the surface&#x20;
 
-[Falkner-Skan Boundary Layer](https://en.wikipedia.org/wiki/Falkner%E2%80%93Skan\_boundary\_layer)
+[Falkner-Skan Boundary Layer](https://en.wikipedia.org/wiki/Falkner%E2%80%93Skan_boundary_layer)
 
 Experimental conditions to mimic solution on a real airfoil.&#x20;
 {% endtab %}

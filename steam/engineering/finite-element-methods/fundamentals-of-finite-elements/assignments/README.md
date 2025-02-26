@@ -2,9 +2,9 @@
 
 ## Test 1 Study Guide
 
-use maniatty nomenclature for vector and tensor spaces \(lowercase bold for vector, capital bold for 2+\)
+use maniatty nomenclature for vector and tensor spaces (lowercase bold for vector, capital bold for 2+)
 
-$\textcolor{red}{\texttt{this shit is fucked up}}$
+$\textcolor{red}{\texttt{this shit is fucked up\}}$
 
 ### Notation
 
@@ -25,11 +25,11 @@ $$
 
 symmetric and bilinear in each slot
 
-symmetric $\begin{aligned} a\(u, v\) &=a\(v, u\) \\(u, v\) &=\(v, u\) \end{aligned}$
+symmetric $\begin{aligned} a(u, v) &=a(v, u) \\(u, v) &=(v, u) \end{aligned}$
 
-bilinear $\left\(c_{1} u+c_{2} v, w\right\)=c_{1}\(u, w\)+c_{2}\(v, w\)$
+bilinear $\left(&#x63;_{1} u+c_{2} v, w\right)=&#x63;_{1}(u, w)+c_{2}(v, w)$
 
-\[TOC\]
+\[TOC]
 
 how the fuck am I going to study for this test?
 
@@ -51,11 +51,11 @@ i. variational weak form
 
 ii. approximate solution to new weakened pde using finite element functions
 
-Start with an ODE $u\_{, x x}+f=0$ mapped onto the unit interval $f : \[0,1\] \rightarrow \mathbb{R}$ where \[0,1\] is the **domain**
+Start with an ODE $u\_{, x x}+f=0$ mapped onto the unit interval $f : \[0,1] \rightarrow \mathbb{R}$ where \[0,1] is the **domain**
 
 #### Strong Form
 
-solution to strong form $u\(x\)=q+\(1-x\) h+\int_{x}^{1}\left{\int_{0}^{y} \ell\(z\) d z\right} d y$
+solution to strong form $u(x)=q+(1-x) h+\in&#x74;_{x}^{1}\left{\int_{0}^{y} \ell(z) d z\right} d y$
 
 dummy variables not really represent directional stuff
 
@@ -65,11 +65,11 @@ we can weaken this with method of weighted residuals
 
 let u be a trial function we need n derivatives so the nth derivative has a nice quality
 
-**square integrable**:$\int_{0}^{1}\left\(u_{, x}\right\)^{2} d x&lt;\infty$ or $\mathcal{H}^1$
+**square integrable**:$\in&#x74;_{0}^{1}\left(u_{, x}\right)^{2} d x<\infty$ or $\mathcal{H}^1$
 
-all those that work make the collection $\delta = \left{u \| u \in H^1, u\(1\)=g\right}$ where g is a is a nonzero essential boundary condition
+all those that work make the collection $\delta = \left{u | u \in H^1, u(1)=g\right}$ where g is a is a nonzero essential boundary condition
 
-the other is the weighing function space $\mathcal{V} = \left{w \| w \in H^{1}, w\(1\)=0\right}$
+the other is the weighing function space $\mathcal{V} = \left{w | w \in H^{1}, w(1)=0\right}$
 
 $$
 \text{weak form} = 
@@ -97,9 +97,9 @@ $$
 
 write variational weak form
 
-$a\left\(w^{h}, u^{h}\right\)=\left\(w^{h}, \ell\right\)+w^{h}\(0\) h$
+$a\left(w^{h}, u^{h}\right)=\left(w^{h}, \ell\right)+w^{h}(0) h$
 
-$a\left\(w^{h}, v^{h}\right\)=\(w^{h},f\)+w^{h}\(0\) k-a\left\(w^{h}, q^{h}\right\)$
+$a\left(w^{h}, v^{h}\right)=(w^{h},f)+w^{h}(0) k-a\left(w^{h}, q^{h}\right)$
 
 **Bubnov Galerkin**
 
@@ -109,35 +109,36 @@ Petrov galerkin is when the weigh function is not of the homogenous variety?
 
 ### Intro-to-1D-second-order-pde.pdf
 
-1D ODE $\left\(\kappa u_{, x}\right\)_{, x}+f=0 \text { in } \Omega$
+1D ODE $\left(\kappa &#x75;_{, x}\right)_{, x}+f=0 \text { in } \Omega$
 
 $$
 x \in [a,b]\space f\in \mathbb{R}, \kappa \in \mathbb{R}^+
 $$
 
-$u$ dependent variable $f$ forcing function $\kappa$ material parameter $\Omega$ domain. Material is dependent but set to 1 in textbook for constants $\left\(\kappa u_{x}\right\)_{, x}=\kappa u\_{x x}=\kappa \frac{d^{2} u}{d x^{2}}$
+$u$ dependent variable $f$ forcing function $\kappa$ material parameter $\Omega$ domain. Material is dependent but set to 1 in textbook for constants $\left(\kappa &#x75;_{x}\right)_{, x}=\kappa u\_{x x}=\kappa \frac{d^{2} u}{d x^{2\}}$
 
-* no boundary: $\Omega=\] a, b\[, a&lt;x&lt;b$
-* closure includes boundary: $\bar{\Omega}=\[a, b\], a \leq x \leq b$
-* 
+* no boundary: $\Omega=] a, b\[, a\<x\<b$
+* closure includes boundary: $\bar{\Omega}=\[a, b], a \leq x \leq b$
+*
+
 #### Positive Definite
 
-definition: matrix $\bf A$ is positive definite if $\bf c \cdot A \cdot c \geq 0 \space \forall \space c$ $\bf c \cdot A \cdot c = 0 \space \|\space c = 0$ .
+definition: matrix $\bf A$ is positive definite if $\bf c \cdot A \cdot c \geq 0 \space \forall \space c$ $\bf c \cdot A \cdot c = 0 \space |\space c = 0$ .
 
 properties:
 
-* unique inverse 
+* unique inverse&#x20;
 * eigenvalues $\mathbb{R}^+$
 
 #### Vector Space Definitions
 
 Weight space
 
-$\delta^h \in \delta \subset {w\| w\in \mathcal{H}^n, w\|\_{\Gamma\_g} =0} $
+$\delta^h \in \delta \subset {w| w\in \mathcal{H}^n, w|\_{\Gamma\_g} =0} $
 
 Trial space
 
-$\mathcal{V}^h \in \delta \subset {w\| w\in \mathcal{H}^n, w\|\_{\Gamma\_g} =0} $
+$\mathcal{V}^h \in \delta \subset {w| w\in \mathcal{H}^n, w|\_{\Gamma\_g} =0} $
 
 whatchamacallit space
 
@@ -157,7 +158,7 @@ u \in H^{1} \text { if } \int_{\Omega}
 d \Omega<\infty
 $$
 
-remember that our stiffness matrix is found by the energy inner product, so that $\int_{0}^{1} w_{, x} \kappa u\_{, x} d x$. This is well behaved if the function is square integrable on $H$.
+remember that our stiffness matrix is found by the energy inner product, so that $\in&#x74;_{0}^{1} w_{, x} \kappa u\_{, x} d x$. This is well behaved if the function is square integrable on $H$.
 
 #### Stiffness Matrix Positive Definite
 
@@ -219,64 +220,64 @@ $$
 
 #### Interpolating Shape Functions ${\bf N}\_a \text{a}$
 
-${\bf N}\_a\(x\)$ in the 1D case, but $\bf x =  = $ are the more general versions
+${\bf N}\_a(x)$ in the 1D case, but $\bf x =  = $ are the more general versions
 
 **Decomposition of Trial Space**: ${\bf u}^h = {\bf v}^h + {\bf g}^h$
 
 ### Appendix4.I.1.pdf
 
 * Linear space: a collection of objects that satisfy the following: If u and v are members of a linear space and α and β are scalars, then αu + βv is also a member of that linear space.
-* addition is component wise 
+* addition is component wise&#x20;
 
 $$
 \begin{array}{l}{\vec{u}+\vec{v}=\left(u_{1}, u_{2}, u_{3}, \dots u_{n}\right)+\left(v_{1}, v_{2}, v_{3}, \dots v_{n}\right)=} \\ {\left(u_{1}+v_{1}, u_{2}+v_{2}, u_{3}+v_{3}, \dots u_{n}+v_{n}\right)}\end{array}
 $$
 
-* scalar multiplication is distributed
+*   scalar multiplication is distributed
 
-  $$
-  \alpha \vec{u}=\left(\alpha u_{1}, \alpha u_{2}, \alpha u_{3}, \dots \alpha u_{n}\right)
-  $$
+    $$
+    \alpha \vec{u}=\left(\alpha u_{1}, \alpha u_{2}, \alpha u_{3}, \dots \alpha u_{n}\right)
+    $$
+*
 
-* 
 $$
 \alpha \vec{u}+\beta \vec{v}=\left(\alpha u_{1}+\beta v_{1}, \alpha u_{2}+\beta v_{2}, \alpha u_{3}+\beta v_{3}, \dots \alpha u_{n}+\beta v_{n}\right)
 $$
 
-> Linear spaces have very nice properties that make it easy for us to “prove” things will behave the way we would like. Thus we want to be sure to know when the contributions to our FE weak forms are members of linear spaces. \(For this class they will be, as you get to more complex problems they may not be, then things you have to figure out what you can use. Key linear space properties we like to employ are inner products \(like our integrals to be inner products\) and norms \(which will represent a measure of size\).
+> Linear spaces have very nice properties that make it easy for us to “prove” things will behave the way we would like. Thus we want to be sure to know when the contributions to our FE weak forms are members of linear spaces. (For this class they will be, as you get to more complex problems they may not be, then things you have to figure out what you can use. Key linear space properties we like to employ are inner products (like our integrals to be inner products) and norms (which will represent a measure of size).
 
-* Inner product
+*   Inner product
 
-  $$
-  \begin{array}{l}{\text { Definition: An inner product }\langle\cdot, \bullet\rangle \text { on a real linear }} \\ {\text { space } A \text { is a map }\langle\cdot ; A \times A \rightarrow \Re \text { with the following }} \\ {\text { properties: }} \\ {\text { i) }\langle u, v\rangle=\langle v, u\rangle \text { (symmetry) }} \\ {\text { ii) }\langle\alpha u, v\rangle=\alpha\langle u, v\rangle} \\ {\text { iii) }\langle\alpha u, v\rangle=\langle u, w\rangle+\langle v, w\rangle \quad \text { (ii) and iii) are linearity) }} \\ {\text { iv) }\langle u, u\rangle \geq 0 \text { and }\langle u, u\rangle= 0 \text { if and only if } u=0} \\ {\text { (positive definiteness) }}\end{array}
-  $$
-
-  * Note
-  * $$
-    \begin{array}{l}{\text { Definition: Let }\{A,\langle\cdot\rangle\} \text { be an inner produce space }} \\ {\text { (i.e., a linear space } A \text { with and inner product } \notin, \text { ' }} \\ {\text { defined on } A \text { . Then } u, v \in A \text { are said to be orthogonal }} \\ {\text { (with respect to }\langle\cdot \cdot\rangle) \text { if }\langle u, v\rangle= 0}\end{array}
+    $$
+    \begin{array}{l}{\text { Definition: An inner product }\langle\cdot, \bullet\rangle \text { on a real linear }} \\ {\text { space } A \text { is a map }\langle\cdot ; A \times A \rightarrow \Re \text { with the following }} \\ {\text { properties: }} \\ {\text { i) }\langle u, v\rangle=\langle v, u\rangle \text { (symmetry) }} \\ {\text { ii) }\langle\alpha u, v\rangle=\alpha\langle u, v\rangle} \\ {\text { iii) }\langle\alpha u, v\rangle=\langle u, w\rangle+\langle v, w\rangle \quad \text { (ii) and iii) are linearity) }} \\ {\text { iv) }\langle u, u\rangle \geq 0 \text { and }\langle u, u\rangle= 0 \text { if and only if } u=0} \\ {\text { (positive definiteness) }}\end{array}
     $$
 
-* 
+    * Note
+    * $$
+      \begin{array}{l}{\text { Definition: Let }\{A,\langle\cdot\rangle\} \text { be an inner produce space }} \\ {\text { (i.e., a linear space } A \text { with and inner product } \notin, \text { ' }} \\ {\text { defined on } A \text { . Then } u, v \in A \text { are said to be orthogonal }} \\ {\text { (with respect to }\langle\cdot \cdot\rangle) \text { if }\langle u, v\rangle= 0}\end{array}
+      $$
+*
+
 $$
 \langle u, v\rangle^{2} \leq\langle u, u\rangle\langle v, v\rangle
 $$
 
 * Norm on linear space is an operator with properties
   * SemiNorm is positive semidefinite: where the inner product with itself returns 0
-  * Natural norm or a true norm $\|u\|=\langle u, u\rangle^{1 / 2}$
-* Sobolev Inner Product and Norm
+  * Natural norm or a true norm $|u|=\langle u, u\rangle^{1 / 2}$
+*   Sobolev Inner Product and Norm
 
-  $$
-  \begin{array}{l}{\text { Consider a domain } \Omega \subset \Re^{n_{\mu}}, n_{s_{d}} \geq 1 \text { (will be the spatial }} \\ {\text { dimension }-1 D, 2 D, 3 D), \text { and let } u, v : \Omega \rightarrow \Re}\end{array}
+    $$
+    \begin{array}{l}{\text { Consider a domain } \Omega \subset \Re^{n_{\mu}}, n_{s_{d}} \geq 1 \text { (will be the spatial }} \\ {\text { dimension }-1 D, 2 D, 3 D), \text { and let } u, v : \Omega \rightarrow \Re}\end{array}
 
-  \\
+    \\
 
-  \begin{array}{l}{\left.\text { The } L_{2}(\Omega) \text { (or equivalently } H^{o}(\Omega)\right) \text { inner product and }} \\ {\text { norm are defined by }} \\ {(u, v)=(u, v)_{0}=\int_{\Omega} u v d \Omega} \\ {\|u\|=(u, u)^{1 / 2}}\end{array}
+    \begin{array}{l}{\left.\text { The } L_{2}(\Omega) \text { (or equivalently } H^{o}(\Omega)\right) \text { inner product and }} \\ {\text { norm are defined by }} \\ {(u, v)=(u, v)_{0}=\int_{\Omega} u v d \Omega} \\ {\|u\|=(u, u)^{1 / 2}}\end{array}
 
-  \\
+    \\
 
-  \begin{array}{l}{\text { The } H^{1}(\Omega) \text { inner product and norm are defined by }} \\ {(u, v)_{1}=\int_{\Omega}\left(u v+u_{, i} v_{, i}\right) d \Omega\left(\operatorname{sum} 1 \leq i \leq n_{s d}\right)} \\ {\|u\|=(u, u)_{1}^{1 / 2}}\end{array}
-  $$
+    \begin{array}{l}{\text { The } H^{1}(\Omega) \text { inner product and norm are defined by }} \\ {(u, v)_{1}=\int_{\Omega}\left(u v+u_{, i} v_{, i}\right) d \Omega\left(\operatorname{sum} 1 \leq i \leq n_{s d}\right)} \\ {\|u\|=(u, u)_{1}^{1 / 2}}\end{array}
+    $$
 
 Note on Notation: follow index rules
 
@@ -286,15 +287,15 @@ $$
 \begin{array}{c}{u \in H^{0} \text { if } \int_{\Omega} u^{2} d \Omega<\infty} \\ {u \in H^{1} \text { if } \int_{\Omega}\left(u u+u_{, i} u_{, i}\right) d \Omega<\infty}\end{array}
 $$
 
-Recall that $f : \Omega \rightarrow \mathfrak{R}, \kappa \in \mathfrak{R}$$$
+Recall that $f : \Omega \rightarrow \mathfrak{R}, \kappa \in \mathfrak{R}\$$$
 
-$\int_{0}^{1} w_{, x} \kappa u\_{, x} d x$it is clear that it will be well behaved for u and w in H1
+$\in&#x74;_{0}^{1} w_{, x} \kappa u\_{, x} d x$it is clear that it will be well behaved for u and w in H1
 
-we want weighting function to be in the space $V=\left{w\left\|w \in H^{1}, w\right\|_{\Gamma_{g}}=0\right}$
+we want weighting function to be in the space $V=\left{w\left|w \in H^{1}, w\right|_{\Gamma_{g\}}=0\right}$
 
 which is the set of functions where the weight on the closure of the set is 0
 
-trial space is similar but not homogenous bc $\boldsymbol{\delta}=\left{u\left\|u \in H^{1}, u\right\|_{\Gamma_{s}}=g\right}$
+trial space is similar but not homogenous bc $\boldsymbol{\delta}=\left{u\left|u \in H^{1}, u\right|_{\Gamma_{s\}}=g\right}$
 
 $$
 \begin{array}{l}{\text { Given had } f : \overline{\Omega} \rightarrow \Re, \kappa \in \Re, \kappa>0, \text { and constants } g} \\ {\text { and } h, \text { find } u \in \delta \text { such that for all } w \in V} \\ {\qquad a(w, u)=(w, f)+(w, h)_{\Gamma}} \\ {\text { for the problem we have thus far we have: }} \\ {a(w, u)=\int_{0}^{1} w_{x} \kappa u_{x} d x} \\ {(w, f)=\int_{0}^{1} w f d x} \\ {(w, h)_{\Gamma}=w(0) h} \\ {\text { We can check the symmetry and bilinearity of the }} \\ {a(w, u) \text { and }(w, f)}\end{array}
@@ -302,7 +303,7 @@ $$
 
 ### Equivalence of S and W.pdf
 
-This shows how that the strong and weak forms are the same thing: all that separates the two is the application of $\textcolor{red}{\texttt{INTEGRATION BY PARTS}}$.
+This shows how that the strong and weak forms are the same thing: all that separates the two is the application of $\textcolor{red}{\texttt{INTEGRATION BY PARTS\}}$.
 
 #### how did we get here
 
@@ -310,7 +311,7 @@ This shows how that the strong and weak forms are the same thing: all that separ
 
 **Strong solution satisfies the weak**
 
-We have a solution to the strong form $u_{, x x}+f=0 \text { in } \Omega$, where $u\(1\) = g$ and $-u_\(0\) = h$ and we want to show that this also holds over an interval
+We have a solution to the strong form $&#x75;_{, x x}+f=0 \text { in } \Omega$, where $u(1) = g$ and $-u_(0) = h$ and we want to show that this also holds over an interval
 
 $$
 u_{x x}+f=0 \text { in } \Omega 
@@ -328,7 +329,7 @@ $$
 \int_{0}^{1} w_{, x} u_{x} d x-\int_{0}^{1} w f d x-\left.w u_{x}\right|_{0} ^{1}=0 \forall w \in V
 $$
 
-apply the boundary conditions where $w\(1\)=0\(w \in V\), \text { and }-u\_{, x}\(0\)=h$
+apply the boundary conditions where $w(1)=0(w \in V), \text { and }-u\_{, x}(0)=h$
 
 $$
 \int_{0}^{1} w_{, x} u_{, x} d x=\int_{0}^{1} w f d x+w(0) h \quad \forall w \in V
@@ -348,7 +349,7 @@ $$
 \int_{0}^{1} w\left(u_{, x x}+f\right) d x-\left.w u_{, x}\right|_{0} ^{1}+w(0) h=0 \quad \forall w \in V
 $$
 
-and again apply boundary conditions $w\(1\)=0\(w \in V\)$
+and again apply boundary conditions $w(1)=0(w \in V)$
 
 $$
 \int_{0}^{1} w\left(u_{x x}+f\right) d x+w(0)\left(u_{x}(0)+h\right)=0 \forall w \in V \in q . A
@@ -380,7 +381,7 @@ $$
 
 by positive definiteness, this is only possible if $u 1-u 2=0 \text { or } u 1=u 2$.
 
-this is all inservice to show that this is as good as it is going to get and the finite dimensional denoted with superscript $\(\cdot\)^h$.
+this is all inservice to show that this is as good as it is going to get and the finite dimensional denoted with superscript $(\cdot)^h$.
 
 **Finite Dimensional Subspace**
 
@@ -394,7 +395,7 @@ $$
 u^{h}=v^{h}+g^{h} \text { where } v^{h} \in V^{h} \text { and } g^{h} \in \delta^{h}
 $$
 
-Use interpolating shape functions so that $w^{h}=C_{A} N_{A}=\sum_{A=1}^{n} C_{A} N_{A}=C_{1} N_{1}+C_{2} N_{2}+C_{3} N_{3}+\ldots+C_{n} N\_{n}$
+Use interpolating shape functions so that $w^{h}=&#x43;_{A} N_{A}=\su&#x6D;_{A=1}^{n} C_{A} &#x4E;_{A}=C_{1} &#x4E;_{1}+C_{2} &#x4E;_{2}+C_{3} &#x4E;_{3}+\ldots+C_{n} N\_{n}$
 
 so in terms of essential BC in nonzero and homogenous parts
 
@@ -402,7 +403,7 @@ $$
 u^{h}=v^{h}+g^{h}=\sum_{A=1}^{n} d_{A} N_{A}+\sum_{B=n+1}^{n+m} g_{B} N_{B}
 $$
 
-This is the abstract form $a\(w,\(v+g\)\)=a\(w, v\)+a\(w, g\)$ so that
+This is the abstract form $a(w,(v+g))=a(w, v)+a(w, g)$ so that
 
 $$
 a(w, v)=(w, f)+(w, h)_{\Gamma}-a(w, g)
@@ -416,7 +417,7 @@ a\left(\sum_{A=1}^{n} C_{A} N_{A}, \sum_{B=1}^{n} d_{B} N_{B}\right)=\left(\sum_
 -a\left(\sum_{A=1}^{n} C_{A} N_{A}, \sum_{B=n+1}^{n+m} g_{B} N_{B}\right)
 $$
 
-where the summation can be pulled out $a\left\(\sum_{A=1}^{n} w_{A}, v\right\)=\sum_{A=1}^{n} a\left\(w_{A}, v\right\)$ and $a\left\(\sum_{A=1}^{n} w_{A}, \sum_{B=1}^{m} v_{B}\right\)=\sum_{A=1}^{n} \sum_{B=1}^{m} a\left\(w_{A}, v_{B}\right\)$ so that
+where the summation can be pulled out $a\left(\su&#x6D;_{A=1}^{n} w_{A}, v\right)=\su&#x6D;_{A=1}^{n} a\left(w_{A}, v\right)$ and $a\left(\su&#x6D;_{A=1}^{n} w_{A}, \su&#x6D;_{B=1}^{m} v_{B}\right)=\su&#x6D;_{A=1}^{n} \sum_{B=1}^{m} a\left(&#x77;_{A}, v_{B}\right)$ so that
 
 $$
 \sum_{A=1}^{n} \sum_{B=1}^{n} a\left(C_{A} N_{A}, d_{B} N_{B}\right)=\sum_{A=1}^{n}\left(C_{A} N_{A}, f\right)+\sum_{A=1}^{n}\left(C_{A} N_{A}, h\right)_{\Gamma}
@@ -439,13 +440,13 @@ $$
 \sum_{B=1}^{n} a\left(N_{A}, N_{B}\right) d_{B}=\left(N_{A}, f\right)+\left(N_{A}, h\right)_{\Gamma}-\sum_{B=n+1}^{n+m} a\left(N_{A}, N_{B}\right) g_{B}
 $$
 
-This defines the stiffness matrix $K_{A B}=a\left\(N_{A}, N_{B}\right\)$ where the RHS is the forcing function $F_{A}=\left\(N_{A}, f\right\)+\left\(N_{A}, h\right\)_{\Gamma}-\sum_{B=n+1}^{n+m} a\left\(N_{A}, N_{B}\right\) g_{B}$. Where n square matrix equation is $\[K\]_{n x n}{d}_{n x 1}={F}_{n x 1}$.
+This defines the stiffness matrix $&#x4B;_{A B}=a\left(N_{A}, &#x4E;_{B}\right)$ where the RHS is the forcing function $F_{A}=\left(&#x4E;_{A}, f\right)+\left(N_{A}, h\right)_{\Gamma}-\sum_{B=n+1}^{n+m} a\left(&#x4E;_{A}, N_{B}\right) &#x67;_{B}$. Where n square matrix equation is $\[K]_{n x n}{d}_{n x 1}={F}_{n x 1}$.
 
 ### 1-2DOF-example.pdf
 
 ### MWR.pdf
 
-Lets state the generic form of the problem $\textcolor{red}{\texttt{probs need to move this up to match overage order}}$
+Lets state the generic form of the problem $\textcolor{red}{\texttt{probs need to move this up to match overage order\}}$
 
 Given: $f: \Omega \rightarrow \mathbb{R}$ and known $g\_i$
 
@@ -453,17 +454,17 @@ Find: $u:\overline{\Omega} \rightarrow \mathbb{R}$
 
 approach
 
-Let $D^j$ and $B^j$ be differential operators of order $m$, and $\Gamma_i$ are appropriate portions of the boundary $\Gamma$. At every point of the boundary, then there $m$ boundary conditions, corresponding to the $m$ directions, or $n_{sd},$ spatial dimensions. In the 2D case of beam bending.
+Let $D^j$ and $B^j$ be differential operators of order $m$, and $\Gamm&#x61;_&#x69;$ are appropriate portions of the boundary $\Gamma$. At every point of the boundary, then there $m$ boundary conditions, corresponding to the $m$ directions, or $n_{sd},$ spatial dimensions. In the 2D case of beam bending.
 
 Given: $f: \Omega \rightarrow \mathbb{R}$ with constants $g\_i,h\_i$, where $i={1,2}$.
 
 Find: $u:\overline{\Omega}\rightarrow \mathbb{R} $
 
 * such that $E I u\_{x x x x}-f=0 \text { on } \Omega$
-* $\left.u\right\|_{\Gamma_{u}}=g\_{1}$ displacement BC
-* $\left.u_{,x}\right\|_{\Gamma_{\theta}}=g_{1}$ rotation BC
-* $\left.EIu_{,xx}\right\|_{\Gamma_{M}}=h_{1}$ moment BC
-* $\left.EIu_{,xxx}\right\|_{\Gamma_{Q}}=h_{2}$ shear BC
+* $\left.u\right|_{\Gamma_{u\}}=g\_{1}$ displacement BC
+* $\left.&#x75;_{,x}\right|_{\Gamm&#x61;_{\theta\}}=g_{1}$ rotation BC
+* $\left.EI&#x75;_{,xx}\right|_{\Gamm&#x61;_{M\}}=h_{1}$ moment BC
+* $\left.EI&#x75;_{,xxx}\right|_{\Gamm&#x61;_{Q\}}=h_{2}$ shear BC
 
 We cannot find the strong form, the only equation which will but an approximation $u^a = u^h$
 
@@ -489,7 +490,7 @@ $$
 
 When applying the method of weighted residuals, we need to use an even function of order $2m$
 
-, so that we move half of them over onto a weight function. Method of weighted residuals reduces the order $\textcolor{red}{\texttt{by half}}$. Many ways to do this
+, so that we move half of them over onto a weight function. Method of weighted residuals reduces the order $\textcolor{red}{\texttt{by half\}}$. Many ways to do this
 
 **Collocation**
 
@@ -507,7 +508,7 @@ $$
 
 **Least Squares**
 
-Minimize the squared residual $\operatorname{Min} .\left\(\int_{\Omega}\left\(D^{2 m}\left\(u\left\(x, d_{A}\right\)\right\)-f\right\)^{2} d \Omega\right\)$, where $d\_A$ are unknown parameters
+Minimize the squared residual $\operatorname{Min} .\left(\in&#x74;_{\Omega}\left(D^{2 m}\left(u\left(x, d_{A}\right)\right)-f\right)^{2} d \Omega\right)$, where $d\_A$ are unknown parameters
 
 $$
 \frac{\partial}{\partial d_{A}}\left(\int_{\Omega}\left(D^{2 m}\left(u\left(x, d_{A}\right)\right)-f\right)^{2} d \Omega\right)=0, A=1(1) n
@@ -541,12 +542,12 @@ $$
 
 #### Notation and Variables
 
-* $n\_{SD}$ - number of spatial dimensions 
-* $\Omega \subset \mathbb{R}^{n\_{sd}}$ is the domain 
-* $\Gamma$ boundary or closure of the domain 
-* $\bar{\Omega} = \Omega \cup \Gamma$ 
+* $n\_{SD}$ - number of spatial dimensions&#x20;
+* $\Omega \subset \mathbb{R}^{n\_{sd\}}$ is the domain&#x20;
+* $\Gamma$ boundary or closure of the domain&#x20;
+* $\bar{\Omega} = \Omega \cup \Gamma$&#x20;
 * Heat conduction equation $q\_{i,i} = f$
-* Fourier’s Law $\kappa_{ij} u_{,j} + q_i =0$ where $\kappa$ constant isotropic such that $\kappa\delta_{ij}$
+* Fourier’s Law $\kapp&#x61;_{ij} u_{,j} + &#x71;_&#x69; =0$ where $\kappa$ constant isotropic such that $\kappa\delta_{ij}$
 
 **Strong Form**
 
@@ -575,4 +576,3 @@ $$
 #### Interelement
 
 #### Continuity
-

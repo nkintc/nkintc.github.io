@@ -6,9 +6,9 @@ Finite Element Methods
 
 ## Problem 1
 
-**Prompt:** In section 2.3 of the text \(pg. 60-64\) the strong form and weak form of the equations for linear heat conduction are given. Using a Galerkin based method of weighted residuals, show the construction of the given weak form starting from the strong form, stated as:
+**Prompt:** In section 2.3 of the text (pg. 60-64) the strong form and weak form of the equations for linear heat conduction are given. Using a Galerkin based method of weighted residuals, show the construction of the given weak form starting from the strong form, stated as:
 
-Given $f : \Omega \rightarrow \mathbb{R}, q : \Gamma_{o} \rightarrow \mathbb{R} \text { and } h : \Gamma_{h} \rightarrow \mathbb{R}, \text { find } u : \overline{\Omega} \rightarrow \mathbb{R}$ such that
+Given $f : \Omega \rightarrow \mathbb{R}, q : \Gamm&#x61;_{o} \rightarrow \mathbb{R} \text { and } h : \Gamma_{h} \rightarrow \mathbb{R}, \text { find } u : \overline{\Omega} \rightarrow \mathbb{R}$ such that
 
 $$
 \begin{align}
@@ -38,7 +38,7 @@ $$
 \end{align}
 $$
 
-Beginning with the Heat Equation $\[\ref{eqnHeat}\]$, we cannot solve in the strong form presented. Instead, we minimize a weighting function $w$ in the domain $\Omega$, where the closure of $\Omega$ is $\Gamma$. Distributing the weight function to produce two integral terms. Solving the first term using integration by parts \(IBP\) produces
+Beginning with the Heat Equation $\[\ref{eqnHeat}]$, we cannot solve in the strong form presented. Instead, we minimize a weighting function $w$ in the domain $\Omega$, where the closure of $\Omega$ is $\Gamma$. Distributing the weight function to produce two integral terms. Solving the first term using integration by parts (IBP) produces
 
 $$
 \begin{align} 
@@ -78,7 +78,7 @@ $$
 
 ## Problem 2
 
-$\textcolor{red}{\texttt{To Be Graded }}$ Exercise 1 on page 68 of the text book. This exercise is a multidimensional analog of the the one contained in Sec. 1.8. Let
+$\textcolor{red}{\texttt{To Be Graded \}}$ Exercise 1 on page 68 of the text book. This exercise is a multidimensional analog of the the one contained in Sec. 1.8. Let
 
 $$
 \Gamma_{\mathrm{int}}
@@ -86,7 +86,7 @@ $$
 -\Gamma \quad \quad \text { (interior element boundaries) }
 $$
 
-One side of $\Gamma_{int}$ is arbitrarily designated to be the “+ side” and the other is the “- side”. Let $n^+$ and $n^-$ be unit normals to $\Gamma_{int}$, with the relationship:
+One side of $\Gamm&#x61;_{int}$ is arbitrarily designated to be the “+ side” and the other is the “- side”. Let $n^+$ and $n^-$ be unit normals to $\Gamma_{int}$, with the relationship:
 
 $$
 \left[q_{n}\right] =\left(q_{i}^{+}-q_{i}^{-}\right) n_{i}^{+}
@@ -95,7 +95,7 @@ n_i^+ = -n_i^-
 \label{eqnJump}
 $$
 
-Consider the weak formulation$\[\ref{eqn2BC}\]$ and assume that $w$ and $u$ are smooth on the element interiors but may experience discontinuities in gradient across element boundaries. Restating $\[\ref{eqn2BC}\]$, the equation is made homogenous by moving the left hand side \(LHS\) term to the right hand side \(RHS\) of the equation.
+Consider the weak formulation$\[\ref{eqn2BC}]$ and assume that $w$ and $u$ are smooth on the element interiors but may experience discontinuities in gradient across element boundaries. Restating $\[\ref{eqn2BC}]$, the equation is made homogenous by moving the left hand side (LHS) term to the right hand side (RHS) of the equation.
 
 $$
 -\int_{\Omega} w_{, i} q_{i} d \Omega
@@ -176,7 +176,7 @@ q_{i,i} - f
 \\
 $$
 
-The normal flux relationship of Eqn $\[\ref{eqnJump}\]$ is applied into the middle term. Decomposing the $\Gamma = \cancelto{0}{\Gamma\_g} + \Gamma\_h$, produces
+The normal flux relationship of Eqn $\[\ref{eqnJump}]$ is applied into the middle term. Decomposing the $\Gamma = \cancelto{0}{\Gamma\_g} + \Gamma\_h$, produces
 
 $$
 \boxed{
@@ -216,7 +216,7 @@ $$
 \lambda u-q_{i} n_{i}=h \quad \text { on } \Gamma_{h}
 $$
 
-where $\lambda\geq0$ is a function of $x \in\Gamma\_h$. To generalize, continue from $\[\ref{eqnLambda}\]$, where the additional term creates:
+where $\lambda\geq0$ is a function of $x \in\Gamma\_h$. To generalize, continue from $\[\ref{eqnLambda}]$, where the additional term creates:
 
 $$
 -
@@ -243,4 +243,3 @@ d \Gamma
 $$
 
 Assuming that the original weak form expression was also positive definite, then the additional contribution to $k\_{ab}^e$ is based purely on $\lambda$. To prove that $\bf K$ is positive definite, then we would need to show that $\bf c^T\cdot K \cdot c \geq 0$ and $0$ only when $\bf c$ is the 0 vector, $\bf 0 $.
-

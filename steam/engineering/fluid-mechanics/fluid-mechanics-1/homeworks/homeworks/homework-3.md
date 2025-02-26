@@ -4,11 +4,11 @@
 
 {% tabs %}
 {% tab title="Prompt" %}
-{% file src="../../../../../.gitbook/assets/mane.6520.hw.1.prompt.pdf" %}
+{% file src="../../../../../../.gitbook/assets/mane.6520.hw.1.prompt.pdf" %}
 Homework 1 Prompt
 {% endfile %}
 
-{% file src="../../../../../.gitbook/assets/mane.6520.hw.3.prompt.pdf" %}
+{% file src="../../../../../../.gitbook/assets/mane.6520.hw.3.prompt.pdf" %}
 Homework 3 Prompt
 {% endfile %}
 
@@ -189,18 +189,18 @@ $$
 \begin{array} { l l l l l } { \text { 1. } x = a _ { i } b _ { i . } } & { \text { 2. } u _ { j } = T _ { i j } v _ { j } } & { \text { 3. } u _ { i } = T _ { i j } v _ { j } } & { \text { 4. } e _ { i } = A _ { i j } v _ { j } + t _ { i } } \\ { \text { 5. } a _ { k l } = t _ { l k } + v _ { k w l } } & { 6 . b _ { i } = a _ { i j } c _ { j } + t _ { i } } & { 7 . c _ { i } = \epsilon _ { i j k } b _ { j c k } } & { 8 . t = a _ { i i } + g _ { i j } + e _ { k k } } \end{array}
 $$
 
-1. $x = a\_i b\_i$ … $\textcolor{green}{\texttt{Right}}$ as it is a contraction on a single index
-2. $u_j = T_{ij}v\_j$ … $\textcolor{red}{\texttt{Wrong}}$ as the free index on the LHS is $j$, whereas the RHS has free index $i$
-3. $u_i = T_{ij}v\_j$  … $\textcolor{green}{\texttt{Right}}$ as this is the proper method for the previous subproblem
-4. $e_i = A_{ij}v\_j + t\_i$ … $\textcolor{green}{\texttt{Right}}$ addition of two first order tensors
-5. $a_{lk} = t_{lk}+v\_{kwl}$ … $\textcolor{red}{\texttt{Wrong}}$ as the equation is trying to add different rank tensors
-6. $b_i = a_{ij}c\_j + t\_i$ … $\textcolor{green}{\texttt{Right}}$ same expression as subproblem 4
-7. $c_i= \epsilon_{ijk}b\_{jck}$ … $\textcolor{red}{\texttt{Wrong}}$ as the expressions on either side do not match indices.&#x20;
-8. $t = a_{ii} + g_{ij} + e\_{kk}$ … $\textcolor{red}{\texttt{Wrong}}$ as the first and third terms on the RHS is of rank zero, where as the middle term is of rank 2.&#x20;
+1. $x = a\_i b\_i$ … $\textcolor{green}{\texttt{Right\}}$ as it is a contraction on a single index
+2. $&#x75;_&#x6A; = T_{ij}v\_j$ … $\textcolor{red}{\texttt{Wrong\}}$ as the free index on the LHS is $j$, whereas the RHS has free index $i$
+3. $&#x75;_&#x69; = T_{ij}v\_j$  … $\textcolor{green}{\texttt{Right\}}$ as this is the proper method for the previous subproblem
+4. $&#x65;_&#x69; = A_{ij}v\_j + t\_i$ … $\textcolor{green}{\texttt{Right\}}$ addition of two first order tensors
+5. $&#x61;_{lk} = t_{lk}+v\_{kwl}$ … $\textcolor{red}{\texttt{Wrong\}}$ as the equation is trying to add different rank tensors
+6. $&#x62;_&#x69; = a_{ij}c\_j + t\_i$ … $\textcolor{green}{\texttt{Right\}}$ same expression as subproblem 4
+7. $&#x63;_&#x69;= \epsilon_{ijk}b\_{jck}$ … $\textcolor{red}{\texttt{Wrong\}}$ as the expressions on either side do not match indices.&#x20;
+8. $t = &#x61;_{ii} + g_{ij} + e\_{kk}$ … $\textcolor{red}{\texttt{Wrong\}}$ as the first and third terms on the RHS is of rank zero, where as the middle term is of rank 2.&#x20;
 
 ## Problem 3
 
-Like a matrix, a tensor ${\bf A}=a_{ij}$ of second order is symmetric when $a_{ij} = a_{ji}$ and skew- symmetric when $a_{ij} = -a_{ji}$. Also, the transpose tensor, ${\bf A}^T = a_{ji}$
+Like a matrix, a tensor ${\bf A}=&#x61;_{ij}$ of second order is symmetric when $a_{ij} = &#x61;_{ji}$ and skew- symmetric when $a_{ij} = -&#x61;_{ji}$. Also, the transpose tensor, ${\bf A}^T = a_{ji}$
 
 Consider the tensor of second order:
 
@@ -396,7 +396,7 @@ Substitution of these results back into the identity being proven shows that the
 {% tab title="Graded" %}
 Graded
 
-{% file src="../../../../../.gitbook/assets/mane.6520.hw.1.graded (2).pdf" %}
+{% file src="../../../../../../.gitbook/assets/mane.6520.hw.1.graded (2).pdf" %}
 {% endtab %}
 {% endtabs %}
 

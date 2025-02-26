@@ -12,7 +12,7 @@ where $i$ serves as the index between LDA and GGA methods, $V$ is the volume of 
 
 ### LDA: Raw Data and Reduction
 
-From the shell on tardis.mat.rpi.edu , two folders \(one for each potential\) were created inside of the template Prob1 folder which contains their associated si.scf.out files.
+From the shell on tardis.mat.rpi.edu , two folders (one for each potential) were created inside of the template Prob1 folder which contains their associated si.scf.out files.
 
 ```bash
 nkintc@tardis:~/hw1/Prob1$ grep -w "volume" < si.scf.out.1
@@ -46,10 +46,10 @@ Vectorized, the data listed is saved as `GGAvol = [1061.2080, 265.3020, 530.6040
 
 ### Tabular Data
 
-| Method | $A\_i$ | $B\_i$ | $C\_i$ | $l\_i$ \[a.u.\] |
-| :--- | :--- | :--- | :--- | :--- |
-| LDA | -0.000071431 | 0.055488605 | 6.159476427 | 7.2962 |
-| GGA | -0.0000014375 | 0.0024124034 | -16.2790057267 | 9.4320 |
+| Method | $A\_i$        | $B\_i$       | $C\_i$         | $l\_i$ \[a.u.] |
+| ------ | ------------- | ------------ | -------------- | -------------- |
+| LDA    | -0.000071431  | 0.055488605  | 6.159476427    | 7.2962         |
+| GGA    | -0.0000014375 | 0.0024124034 | -16.2790057267 | 9.4320         |
 
 We define pressure as the energy contained within the cell volume, so that:
 
@@ -67,11 +67,11 @@ V_{i}=\frac{-b \pm \sqrt{B_{i}^{2}-4 A_{i} C_{i}}}{2 A_{i}}
 \overbrace{\frac{\sqrt{B_{i}^{2}-4 A_{i} C_{i}}}{2 A_{i}}}^\texttt{Distance from Minima}
 $$
 
-The minimum lattice parameter using the expressed coefficients, $ l_{i}=\sqrt\[3\]{\frac{-B_{i}}{2 A\_{i}}}$. Numerically, LDA produces minimum lattice parameter of 7.2962 a.u. while GGA produces a higher minimum of 9.4320 a.u. The experimental value of Si lattice is 5.4310 Å or 10.2631 a.u. which higher than either of the two values calulated, but closer to the GGA value.
+The minimum lattice parameter using the expressed coefficients, $ &#x6C;_{i}=\sqrt\[3]{\frac{-B_{i\}}{2 A\_{i\}}}$. Numerically, LDA produces minimum lattice parameter of 7.2962 a.u. while GGA produces a higher minimum of 9.4320 a.u. The experimental value of Si lattice is 5.4310 Å or 10.2631 a.u. which higher than either of the two values calulated, but closer to the GGA value.
 
 ## Problem 2
 
-To calculate the bulk modulus $B=-V\left\(\frac{\partial P}{\partial V}\right\)=V\left\(\frac{\partial^{2} E}{\partial V^{2}}\right\)$, search for the minimum of the base state energy by applying the quadratic equation to the energy equation as before. Or, by recognizing that the second partial derivative of the energy equation would be $2A\_i$ by differentiation rules, then:
+To calculate the bulk modulus $B=-V\left(\frac{\partial P}{\partial V}\right)=V\left(\frac{\partial^{2} E}{\partial V^{2\}}\right)$, search for the minimum of the base state energy by applying the quadratic equation to the energy equation as before. Or, by recognizing that the second partial derivative of the energy equation would be $2A\_i$ by differentiation rules, then:
 
 $$
 B=
@@ -102,4 +102,3 @@ A direct band gap material, this would serve as a better use of solar cell mater
 ## Problem 5: Germanium
 
 Germanium is an indirect band gap material just as elemental silicon is. Strain engineering can be used to to allow for that material to behave in a piezoelectic manner, in essence tuning the band structure directly, by deforming the material.
-

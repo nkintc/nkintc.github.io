@@ -6,7 +6,9 @@ description: >-
 
 # Websites
 
+[Gearside Daylight Calendar](https://gearside.com/google-daylight-calendar/)
 
+Subscribe to this calendar to see the daylight hours to your location as a calendar event. It even shows the number of hours each day!&#x20;
 
 [https://forensic-architecture.org/](https://forensic-architecture.org/)
 
@@ -14,15 +16,7 @@ description: >-
 
 {% tabs %}
 {% tab title="General" %}
-| Website                                                               | Description                              |
-| --------------------------------------------------------------------- | ---------------------------------------- |
-| [Facebook](https://www.facebook.com/)                                 | the closest thing to a necessary evil    |
-| [Twitter](https://twitter.com/home)                                   | a kind of zeitgeist thermometer          |
-| [Instagram](https://www.instagram.com/)                               | public facing facebook                   |
-| [Reddit](https://old.reddit.com/)                                     | biggest time waster on the internet      |
-| [simReddit](https://anvaka.github.io/redsim/#?q=IdiotsFightingThings) | Find similar Reddit                      |
-| [Youtube](https://www.youtube.com/)                                   | if you need your eyes to be occupied too |
-| [Allsides](https://www.allsides.com/unbiased-balanced-news)           | managed news                             |
+<table data-header-hidden><thead><tr><th width="190">Website</th><th>Description</th></tr></thead><tbody><tr><td>Website</td><td>Description</td></tr><tr><td><a href="https://www.facebook.com/">Facebook</a></td><td>the closest thing to a necessary evil</td></tr><tr><td><a href="https://twitter.com/home">Twitter</a></td><td>a kind of zeitgeist thermometer</td></tr><tr><td><a href="https://www.instagram.com/">Instagram</a></td><td>public facing facebook</td></tr><tr><td><a href="https://old.reddit.com/">Reddit</a></td><td>biggest time waster on the internet </td></tr><tr><td><a href="https://anvaka.github.io/redsim/#?q=IdiotsFightingThings">simReddit</a></td><td>Find similar Reddit</td></tr><tr><td><a href="https://www.youtube.com/">Youtube</a></td><td>if you need your eyes to be occupied too</td></tr><tr><td><a href="https://www.allsides.com/unbiased-balanced-news">Allsides</a></td><td>managed news </td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Google Pages " %}
@@ -75,7 +69,7 @@ a
 | [shipt](https://shop.shipt.com/)                                                                                                                                                                                    |                                                                                                                       |   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | - |
 | <p><a href="https://trello.com/b/McoJNvPZ/intheam-tasks">inthe am </a></p><p><a href="https://messages.google.com/web/conversations">messages</a></p><p><a href="https://www.overleaf.com/project">overleaf</a></p> | <p></p><p><a href="https://www.interviewmagazine.com/">interviewmagazine</a> calls itself the crystal ball of pop</p> |   |
-| [tricki](http://www.tricki.org/article/To\_find\_a\_rational\_with\_low\_denominator\_near\_a\_given\_real\_use\_continued\_fractions)                                                                              | method for finding nearest rational given any value in the real                                                       |   |
+| [tricki](http://www.tricki.org/article/To_find_a_rational_with_low_denominator_near_a_given_real_use_continued_fractions)                                                                                           | method for finding nearest rational given any value in the real                                                       |   |
 |                                                                                                                                                                                                                     |                                                                                                                       |   |
 {% endtab %}
 
@@ -117,7 +111,7 @@ a
 * [UX Nice very nice examples](https://www.niceverynice.com/components)
 * [Amateur Morse Code](http://aa9pw.com/morsecode/)
 * [https://sites.psu.edu/edog/lucie/](https://sites.psu.edu/edog/lucie/)
-* [JSON stringlength tool](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global\_Objects/String/length)
+* [JSON stringlength tool](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
 * [https://howtomechatronics.com/arduino-projects/](https://howtomechatronics.com/arduino-projects/)&#x20;
 * [Font in Logo](https://www.fontinlogo.com/)
 * [Tweet longer ](https://www.twitlonger.com/)
@@ -174,7 +168,7 @@ code stuff
 * [Photos ](https://photos.google.com/)
 * [Podcasts](https://podcasts.google.com/)
 * [cards against humanity: a writer's horror story ](https://medium.com/@nicolas.j.carter/how-to-know-youre-not-insane-and-how-a-cards-against-humanity-staff-writer-was-fired-40fe07fbbfe4)
-* [tdm code documentation](https://docs.google.com/document/d/1GGwefpLOZ8AufHPpO78nbN88L4xSzB0qERzGm5ToT04/edit?auth\_email=cnkinthorn@gmail.com)
+* [tdm code documentation](https://docs.google.com/document/d/1GGwefpLOZ8AufHPpO78nbN88L4xSzB0qERzGm5ToT04/edit?auth_email=cnkinthorn@gmail.com)
 * [mcsweenys list of trump atrocities](https://www.mcsweeneys.net/articles/the-complete-listing-so-far-atrocities-1-759#update)
 * learn [music theory](https://www.musictheory.net/lessons)
 *
@@ -194,7 +188,7 @@ A Chrome Experiment which shows the distribution of events on a globe&#x20;
 {% endtab %}
 {% endtabs %}
 
-### Motherfuckin' Websites
+### _Motherfuckin'_ Websites
 
 There is a variety: the [original](http://motherfuckingwebsite.com/), the [oneup](http://bettermotherfuckingwebsite.com/), and the [latest](https://perfectmotherfuckingwebsite.com/) and the "[greatest](https://thebestmotherfucking.website/)". These are what I like in websites. Simple and malleable to one person. These go over the principals for website design, but the key takeaway is that simplicity is best. Don't need to make every website look like a flipbook or reactive elements, just follow KISS (Keep It Simple Stupid).
 
