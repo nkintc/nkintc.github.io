@@ -15,4 +15,7 @@ jeffbarr/gridfinity-catalog![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACA
 
 _gridfinity.xyz_
 
-[_https://outline.georgs.lv/_](https://outline.georgs.lv/)
+[_https://outline.georgs.lv/_](https://outline.georgs.lv/)\
+\
+[_http://multiboard.stonekeep.com/_](http://multiboard.stonekeep.com/)\
+\

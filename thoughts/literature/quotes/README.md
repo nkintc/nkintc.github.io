@@ -21,7 +21,9 @@ Note many of these came from [Mathpages](https://www.mathpages.com/home/quotes.h
 * "If it disagrees with experiment, it is wrong." - _Richard Feynmann_
 * "Stagnation is death. If you don't change, you die. It's that simple. It's that scary" - Leonard Sweet
 * "It is no measure of health to be well adjusted to a profoundly sick society." - Jiddu Krishnamurti
-* "A sane person to an insane society must appear insane" Kurt Vonnegut\
+* "A sane person to an insane society must appear insane" Kurt Vonnegut
+* "No need for stories, it was not one "\
+  \- Samuel Beckett\
 
 
 
@@ -50,12 +52,6 @@ Flectere si nequeo superos, Acheronta movebo. If I can not bend the will of Heav
 "Ex nihilo nihil fit" From nothing nothing comes
 
 For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled. - Feynmann, 1986
-
-
-
-No need for stories, it was not one
-
-
 
 Why can't somebody give us a list of things that everybody thinks and nobody says, and another list of things that everybody says and nobody thinks? Oliver Wendell Holmes
 

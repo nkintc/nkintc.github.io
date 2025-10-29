@@ -14,6 +14,8 @@ Subscribe to this calendar to see the daylight hours to your location as a calen
 
 [mcbroken.com](https://mcbroken.com/) is the McDonalds ice cream machine broken?&#x20;
 
+[https://www.buildcores.com/](https://www.buildcores.com/builds/xZi7i355j)
+
 {% tabs %}
 {% tab title="General" %}
 <table data-header-hidden><thead><tr><th width="190">Website</th><th>Description</th></tr></thead><tbody><tr><td>Website</td><td>Description</td></tr><tr><td><a href="https://www.facebook.com/">Facebook</a></td><td>the closest thing to a necessary evil</td></tr><tr><td><a href="https://twitter.com/home">Twitter</a></td><td>a kind of zeitgeist thermometer</td></tr><tr><td><a href="https://www.instagram.com/">Instagram</a></td><td>public facing facebook</td></tr><tr><td><a href="https://old.reddit.com/">Reddit</a></td><td>biggest time waster on the internet </td></tr><tr><td><a href="https://anvaka.github.io/redsim/#?q=IdiotsFightingThings">simReddit</a></td><td>Find similar Reddit</td></tr><tr><td><a href="https://www.youtube.com/">Youtube</a></td><td>if you need your eyes to be occupied too</td></tr><tr><td><a href="https://www.allsides.com/unbiased-balanced-news">Allsides</a></td><td>managed news </td></tr></tbody></table>
@@ -191,6 +193,12 @@ A Chrome Experiment which shows the distribution of events on a globe&#x20;
 ### _Motherfuckin'_ Websites
 
 There is a variety: the [original](http://motherfuckingwebsite.com/), the [oneup](http://bettermotherfuckingwebsite.com/), and the [latest](https://perfectmotherfuckingwebsite.com/) and the "[greatest](https://thebestmotherfucking.website/)". These are what I like in websites. Simple and malleable to one person. These go over the principals for website design, but the key takeaway is that simplicity is best. Don't need to make every website look like a flipbook or reactive elements, just follow KISS (Keep It Simple Stupid).
+
+[https://www.lakewaterontap.com/](https://www.lakewaterontap.com/) &#x20;
+
+[https://nosleep.page/](https://nosleep.page/) \
+\
+[https://twinery.org/](https://twinery.org/)
 
 {% hint style="info" %}
 Want to see something cool? [Sound on](https://matias.ma/nsfw/).

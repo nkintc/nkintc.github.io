@@ -16,7 +16,17 @@ Additionally, knowing the limitations of your knowledge and when to say "I don't
 
 
 
-### [How to Quit](https://www.reddit.com/r/AskEngineers/comments/mh4vue/how\_to\_tell\_my\_boss\_ill\_be\_leaving\_the\_company/gsx2jxd)&#x20;
+### [How to Quit](https://www.reddit.com/r/AskEngineers/comments/mh4vue/how_to_tell_my_boss_ill_be_leaving_the_company/gsx2jxd)&#x20;
+
+This is what I said to my colleagues when I left my first job:&#x20;
+
+> I want to thank everyone for coming. It’s been a point of pride that I have gotten to work with each of you. I cannot imagine having had a better group of colleagues or a better manager during my tenure. Each of you are exceptional and I hope that you all know that.&#x20;
+>
+> First, I want to apologize if I have wronged you in some way. Know that any slight was unintentional and no interactions were meant with malice. If there is any ill will, I am sorry and I hope for your forgiveness.
+>
+> I leave with a reminder to you: that each of you keep your sense of humor: it’s important to laugh in the face of adversity or more often absurdity. Laughter is a shield for your fellows and solace for yourself. We laugh to keep from crying.
+
+
 
 1\. Clean out personal belongings from your cubical/desk.\
 2\. Delete anything personal from your work computer, purge the cookies.\

@@ -87,3 +87,32 @@ and I ask Billy if I should return the difficult phone call, and he says, yes. \
 Billy’s already gone through the frightening door,
 
 whatever he says I’ll do.\
+
+
+The Need to Win by Zhuangzi
+
+When an archer is shooting for fun \
+He has all his skill.
+
+If he shoots for a brass buckle \
+He is already nervous.
+
+If he shoots for a prize of gold \
+He goes blind
+
+Or sees two targets -\
+He is out of his mind.&#x20;
+
+His skill has not changed,\
+But the prize divides him.&#x20;
+
+He cares\
+He thinks more of winning \
+Than of shooting\
+And the need to win\
+Drains him of power.
+
+
+
+
+

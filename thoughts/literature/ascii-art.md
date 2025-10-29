@@ -2,11 +2,21 @@
 
 Shruggie ¯\\\_(ツ)\_/¯
 
-
+┬┴┬┴┤ ͡° ͜ʖ ͡°)├┬┴┬┴┤
 
 {% tabs %}
 {% tab title="Untitled" %}
-Dont go to the tabs unless willing to view NSFW
+Dont go to the tabs unless willing to view NSFW&#x20;
+
+```
+ _   _ _____ _     ____  
+| | | | ____| |   |  _ \ 
+| |_| |  _| | |   | |_) |
+|  _  | |___| |___|  __/ 
+|_| |_|_____|_____|_|     
+```
+
+
 {% endtab %}
 
 {% tab title="First Tab" %}
@@ -62,8 +72,10 @@ shit posting&#x20;
 ⣿⣿⣿⣿⣿⣿⡟⠀⠠⠀⣿⡿⠀⠀⣿⣿⣿⣿⣿⣿⠀⢸⣇
 
 ```
-
-
 {% endtab %}
 {% endtabs %}
+
+
+
+
 

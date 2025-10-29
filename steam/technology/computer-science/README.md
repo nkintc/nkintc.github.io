@@ -25,4 +25,11 @@ Still, I wish that I had adopted computers more than I did, starting with the co
 * internet relay chat [(IRC)](http://python-irclib.sourceforge.net/) protocol which is used by [python twitter ](https://mike.verdone.ca/twitter/#downloads)api
 * [data wrangling ](https://missing.csail.mit.edu/2020/data-wrangling/)from the missing semester
 * asahi linux for apple silicon?&#x20;
+* [https://www.buildcores.com/](https://www.buildcores.com/)
+  * Cpp code wars
+  * SQL SQL island
+  * python check io
+  * [jam.dev/utilities](http://jam.dev/utilities)
+  * [napkin.ai](http://napkin.ai)
+  * gptexcel
 
